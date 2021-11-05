@@ -3,16 +3,25 @@
 # ------------------------------------------------------------------------------
 #
 # Deployment config for https://www.netlify.com/
-# The baseURL should be updated to your Netlify subdomain
-#
 # You will also need to add a `netlify.toml` file with the following:
+#
 # [build]
-#   publish = "site"
-#   command = "hugo --config=config.yml,config/web.yml,config/environments/netlify.yml"
-#   HUGO_VERSION = "0.31"
-
-# Use these settings for Netlify
+#
+# publish = "site"
+# command = "npm --prefix themes/default/ run build:netlify"
+#
+# NODE_VERSION = "14.17.5"
+#
+# HUGO_VERSION = "0.82.1"
+# HUGO_ENV = "production"
+# HUGO_ENABLEGITINFO = "true"
+#
+# GIT_LFS_ENABLED = "true"
+# GIT_LFS_FETCH_INCLUDE = "*.jpeg,*.jpg,*.png,*.gif,*.epub,*.mobi,*.pdf,*.html"
 #
 
-baseURL: "https://quire-demo.netlify.com"
+baseURL: "/"
 relativeURLs: true
+
+params:
+  runTests: false

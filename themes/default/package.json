@@ -22,6 +22,7 @@
     "build:preview": "webpack --config webpack/webpack.config.prod.js && cd ../../ && hugo --config config.yml,config/site.yml",
     "build:production": "webpack --config webpack/webpack.config.prod.js && cd ../../ && hugo --config config.yml,config/site.yml --minify -v",
     "lint": "./node_modules/.bin/eslint 'source/js/*.js' --ignore-pattern node_modules/",
+    "build:netlify": "npm install && webpack --config webpack/webpack.config.prod.js && cd ../../ && hugo --minify --config config.yml,config/site.yml,config/environments/netlify.yml",
     "quire:cypress": "cd ../../ && quire preview",
     "test:e2e": "./node_modules/.bin/cypress run",
     "test:e2e:open": "./node_modules/.bin/cypress open",
