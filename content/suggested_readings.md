@@ -1,7 +1,7 @@
 ---
-title: Bibliography
-weight: 200
+title: Suggested Readings
+weight: 70
 type: page
 ---
 
-{{< q-bibliography >}}
+{{< q-readings >}}
