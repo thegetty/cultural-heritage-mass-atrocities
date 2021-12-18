@@ -1,6 +1,6 @@
 ---
 title: The Lost Heritage of Homs: From the Destruction of Monuments to the Destruction of Meaning
-sub_title: The Lost Heritage of Homs
+short_title: The Lost Heritage of Homs
 label: 11.
 weight: 26
 type: essay

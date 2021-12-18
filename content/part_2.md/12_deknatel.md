@@ -1,6 +1,6 @@
 ---
 title: Reconstructions, Who Decides?
-sub_title:
+short_title:
 label: 12.
 weight: 27
 type: essay

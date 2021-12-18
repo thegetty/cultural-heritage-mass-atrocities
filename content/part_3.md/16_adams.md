@@ -1,6 +1,6 @@
 ---
 title: Cultural Cleansing and Mass Atrocities
-sub_title:
+short_title:
 label: 16.
 weight: 32
 type: essay

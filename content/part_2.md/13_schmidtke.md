@@ -1,6 +1,6 @@
 ---
 title: Yemen’s Manuscript Culture under Attack
-sub_title:
+short_title:
 label: 13.
 weight: 28
 type: essay

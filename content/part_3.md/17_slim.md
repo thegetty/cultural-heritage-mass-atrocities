@@ -1,6 +1,6 @@
 ---
 title: Choosing between Human Life and Cultural Heritage in War
-sub_title:
+short_title:
 label: 17.
 weight: 33
 type: essay

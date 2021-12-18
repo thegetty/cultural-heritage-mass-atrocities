@@ -1,6 +1,6 @@
 ---
 title: The Cultural Heritage of Late Antiquity
-sub_title:
+short_title:
 label: 4.
 weight: 15
 type: essay

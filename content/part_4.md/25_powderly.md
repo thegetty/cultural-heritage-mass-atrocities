@@ -1,6 +1,6 @@
 ---
 title: Prosecuting Heritage Destruction
-sub_title:
+short_title:
 label: 25.
 weight: 46
 type: essay

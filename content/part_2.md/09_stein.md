@@ -1,6 +1,6 @@
 ---
 title: Performative Destruction: Da’esh (ISIS) Ideology and the War on Heritage in Iraq
-sub_title: Performative Destruction
+short_title: Performative Destruction
 label: 9.
 weight: 24
 type: essay

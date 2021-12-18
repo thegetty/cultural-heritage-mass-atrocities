@@ -1,6 +1,6 @@
 ---
 title: Why Do We Value Cultural Heritage?
-sub_title:
+short_title:
 label: 2.
 weight: 13
 type: essay

@@ -1,6 +1,6 @@
 ---
 title: The Written Heritage of the Muslim World
-sub_title:
+short_title:
 label: 5.
 weight: 16
 type: essay

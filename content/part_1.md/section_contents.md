@@ -1,7 +1,7 @@
 ---
 label: Part 1.
 title: Cultural Heritage and Values
-subtitle:
+short_title:
 type: contents
 class: abstract
 slug: .

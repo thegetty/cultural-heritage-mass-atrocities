@@ -1,6 +1,6 @@
 ---
 title: Indigenous Threatened Heritage in Guatemala
-sub_title:
+short_title:
 label: 15.
 weight: 29
 type: essay

@@ -1,6 +1,6 @@
 ---
 title: Engaging Nonstate Armed Groups in the Protection of Cultural Heritage
-sub_title:
+short_title:
 label: 19.
 weight: 35
 type: essay

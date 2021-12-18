@@ -1,6 +1,6 @@
 ---
 title: International Humanitarian Law and the Protection of Cultural Property
-sub_title:
+short_title:
 label: 22.
 weight: 43
 type: essay
