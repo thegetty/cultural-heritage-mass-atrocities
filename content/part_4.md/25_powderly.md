@@ -1,5 +1,5 @@
 ---
-title: Prosecuting Heritage Destruction
+title: "Prosecuting Heritage Destruction"
 short_title:
 label: 25.
 weight: 46

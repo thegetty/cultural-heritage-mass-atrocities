@@ -1,5 +1,5 @@
 ---
-title: Uyghur Heritage under China’s “Anti-Religious Extremism” Campaigns
+title: "Uyghur Heritage under China’s “Anti-Religious Extremism” Campaigns"
 short_title:
 label: 7.
 weight: 22

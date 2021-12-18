@@ -1,5 +1,5 @@
 ---
-title: International Human Rights Law and Cultural Heritage
+title: "International Human Rights Law and Cultural Heritage"
 short_title:
 label: 23.
 weight: 44

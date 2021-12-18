@@ -1,5 +1,5 @@
 ---
-title: Yemen’s Manuscript Culture under Attack
+title: "Yemen’s Manuscript Culture under Attack"
 short_title:
 label: 13.
 weight: 28

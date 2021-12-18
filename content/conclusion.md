@@ -1,6 +1,6 @@
 ---
-title: Conclusion: Toward Research, Policy, and Action Agendas
-short_title: Conclusion
+title: "Conclusion: Toward Research, Policy, and Action Agendas"
+short_title: "Conclusion"
 weight: 60
 type: page
 contributor:

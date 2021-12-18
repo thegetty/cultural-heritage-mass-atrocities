@@ -1,5 +1,5 @@
 ---
-title: Fighting Terrorist Attacks against World Heritage and Global Cultural Heritage Governance
+title: "Fighting Terrorist Attacks against World Heritage and Global Cultural Heritage Governance"
 short_title:
 label: 26.
 weight: 47

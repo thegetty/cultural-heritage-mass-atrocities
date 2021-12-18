@@ -1,5 +1,5 @@
 ---
-title: Reconstructions, Who Decides?
+title: "Reconstructions, Who Decides?"
 short_title:
 label: 12.
 weight: 27

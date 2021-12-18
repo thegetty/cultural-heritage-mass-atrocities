@@ -1,5 +1,5 @@
 ---
-title: Choosing between Human Life and Cultural Heritage in War
+title: "Choosing between Human Life and Cultural Heritage in War"
 short_title:
 label: 17.
 weight: 33

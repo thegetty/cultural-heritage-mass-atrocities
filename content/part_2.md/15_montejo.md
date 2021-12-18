@@ -1,5 +1,5 @@
 ---
-title: Indigenous Threatened Heritage in Guatemala
+title: "Indigenous Threatened Heritage in Guatemala"
 short_title:
 label: 15.
 weight: 29

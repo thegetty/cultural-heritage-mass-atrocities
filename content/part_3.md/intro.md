@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: "Introduction"
 weight: 31
 type: essay
 contributor:

@@ -1,5 +1,5 @@
 ---
-title: Peace Operations and the Protection of Cultural Heritage
+title: "Peace Operations and the Protection of Cultural Heritage"
 short_title:
 label: 30.
 weight: 55

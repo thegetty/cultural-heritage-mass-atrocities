@@ -1,6 +1,6 @@
 ---
-title: From Kyoto to Baghdad to Tehran: Leadership, Law, and the Protection of Cultural Heritage
-short_title: From Kyoto to Baghdad to Tehran
+title: "From Kyoto to Baghdad to Tehran: Leadership, Law, and the Protection of Cultural Heritage"
+short_title: "From Kyoto to Baghdad to Tehran"
 label: 28.
 weight: 53
 type: essay

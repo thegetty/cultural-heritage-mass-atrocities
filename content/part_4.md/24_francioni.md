@@ -1,6 +1,6 @@
 ---
-title: Customs, General Principles, and the Intentional Destruction of Cultural Property
-short_title: 
+title: "Customs, General Principles, and the Intentional Destruction of Cultural Property"
+short_title:
 label: 24.
 weight: 45
 type: essay

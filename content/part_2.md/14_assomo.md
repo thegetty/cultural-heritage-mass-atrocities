@@ -1,6 +1,6 @@
 ---
-title: Cultural Heritage at Risk in Mali: The Destruction of Timbuktu’s Mausoleums of Saints
-short_title: Cultural Heritage at Risk in Mali
+title: "Cultural Heritage at Risk in Mali: The Destruction of Timbuktu’s Mausoleums of Saints"
+short_title: "Cultural Heritage at Risk in Mali"
 label: 14.
 weight: 28
 type: essay

@@ -1,5 +1,5 @@
 ---
-title: International Humanitarian Law and the Protection of Cultural Property
+title: "International Humanitarian Law and the Protection of Cultural Property"
 short_title:
 label: 22.
 weight: 43

@@ -1,5 +1,5 @@
 ---
-title: The Written Heritage of the Muslim World
+title: "The Written Heritage of the Muslim World"
 short_title:
 label: 5.
 weight: 16

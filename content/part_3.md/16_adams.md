@@ -1,5 +1,5 @@
 ---
-title: Cultural Cleansing and Mass Atrocities
+title: "Cultural Cleansing and Mass Atrocities"
 short_title:
 label: 16.
 weight: 32

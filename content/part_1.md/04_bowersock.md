@@ -1,5 +1,5 @@
 ---
-title: The Cultural Heritage of Late Antiquity
+title: "The Cultural Heritage of Late Antiquity"
 short_title:
 label: 4.
 weight: 15
