@@ -5,5 +5,5 @@ subtitle:
 type: contents
 class: abstract
 slug: .
-weight: 20
+weight: 10
 ---

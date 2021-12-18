@@ -1,0 +1,11 @@
+---
+title: Valuing the Legacy of our Cultural Heritage
+sub_title:
+label: 6.
+weight: 17
+type: essay
+contributor:
+  - first_name: Ismail
+    last_name: Serageldin
+    bio:
+---
