@@ -1,6 +1,6 @@
 ---
-title: "Cultural Heritage under Attack: Learning from History"
-short_title: "Cultural Heritage under Attack"
+title: "Cultural Heritage under Attack"
+subtitle: "Learning from History"
 label: "3"
 weight: 14
 type: essay

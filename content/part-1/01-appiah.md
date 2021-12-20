@@ -1,6 +1,6 @@
 ---
 title: "Who Are We? Identity and Cultural Heritage"
-short_title: "Who Are We?"
+short_title: 
 label: "1"
 weight: 12
 type: essay

@@ -1,8 +1,8 @@
 ---
-title: "After the Dust Settles: Transitional Justice and Identity in the Aftermath of Cultural Destruction"
-short_title: "After the Dust Settles"
+title: "After the Dust Settles"
+short_title: "ransitional Justice and Identity in the Aftermath of Cultural Destruction"
 label: "20"
-weight: 36
+weight: 37
 type: essay
 contributor:
   - first_name: Philippe

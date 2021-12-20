@@ -1,8 +1,8 @@
 ---
-title: "Saving Stones and Saving Lives: A Humanitarian Perspective on Protecting Cultural Heritage in War"
-short_title: "Saving Stones and Saving Lives"
+title: "Saving Stones and Saving Lives"
+subtitle: "A Humanitarian Perspective on Protecting Cultural Heritage in War"
 label: "18"
-weight: 34
+weight: 35
 type: essay
 contributor:
   - first_name: Paul

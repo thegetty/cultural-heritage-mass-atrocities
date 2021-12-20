@@ -1,6 +1,6 @@
 ---
-title: "Protecting Cultural Heritage: The Ties between People and Places"
-short_title: "Protecting Cultural Heritage"
+title: "Protecting Cultural Heritage"
+subtitle: "The Ties between People and Places"
 label: "21"
 weight: 42
 type: essay
