@@ -2,6 +2,7 @@
 title: "Introduction"
 weight: 41
 type: essay
+copyright:
 contributor:
   - first_name: James
     last_name: Cuno

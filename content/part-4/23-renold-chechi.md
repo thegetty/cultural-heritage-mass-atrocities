@@ -4,6 +4,7 @@ short_title:
 label: "23"
 weight: 44
 type: essay
+copyright:
 contributor:
   - first_name: Marc-André
     last_name: Renold

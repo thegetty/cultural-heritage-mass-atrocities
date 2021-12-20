@@ -4,6 +4,7 @@ short_title:
 label: "22"
 weight: 43
 type: essay
+copyright:
 contributor:
   - first_name: Benjamin Charlier
     last_name: Charlier

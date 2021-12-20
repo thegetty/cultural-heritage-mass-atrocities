@@ -4,6 +4,7 @@ short_title:
 label: "26"
 weight: 47
 type: essay
+copyright:
 contributor:
   - first_name: Sabine
     last_name: von Schorlemer

@@ -4,6 +4,7 @@ subtitle: "A Military Perspective"
 label: "29"
 weight: 54
 type: essay
+copyright:
 contributor:
   - first_name: Ruth Margolies
     last_name: Beitler

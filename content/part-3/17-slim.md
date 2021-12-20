@@ -4,6 +4,7 @@ short_title:
 label: "17"
 weight: 34
 type: essay
+copyright:
 contributor:
   - first_name: Hugo
     last_name: Slim

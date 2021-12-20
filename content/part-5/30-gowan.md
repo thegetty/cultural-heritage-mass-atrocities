@@ -4,6 +4,7 @@ short_title:
 label: "30"
 weight: 55
 type: essay
+copyright:
 contributor:
   - first_name: Richard
     last_name: Gowan

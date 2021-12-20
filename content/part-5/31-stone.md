@@ -4,6 +4,7 @@ subtitle: "The Necessity for Dialogue and Action Integrating the Heritage, Milit
 label: "31"
 weight: 56
 type: essay
+copyright:
 contributor:
   - first_name: Peter G.
     last_name: Stone

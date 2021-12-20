@@ -4,6 +4,7 @@ short_title:
 label: "6"
 weight: 17
 type: essay
+copyright:
 contributor:
   - first_name: Ismail
     last_name: Serageldin

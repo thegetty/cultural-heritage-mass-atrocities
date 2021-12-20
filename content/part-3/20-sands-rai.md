@@ -4,6 +4,7 @@ short_title: "ransitional Justice and Identity in the Aftermath of Cultural Dest
 label: "20"
 weight: 37
 type: essay
+copyright:
 contributor:
   - first_name: Philippe
     last_name: Sands

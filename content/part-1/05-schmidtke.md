@@ -4,6 +4,7 @@ short_title:
 label: "5"
 weight: 16
 type: essay
+copyright:
 contributor:
   - first_name: Sabine
     last_name: Schmidtke
