@@ -1,5 +1,5 @@
 ---
-label: "Part 1."
+label: "Part 1"
 title: "Cultural Heritage and Values"
 short_title:
 type: contents
