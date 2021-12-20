@@ -1,7 +1,6 @@
 ---
-title: "Conclusion: Toward Research, Policy, and Action Agendas"
-short_title: "Conclusion"
-weight: 60
+title: Preface and Acknowledgments
+weight: 4
 type: page
 contributor:
   - first_name: James
