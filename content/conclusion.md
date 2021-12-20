@@ -3,6 +3,7 @@ title: "Conclusion: Toward Research, Policy, and Action Agendas"
 short_title: "Conclusion"
 weight: 60
 type: page
+copyright: 
 contributor:
   - first_name: James
     last_name: Cuno

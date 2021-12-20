@@ -2,6 +2,7 @@
 title: Preface and Acknowledgments
 weight: 4
 type: page
+copyright: 
 contributor:
   - first_name: James
     last_name: Cuno
