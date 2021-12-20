@@ -2,7 +2,7 @@
 title: "Indigenous Threatened Heritage in Guatemala"
 short_title:
 label: "15"
-weight: 29
+weight: 30
 type: essay
 contributor:
   - first_name: Victor
