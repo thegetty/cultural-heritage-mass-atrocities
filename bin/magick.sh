@@ -7,14 +7,17 @@
 defaultSize=1800
 defaultQuality=80
 
-prepIIIF=false # resize images to later process with `quire process --iiif`
-outputCSV=false # output a CSV file that can be used as a basis for figures.yml
-quietMode=true # supress ImageMagick warnings about image files
+prepIIIF=true # resize images to later process with `quire process --iiif`
+outputYAML=true # output a figures.yml file
+outputCSV=true # output a CSV file that can be used as a basis for figures.yml
+quietMode=false # supress ImageMagick warnings about image files
 
 baseDir=static/img
-inputDir=magick-new
-iiifOutputDir=iiif
+inputDir=magick-test
 figureOutputDir=figures
+iiifOutputDir=iiif
+# iiifTilesDir='/img/'$iiifOutputDir'/processed/' # default Quire output
+iiifTilesDir='https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/' # Getty AWS S3 hosting
 
 # color profiles to use
 colorProfile=bin/magick/adobe-rgb-1998.icm
@@ -49,9 +52,25 @@ if [ $outputCSV == true ]
 then
   if [ "$type" == "iiif" ]
   then
-    printf '\n\"'$1'\", \"'$figureOutputDir'/'$1'.jpg\", iiif, \"/img/'$iiifOutputDir'/processed/'$1'/info.json\"' >> bin/magick/_figures.csv
+    printf '\n\"'$1'\", \"'$figureOutputDir'/'$1'.jpg\", iiif, \"'$iiifTilesDir$1'/info.json\"' >> bin/magick/figures.csv
   else
-    printf '\n\"'$1'\", \"'$figureOutputDir'/'$1'.jpg\", ,' >> bin/magick/_figures.csv
+    printf '\n\"'$1'\", \"'$figureOutputDir'/'$1'.jpg\", ,' >> bin/magick/figures.csv
+  fi
+fi
+}
+
+add_to_yaml()
+{
+file=$1
+type=$2
+
+if [ $outputYAML == true ]
+then
+  if [ "$type" == "iiif" ]
+  then
+    printf '\n\n  - id: \"'$1'\"\n    src: \"'$figureOutputDir'/'$1'.jpg\"\n    media_type: iiif\n    iiif: \"'$iiifTilesDir$1'/info.json\"\n    alt: \"\"\n    caption: \"\"\n    credit: \"\"' >> bin/magick/figures.yml
+  else
+    printf '\n\n  - id: \"'$1'\"\n    src: \"'$figureOutputDir'/'$1'.jpg\"\n    alt: \"\"\n    caption: \"\"\n    credit: \"\"' >> bin/magick/figures.yml
   fi
 fi
 }
@@ -66,10 +85,15 @@ if [ $outputCSV == true ]
 then
   if [ $prepIIIF == true ]
   then
-    printf 'id, src, media_type, iiif' > bin/magick/_figures.csv
+    printf 'id, src, media_type, iiif' > bin/magick/figures.csv
   else
-    printf 'id, src' > bin/magick/_figures.csv
+    printf 'id, src' > bin/magick/figures.csv
   fi
+fi
+
+if [ $outputYAML == true ]
+then
+  printf 'figure_list:' > bin/magick/figures.yml
 fi
 
 if [ $prepIIIF == true ]
@@ -98,7 +122,12 @@ do
     mode='-quiet'
   else
     mode=''
-    printf '\n'$fileName'\n'
+    if [ $maxDim -lt $defaultSize ]
+    then
+      printf '\n'$fileName', '$maxDim'px'
+    else
+      printf '\n'$fileName
+    fi
   fi
 
   magick $mode $img -resize $defaultSize'x'$defaultSize'>' -quality $defaultQuality -layers flatten -profile $profile -set filename:name '%t' $baseDir/$figureOutputDir/'%[filename:name].jpg'
@@ -109,21 +138,26 @@ do
     if [ $maxDim -lt $iiif4Layers ]
     then
       add_to_csv $fileName
+      add_to_yaml $fileName
     elif [ $maxDim -lt $iiif5Layers ]
     then
       magick -quiet $img -resize $iiif4Layers'x'$iiif4Layers -layers flatten -profile $profile -set filename:name '%t' $baseDir/$iiifOutputDir/'%[filename:name].jpg'
       add_to_csv $fileName iiif
+      add_to_yaml $fileName iiif
     elif [ $maxDim -lt $iiif6Layers ]
     then
       magick -quiet $img -resize $iiif5Layers'x'$iiif5Layers -layers flatten -profile $profile -set filename:name '%t' $baseDir/$iiifOutputDir/'%[filename:name].jpg'
       add_to_csv $fileName iiif
+      add_to_yaml $fileName iiif
     else
       magick -quiet $img -resize $iiif6Layers'x'$iiif6Layers -layers flatten -profile $profile -set filename:name '%t' $baseDir/$iiifOutputDir/'%[filename:name].jpg'
       add_to_csv $fileName iiif
+      add_to_yaml $fileName iiif
     fi
 
   else
     add_to_csv $fileName
+    add_to_yaml $fileName
   fi
 
 done
