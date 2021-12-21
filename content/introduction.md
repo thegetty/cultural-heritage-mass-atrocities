@@ -8,7 +8,7 @@ contributor:
   - id: tweiss
 ---
 
-<div class="frontmatter">
+<div class="backmatter">
 
 ## Keynote
 
@@ -19,6 +19,8 @@ Worldwide outcries have greeted recognized but often ignored atrocities with the
 In January 2020, then US president Donald Trump threatened to attack cultural sites among fifty-two targets if Iran retaliated for the targeted killing of Iranian commander General Qassim Suleimani, one of its top generals. Trump said that the United States had identified the targets as being “at a very high level and important to Iran and the Iranian culture.” The statement led to a worldwide outcry, with UN, UNESCO, and US officials pointing out that Washington had signed the 1954 convention protecting cultural property in the event of armed conflict. Targeting cultural heritage has a long history, with recent examples including the Mostar Bridge in Bosnia and Herzegovina, the Bamiyan Buddhas in Afghanistan, mausoleums in Timbuktu, Mali, and Greco-Roman remains in Palmyra, Syria. This Introduction asks, What if Raphael Lemkin’s draft of the 1948 Genocide Convention had left intact its original proposal to include cultural as well as human genocide? It discusses the “value” of cultural heritage, why it is often targeted, the humanitarian consequences of such onslaughts, and the tenets of existing international law. The Introduction applies the conceptual and political lessons of the responsibility to protect (R2P). The premise underlying this book is that attacks on cultural heritage are almost invariably linked to attacks on targeted populations as integral to military campaigns and violent performative acts against ethnic and religious groups. Both are intentional and virtually impossible to disentangle. Both seek in the end to eliminate a people and the cultural heritage with which they identify.
 
 </div>
+
+<hr />
 
 The destruction of cultural heritage in times of war, intentional and performative acts of violence, and mass atrocities are not new. However, such destruction has become a familiar aim of state and nonstate actors across a growing portion of the world since the purposeful destruction of the Mostar Bridge (*Stari Most*) in Bosnia and Herzegovina during the 1993 Croat–Bosniak War; the destruction of the Bamiyan Buddhas in Afghanistan by the Taliban eight years later; the 2012 physical attacks on Sufi shrines in Timbuktu, Mali; the ongoing destruction of cultural sites and monuments throughout China’s Xinjiang Uyghur Autonomous Region; and numerous other attacks in Syria, Yemen, and Iraq. Shocking to specialists and nonspecialists alike was the saber-rattling early in 2020 by then US president Donald Trump, who threatened to destroy Iranian cultural sites after Tehran claimed it would retaliate for the assassination of Major General Qassim Suleimani. Although Trump later backed off, his initial statement as well as the dramatic earlier instances focused attention on the role of cultural heritage in times of political and military turmoil.[^1]
 

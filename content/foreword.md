@@ -2,9 +2,11 @@
 title: Foreword
 weight: 3
 type: page
+copyright: "© 2022 J. Paul Getty Trust. Originally published in Cultural Heritage and Mass Atrocities © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under CC BY 4.0)"
 contributor:
   - first_name: Irina
     last_name: Bokova
+    bio: "Irina Bokova is a Bulgarian politician and was director-general of UNESCO from 2009 to 2017."
 ---
 
 In 2012, Agence France-Presse interviewed a man said to be part of the extremist group controlling Timbuktu, Mali. “There is no world heritage,” he claimed. “It doesn’t exist.”[^1] This mindset encapsulates the challenge posed by the rise of a violent extremism that has perpetrated deliberate destruction of cultural heritage as well as mass atrocities against people on cultural and religious grounds, in not just Mali but also Afghanistan, Syria, Iraq, and elsewhere.
@@ -77,6 +79,10 @@ In short, when cultural heritage is destroyed anywhere in the world, we are all 
 
 <div class="backmatter">
 
+## Biography
+
+{{< q-contributor range="page" format="bio" >}}
+
 ## Notes
 
 </div>
@@ -103,7 +109,7 @@ In short, when cultural heritage is destroyed anywhere in the world, we are all 
 
 [^8]: UNESCO, “1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict,” http://www.unesco.org/new/en/culture/themes/armed-conflict-and-heritage/convention-and-protocols/1954-hague-convention/.
 
-[^9]: ###  UNESCO, “Second Meeting of States Parties to the 1970 Convention,” http://www.unesco.org/new/en/culture/themes/illicit-trafficking-of-cultural-property/meeting-of-states-parties/2nd-msp-2012/.
+[^9]: UNESCO, “Second Meeting of States Parties to the 1970 Convention,” http://www.unesco.org/new/en/culture/themes/illicit-trafficking-of-cultural-property/meeting-of-states-parties/2nd-msp-2012/.
 
 [^10]: UNESCO, “End of the 36th Session of the World Heritage Committee Marked by Concern for World Heritage Sites in Mali,” 6 July 2012,
 
@@ -121,7 +127,7 @@ In short, when cultural heritage is destroyed anywhere in the world, we are all 
 
 [^15]: ICC, “Case Information Sheet: The Prosecutor v. Ahmad Al Faqi Al Mahdi,” doc. no. ICC-PIDS-CIS-MAL-01-08/16_Eng, updated 20 March 2018, https://www.icc-cpi.int/CaseInformationSheets/Al-MahdiEng.pdf.
 
-[^16]: ##  ICC, “The ICC Office of the Prosecutor and UNESCO Sign Letter of Intent to Strengthen Cooperation on the Protection of Cultural Heritage,” press release, 6 November 2017, https://www.icc-cpi.int/Pages/item.aspx?name=171106_OTP_Unesco.
+[^16]: ICC, “The ICC Office of the Prosecutor and UNESCO Sign Letter of Intent to Strengthen Cooperation on the Protection of Cultural Heritage,” press release, 6 November 2017, https://www.icc-cpi.int/Pages/item.aspx?name=171106_OTP_Unesco.
 
 [^17]: MINUSMA, “Cultural Heritage.”
 
