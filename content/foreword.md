@@ -1,6 +1,6 @@
 ---
 title: Foreword
-weight: 3
+weight: 4
 type: page
 copyright: "© 2022 J. Paul Getty Trust. Originally published in Cultural Heritage and Mass Atrocities © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under CC BY 4.0)"
 contributor:
