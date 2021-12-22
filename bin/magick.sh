@@ -13,7 +13,7 @@ outputCSV=true # output a CSV file that can be used as a basis for figures.yml
 quietMode=false # supress ImageMagick warnings about image files
 
 baseDir=static/img
-inputDir=magick-test
+inputDir=magick
 figureOutputDir=figures
 iiifOutputDir=iiif
 # iiifTilesDir='/img/'$iiifOutputDir'/processed/' # default Quire output
