@@ -178,11 +178,9 @@ The attempt to annihilate history, Raphael Lemkin argued, proceeds with “the d
 
 <div class="backmatter">
 
-## Biographies
+## Biography
 
-James Cuno is President of the J. Paul Getty Trust and Co-chair of its Cultural Heritage at Risk Project. His recent single- and coauthored books include: *Museums Matter: In Praise of the Encyclopedic Museum* (2011); *Whose Culture? The Promise of Museums and the Debate over Antiquities* (2009); and *Who Owns Antiquity: Museums and the Battle Over Our Ancient Heritage* (2008).
-
-Thomas G. Weiss is Co-chair of the Cultural Heritage at Risk Project of the J. Paul Getty Trust and Presidential Professor of Political Science at the CUNY Graduate Center; he is also Distinguished Fellow, Global Governance, at the Chicago Council on Global Affairs, and Global Eminence Scholar, Kyung Hee University, Korea. His recent single- and coauthored books include: *The “Third” United Nations: How a Knowledge Ecology Helps the UN Think* (2021); *Rethinking Global Governance* (2019); *The United Nations and Changing World Politics* (2019); *Would the World Be Better without the UN?* (2018); and *Humanitarianism, War, and Politics: Solferino to Syria and Beyond* (2018).
+{{< q-contributor range="page" format="bio" >}}
 
 ## Notes
 
