@@ -46,8 +46,6 @@ figure_list:
 
   - id: "fig-11-1-al-sabouni"
     src: "figures/fig-11-1-al-sabouni.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-1-al-sabouni/info.json"
     alt: ""
     caption: ""
     credit: ""
@@ -78,8 +76,6 @@ figure_list:
 
   - id: "fig-11-2-al-sabouni"
     src: "figures/fig-11-2-al-sabouni.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-2-al-sabouni/info.json"
     alt: ""
     caption: ""
     credit: ""
@@ -106,8 +102,6 @@ figure_list:
 
   - id: "fig-11-5-al-sabouni"
     src: "figures/fig-11-5-al-sabouni.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-5-al-sabouni/info.json"
     alt: ""
     caption: ""
     credit: ""
@@ -166,24 +160,18 @@ figure_list:
 
   - id: "fig-12-1-deknatel"
     src: "figures/fig-12-1-deknatel.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-12-1-deknatel/info.json"
     alt: ""
     caption: ""
     credit: ""
 
   - id: "fig-12-2-deknatel"
     src: "figures/fig-12-2-deknatel.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-12-2-deknatel/info.json"
     alt: ""
     caption: ""
     credit: ""
 
   - id: "fig-12-3-deknatel"
     src: "figures/fig-12-3-deknatel.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-12-3-deknatel/info.json"
     alt: ""
     caption: ""
     credit: ""
@@ -260,16 +248,12 @@ figure_list:
 
   - id: "fig-13-9-schmidtke"
     src: "figures/fig-13-9-schmidtke.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-9-schmidtke/info.json"
     alt: ""
     caption: ""
     credit: ""
 
   - id: "fig-14-1-eloundou-assomo"
     src: "figures/fig-14-1-eloundou-assomo.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-14-1-eloundou-assomo/info.json"
     alt: ""
     caption: ""
     credit: ""
@@ -300,8 +284,6 @@ figure_list:
 
   - id: "fig-15-1-montejo"
     src: "figures/fig-15-1-montejo.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-15-1-montejo/info.json"
     alt: ""
     caption: ""
     credit: ""
@@ -316,8 +298,6 @@ figure_list:
 
   - id: "fig-27-2-hassner"
     src: "figures/fig-27-2-hassner.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-27-2-hassner/info.json"
     alt: ""
     caption: ""
     credit: ""
@@ -400,8 +380,6 @@ figure_list:
 
   - id: "fig-5-1-schmidtke"
     src: "figures/fig-5-1-schmidtke.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-1-schmidtke/info.json"
     alt: ""
     caption: ""
     credit: ""
@@ -422,24 +400,18 @@ figure_list:
 
   - id: "fig-5-12-schmidtke"
     src: "figures/fig-5-12-schmidtke.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-12-schmidtke/info.json"
     alt: ""
     caption: ""
     credit: ""
 
   - id: "fig-5-13-schmidtke"
     src: "figures/fig-5-13-schmidtke.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-13-schmidtke/info.json"
     alt: ""
     caption: ""
     credit: ""
 
   - id: "fig-5-2-schmidtke"
     src: "figures/fig-5-2-schmidtke.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-2-schmidtke/info.json"
     alt: ""
     caption: ""
     credit: ""
@@ -504,8 +476,6 @@ figure_list:
 
   - id: "fig-7-1-harris"
     src: "figures/fig-7-1-harris.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-7-1-harris/info.json"
     alt: ""
     caption: ""
     credit: ""
@@ -520,8 +490,6 @@ figure_list:
 
   - id: "fig-7-3-harris"
     src: "figures/fig-7-3-harris.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-7-3-harris/info.json"
     alt: ""
     caption: ""
     credit: ""
@@ -550,8 +518,6 @@ figure_list:
 
   - id: "fig-8-2-singh"
     src: "figures/fig-8-2-singh.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-8-2-singh/info.json"
     alt: ""
     caption: ""
     credit: ""
@@ -564,16 +530,12 @@ figure_list:
 
   - id: "fig-9-1-stein"
     src: "figures/fig-9-1-stein.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-9-1-stein/info.json"
     alt: ""
     caption: ""
     credit: ""
 
   - id: "fig-9-2-stein"
     src: "figures/fig-9-2-stein.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-9-2-stein/info.json"
     alt: ""
     caption: ""
     credit: ""
