@@ -1,19 +1,10 @@
----
-title: "Indigenous Threatened Heritage in Guatemala"
-short_title:
-label: "15"
-weight: 30
-type: essay
-copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Heritage and Mass Atrocities* © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))"
-contributor:
-  - first_name: Victor
-    last_name: Montejo
-    bio: "Victor Montejo is a Jakaltek Maya originally from Guatemala and a retired Professor of Native American Studies at the University of California, Davis. His academic interests focus on Latin American diasporas, human rights, migration, and transnationalism. From 2004 to 2008 Montejo served in the Guatemalan national congress. He has also served as Minister of Peace, in which capacity he worked out the National Program for Reparation to the victims of the armed conflict in Guatemala. Montejo is a nationally and internationally recognized author, whose major publications include *Testimony: Death of a Guatemalan Village* (1987), *Voices from Exile: Violence and Survival in Modern Maya History* (1999), *Maya Intellectual Renaissance: Critical Essays on Identity, Representation, and Leadership* (2003), and *Mayalogue: An Interactionist Theory on Indigenous Culture* (2021)."
----
+# Indigenous Threatened Heritage in Guatemala
 
-<div class="backmatter">
+Victor Montejo
 
-## Keynote
+© 2022 J. Paul Getty Trust. Originally published in *Cultural Heritage and Mass Atrocities* © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
+
+## Keynote 
 
 The Maya people have suffered throughout the centuries a violent process of conquest, colonization, and neocolonial forms of domination by the ruling elite of Guatemala, as demonstrated during the recent armed conflict. The international community must apply pressure on states to comply with existing laws aimed at the protection of cultural heritage, and indigenous scholars must be trained and supported to participate in ongoing debates concerning archaeological investigations of Maya sites.
 
@@ -21,9 +12,9 @@ The Maya people have suffered throughout the centuries a violent process of conq
 
 The Guatemalan civil war of 1960–96 had a devastating impact on the Maya people and their heritage, building on a legacy of “Mayacide” begun over five centuries ago with the Spanish conquest and colonization. This chapter surveys the historical terrain and articulates the ongoing risks to this ancient heritage from the distinctive perspective of the living Maya, for whom nearly every aspect of their cultural tradition remains unprotected. It emphasizes the need to train and support indigenous scholars to protect Maya cultural heritage and to ensure that Maya voices participate in ongoing debates concerning archaeological investigations. Further, it argues that the international community must apply pressure on nations to comply with existing laws aimed at the protection of cultural heritage.
 
-</div>
+## Biography
 
-<hr />
+Victor Montejo is a Jakaltek Maya originally from Guatemala and a retired Professor of Native American Studies at the University of California, Davis. His academic interests focus on Latin American diasporas, human rights, migration, and transnationalism. From 2004 to 2008 Montejo served in the Guatemalan national congress. He has also served as Minister of Peace, in which capacity he worked out the National Program for Reparation to the victims of the armed conflict in Guatemala. Montejo is a nationally and internationally recognized author, whose major publications include *Testimony: Death of a Guatemalan Village* (1987), *Voices from Exile: Violence and Survival in Modern Maya History* (1999), *Maya Intellectual Renaissance: Critical Essays on Identity, Representation, and Leadership* (2003), and *Mayalogue: An Interactionist Theory on Indigenous Culture* (2021).
 
 The history of abuse and destruction of ancient Maya heritage in Guatemala started more than five centuries ago. This long and dark night has persisted as modern Maya continue to struggle for their basic human rights and cultural identity. Between 1960 and 1996 many Guatemalan people, especially its indigenous population, suffered extreme violence at the hands of the government. They were accused of being subversives and supporters of the guerrilla movement. As a result, the Guatemalan military government unleashed a scorched earth policy which destroyed entire villages and massacred thousands of indigenous people. According to the 1999 report of the Commission for Historical Clarification, otherwise known as the Truth Commission, more than two hundred thousand people died, one million were displaced internally, and a further thirty thousand were refugees in Mexico and other countries. In 1996, with the signing of the Peace Accords, most refugees returned to Guatemala and rebuilt their abandoned communities or were relocated in new settlements. Unfortunately, the most important of those signed, the Accord on the Identity and Rights of Indigenous Peoples (AIDPI) was not implemented. In other words, the roots of the conflict remained unsolved. It was a peace without justice for the indigenous population, who continue to endure racist treatment and discrimination.
 
@@ -53,7 +44,7 @@ For the living Maya, most aspects of their ancient and modern culture remain unp
 
 > A major, long-lost stone carving of a bird headdress dating from AD 736, made during the classical heyday of the powerful city-state of Piedras Negras in what is today Guatemala, was scheduled to go on the auction block in Paris next week. Long sequestered in a private collection, the magnificent bas-relief carries an estimate of \$27,000 to \$39,000. The sculpture was almost certainly stolen in the early 1960s from the ancient Maya site. It passed through the inventory of a prominent Los Angeles gallery on its way to Paris. Its illicit history is no secret, yet the sale in France is scheduled to proceed in broad daylight.[^9]
 
-The looting and desecration of Maya tombs and archaeological sites have caused much damage to the patrimony and history of Guatemala. Every day, Maya artifacts are illegally smuggled out of Maya sites with no concerted action by the government to stop the activity. Those objects considered Maya have become desirable for collectors searching for more valuable stone or jade items.[^10] During the writing of this chapter, on 9 February 2021, I discovered that another auction was taking place in Paris, with five Maya polychrome vases auctioned. Mexico and Guatemala have initiated legal claims on these objects **(fig. 15.1)**.[^11]
+# The looting and desecration of Maya tombs and archaeological sites have caused much damage to the patrimony and history of Guatemala. Every day, Maya artifacts are illegally smuggled out of Maya sites with no concerted action by the government to stop the activity. Those objects considered Maya have become desirable for collectors searching for more valuable stone or jade items.[^10] During the writing of this chapter, on 9 February 2021, I discovered that another auction was taking place in Paris, with five Maya polychrome vases auctioned. Mexico and Guatemala have initiated legal claims on these objects **(fig. 15.1)**.[^11]
 
 Despite more than a century of research on the Maya, this cultural patrimony is still vulnerable and exposed to destruction, not only by desecrators of Maya tombs but also by development projects carried out without consultation with the culture’s inheritors. Maya archaeological sites are exposed and unprotected in the rainforest of northern Guatemala. Once they are uncovered and shown to the public, the sites are invaded not only by archaeologists, but also by new colonists or immigrants to the region who live near these areas and join in the looting. Even the Guatemalan government, through its Ministry of Culture and Sport, has acknowledged its failure to protect Maya sites, stating that “looters and grave diggers operate in archaeological sites in the country taking advantage of the lack of vigilance of these sites. They carry out illegal excavations without the required technology, thus causing great destruction to these sites.”[^12]
 
@@ -87,7 +78,7 @@ Without such a shift, the continual invasion of the Maya homeland and territori
 
 Maya communities are not consulted or involved in archaeological digs in Guatemala. There are several reasons for this omission. The most traditional Maya are cautious and advocate for the historical values of Maya heritage over its monetary worth. Knowing this, some archaeologists opt not to hire indigenous people, who might question unethical practices in the field. This also sheds light on why traditional Maya voices are not fully represented in any government institutions that grant licenses permitting access for excavations at these sites. In addition, archaeologists often have total authority at sites, bringing commercial investments to Maya-protected lands and territories against the will of the millions of Maya now voicing concerns. And yet the twenty-two Maya linguistic communities have no formal right to participation in the excavation and the handling of archaeological finds. With Maya heritage in the hands of those scholars and collectors with access to the sites and seeking artifacts, there is a lack of checks and balances that might otherwise help prevent the theft of Maya cultural objects. Not surprisingly, artifacts are smuggled across borders and mysteriously appear in museums in cities in the United States and Europe, enlarging their collections of Maya cultural objects and relics.[^25]
 
-## Maya People and the Protection of Ancient Maya Heritage
+## Maya People and the Protection of Ancient Maya Heritage 
 
 A proper economic plan is necessary to help indigenous people, and Guatemala as a whole, successfully protect its cultural heritage. Indigenous consultants must be made part of the teams at governmental, academic, and international institutions dedicated to making decisions about Maya cultural heritage. Local, trained indigenous experts should be hired, as they are the living descendants of that ancient civilization. There is, then, a lack of government support for the protection of Maya heritage, particularly at archaeological sites recently under excavation.[^26] There is currently no monitoring of excavations, or of their finds, by independent observers and authorities.
 
@@ -115,11 +106,9 @@ Who finances such criminal actions? National institutions co-opted by corruption
 
 Finally, we recognize that Maya resiliency has been fundamental to their ability to survive in the midst of continuous destruction over five centuries: a negation of their cultural identity as descendants of the ancient Maya civilization from which they have been severed for centuries in the attempt to assimilate them into a homogenous nation-state. While their resiliency is extraordinary, we must not think of them just as victims of the circumstances around them, but as creators and actors in the protection of their cultural heritage in the twenty-first century. Therefore, there is a need to recognize this connection with their ancestors and accord the Maya the privilege of being the living descendants of a great ancient civilization.
 
-<div class="backmatter">
+Figure Caption
 
-## Biography
-
-{{< q-contributor range="page" format="bio" >}}
+Figure 15.1 Polychrome Maya Vase (Christie’s, Live Auction 17456, Lot 129, Closed 8 April 2019, https://www.christies.com/en/lot/lot-6196575)
 
 ## Suggested Readings
 
@@ -134,10 +123,6 @@ Victor D. Montejo, *Voices from Exile: Violence and Survival in Modern Guatemala
 Próspero Penados del Barrio (Archbishop of Guatemala), *Guatemala: Never Again!* (New York: Orbis Books, 1999), Recovery of Historical Memory Project, the Official Report of the Human Rights Office Archdiocese of Guatemala.
 
 Kay B. Warren, *Indigenous Movements and Their Critics: Pan-Maya Activism in Guatemala* (Princeton, NJ: Princeton University Press, 1998).
-
-## Notes
-
-</div>
 
 [^1]: See Academia de las Lenguas Mayas de Guatemala (ALMG), www.almg.org.gt.
 
@@ -169,7 +154,7 @@ Kay B. Warren, *Indigenous Movements and Their Critics: Pan-Maya Activism in Gua
 
 [^15]: Tujaal, “Open Letter to Archaeologist, Richard D. Hansen Regarding His Imperialist and Colonial Drive to Expropriate Our Territories and Sacred Sites,” 30 June 2020, https://tujaal.org/open-letter-to-archaeologist-richard-d-hansen/.
 
-[^16]: César Pérez Marroquín and Dony Stewart, “Domingo Choc Che, el hombre que fue linchado señalado de brujería, colaboraba en la investigación sobre plantas medicinales,” *Prensa Libre*, 8 June 2020, https://www.prensalibre.com/ciudades/peten/domingo-choc-che-el-hombre-que-fue-linchado-senalado-de-brujeria-colaboraba-en-la-investigacion-sobre-plantas-medicinales.
+[^16]: #  César Pérez Marroquín and Dony Stewart, “Domingo Choc Che, el hombre que fue linchado señalado de brujería, colaboraba en la investigación sobre plantas medicinales,” *Prensa Libre*, 8 June 2020, https://www.prensalibre.com/ciudades/peten/domingo-choc-che-el-hombre-que-fue-linchado-senalado-de-brujeria-colaboraba-en-la-investigacion-sobre-plantas-medicinales.
 
 [^17]: Jeff Abbott, “US Archeologist Seeks to Privatize Maya Historic Sites in the Name of Conservation,” NACLA, 27 August 2020, https://nacla.org/guatmala-peten-tourism-hansen.
 
