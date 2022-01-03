@@ -116,6 +116,7 @@ The challenge for the independent but connected trajectories is that privileging
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

@@ -139,7 +139,7 @@ The flexibility and potential power of the performative destruction paradigm is 
 
 ## Suggested Readings
 
-
+{{< q-readings range="essay" >}}
 
 ## Notes
 

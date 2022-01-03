@@ -135,6 +135,7 @@ The Blue Shield’s areas of activity, and the urgent need to address the eight 
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

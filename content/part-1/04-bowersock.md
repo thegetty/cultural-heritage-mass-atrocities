@@ -95,7 +95,7 @@ Late antiquity serves to teach us this painful lesson. It is scarcely comforting
 
 ## Suggested Readings
 
-
+{{< q-readings range="essay" >}}
 
 ## Notes
 

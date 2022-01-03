@@ -123,7 +123,7 @@ Finally, we recognize that Maya resiliency has been fundamental to their ability
 
 ## Suggested Readings
 
-
+{{< q-readings range="essay" >}}
 
 ## Notes
 

@@ -121,6 +121,7 @@ The primary conclusion of this discussion is that the humanitarian justification
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

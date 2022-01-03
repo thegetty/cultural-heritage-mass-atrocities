@@ -151,7 +151,7 @@ It is important to remind ourselves just how valuable these elements of our cult
 
 ## Suggested Readings
 
-
+{{< q-readings range="essay" >}}
 
 ## notes
 

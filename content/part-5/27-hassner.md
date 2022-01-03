@@ -113,6 +113,7 @@ The fifth and final lesson is that opponents will take advantage of that hesitat
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

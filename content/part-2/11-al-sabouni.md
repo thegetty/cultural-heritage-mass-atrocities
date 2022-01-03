@@ -129,7 +129,7 @@ Today, Homs has been transformed from a dull city to a dead city. The piecemeal 
 
 ## Suggested Readings
 
-
+{{< q-readings range="essay" >}}
 
 ## Notes
 

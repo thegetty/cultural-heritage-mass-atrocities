@@ -138,6 +138,7 @@ The US military has recently made positive strides in expanding the strategic co
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

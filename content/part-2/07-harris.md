@@ -145,6 +145,7 @@ Ultimately, perhaps, hope for the survival of the unique culture surrounding thi
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

@@ -147,7 +147,7 @@ And third, there is a growing consciousness of the need for cultural protection,
 
 ## Suggested Readings
 
-
+{{< q-readings range="essay" >}}
 
 ## Notes
 

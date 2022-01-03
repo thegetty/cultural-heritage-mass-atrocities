@@ -105,6 +105,7 @@ After the occupation of Timbuktu, it was possible to demonstrate that cultural h
 
 ## Selected Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

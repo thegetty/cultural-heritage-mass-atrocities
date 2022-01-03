@@ -197,7 +197,7 @@ checked on the questionnaire of humanity; it’s a process you join, in living a
 
 ## Suggested Readings
 
-
+{{< q-readings range="essay" >}}
 
 ## Notes
 

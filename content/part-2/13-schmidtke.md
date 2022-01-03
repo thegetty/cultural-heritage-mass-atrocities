@@ -75,7 +75,7 @@ For Yemen’s book culture, it is a curse and a blessing that some of the most p
 
 ## Suggested Readings
 
-
+{{< q-readings range="essay" >}}
 
 ## Notes
 

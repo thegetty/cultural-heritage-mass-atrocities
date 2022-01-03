@@ -121,6 +121,7 @@ As Fatou Bensouda, the ICC chief prosecutor at the time, stated in the *Al Mahdi
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

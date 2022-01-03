@@ -137,7 +137,7 @@ At the same time, no corresponding customary norms can be found today in relatio
 
 ## Suggested Readings
 
-
+{{< q-readings range="essay" >}}
 
 ## Notes
 

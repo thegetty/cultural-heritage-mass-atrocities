@@ -139,6 +139,7 @@ Any concerted strategy to leverage the opportunities that exist for encouraging 
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

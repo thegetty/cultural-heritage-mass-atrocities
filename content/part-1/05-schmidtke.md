@@ -99,7 +99,7 @@ There are many reasons why a certain book has come down to us while others fall 
 
 ## Suggested Readings
 
-
+{{< q-readings range="essay" >}}
 
 ## Notes
 

@@ -151,6 +151,7 @@ With the burgeoning case law of the ICC, there is cause for optimism that intern
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

@@ -169,6 +169,7 @@ Still, gains in global cultural heritage governance are neither to be achieved e
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

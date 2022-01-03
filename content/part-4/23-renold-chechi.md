@@ -114,6 +114,7 @@ The importance of promoting and developing human rights education is underlined 
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

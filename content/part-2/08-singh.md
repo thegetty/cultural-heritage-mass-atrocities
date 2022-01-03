@@ -132,6 +132,8 @@ The truth, unfortunately, is often more complex. In Sri Lanka and Afghanistan, e
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
+
 **Sri Lanka**
 
 

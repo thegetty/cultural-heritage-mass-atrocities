@@ -138,6 +138,7 @@ Even after some of the most violent conflicts, the cultural heritage of opposing
 
 ## Suggested Readings
 
+{{< q-readings range="essay" >}}
 
 ## Notes
 

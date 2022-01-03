@@ -141,7 +141,7 @@ So far, the fate of some prominent cultural heritage sites in Syria has taken a 
 
 ## Suggested Readings
 
-
+{{< q-readings range="essay" >}}
 
 ## Notes
 
