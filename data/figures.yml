@@ -3,7 +3,7 @@ figure_list:
   - id: "fig-10-1-bandarin"
     src: "figures/fig-10-1-bandarin.jpg"
     alt: ""
-    caption: ""
+    caption: "The situation in Syria in 2020. (Congressional Research Service (CRS), *Armed Conflict in Syria: Overview and US Response* (Washington, DC: CRS, updated 27 May 2020), 4)."
     credit: ""
 
   - id: "fig-10-2-bandarin"
@@ -11,13 +11,13 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-10-2-bandarin/info.json"
     alt: ""
-    caption: ""
+    caption: "Destruction in Aleppo: The area near the citadel (Francesco Bandarin)"
     credit: ""
 
   - id: "fig-10-3-bandarin"
     src: "figures/fig-10-3-bandarin.jpg"
     alt: ""
-    caption: ""
+    caption: "The siege of Aleppo, July 2016 (Armenak Tokmajyan, *Aleppo Conflict Timeline* (Budapest: Central European University, 2016), 3)."
     credit: ""
 
   - id: "fig-10-4-bandarin"
@@ -25,7 +25,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-10-4-bandarin/info.json"
     alt: ""
-    caption: ""
+    caption: "Aleppo damage analysis, September 2016 (UNITAR, “Percentage Damage in Residential Area of Aleppo City,” https://unitar.org/unosat/node/44/2510)"
     credit: ""
 
   - id: "fig-10-5-bandarin"
@@ -33,7 +33,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-10-5-bandarin/info.json"
     alt: ""
-    caption: ""
+    caption: "The destroyed New Saray (Francesco Bandarin)"
     credit: ""
 
   - id: "fig-10-6-bandarin"
@@ -41,7 +41,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-10-6-bandarin/info.json"
     alt: ""
-    caption: ""
+    caption: "Damage to the Great Umayyad Mosque of Aleppo and of the minaret"
     credit: ""
 
   - id: "fig-11-1-al-sabouni"
@@ -161,19 +161,19 @@ figure_list:
   - id: "fig-12-1-deknatel"
     src: "figures/fig-12-1-deknatel.jpg"
     alt: ""
-    caption: ""
+    caption: "The rebuilt Khalid Ibn al-Walid Mosque amid the ruins of the Khaldiyeh neighborhood in Homs’s Old City, 15 August 2018. (Photo by Andrei Borodulin/AFP via Getty Images)"
     credit: ""
 
   - id: "fig-12-2-deknatel"
     src: "figures/fig-12-2-deknatel.jpg"
     alt: ""
-    caption: ""
+    caption: "Figure 12.2. Restoration work underway at the Great Mosque, or Umayyad Mosque, in the Old City of Aleppo, 14 August 2018. A crane stands over the rubble of the toppled thirteenth-century minaret, whose stones have been catalogued and organized in the mosque’s courtyard. (Photo by George Ourfalian/AFP via Getty Images)"
     credit: ""
 
   - id: "fig-12-3-deknatel"
     src: "figures/fig-12-3-deknatel.jpg"
     alt: ""
-    caption: ""
+    caption: "Figure 12.3. Rue Weygand in devastated downtown Beirut after the end of Lebanon’s fifteen-year civil war, 23 December 1990. (Photo by Marc Deville/Gamma-Rapho via Getty Images)"
     credit: ""
 
   - id: "fig-13-1-schmidtke"
@@ -181,7 +181,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-1-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Ms. Ṣanʿāʾ, Maktabat al-Awqāf 2318, page 2, transfer note (upper two lines and margin) for the codex from Ẓafār to Sana’a in Rabīʿ I 1348 (August–September 1929) (photo by Sabine Schmidtke)"
     credit: ""
 
   - id: "fig-13-2-schmidtke"
@@ -189,7 +189,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-2-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Inside the Maktabat al-Awqāf, 2009 (photo by Sabine Schmidtke)"
     credit: ""
 
   - id: "fig-13-3a-schmidtke"
@@ -197,7 +197,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-3a-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Ms. Leiden, University Library, Or 8409, title page and final page (with kind permission). The title page had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the Imam."
     credit: ""
 
   - id: "fig-13-3b-schmidtke"
@@ -205,7 +205,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-3b-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Ms. Leiden, University Library, Or 8409, title page and final page (with kind permission). The title page had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the Imam."
     credit: ""
 
   - id: "fig-13-4-schmidtke"
@@ -213,13 +213,13 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-4-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Bookshop at Sana’a, Yemen, ca. 1912 (photo by Robert Deutsch/Royal Geographical Society via Getty Images, https://www.gettyimages.com/detail/news-photo/bookshop-at-sana-yemen-circa-1912-news-photo/1034330482)"
     credit: ""
 
   - id: "fig-13-5-schmidtke"
     src: "figures/fig-13-5-schmidtke.jpg"
     alt: ""
-    caption: ""
+    caption: "Map of Yemen during the seventeenth century (source: Tomislav Klarić, “Untersuchungen zur politischen Geschichte der qāsimidischen Dynastie [11./17. Jh.],” PhD diss., University of Göttingen, 2007, fig. 4)"
     credit: ""
 
   - id: "fig-13-6-schmidtke"
@@ -227,7 +227,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-6-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Inside the Dār al-Makhṭūṭāt, 2009 (photo by Sabine Schmidtke)"
     credit: ""
 
   - id: "fig-13-7-schmidtke"
@@ -235,7 +235,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-7-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Personnel of the Imam Zayd b. Ali Cultural Foundation, Ṣanʿāʾ, digitizing manuscripts, 2009 (photo by Sabine Schmidtke)"
     credit: ""
 
   - id: "fig-13-8-schmidtke"
@@ -243,19 +243,19 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-8-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Stack of manuscripts in a private library in Yemen, 2019 (photo by the Imam Zayd b. Ali Cultural Foundation, Sana’a, with kind permission)"
     credit: ""
 
   - id: "fig-13-9-schmidtke"
     src: "figures/fig-13-9-schmidtke.jpg"
     alt: ""
-    caption: ""
+    caption: "A Yemeni man inspects the damage following a bomb explosion at the Badr mosque in southern Sana’a on 20 March 2015 (source: AFP Photo, https://www.ndtv.com/world-news/142-dead-in-yemen-mosque-bombings-claimed-by-islamic-state-748392)"
     credit: ""
 
   - id: "fig-14-1-eloundou-assomo"
     src: "figures/fig-14-1-eloundou-assomo.jpg"
     alt: ""
-    caption: ""
+    caption: "Aerial photo of Timbucktu—© UNESCO/Serge Negre"
     credit: ""
 
   - id: "fig-14-2-eloundou-assomo"
@@ -263,7 +263,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-14-2-eloundou-assomo/info.json"
     alt: ""
-    caption: ""
+    caption: "Djingareyber Mosque, built in 1325—©UNESCO"
     credit: ""
 
   - id: "fig-14-3-eloundou-assomo"
@@ -271,7 +271,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-14-3-eloundou-assomo/info.json"
     alt: ""
-    caption: ""
+    caption: "Figure 14.3. Destroyed Alpha Moya mausoleum—© UNESCO"
     credit: ""
 
   - id: "fig-14-4-eloundou-assomo"
@@ -279,13 +279,13 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-14-4-eloundou-assomo/info.json"
     alt: ""
-    caption: ""
+    caption: "Reconstructed Sidi Ben Amar mausoleum—© UNESCO"
     credit: ""
 
   - id: "fig-15-1-montejo"
     src: "figures/fig-15-1-montejo.jpg"
     alt: ""
-    caption: ""
+    caption: "Polychrome Maya Vase (Christie’s, Live Auction 17456, Lot 129, Closed 8 April 2019, https://www.christies.com/en/lot/lot-6196575)"
     credit: ""
 
   - id: "fig-27-1-hassner"
@@ -293,19 +293,19 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-27-1-hassner/info.json"
     alt: ""
-    caption: ""
+    caption: "The Abbey of Monte Cassino destroyed by Allied bombing in 1944. (Photo by Keystone-France/Gamma-Keystone via Getty Images)"
     credit: ""
 
   - id: "fig-27-2-hassner"
     src: "figures/fig-27-2-hassner.jpg"
     alt: ""
-    caption: ""
+    caption: "Private Paul Oglesby of the US 30th Infantry Regiment stands amid the bomb-blasted remains of the roof of Santa Maria degli Angeli in the southern Apennine town of Acerno, Italy, September 1943. (US National Archives, NARA 531181)"
     credit: ""
 
   - id: "fig-27-3-hassner"
     src: "figures/fig-27-3-hassner.jpg"
     alt: ""
-    caption: ""
+    caption: "US Marines take up position on the perimeter of a mosque while patrolling in the central Iraqi city of Yusufiyah, December 2004. (Odd Anderson/AFP via Getty Images)"
     credit: ""
 
   - id: "fig-28-1-sagan"
@@ -313,13 +313,13 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-28-1-sagan/info.json"
     alt: ""
-    caption: ""
+    caption: "Target map of Kyoto, June 1945. (Alex Wellerstein, “The Kyoto Misconception,” *The Nuclear Secrecy Blog*, 8 August 2014, http://blog.nuclearsecrecy.com/2014/08/08/kyoto-misconception/)"
     credit: ""
 
   - id: "fig-28-2-sagan"
     src: "figures/fig-28-2-sagan.jpg"
     alt: ""
-    caption: ""
+    caption: "Iraqi military aircraft stationed near the Temple of Ur. (US Department of Defense, *Conduct of the Persian Gulf War: Final Report to Congress* (Washington, DC: Department of Defense, April 1992), https://apps.dtic.mil/dtic/tr/fulltext/u2/a249270.pdf, 133)"
     credit: ""
 
   - id: "fig-3-1-parzinger"
@@ -327,7 +327,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-3-1-parzinger/info.json"
     alt: ""
-    caption: ""
+    caption: "Burning of the idols. Spanish missionaries burning paraphernalia of indigenous cults."
     credit: ""
 
   - id: "fig-3-2-parzinger"
@@ -335,7 +335,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-3-2-parzinger/info.json"
     alt: ""
-    caption: ""
+    caption: "The gutted inside of the Nuremberg synagogue after burning and looting by an organized Nazi mob on 9 November 1938"
     credit: ""
 
   - id: "fig-3-3-parzinger"
@@ -343,7 +343,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-3-3-parzinger/info.json"
     alt: ""
-    caption: ""
+    caption: "The destroyed main mosque in Banja Luka, Bosnia-Herzegovina (this occurred during the war in the former Yugoslavia)."
     credit: ""
 
   - id: "fig-3-4-parzinger"
@@ -351,37 +351,37 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-3-4-parzinger/info.json"
     alt: ""
-    caption: ""
+    caption: "Demolition of the temple of Bel in Palmyra by ISIS in 20"
     credit: ""
 
   - id: "fig-31-1-stone"
     src: "figures/fig-31-1-stone.jpg"
     alt: ""
-    caption: ""
+    caption: "Structure of the work of the Blue Shield. The three points of the triangle show the interdependence of the three sectors, with the internal “safe space” within the triangle available for dialogue to mutually understand the importance of good cultural property protection to the goals and aspirations of all three sectors."
     credit: ""
 
   - id: "fig-31-2-stone"
     src: "figures/fig-31-2-stone.jpg"
     alt: ""
-    caption: ""
+    caption: "Protection of the Mosque of Omar in Jerusalem in 1917 by Muslim troops in the British Expeditionary Force. (Photo courtesy of the *Northumberland Gazette*)"
     credit: ""
 
   - id: "fig-31-3-stone"
     src: "figures/fig-31-3-stone.jpg"
     alt: ""
-    caption: ""
+    caption: "The extensive damage to the al-Askari Shrine in Samarra, Iraq in 2006 has been regarded by many as the tipping point that turned general unease with the coalition presence in Iraq into a full scale, sectarian civil war. The minarets were destroyed in 2007. (Photo © US Army, via Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Al-Askari_Mosque_2006.jpg)"
     credit: ""
 
   - id: "fig-31-4-stone"
     src: "figures/fig-31-4-stone.jpg"
     alt: ""
-    caption: ""
+    caption: "Ras Almargeb, Libya, where forces loyal to the government of Muammar Gaddafi stationed six vehicles of a mobile radar/communications unit in the hope they would not be targeted because of the proximity to the Roman fort. All six were destroyed by precision weapons leaving the Roman building intact. (Photo © Karl Habsburg)"
     credit: ""
 
   - id: "fig-5-1-schmidtke"
     src: "figures/fig-5-1-schmidtke.jpg"
     alt: ""
-    caption: ""
+    caption: "Page from a lithograph print, Tabriz 1877, of Jaʿfar b. al-Hasan al-Muhaqqiq al-Hilli’s (d. 1205–6) *Sharāʾiʿ al-Islām*, with several layers of commentaries in the margin"
     credit: ""
 
   - id: "fig-5-10-schmidtke"
@@ -389,31 +389,31 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-10-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Title page of Ms. San Lorenzo, El Escorial, arabe 1485, fol. 7r, containing another copy of al-Murtada’s *K. al-Ghurar*, transmitted through Fadl Allah al-Rawandi"
     credit: ""
 
   - id: "fig-5-11-schmidtke"
     src: "figures/fig-5-11-schmidtke.jpg"
     alt: ""
-    caption: ""
+    caption: "Bayt al-ḥikma, Baghdad, view of the burned second floor (source: Nabil al-Tikriti, Oriental Institute, University of Chicago, 2003; MELA Committee on Iraqi Libraries, http://oi-archive.uchicago.edu/OI/IRAQ/mela/LibraryPix/014.html)"
     credit: ""
 
   - id: "fig-5-12-schmidtke"
     src: "figures/fig-5-12-schmidtke.jpg"
     alt: ""
-    caption: ""
+    caption: "A man tries to salvage burned manuscripts at the Ahmed Baba Institute in Timbuktu, Mali (source: Eric Feferberg/AFP/Getty Images)"
     credit: ""
 
   - id: "fig-5-13-schmidtke"
     src: "figures/fig-5-13-schmidtke.jpg"
     alt: ""
-    caption: ""
+    caption: "Burned books in the National Library, Baghdad, April 2003 (source: Roger Lemoyne/Getty Images, Getty Images 2059109)"
     credit: ""
 
   - id: "fig-5-2-schmidtke"
     src: "figures/fig-5-2-schmidtke.jpg"
     alt: ""
-    caption: ""
+    caption: "Entrance to the Süleymaniye Library, Istanbul (source: http://emedrese.tv/suleymaniye-kutuphanesi-1/)"
     credit: ""
 
   - id: "fig-5-3-schmidtke"
@@ -421,7 +421,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-3-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "5.3 Worldwide distribution of Islamic manuscripts (source: María Mercedes Tuya; with kind permission)"
     credit: ""
 
   - id: "fig-5-4-schmidtke"
@@ -429,7 +429,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-4-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Primary languages of the Islamic world (source: https://www.reddit.com/r/MapPorn/comments/2ecu7a/primary_languages_of_islamic_world_84186346/)"
     credit: ""
 
   - id: "fig-5-5-schmidtke"
@@ -437,7 +437,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-5-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Fuat Sezgin’s copy of Brockelmann’s GAL with notes (source: Hilal Sezgin, de.wikipedia.org/wiki/Datei:FsezginLitKomm.jpg)"
     credit: ""
 
   - id: "fig-5-6-schmidtke"
@@ -445,13 +445,13 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-6-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Title page of Ms. Dublin, Chester Beatty Library, Ar. 3315. One of the oldest extant copies of Ibn al-Nadim’s *Catalog*, which was purchased in 1421 by the prominent Egyptian scholar Taqi l-Din Ahmad b. ʿAli al-Maqrizi (d. 1442)"
     credit: ""
 
   - id: "fig-5-7-schmidtke"
     src: "figures/fig-5-7-schmidtke.jpg"
     alt: ""
-    caption: ""
+    caption: "Ms. Paris, BnF, arabe 5847, fol. 5v, illustration of a library in al-Haʾiri’s *Maqāmat*, copy dated 1237 (source: Alamy Stock Photo, History Collection, image ID: J41HW9)"
     credit: ""
 
   - id: "fig-5-8-schmidtke"
@@ -459,25 +459,25 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-8-schmidtke/info.json"
     alt: ""
-    caption: ""
+    caption: "Page from a Mamluk Qurʾan (source: Marcus Fraser, *Geometry in Gold: An Illuminated Mamlūk Qurʾān Section* (London: Sam Fogg, 2005)"
     credit: ""
 
   - id: "fig-5-9-schmidtke"
     src: "figures/fig-5-9-schmidtke.jpg"
     alt: ""
-    caption: ""
+    caption: "Sheikh Baye looking at an illuminated Qurʾan dating back to the fourteenth century, in his library, Bouj Beha, Mali in April 2003. (source: Xavier ROSSI/Gamma-Rapho via Getty Images; gettyimages-115130675)"
     credit: ""
 
   - id: "fig-6-1-serageldin"
     src: "figures/fig-6-1-serageldin.jpg"
     alt: ""
-    caption: ""
+    caption: "Total economic value of an asset (Serageldin et al. 1999)"
     credit: ""
 
   - id: "fig-7-1-harris"
     src: "figures/fig-7-1-harris.jpg"
     alt: ""
-    caption: ""
+    caption: "Kashgar’s Idgah Mosque in 2006 (photo by the author)"
     credit: ""
 
   - id: "fig-7-2-harris"
@@ -485,13 +485,13 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-7-2-harris/info.json"
     alt: ""
-    caption: ""
+    caption: "Pilgrims at the shrine of Imam Aptah (photo courtesy of Rahile Dawut)"
     credit: ""
 
   - id: "fig-7-3-harris"
     src: "figures/fig-7-3-harris.jpg"
     alt: ""
-    caption: ""
+    caption: "Shahyar Mosque and bazaar in 2012 (photo by the author)"
     credit: ""
 
   - id: "fig-7-4-harris"
@@ -499,7 +499,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-7-4-harris/info.json"
     alt: ""
-    caption: ""
+    caption: "Friday prayer at a local mosque in southern Xinjiang in 2012 (photo courtesy of Aziz Isa)"
     credit: ""
 
   - id: "fig-7-5-harris"
@@ -507,35 +507,35 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-7-5-harris/info.json"
     alt: ""
-    caption: ""
+    caption: "A local graveyard in southern Xinjiang in 2012 (photo by the author)"
     credit: ""
 
   - id: "fig-8-1-singh"
     src: "figures/fig-8-1-singh.jpg"
     alt: ""
-    caption: ""
+    caption: "Ethnic map of Sri Lanka"
     credit: ""
 
   - id: "fig-8-2-singh"
     src: "figures/fig-8-2-singh.jpg"
     alt: ""
-    caption: ""
+    caption: "Kandarodai site"
     credit: ""
 
   - id: "fig-8-3-singh"
     src: "figures/fig-8-3-singh.jpg"
     alt: ""
-    caption: ""
+    caption: "Supporting pillars for the eastern Buddha, left, with detail at right"
     credit: ""
 
   - id: "fig-9-1-stein"
     src: "figures/fig-9-1-stein.jpg"
     alt: ""
-    caption: ""
+    caption: "Main Patterns of Da’esh destruction of cultural heritage sites in Iraq and Syria (data from Michael Danti, “Ground-Based Observations of Cultural Heritage Incidents in Syria and Iraq,” *Near Eastern Archaeology* 78, no. 3 (2015): 137, Figure 12)"
     credit: ""
 
   - id: "fig-9-2-stein"
     src: "figures/fig-9-2-stein.jpg"
     alt: ""
-    caption: ""
+    caption: "atterns of cultural heritage site destruction in the Old City of Mosul and on the Nineveh Plain east of the city, 2014–17 (data from RASHID International, *The Intentional Destruction of Cultural Heritage in Iraq as a Violation of Human Rights* (Munich: RASHID International, August 2017), 9, Table 1)"
     credit: ""
