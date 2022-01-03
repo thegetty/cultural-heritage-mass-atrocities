@@ -1,0 +1,24 @@
+:root {
+  --accent-color: #CF4747; /* Should match $accent-color in variables.scss */
+}
+
+/* q-readings SHORTCODE */
+.quire-page__content .content ul.readings,
+.quire-page__content .content ul.readings li,
+.quire-page__content .content ul.readings li ul {
+  margin-left: 0;
+}
+.quire-page__content .content ul.readings li::before {
+  content: "";
+}
+.quire-page__content .content ul.readings .link-icon,
+.quire-page__content .content ul.readings .link-icon:hover {
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .content ul.readings .link-icon svg {
+  height: .75em;
+  width: .75em;
+}
+.quire-page__content .content ul.readings .link-icon:hover svg {
+  fill: var(--accent-color);
+}

@@ -1,0 +1,52 @@
+{{/*
+
+This shortcode creates a list of suggested readings, from a readings.yml file. The "range" value can either be "essay" to display only the readings for the essay where the shortcode appears, or "all" to display a list of readings for the whole book, organized by essay.
+
+*/}}
+{{- $range := "" -}}
+{{- with (.Get "range") }}{{ $range = . }}{{ end -}}
+
+{{- if eq $range "essay" -}}
+
+  {{- $essay := "" -}}
+  {{- $essay = .Page.File.BaseFileName -}}
+
+  <ul class="readings">
+  {{- range where .Site.Data.readings.entries "essay" $essay -}}
+  <li>{{ .full | markdownify }}</li>
+  {{- end -}}
+  </ul>
+
+{{- else -}}
+
+  {{- $pages := "" -}}
+  {{- $pages = where .Site.Pages ".Kind" "page" -}}
+  {{- $pages = where $pages ".Type" "!=" "data" -}}
+  {{- if eq .Site.Params.pdf true -}}
+    {{- $pages = where $pages "Params.pdf" "!=" "false" -}}
+  {{- else if eq .Site.Params.epub true -}}
+    {{- $pages = where $pages "Params.epub" "!=" "false" -}}
+  {{- else -}}
+    {{- $pages = where $pages "Params.online" "!=" "false" -}}
+  {{- end -}}
+
+  <ul class="readings">
+  {{- range $pages -}}
+  {{- $essay := "" -}}
+  {{- $essay := .Page.File.BaseFileName -}}
+  {{- $readings := where .Site.Data.readings.entries "essay" $essay -}}
+
+  {{- if gt (len $readings) 0 -}}
+
+    <li><strong>{{ if .Page.Params.label }}{{ .Page.Params.label }}{{ .Site.Params.pageLabelDivider }}{{ end }}{{ partial "page-title.html" . }}</strong><a href="{{ .Permalink }}" class="link-icon">{{ partial "icon.html" (dict "type" "link" "description" "Go to essay") }}</a>
+      <ul>
+    {{- range $readings -}}
+    <li>{{ .full | markdownify }}</li>
+    {{- end -}}
+      </ul></li>
+    {{- end -}}
+
+  {{- end -}}
+  </ul>
+
+{{- end -}}
