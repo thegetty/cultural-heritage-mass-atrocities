@@ -116,15 +116,6 @@ The challenge for the independent but connected trajectories is that privileging
 
 ## Suggested Readings
 
-Oumar Ba, “Who Are the Victims of Crimes against Cultural Heritage?” *Human Rights Quarterly* 41, no. 3 (2019): 578–95.
-
-Patty Gerstenblith, “The Destruction of Cultural Heritage: A Crime against Property or a Crime against People,” *John Marshall Review of Intellectual Property Law* 15, no. 3 (2016): 336–93.
-
-Wendy Lambourne, “Transitional Justice and Peacebuilding After Mass Violence,” *International Journal of Transitional Justice* 3, no. 1 (2009): 28–48.
-
-Lucas Lixinski, “Cultural Heritage Law and Transitional Justice: Lessons from South Africa,” *International Journal of Transitional Justice* 9, no. 2 (2015): 278–96.
-
-Marina Lostal, *International Cultural Heritage Law in Armed Conflict: Case-Studies of Syria, Libya, Mali, the Invasion of Iraq, and the Buddhas of Bamiyan* (Cambridge: Cambridge University Press, 2017).
 
 ## Notes
 

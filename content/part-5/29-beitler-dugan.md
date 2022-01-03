@@ -138,19 +138,6 @@ The US military has recently made positive strides in expanding the strategic co
 
 ## Suggested Readings
 
-Michael Danti, “Ground-Based Observations of Cultural Heritage Incidents in Syria and Iraq,” *Near Eastern Archaeology* 78, no. 3 (2015): 132–41.
-
-Jose Antonio Gonzalez Zarandona, Cesar Albarran-Torres, and Benjamin Isakhan, “Digitally Mediated Iconoclasm: The Islamic State and the War on Cultural Heritage,” *International Journal of Heritage Studies* 24, no. 6 (2017): 649–71.
-
-Jeffrey A. Jacobs, “Integrate Civil Affairs into Institutional Army,” *Army* 66, no.4 (2016): 20–22.
-
-Joris D. Kila and Christopher V. Herndon, “Military Involvement in Cultural Property Protection: An Overview,” *Joint Forces Quarterly* 74 (2014): 116–23.
-
-Christina M. Knopf and Eric J. Ziegelmayer, “Fourth Generation Warfare and the US Military’s Social Media Strategy: Promoting the Academic Conversation,” *Air and Space Power Journal—Africa & Francophonie* 3, no.4 (2012): 3–22.
-
-Laurie W. Rush and Amanda Hemmingsen, “Partner of Choice: Cultural Property Protection in Military Engagement,” *Military Review* 98, no.6 (2018): 103–19.
-
-Leedjia Svec, “Cultural Heritage Training in the US Military,” *SpringerPlus* 3, no. 126 (2014): 1–10.
 
 ## Notes
 

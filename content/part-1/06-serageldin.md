@@ -151,19 +151,7 @@ It is important to remind ourselves just how valuable these elements of our cult
 
 ## Suggested Readings
 
-Matthew D. Adler and Eric A. Posner, eds., *Cost-Benefit Analysis: Economic, Philosophical, and Legal Perspectives* (Chicago: University of Chicago Press, 2001).
 
-Kenneth Arrow, Robert Solow, Paul P. Portney, Edward E. Leamer, Roy Radner, and Howard Schuman, “Report of the National Oceanic and Atmospheric Administration Panel on Contingent Valuation,” *Federal Register* 58, no. 10 (1993).
-
-Marcello Balbo, ed., *The Medina: The Restoration and Conservation of Historic Islamic Cities* (London: IB Tauris, 2012).
-
-Stephanie Meeks and Kevin C. Murphy, *The Past and Future City: How Historic Preservation is Reviving America’s Communities* (Washington, DC: Island Press, 2016).
-
-Richard L. Revesz and Michael A. Livermore, *Retaking Rationality: How Cost-Benefit Analysis Can Better Protect the Environment and Our Health* (Oxford: Oxford University Press, 2008).
-
-Ismail Serageldin, *Very Special Places: The Architecture and Economics of Intervening in Historic Cities* (Washington, DC: World Bank, 1999).
-
-Stephen Smith, *Environmental Economics: A Very Short Introduction* (Oxford: Oxford University Press, 2011).
 
 ## notes
 

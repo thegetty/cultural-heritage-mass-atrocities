@@ -135,21 +135,6 @@ The Blue Shield’s areas of activity, and the urgent need to address the eight 
 
 ## Suggested Readings
 
-Robert Bevan, *The Destruction of Memory: Architecture at War* (London: Reaktion Books, 2006).
-
-Emma Cunliffe, Paul Fox, and Peter G. Stone, eds., *The Protection of Cultural Property in the Event of Armed Conflict: Unnecessary Distraction or Mission-Relevant Priority?* (Brussels: NATO, July 2018), NATO OPEN Publications vol. 2, no. 4, https://www.act.nato.int/images/stories/media/doclibrary/open201804-cultural-property.pdf.
-
-Geneva Call, *Culture under Fire: Armed Non-state Actors and Cultural Heritage in War* (Geneva: Geneva Call, 2018).
-
-Roger O’Keefe, *The Protection of Cultural Property in Armed Conflict* (Cambridge: Cambridge University Press, 2006).
-
-RASHID International, Endangered Archaeology in the Middle East and North Africa
-
-(Eamena), and Yazda, *Destroying the Soul of the Yazidis: Cultural Heritage Destruction during the Islamic State’s Genocide against the Yazidis* (Munich: RASHID International, August 2019), https://www.yazda.org/post/new-report-cultural-heritage-destruction-during-the-islamic-state-s-genocide-against-the-yazidis.
-
-Laurie Rush, *Archaeology, Cultural Property, and the Military* (Woodbridge, UK: Boydell & Brewer, 2010).
-
-Peter G. Stone and Joanne Farchakh Bajjaly, eds., *The Destruction of Cultural Heritage in Iraq* (Woodbridge, UK: Boydell & Brewer, 2008).
 
 ## Notes
 

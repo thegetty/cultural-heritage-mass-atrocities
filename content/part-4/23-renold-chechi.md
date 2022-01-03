@@ -114,15 +114,6 @@ The importance of promoting and developing human rights education is underlined 
 
 ## Suggested Readings
 
-Janet Blake, *International Cultural Heritage Law* (Oxford: Oxford University Press, 2015).
-
-Francesco Francioni and Ana Filipa Vrdoljak, eds., *The Oxford Handbook of International Cultural Heritage Law* (Oxford: Oxford University Press, 2020).
-
-Federico Lenzerini, *The Culturalization of Human Rights Law* (Oxford: Oxford University Press, 2014).
-
-Roger O’Keefe, *The Protection of Cultural Property in Armed Conflict* (Cambridge: Cambridge University Press, 2006).
-
-Riccardo Pavoni, “International Legal Protection of Cultural Heritage in Armed Conflict: Achievements and Developments,” *Studi Senesi* 132, no. 2 (2020): 335–57.
 
 ## Notes
 

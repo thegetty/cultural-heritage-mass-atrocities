@@ -169,21 +169,6 @@ Still, gains in global cultural heritage governance are neither to be achieved e
 
 ## Suggested Readings
 
-Irina Bokova, *UNESCO’s Response to the Rise of Violent Extremism: A Decade of Building International Momentum in the Struggle to Protect Cultural Heritage* (Los Angeles: J. Paul Getty Trust, 2021), Occasional Papers in Cultural Heritage Policy no. 3.
-
-Christina Cameron, “Reconstruction: Changing Attitudes,” *The UNESCO Courier* 2 (July–September 2017): 56–59.
-
-James Cuno and Thomas G. Weiss, eds., *Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict* (Los Angeles: Getty Publications, 2020).
-
-Francesco Francioni with the assistance of Federico Lenzerini, eds., *The 1972 World Heritage Convention: A Commentary* (Oxford: Oxford University Press, 2011).
-
-Wolfgang Schneider and Daniel Gad, eds., *Good Governance for Cultural Policy: An African-European Research about Arts and Development* (Frankfurt am Main: Peter Lang, 2014).
-
-Claire Smith, Heather Burke, Cherrie de Leiuen, and Gary Jackson, “The Islamic State’s Symbolic War: Da’esh’s Socially Mediated Terrorism as a Threat to Cultural Heritage,” *Journal of Social Archaeology* 16, no. 2 (2016): 164–88.
-
-Sabine von Schorlemer, “Cultural Heritage Protection as a Security Issue in the 21st Century: Recent Developments,” *Indonesian Journal of International Law* 16, no. 1 (2018): 28–60.
-
-Sabine von Schorlemer, “Military Intervention, the UN Security Council, and the Role of UNESCO: The Case of Mali,” in *Intersections in International Cultural Heritage Law*, ed. Anne-Marie Carstens and Elizabeth Varner (Oxford: Oxford University Press, 2020), 82–103.
 
 ## Notes
 

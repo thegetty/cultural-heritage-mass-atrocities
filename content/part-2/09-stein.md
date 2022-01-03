@@ -139,17 +139,7 @@ The flexibility and potential power of the performative destruction paradigm is 
 
 ## Suggested Readings
 
-Stephane J. Baele, Katharine A. Boyd, and Travis G. Coan, eds., *ISIS Propaganda: A Full-Spectrum Extremist Message* (New York: Oxford University Press 2020).
 
-Michael Danti, “Ground-Based Observations of Cultural Heritage Incidents in Syria and Iraq,” *Near Eastern Archaeology* 78, no. 3 (2015): 132–41.
-
-Christoph Gunther and Tom Bioly, “Testimonies for a New Social Order: The Islamic State’s Iconic Iconoclasm,” in *Image Testimonies: Witnessing in Times of Social Media*, ed. Kerstin Schankweiler, Verena Straub, and Tobias Wendl (London: Routledge, 2019), 154–66.
-
-Bernard Haykel, “On the Nature of Salafi Thought and Action,” in *Global Salafism: Islam’s New Religious Movement*, ed. Roel Meijer (New York: Columbia University Press, 2009), 33–57.
-
-Jack Moore, “European Parliament Recognizes ISIS Killing of Religious Minorities as Genocide,” *Newsweek*, 4 February 2016.
-
-Claire Smith, Heather Burke, Cherie de Leiuen, and Gary Jackson, “The Islamic State’s Symbolic War: Da’esh’s Socially Mediated Terrorism as a Threat to Cultural Heritage,” *Journal of Social Archaeology* 16 (2016): 164–88.
 
 ## Notes
 

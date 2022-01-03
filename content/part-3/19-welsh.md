@@ -139,17 +139,6 @@ Any concerted strategy to leverage the opportunities that exist for encouraging 
 
 ## Suggested Readings
 
-Simone Molin Friis, “‘Behead, Burn, Crucify, Crush’: Theorizing the Islamic State’s Public Displays of Violence,” *European Journal of International Relations* 24, no. 2 (2018): 243–67.
-
-Lee A. Fujii, “The Puzzle of Extra-Lethal Violence,” *Perspectives on Politics* 11, no. 2 (2013): 410–26.
-
-Geneva Call, *Culture under Fire: Armed Non-state Actors and Cultural Heritage in Wartime* (Geneva: Geneva Call, October 2018), https://genevacall.org/wp-content/uploads/2017/10/Cultural_Heritage_Study_Final.pdf.
-
-Hyeran Jo, *Compliant Rebels: Rebel Groups and International Law in World Politics* (Cambridge: Cambridge University Press, 2015).
-
-Brian McQuinn, Fiona Terry, Oliver Kaplan, and Francisco Gutiérrez-Sanin, “Promoting Restraint in War,” *International Interactions* (published online 26 August 2021).
-
-Jessica A. Stanton, *Violence and Restraint in War* (Cambridge: Cambridge University Press, 2016).
 
 ## Notes
 

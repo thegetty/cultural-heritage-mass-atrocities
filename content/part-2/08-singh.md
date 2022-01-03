@@ -134,27 +134,9 @@ The truth, unfortunately, is often more complex. In Sri Lanka and Afghanistan, e
 
 **Sri Lanka**
 
-Malathi de Alwis, “Trauma, Memory, Forgetting,” in *Sri Lanka: The Struggle for Peace in the Aftermath of War*, ed. Amarnath Amarasingham and Daniel Bass (London: Christopher Hurst, 2016), 147–61.
-
-Jude Fernando, “Heritage & Nationalism: A Bane of Sri Lanka,” *Colombo Telegraph*, 29 March 2015, https://www.colombotelegraph.com/index.php/heritage-nationalism-a-bane-of-sri-lanka/.
-
-Sasanka Perera, *Violence and the Burden of Memory: Remembrance and Erasure in Sinhala Consciousness* (New Delhi: Orient BlackSwan, 2016).
-
-Samanth Subramanian, *This Divided Island: Stories from the Sri Lankan War* (London: Penguin Books, 2014).
-
-Nira Wickramasinghe, “Producing the Present: History as Heritage in Post-war Patriotic Sri Lanka,” *Economic and Political Weekly* 48, no. 43 (2013): 91–100.
 
 **Afghanistan**
 
-Finbarr Barry Flood, “Between Cult and Culture: Bamiyan, Islamic Iconoclasm, and the Museum,” *Art Bulletin* 84, no. 4 (2002): 641–59.
-
-Ankita Haldar, “Echoes from the Empty Niche: Bamiyan Buddha Speaks Back,” *Himalayan and Central Asian Studies* 16, no. 2 (2012): 53–91.
-
-Luke Harding, “How the Buddha Got His Wounds,” *Guardian*, 3 March 2001.
-
-Syed Reza Husseini, “Destruction of Bamiyan Buddhas: Taliban Iconoclasm and Hazara Response,” *Journal of Himalayan and Central Asian Studies* 16, no. 2 (2012): 15–50.
-
-Llewellyn Morgan, *The Buddhas of Bamiyan* (Cambridge, MA: Harvard University Press, 2012).
 
 ## Notes
 

@@ -140,15 +140,6 @@ Overall, the international system of protection of cultural property in time of 
 
 ## Suggested Readings
 
-Kevin Chamberlain, *War and Cultural Heritage: An Analysis of the 1954 Convention for the Protection of Cultural Property in the Event of Armed Conflict and Its Two Protocols*, 2nd ed. (Builth Wells, UK: Institute of Art and Law, 2012).
-
-Francesco Francioni and Ana Filipa Vrdoljak*, The Oxford Handbook of International Cultural Heritage Law* (Oxford: Oxford University Press, 2020).
-
-Marina Lostal, *International Cultural Heritage Law in Armed Conflict: Case-Studies of Syria, Libya, Mali, the Invasion of Iraq, and the Buddhas of Bamiyan* (Cambridge: Cambridge University Press, 2017).
-
-Roger O’Keefe, *The Protection of Cultural Property in Armed Conflict* (Cambridge: Cambridge University Press, 2009).
-
-“Protection of Cultural Property in Armed Conflict,” special issue, *International Review of the Red Cross*, no. 854 (June 2004), https://international-review.icrc.org/reviews/irrc-no-854-protection-cultural-property-armed-conflict.
 
 ## Notes
 

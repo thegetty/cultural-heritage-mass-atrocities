@@ -105,17 +105,7 @@ This approach should at a minimum be extended to all UN peacekeeping missions wh
 
 ## Suggested Readings
 
-Leila Amineddoleh, “The Legal Tools Used before and during Conflict to Avoid Destruction of Cultural Heritage,” *Future Anterior* 14, no. 1 (2017): 37–48.
 
-Francesco Bandarin, “The Reconstruction and Recovery of Syrian Cultural Heritage: The Case of the Old City of Aleppo,” in *Collapse and Rebirth of Cultural Heritage*, ed. Lorenzo Kamel (New York: Peter Lang, 2020), 45–77.
-
-Ross Burns, *Aleppo: A History* (New York: Routledge, 2017).
-
-Raymond Hinnebusch and Adham Sauli, *The War for Syria* (New York: Routledge, 2020).
-
-UNESCO and UNITAR, *Five Years of Conflict: The State of Cultural Heritage in the Ancient City of Aleppo* (Paris: UNESCO, 2018).
-
-Carmit Valensi and Itamar Rabinovich, *Syrian Requiem: The Civil War and Its Aftermath* (Princeton, NJ: Princeton University Press, 2021).
 
 ## Notes
 

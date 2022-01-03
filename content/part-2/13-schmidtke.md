@@ -75,15 +75,7 @@ For Yemen’s book culture, it is a curse and a blessing that some of the most p
 
 ## Suggested Readings
 
-David Hollenberg, Christoph Rauch, and Sabine Schmidtke, eds., *The Yemeni Manuscript Tradition* (Leiden, Netherlands: Brill, 2015).
 
-Brinkley Messick, *Sharīʿa Scripts: A Historical Anthropology* (New York: Columbia University Press, 2019).
-
-Valentina Sagaria Rossi and Sabine Schmidtke, “The Zaydi Manuscript Tradition (ZMT) Project: Digitizing the Collections of Yemeni Manuscripts in Italian Libraries,” *Comparative Oriental Manuscript Studies (COMSt) Bulletin* 5, no. 1 (2019): 43–60.
-
-Sabine Schmidtke, *Traditional Yemeni Scholarship amidst Political Turmoil and War: Muḥammad b. Muḥammad b. Ismāʿīl b. al-Muṭahhar al-Manṣūr (1915–2016) and His Personal Library* (Cordoba: UCOPress, 2018).
-
-Nancy Um, “Yemeni Manuscripts Online: Digitization in an Age of War and Loss,” *Manuscript Studies* 5, no. 1 (2021), https://repository.upenn.edu/mss_sims/vol5/iss1/1.
 
 ## Notes
 

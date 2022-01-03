@@ -119,13 +119,6 @@ These two stories carry hope in the same way that all fleeing people carry hope 
 
 ## Suggested Readings
 
-Jonathan Cuénoud and Benjamin Charlier, “Cultural Heritage under Attack,” *Humanitarian Law and Policy* (blog), ICRC, 18 February 2021, https://blogs.icrc.org/law-and-policy/2021/02/18/cultural-heritage-under-attack/.
-
-Christiane Johannot-Gradis, “Protecting the Past for the Future: How Does Law Protect Tangible and Intangible Cultural Heritage in Armed Conflict?” *International Review of the Red Cross* 97, no. 900 (2016): 1253–75, https://international-review.icrc.org/articles/protecting-past-future-how-does-law-protect-tangible-and-intangible-cultural-heritage.
-
-Joris D. Kila and James A. Zeidler, eds., *Cultural Heritage in the Crosshairs: Protecting Cultural Property during Conflict* (Boston: Brill, 2013).
-
-Hugo Slim, *Humanitarian Ethics: The Morality of Aid in War and Disaster* (New York: Oxford University Press, 2015).
 
 ## Notes
 

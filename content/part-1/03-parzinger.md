@@ -147,21 +147,7 @@ And third, there is a growing consciousness of the need for cultural protection,
 
 ## Suggested Readings
 
-Stacy Boldrick, Leslie Brubaker, and Richard Clay, eds., *Striking Images, Iconoclasms Past and Present* (Farnham, UK: Ashgate, 2013).
 
-Noah Charney, ed., *Art Crime: Terrorists, Tomb Raiders, Forgers and Thieves* (London: Palgrave Macmillan, 2016).
-
-Dario Gamboni, *The Destruction of Art: Iconoclasm and Vandalism since the French Revolution* (London: Reaction Books, 1997).
-
-Joris D. Kila and Marc Balcells, eds., *Cultural Property Crime: An Overview and Analysis of Contemporary Perspectives and Trends* (Leiden, Netherlands: Brill, 2015).
-
-Kristine Kolrud and Marina Prusac, eds., *Iconoclasm from Antiquity to Modernity* (Farnham, UK: Ashgate, 2014).
-
-James Noyes, *The Politics of Iconoclasm: Religion, Violence and the Culture of Image-Breaking in Christianity and Islam* (London: IB Tauris, 2016).
-
-Hermann Parzinger, *Verdammt und vernichtet: Kulturzerstörungen vom Alten Orient bis zur Gegenwart* (Munich: CH Beck, 2021).
-
-Jo Tollebeek and Eline van Assche, eds., *Ravaged: Art and Culture in Times of Conflict* (Leuven, Belgium: Mercatorfonds, 2014).
 
 ## Notes
 

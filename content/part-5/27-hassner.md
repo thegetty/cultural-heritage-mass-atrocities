@@ -113,15 +113,6 @@ The fifth and final lesson is that opponents will take advantage of that hesitat
 
 ## Suggested Readings
 
-Robert M. Edsel, *Saving Italy: The Race to Rescue a Nation’s Treasures from the Nazis* (New York: WW Norton, 2013).
-
-Sumit Ganguly and C. Christine Fair, eds., *Treading on Sacred Ground* (Oxford: Oxford University Press, 2008).
-
-David Hapgood and David Richardson, *Monte Cassino* (New York: Congdon and Weed, 1984).
-
-Ron E. Hassner, *Religion on the Battlefield* (Ithaca, NY: Cornell University Press, 2016).
-
-Ron E. Hassner, *War on Sacred Grounds* (Ithaca, NY: Cornell University Press, 2009).
 
 ## Notes
 

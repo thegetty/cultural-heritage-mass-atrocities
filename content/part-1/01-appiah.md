@@ -197,13 +197,7 @@ checked on the questionnaire of humanity; it’s a process you join, in living a
 
 ## Suggested Readings
 
-Jerry Brotton, *The Sultan and the Queen: The Untold Story of Elizabeth and Islam* (New York: Penguin, 2016).
 
-Christopher GoGwilt, *The Invention of the West* (Palo Alto, CA: Stanford University Press, 1995).
-
-David Levering Lewis, *God’s Crucible: Islam and the Making of Europe* (New York: WW Norton, 2009).
-
-James Reston, Jr., *Defenders of the Faith: Christianity and Islam Battle for the Soul of Europe, 1520–1536* (New York: Penguin, 2009).
 
 ## Notes
 

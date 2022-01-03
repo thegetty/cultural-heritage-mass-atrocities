@@ -121,19 +121,6 @@ As Fatou Bensouda, the ICC chief prosecutor at the time, stated in the *Al Mahdi
 
 ## Suggested Readings
 
-Kevin Chamberlain, *War and Cultural Heritage: A Commentary on the Hague Convention 1954 and Its Two Protocols*, 2nd ed. (Builth Wells, UK: Institute of Art and Law, 2013).
-
-Francesco Francioni, “Beyond State Sovereignty: The Protection of Cultural Heritage as a Shared Interest of Humanity,” *Michigan Journal of International Law* 25 (2004): 1209–28.
-
-Patty Gerstenblith, “The Destruction of Cultural Heritage: A Crime against Property or a Crime against People?’ *John Marshall Review of Intellectual Property Law* 15 (2016) 336–93.
-
-Federico Lenzerini, “Terrorism, Conflicts and the Responsibility to Protect Cultural Heritage,” *International Spectator* 51, no. 2 (2016): 70–85.
-
-Polina Levina Mahnad, “Protecting Cultural Property in Syria: New Opportunities for States to Enhance Compliance with International Law?” *International Review of the Red Cross* 99 (2019): 1037–74.
-
-Stephennie Mulder, “Imagining Localities of Antiquity in Islamic Societies,” *International Journal of Islamic Architecture* 6, no. 2 (2017): 229–54.
-
-Joseph L. Sax, “Heritage Preservation as a Public Duty: The Abbé Grégoire and the Origins of an Idea,” *Michigan Law Review* 88 (1989–90): 1142–69.
 
 ## Notes
 

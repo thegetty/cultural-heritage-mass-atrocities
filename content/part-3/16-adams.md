@@ -141,17 +141,7 @@ That, after all, was the whole point of Bokova’s “cultural cleansing” argu
 
 ## Suggested Readings
 
-Simon Adams, *Mass Atrocities, the Responsibility to Protect and the Future of Human Rights: “If Not Now, When?”* (New York: Routledge, 2021).
 
-Alex J. Bellamy and Edward C. Luck, *The Responsibility to Protect: From Promise to Practice* (Medford, MA: Polity Press, 2018).
-
-Irina Bokova, “Culture on the Front Line of New Wars,” *The Brown Journal of World Affairs* 22, no.1 (2015): 289–96.
-
-Global Centre for the Responsibility to Protect, “Protecting Cultural Heritage,” https://www.globalr2p.org/cultural-heritage/.
-
-Edward C. Luck, *Cultural Genocide and the Protection of Cultural Heritage* (Los Angeles: J. Paul Getty Trust, 2018), Occasional Papers in Cultural Heritage Policy no. 2.
-
-Nick Waters, “Are Historic Mosques in Xinjiang Being Destroyed?” Bellingcat, 5 April 2019, https://www.bellingcat.com/news/rest-of-world/2019/04/05/are-historic-mosques-in-xinjiang-being-destroyed/.
 
 ## Notes
 

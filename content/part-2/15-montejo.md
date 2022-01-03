@@ -123,17 +123,7 @@ Finally, we recognize that Maya resiliency has been fundamental to their ability
 
 ## Suggested Readings
 
-Robert M. Carmack, ed., *Harvest of Violence: The Maya Indians and the Guatemalan Crisis* (Oklahoma City: University of Oklahoma Press, 1992).
 
-Patricia A. McAnany, *Maya Cultural Heritage: How Archaeologists and Indigenous Communities Engage the Past* (Lanham, MD: Rowman & Littlefield, 2016).
-
-Rigoberta Menchu, *I, Rigoberta Menchu an Indian Woman in Guatemala*, 2nd ed., ed. Elisabeth Burgos-Debray, trans. Ann Wright (New York: Verso Books, 2009).
-
-Victor D. Montejo, *Voices from Exile: Violence and Survival in Modern Guatemalan History* (Oklahoma City: University of Oklahoma Press, 1999).
-
-Próspero Penados del Barrio (Archbishop of Guatemala), *Guatemala: Never Again!* (New York: Orbis Books, 1999), Recovery of Historical Memory Project, the Official Report of the Human Rights Office Archdiocese of Guatemala.
-
-Kay B. Warren, *Indigenous Movements and Their Critics: Pan-Maya Activism in Guatemala* (Princeton, NJ: Princeton University Press, 1998).
 
 ## Notes
 

@@ -95,13 +95,7 @@ Late antiquity serves to teach us this painful lesson. It is scarcely comforting
 
 ## Suggested Readings
 
-Aziz al-Azmeh, *The Emergence of Islam in Late Antiquity* (Cambridge: Cambridge University Press, 2014).
 
-Alan Cameron, *The Last Pagans of Rome* (Oxford: Oxford University Press, 2011).
-
-Kyle Harper, *The Fate of Rome: Climate, Disease, and the End of an Empire* (Princeton, NJ: Princeton University Press, 2017).
-
-Fergus Millar, *A Greek Roman Empire: Power and Belief under Theodosius II, 408–450* (Berkeley, CA: University of California Press, 2006).
 
 ## Notes
 

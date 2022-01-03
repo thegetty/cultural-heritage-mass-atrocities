@@ -105,13 +105,6 @@ After the occupation of Timbuktu, it was possible to demonstrate that cultural h
 
 ## Selected Readings
 
-Lazare Eloundou and Ishanlosen Odiaua, *African World Heritage: A Remarkable Diversity* (Paris: UNESCO, 2012).
-
-Emma Charlene Lubaale, "The first cultural-property conviction at the ICC: an analysis of the Mahdi Judgement." *South African Yearbook on International Law*, no. 1 (2016): 126–64.
-
-Jadranka Petrovic, "What Next for Endangered Cultural Heritage? The Timbuktu Crisis and the Reponsibility to Protect." *New Zealand Journal of Public and International Law* 11, no. 2 (2013): 381–425.
-
-Frédéric Foka Taffo, "Al Mahdi's Case before the International Criminal Court: A Landmark Decision in the Protection of Cultural and Religious Sites." *Conflict Trends*, no. 4 (2016): 42–49.
 
 ## Notes
 

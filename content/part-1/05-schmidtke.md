@@ -99,17 +99,7 @@ There are many reasons why a certain book has come down to us while others fall 
 
 ## Suggested Readings
 
-Hassan Ansari and Sabine Schmidtke, “Bibliographical Practices in Islamic Societies, with an Analysis of MS Berlin, Staatsbibliothek zu Berlin, Hs. or. 13525,” *Intellectual History of the Islamicate World* 4 (2016): 102–51.
 
-Hassan Ansari and Sabine Schmidtke, *Al-Šarīf al-Murtaḍā’s Oeuvre and Thought in Context: An Archaeological Inquiry into Texts and Their Transmission* (Cordoba: Cordoba University Press, 2022).
-
-Jonathan M. Bloom, *From Paper to Print: The History and Impact of Paper in the Islamic World* (New Haven, CT: Yale University Press, 2001).
-
-François Déroche et al., *Islamic Codicology: An Introduction to the Study of Manuscripts in Arabic Script* (London: al-Furqān Islamic Heritage Foundation, 2015).
-
-Beatrice Gründler, *The Rise of the Arabic Book* (Cambridge, MA: Harvard University Press, 2020).
-
-Konrad Hirschler, *The Written Word in the Medieval Arabic Lands: A Social and Cultural History of Reading Practices* (Edinburgh: Edinburgh University Press, 2012).
 
 ## Notes
 

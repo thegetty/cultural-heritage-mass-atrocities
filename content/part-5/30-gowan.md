@@ -127,15 +127,6 @@ If the UN—and other multilateral organizations that take policy ideas from the
 
 ## Selected Readings
 
-International Crisis Group, *Collapse in Kosovo* (Brussels: International Crisis Group, April 2004).
-
-Carlos Jaramillo, “Famagusta, Cyprus: Cultural Heritage and the Center of Political and Cultural Contestation,” in *Cultural Contestation*, ed. Jeroen Rodenberg and Pieter Wagenaar (London: Palgrave Macmillan, 2018).
-
-Mathilde Leloup, “Heritage Protection as Stabilisation, the Emergence of a New ‘Mandated Task’ for UN Peace Operations,” *International Peacekeeping* 26, no. 4 (2019): 408–30.
-
-Frederik Rosén, *NATO and Cultural Property: Embracing New Challenges in the Era of Identity Wars* (Copenhagen: Nordic Center for Cultural Heritage & Armed Conflict, CHAC, 2017).
-
-John M. Russell, “Efforts to Protect Archaeological Sites and Monuments in Iraq, 2003–2004,” in *Catastrophe! The Looting and Destruction of Iraq’s Past*, ed. Geoff Emberling and Katharyn Hanson (Chicago: Oriental Institute Museum of the University of Chicago, 2008).
 
 ## Notes
 

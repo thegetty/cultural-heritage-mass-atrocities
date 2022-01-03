@@ -129,17 +129,7 @@ Today, Homs has been transformed from a dull city to a dead city. The piecemeal 
 
 ## Suggested Readings
 
-Talal Akili, *The Great Mosque of Damascus: From Roman Temple to Monument of Islam* (Damascus: Municipal Administration Modernisation Program, 2009).
 
-Marwa al-Sabouni, *The Battle for Home:* *The Vision of a Young Architect in Syria* (London: Thames & Hudson, 2016).
-
-Marwa al-Sabouni, *Building for Hope: Towards an Architecture of Belonging* (London: Thames & Hudson, 2021).
-
-Diana Darke, *Stealing from the Saracens: How Islamic Architecture Shaped Europe* (London: Hurst, 2020).
-
-Nasser Rabbat, *Mamluk History through Architecture: Monuments, Culture and Politics in Medieval Egypt and Syria* (London: IB Tauris, 2010).
-
-Joseph Rosa, Cathrine Veikos, and Sidney Williams, *Albert Frey and Lina Bo Bardi: A Search for Living Architecture* (Munich: Prestel, 2017).
 
 ## Notes
 

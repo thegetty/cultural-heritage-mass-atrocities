@@ -121,15 +121,6 @@ The primary conclusion of this discussion is that the humanitarian justification
 
 ## Suggested Readings
 
-Michael Barnett, *Empire of Humanity: A History of Humanitarianism* (Ithaca, NY: Cornell University Press, 2011).
-
-Drew Gilpin Faust, *This Republic of Suffering: Death and the American Civil War* (New York: Vintage, 2008).
-
-Christopher Merrill, *The Old Bridge: The Third Balkan War and the Age of the Refugee* (Minneapolis: Milkweed Editions, 1995).
-
-Philippe Sands, *East West Street: On the Origins of Genocide and Crimes against Humanity* (New York: Knopf, 2018).
-
-Hugo Slim, *Humanitarian Ethics* (Oxford: Oxford University Press, 2015).
 
 ## Notes
 

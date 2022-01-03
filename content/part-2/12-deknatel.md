@@ -141,29 +141,13 @@ So far, the fate of some prominent cultural heritage sites in Syria has taken a 
 
 ## Suggested Readings
 
-Rania Abouzeid, *No Turning Back: Life, Loss, and Hope in Wartime Syria*
 
-(New York: WW Norton, 2019).
-
-Joseph Daher, *Syria after the Uprisings: The Political Economy of State Resilience*
-
-(Chicago: Haymarket Books, 2020).
-
-Samir Kassir, *Beirut*, trans. MB DeBevoise (Berkeley: University of California Press, 2010).
-
-Philip S. Khoury and Samir Khalaf, eds., *Recovering Beirut: Urban Design and Post-war Reconstruction* (Leiden, Netherlands: Brill, 1993).
-
-Lisa Wedeen, *Authoritarian Apprehensions: Ideology, Judgment, and Mourning in Syria*
-
-(Chicago: University of Chicago Press, 2018).
-
-Maha Yahya, ed., *Contentious Politics in the Syrian Conflict: Opposition, Representation, and Resistance* (Beirut: Carnegie Middle East Center, 2020).
-
-[^1]: Marwa al-Sabouni*, The Battle for Home: The Vision of a Young Architect in Syria* (London: Thames & Hudson, 2016).
 
 ## Notes
 
 </div>
+
+[^1]: Marwa al-Sabouni*, The Battle for Home: The Vision of a Young Architect in Syria* (London: Thames & Hudson, 2016).
 
 [^2]: See, for example, Albert Aji, “Syrian Troops Capture Historic Mosque in Homs,” Associated Press, 27 June 2013, https://apnews.com/b713dc88d5d649aca85506197446a600; and “Historic Mosque in Syria’s Homs Under Fire as Fighting Rages,” *VOA News*, 7 July 2013, https://www.voanews.com/a/historic-mosque-in-syrias-homs-under-fire-as-fighting-rages/1696779.html.
 

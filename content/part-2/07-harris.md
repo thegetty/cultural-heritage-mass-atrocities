@@ -145,15 +145,6 @@ Ultimately, perhaps, hope for the survival of the unique culture surrounding thi
 
 ## Suggested Readings
 
-Rachel Harris, *Soundscapes of Uyghur Islam* (Bloomington: Indiana University Press, 2020).
-
-Christina Maags and Marina Svensson, eds., *Chinese Heritage in the Making*: *Experiences, Negotiations and Contestations* (Amsterdam: Amsterdam University Press, 2018).
-
-Sean R. Roberts, *The War on the Uyghurs: China’s Campaign against Xinjiang’s Muslims* (Manchester: Manchester University Press, 2020).
-
-Nathan Ruser, with James Leibold, Kelsey Munro, and Tilla Hoja, *Cultural Erasure: Tracing the Destruction of Uyghur and Islamic Spaces in Xinjiang* (Canberra: Australian Strategic Policy Institute, September 2020), https://www.aspi.org.au/report/cultural-erasure.
-
-Rian Thum, *The Sacred Routes of Uyghur History* (Boston: Harvard University Press, 2014).
 
 ## Notes
 

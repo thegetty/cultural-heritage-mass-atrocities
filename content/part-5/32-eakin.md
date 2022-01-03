@@ -138,15 +138,6 @@ Even after some of the most violent conflicts, the cultural heritage of opposing
 
 ## Suggested Readings
 
-Robert Bevan, *The Destruction of Memory: Architecture at War*, 2nd ed. (London: Reaktion Books, 2016).
-
-Charlie English, *The Storied City: The Quest for Timbuktu and the Fantastic Mission to Save Its Past* (New York: Riverhead, 2017).
-
-Ron E. Hassner, *War on Sacred Grounds* (Ithaca, NY: Cornell University Press, 2009).
-
-Andrew Herscher, *Violence Taking Place: The Architecture of the Kosovo Conflict* (Palo Alto, CA: Stanford University Press, 2010).
-
-Lynn Meskell, *A Future in Ruins: UNESCO, World Heritage, and the Dream of Peace* (Oxford: Oxford University Press, 2018).
 
 ## Notes
 

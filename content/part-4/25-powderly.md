@@ -151,15 +151,6 @@ With the burgeoning case law of the ICC, there is cause for optimism that intern
 
 ## Suggested Readings
 
-Serge Brammertz, Kevin C. Hughes, Alison Kipp, and William B. Tomljanovich, “Attacks against Cultural Heritage as a Weapon of War: Prosecutions at the ICTY,” *Journal of International Criminal Justice* 14, no. 5 (2016): 1143–74.
-
-Micaela Frulli, “The Criminalization of Offences against Cultural Heritage in Times of Armed Conflict: The Quest for Consistency,” *European Journal of International Law* 22, no. 1 (2011): 203–17.
-
-ICC, Office of the Prosecutor, *Policy on Cultural Heritage* (The Hague: ICC, June 2021), https://www.icc-cpi.int/itemsDocuments/20210614-otp-policy-cultural-heritage-eng.pdf.
-
-Ana Filipa Vrdoljak, “Cultural Heritage in Human Rights and Humanitarian Law,” in *International Humanitarian Law and International Human Rights Law*, ed. Orna Ben-Nephtali (Oxford: Oxford University Press, 2011), 250–302.
-
-Karolina Wierczyńska and Andrzej Jakubowski, “Individual Criminal Responsibility for Deliberate Destruction of Cultural Heritage: Contextualizing the ICC Judgment in the *Al-Mahdi* Case,” *Chinese Journal of International Law* 16, no. 4 (2017): 695–721.
 
 ## Notes
 

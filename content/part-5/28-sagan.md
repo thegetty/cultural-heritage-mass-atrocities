@@ -115,15 +115,6 @@ It is important that more governments recognize that protection of cultural heri
 
 ## Suggested Readings
 
-Joseph H. Felter and Jacob N. Shapiro, “Limiting Civilian Casualties as Part of a Winning Strategy: The Case of Courageous Restraint,” *Daedalus* 146, no. 1 (2017): 44–58.
-
-Laura Ford Savarese and John Fabian Witt, “Strategy & Entailments: The Enduring Role of Law in the US Armed Forces,” *Daedalus* 146, no. 1 (2017): 11–23.
-
-Patty Gerstenblith, “From Bamiyan to Baghdad: Warfare and the Preservation of Cultural Heritage at the Beginning of the 21^st^ Century,” *Georgetown Journal of International Law* 37, no. 2 (2006): 245–351.
-
-Katherine E. McKinney, Scott D. Sagan, and Allen S. Weiner, “Why the Atomic Bombing of Hiroshima Would Be Illegal Today,” *Bulletin of Atomic Scientists* 76, no. 4 (2020): 157–65.
-
-Wayne Sandholtz, *Prohibiting Plunder: How Norms Change* (New York: Oxford University Press, 2007).
 
 ## Notes
 

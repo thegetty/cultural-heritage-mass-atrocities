@@ -137,21 +137,7 @@ At the same time, no corresponding customary norms can be found today in relatio
 
 ## Suggested Readings
 
-Janet Blake, *International Cultural Heritage Law* (Oxford: Oxford University Press, 2015).
 
-Francesco Francioni, “Beyond State Sovereignty: The Protection of Cultural Heritage as a Shared Interest of Humanity,” *Michigan Journal of International Law* 25, no. 4 (2004): 1209–28.
-
-Francesco Francioni and Federico Lenzerini, “The Destruction of the Buddhas of Bamiyan and International Law,” *European Journal of International Law* 14, no. 4 (2003): 619–51.
-
-Federico Lenzerini, “Intentional Destruction of Cultural heritage,” in *The Oxford Handbook of International Cultural Heritage Law*, ed. Francesco Francioni and Ana Filipa Vrdoljak (Oxford: Oxford University Press, 2020), 75–100.
-
-James AR Nafziger, “The Responsibility to Protect Cultural Heritage and Prevent Cultural Genocide,” in *The Oxford Handbook of International Cultural Heritage Law*, ed. Francesco Francioni and Ana Filipa Vrdoljak (Oxford: Oxford University Press, 2020), 121–44.
-
-Roger O’Keefe, *The Protection of Cultural Property in Armed Conflict* (Cambridge: Cambridge University Press, 2009).
-
-“Symposium: The Human Dimension of International Cultural Heritage Law,” special issue, *European Journal of International law* 22, no. 1 (2011).
-
-Ana Filipa Vrdoljak, ed., *The Cultural Dimension of Human Rights* (Oxford: Oxford University Press, 2013).
 
 ## Notes
 
