@@ -8,7 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Ruth Margolies
     last_name: Beitler
-    bio: "uth Margolies Beitler, PhD, is a Professor of Comparative Politics at the United States Military Academy at West Point. She is the Director of the Conflict and Human Security Studies Program and author or coauthor of four books and numerous book chapters and journal articles."
+    bio: "Ruth Margolies Beitler, PhD, is a Professor of Comparative Politics at the United States Military Academy at West Point. She is the Director of the Conflict and Human Security Studies Program and author or coauthor of four books and numerous book chapters and journal articles."
   - first_name: Dexter W.
     last_name: Dugan
     bio: "Dexter Dugan is an active-duty Major in the US Army, teaching at the United States Military Academy at West Point as an Instructor in International Relations. His military experience includes battalion and brigade staff officer positions in the Republic of Korea and Kuwait. With an academic focus in international security, he was a contributing author for the 2019 Columbia University report to the United Kingdom Home Office on prevention and deterrence strategies for transnational organized crime."
