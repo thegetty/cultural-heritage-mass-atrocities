@@ -309,7 +309,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-14-3-eloundou-assomo/info.json"
     alt: ""
     label: "Figure 14.3"
-    caption: "Figure 14.3. Destroyed Alpha Moya mausoleum—© UNESCO"
+    caption: "Destroyed Alpha Moya mausoleum—© UNESCO"
     credit: ""
 
   - id: "fig-14-4-eloundou-assomo"
@@ -468,6 +468,13 @@ figure_list:
     caption: "Burned books in the National Library, Baghdad, April 2003 (source: Roger Lemoyne/Getty Images, Getty Images 2059109)"
     credit: ""
 
+  - id: "fig-5-14-schmidtke"
+    src:
+    alt: ""
+    label: "Figure 5.14"
+    caption: "Evidence of ongoing illicit trafficking of manuscripts from Yemen (source: Ahmed Shaker, with kind permission)"
+    credit: ""
+
   - id: "fig-5-2-schmidtke"
     src: "figures/fig-5-2-schmidtke.jpg"
     alt: ""
@@ -481,7 +488,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-3-schmidtke/info.json"
     alt: ""
     label: "Figure 5.3"
-    caption: "5.3 Worldwide distribution of Islamic manuscripts (source: María Mercedes Tuya; with kind permission)"
+    caption: "Worldwide distribution of Islamic manuscripts (source: María Mercedes Tuya; with kind permission)"
     credit: ""
 
   - id: "fig-5-4-schmidtke"
