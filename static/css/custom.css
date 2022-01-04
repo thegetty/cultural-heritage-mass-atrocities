@@ -22,3 +22,8 @@
 .quire-page__content .content ul.readings .link-icon:hover svg {
   fill: var(--accent-color);
 }
+
+/* Hide author name in bios on essay pages */
+.quire-page__content .content .backmatter .quire-contributors-list.bio .title {
+  display: none;
+}
