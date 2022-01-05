@@ -95,7 +95,9 @@ Clearly, these conclusions are neither justified nor defensible. We must look fo
 
 ## Estimating the Total Economic Value of Cultural Assets
 
-Cultural heritage sites differ from other sites and from each other because of their aesthetic, historical, cultural, and social significance. In similar circumstances, environmental economists generally take a comprehensive look at value, using the concept of total economic value (**fig. 6.1**).
+Cultural heritage sites differ from other sites and from each other because of their aesthetic, historical, cultural, and social significance. In similar circumstances, environmental economists generally take a comprehensive look at value, using the concept of total economic value ([fig. 6.1](#fig-6-1-serageldin)).
+
+{{< q-figure id="fig-6-1-serageldin" >}}
 
 Total economic value is usually broken down into a number of categories of value. The breakdown and terminology vary slightly from analyst to analyst, but generally include use value (both direct and indirect), option value, and nonuse value. Use values include direct (or extractive) and indirect (or nonextractive) uses. Each is often further divided into additional subcategories. By disaggregating the value of a cultural heritage site into various components, the problem generally becomes far more intelligible and tractable.
 
