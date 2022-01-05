@@ -297,6 +297,4 @@ Any concerted strategy to leverage the opportunities that exist for encouraging 
 
 [^76]: Bertrand Perrochet, “Is Counter-Terrorism Killing Humanitarian Action in Nigeria?” Médecins Sans Frontières, 22 November 2019, https://www.msf.org/counter-terrorism-killing-humanitarian-action-nigeria.
 
-[^77]: UN General Assembly, *The United Nations Global Counter-Terrorism*
-
-    *Strategy Review*, UN doc. A/RES/70/291, 1 July 2016.
+[^77]: UN General Assembly, *The United Nations Global Counter-Terrorism Strategy Review*, UN doc. A/RES/70/291, 1 July 2016.
