@@ -1,6 +1,6 @@
 ---
 title: "After the Dust Settles"
-short_title: "ransitional Justice and Identity in the Aftermath of Cultural Destruction"
+subtitle: "Transitional Justice and Identity in the Aftermath of Cultural Destruction"
 label: "20"
 weight: 37
 type: essay
