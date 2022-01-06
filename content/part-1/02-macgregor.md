@@ -25,15 +25,14 @@ We may best be able to understand why people value cultural heritage if we consi
 
 <hr />
 
-*We tell ourselves stories in order to live.*
+> *We tell ourselves stories in order to live.*
+>
+> Joan Didion
 
-Joan Didion
-
-*… because being American is more than a pride we inherit.*
-
-*It’s the past we step into, and how we repair it.*
-
-Amanda Gorman (“The Hill We Climb,” read at the inauguration of US president Joseph Biden, Washington, DC, 20 January 2021)
+> *… because being American is more than a pride we inherit.* <br/>
+> *It’s the past we step into, and how we repair it.*
+>
+> Amanda Gorman (“The Hill We Climb,” read at the inauguration of US president Joseph Biden, Washington, DC, 20 January 2021)
 
 This is essentially a book about things. Things from the past, usually the distant past, and what may and should be done to prevent their destruction. The words used to describe those things—“cultural heritage”—are of course a metaphor, carrying over the European legal idea of ownership and inheritance from the private or family sphere into the public domain. And like all metaphors, it is helpful only to a certain point. This chapter seeks to explore the limits of that metaphor in helping us understand the creation and destruction of cultural heritage and in achieving our aim—the purpose of this book—to prevent or limit its loss.
 

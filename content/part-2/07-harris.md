@@ -25,23 +25,17 @@ Over the past few years, the Xinjiang Uyghur Autonomous Region has been transfor
 
 <hr />
 
-By the forest side, there was a river bed
-
-The tomb was a wonderful place
-
-Those who lay there were all martyrs
-
-Heroes and men of God
-
-…
-
-Flag poles were set out everywhere
-
-This day, at the time of afternoon prayer
-
-They played marches and tambourines
-
-They shouted through the desert plain[^1]
+> By the forest side, there was a river bed <br/>
+> The tomb was a wonderful place <br/>
+> Those who lay there were all martyrs <br/>
+> Heroes and men of God <br/>
+>
+> …
+>
+> Flag poles were set out everywhere <br/>
+> This day, at the time of afternoon prayer <br/>
+> They played marches and tambourines <br/>
+> They shouted through the desert plain[^1]
 
 If one were to remove these … shrines, the Uyghur people would lose contact with \[the\] earth. They would no longer have a personal, cultural, and spiritual history. After a few years we would not have a memory of why we live here or where we belong.[^2]
 
