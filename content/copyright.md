@@ -23,8 +23,7 @@ Unless otherwise indicated, the text of this work and figs. TK are licensed unde
 First edition, 2022<br />
 [github.com/thegetty/cultural-heritage-mass-atrocities](https://ggithub.com/thegetty/cultural-heritage-mass-atrocities)
 
-**Published by the J. Paul Getty Museum, Los Angeles**<br />
-Getty Publications<br />
+**Published by Getty Publications, Los Angeles**<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
 [getty.edu/publications](http://www.getty.edu/publications/)<br />

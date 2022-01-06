@@ -68,8 +68,7 @@ Unless otherwise indicated, the text of this work and figs. TK are licensed unde
 
 "Who Are We? Identity and Cultural Heritage" originally appeared in Kwame Anthony Appiah, The Lies That Bind: Rethinking Identity (New York: Liveright, 2018), 6–12 and 189–211, and is reproduced with permission.
 
-**Published by the J. Paul Getty Museum, Los Angeles**<br />
-Getty Publications<br />
+**Published by Getty Publications, Los Angeles**<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
 [getty.edu/publications](http://www.getty.edu/publications/)<br />
