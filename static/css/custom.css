@@ -6,7 +6,7 @@
   --white: #fff;
 }
 
-/* q-readings SHORTCODE */
+/* Q-READINGS SHORTCODE */
 .quire-page__content .content ul.readings,
 .quire-page__content .content ul.readings li,
 .quire-page__content .content ul.readings li ul {
@@ -32,8 +32,7 @@
   display: none;
 }
 
-/* TABLES */
-/* general improvments to styling, including to styles for leaflet modal view */
+/* IMPROVE TABLE STYLING INLINE & IN MODAL */
 .quire-figure__table {
   font-size: 1rem;
 }
@@ -93,4 +92,27 @@
   margin-top: 3rem;
   padding-top: 1rem;
   border-top: 1px solid #333;
+}
+
+/* ADJUST URL BREAKS IN PDF */
+@media print {
+  /* PrinceXML doesn’t seem to support <wbr> embedded in the URLs as a
+  method for suggesting places to break words, instead we're using here
+  the prince-text-replace specialty attribute to insert zero-width-spaces */
+  a[target=_blank],
+  .url-string a {
+    prince-text-replace: "/" "\200B/"
+                          "~" "\200B~"
+                          "." "\200B."
+                          "," "\200B,"
+                          "-" "\200B-"
+                          "_" "\200B_"
+                          "?" "\200B?"
+                          "#" "\200B#"
+                          "%" "\200B%"
+                          "=" "\200B="
+                          "&" "\200B&"
+                          "+" "\200B+"
+                          "\200B/\200B/" "//\200B";
+  }
 }
