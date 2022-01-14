@@ -1,5 +1,9 @@
 :root {
   --accent-color: #CF4747; /* Should match $accent-color in variables.scss */
+
+  --text-color: #333;
+  --black: #000;
+  --white: #fff;
 }
 
 /* q-readings SHORTCODE */
@@ -26,4 +30,60 @@
 /* Hide author name in bios on essay pages */
 .quire-page__content .content .backmatter .quire-contributors-list.bio .title {
   display: none;
+}
+
+/* TABLES */
+/* general improvments to styling, including to styles for leaflet modal view */
+.quire-figure__table {
+  font-size: 1rem;
+}
+.quire-figure__table thead th {
+  background-color: var(--accent-color);
+  color: var(--white) !important;
+}
+.quire-figure__table .table-key {
+  font-size: .75rem;
+}
+.quire-page__content .container .content table tbody th,
+.quire-page__content .container .content table tbody td {
+  border-left-width: 0;
+  border-right-width: 0;
+}
+.quire-deepzoom .leaflet-table table th,
+.quire-figure.table th {
+  background-color: var(--accent-color);
+  color: var(--white) !important;
+}
+.quire-figure__table {
+  padding-bottom: .25rem;
+}
+.quire-page__content table {
+  font-size: 1em;
+}
+.quire-page__content .quire-figure__table .table-key {
+  color: var(--text-color);
+  text-align: left;
+  display: block;
+  margin: .5em 0;
+}
+@media print {
+  .quire-page__content .quire-figure__table .table-key {
+    color: var(--black);
+  }
+}
+.quire-deepzoom .leaflet-table {
+  padding: 0 1.5rem 1.5rem;
+  background-color: inherit;
+}
+.quire-deepzoom .leaflet-table table,
+.quire-deepzoom .leaflet-table table + .table-key {
+  margin: auto;
+  width: fit-content;
+  background-color: var(--white);
+  padding: 1rem;
+}
+.quire-deepzoom .leaflet-table table + .table-key {
+  display: block;
+  background-color: inherit;
+  color: var(--white);
 }
