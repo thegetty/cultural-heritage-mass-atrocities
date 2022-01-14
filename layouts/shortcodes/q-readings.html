@@ -34,19 +34,50 @@ This shortcode creates a list of suggested readings, from a readings.yml file. T
   {{- range $pages -}}
   {{- $essay := "" -}}
   {{- $essay := .Page.File.BaseFileName -}}
+  {{- $categories := slice -}}
   {{- $readings := where .Site.Data.readings.entries "essay" $essay -}}
 
   {{- if gt (len $readings) 0 -}}
 
     <li><strong>{{ if .Page.Params.label }}{{ .Page.Params.label }}{{ .Site.Params.pageLabelDivider }}{{ end }}{{ partial "page-title.html" . }}</strong><a href="{{ .Permalink }}" class="link-icon">{{ partial "icon.html" (dict "type" "link" "description" "Go to essay") }}</a>
-      <ul>
+
     {{- range $readings -}}
-    <li>{{ .full | markdownify }}</li>
-    {{- end -}}
-      </ul></li>
+      {{- if .category -}}
+      {{- $categories = union (slice .category) $categories -}}
+      {{- end }}
     {{- end -}}
 
+    {{- if $categories -}}
+
+      <ul>
+      {{/* WARNING: This sort is a hack to get Sri Lanka before Afghanistan */}}
+      {{- range sort $categories "value" "desc" -}}
+        <li><strong>{{ . }}</strong>
+          <ul>
+            {{- range where $readings "category" .  -}}
+            <li>{{ .full | markdownify }}</li>
+            {{- end -}}
+          </ul></li>
+      {{- end -}}
+      </ul>
+
+    {{- else -}}
+
+      <ul>
+        {{- range $readings -}}
+        <li>{{ .full | markdownify }}</li>
+        {{- end -}}
+      </ul>
+
+    {{- end -}}
+
+    </li>
+    {{- end -}}
+
+    {{- $categories := "" -}}
+
   {{- end -}}
+
   </ul>
 
 {{- end -}}
