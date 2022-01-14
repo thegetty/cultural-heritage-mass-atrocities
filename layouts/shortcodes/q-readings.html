@@ -10,12 +10,39 @@ This shortcode creates a list of suggested readings, from a readings.yml file. T
 
   {{- $essay := "" -}}
   {{- $essay = .Page.File.BaseFileName -}}
+  {{- $categories := slice -}}
+  {{- $readings := where .Site.Data.readings.entries "essay" $essay -}}
 
-  <ul class="readings">
-  {{- range where .Site.Data.readings.entries "essay" $essay -}}
-  <li>{{ .full | markdownify }}</li>
+  {{- range $readings -}}
+    {{- if .category -}}
+    {{- $categories = union (slice .category) $categories -}}
+    {{- end }}
   {{- end -}}
-  </ul>
+
+  {{- if $categories -}}
+
+    <ul class="readings">
+    {{/* WARNING: This sort is a hack to get Sri Lanka before Afghanistan */}}
+    {{- range sort $categories "value" "desc" -}}
+      <li><strong>{{ . }}</strong>
+        <ul>
+          {{- range where $readings "category" .  -}}
+          <li>{{ .full | markdownify }}</li>
+          {{- end -}}
+        </ul></li>
+    {{- end -}}
+    </ul>
+
+  {{- else -}}
+
+    <ul class="readings">
+    {{- range $readings -}}
+    <li>{{ .full | markdownify }}</li>
+    {{- end -}}
+    </ul>
+
+  {{- end -}}
+  {{- $categories := "" -}}
 
 {{- else -}}
 

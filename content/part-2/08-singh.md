@@ -140,12 +140,6 @@ The truth, unfortunately, is often more complex. In Sri Lanka and Afghanistan, e
 
 {{< q-readings range="essay" >}}
 
-**Sri Lanka**
-
-
-**Afghanistan**
-
-
 ## Notes
 
 </div>
