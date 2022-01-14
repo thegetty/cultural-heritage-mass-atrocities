@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Neil
     last_name: MacGregor
+    type: secondary
     bio: "Neil MacGregor was director of the National Gallery and British Museum in London, and a founding director of the Humboldt Forum, Berlin. He is the author of many books, including *Seeing Salvation: Images of Christ in Art* (2000), *A History of the World in 100 Objects* (2011), *Shakespeare’s Restless World: An Unexpected History in Twenty Objects* (2012), *Germany: Memories of a Nation* (2016), and *Living with the Gods: On Beliefs and Peoples* (2018)."
 ---
 

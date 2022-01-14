@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Paul
     last_name: Wise
+    type: secondary
     bio: "Paul Wise, MD, is the Richard E. Behrman Professor of Child Health and Society and Professor of Pediatrics and Health Policy, Stanford University School of Medicine, and Senior Fellow in the Center on Democracy, Development, and the Rule of Law, and in the Center for International Security and Cooperation, Freeman Spogli Institute for International Studies, Stanford University. His research focuses on protecting health in violent and politically complex environments."
 ---
 
