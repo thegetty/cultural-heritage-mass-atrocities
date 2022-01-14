@@ -94,6 +94,14 @@
   border-top: 1px solid #333;
 }
 
+/* REMOVE BIOS FROM ESSAY IN PRINT */
+@media print {
+  .quire-essay h2#biography,
+  .quire-essay .quire-contributors-list.bio {
+    display: none;
+  }
+}
+
 /* ADJUST URL BREAKS IN PDF */
 @media print {
   /* PrinceXML doesn’t seem to support <wbr> embedded in the URLs as a
