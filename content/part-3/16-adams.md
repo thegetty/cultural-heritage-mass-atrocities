@@ -1,6 +1,6 @@
 ---
 title: "Cultural Cleansing and Mass Atrocities"
-short_title: "Cultural Cleansing & Mass Atrocities"
+short_title: "Cultural Cleansing and Mass Atrocities"
 label: "16"
 weight: 33
 type: essay
