@@ -26,6 +26,8 @@ We may best be able to understand why people value cultural heritage if we consi
 
 <hr />
 
+<section>
+
 > *We tell ourselves stories in order to live.*
 >
 > Joan Didion
@@ -51,7 +53,8 @@ The essential value of material cultural heritage is not that it provides physic
 
 By the same token, a powerful, sustaining story will often demand the elimination of objects which appear to contradict it. When the group’s narrative changes—as at moments of religious conversion or political revolution—the consequences for the material cultural heritage which carried the old narrative are always profound, and often calamitous. It cannot be otherwise—whether in the iconoclasms of the Protestant Reformation, of the French or Russian revolutions, or of the Islamic State of Iraq and Syria (ISIS). Their very destruction speaks to the power of those symbols to perpetuate the inherited worldview, and so to impede the building of a new society. Only very occasionally can you put new stories into old monuments.[^1]
 
-\[production: insert line space here\]
+</section>
+<section>
 
 This book came into existence between two episodes of cultural destruction which caught the public’s attention with rare intensity. It was conceived in the aftermath of the worldwide revulsion against the destruction of monuments of ancient civilizations and living religions across the Middle East in the armed conflicts that followed the 2003 US invasion of Iraq. It is being published in the wake of the forcible destruction or removal of public statues by generally peaceful crowds in Africa, Europe, and the Americas in the summer of 2020, especially following the killing of George Floyd by a police officer kneeling on his neck in Minneapolis on 25 May.
 
@@ -77,7 +80,8 @@ It is particularly revealing that this statement came from the communities secre
 
 Economic theory is familiar with Schumpeter’s notion of creative destruction—that some businesses need to die so that those which better serve the public need can be born and flourish. Is there a need for a comparable, equally uncomfortable theory in the field of cultural heritage? The reason why we so value material cultural heritage is precisely the reason why to so many it seems necessary—and reasonable—to eliminate it.
 
-\[production: insert line space here\]
+</section>
+<section>
 
 That need to eliminate evidence of the past has rarely been more acute than in Eastern Europe following the collapse of the Soviet Union in 1990 and the subsequent withdrawal of its occupying forces. For decades, official histories, state ceremonies, and large-scale public monuments had celebrated the long-agreed (or perhaps more accurately, long-imposed) story of the courageous Soviet soldiers fighting the Nazis with huge loss of life, who came in 1944 as welcome liberators, and then stayed on as generous brothers in the joint struggle to build a democratic socialist society.
 
@@ -89,7 +93,8 @@ One of the many Soviet war memorials to become the focus of bitter dispute, the 
 
 In North America and Europe (though not of course in Russia) there has generally been a tolerant acceptance that damage to significant cultural heritage was a price which probably had to be paid if the post-Soviet countries of Eastern Europe were to become what they had chosen to be. Yet this contrasts sharply with the general international condemnation in the same period of damage caused in attempts to build a society based on a purified reading of Islam—whether Saudi Arabia’s destruction of buildings in Mecca connected to the life of the Prophet, or the more public purgings of the Taliban and ISIS. As the *Bronze Soldier* makes clear, we all value the cultural heritage which supports our understanding of history—and our preferred options for the future.
 
-\[production: insert line space here\]
+</section>
+<section>
 
 It would be misleading to see the years since 1990 in Eastern Europe as exclusively ones of cultural heritage lost. In parallel with the elimination of one inheritance has gone the restoration or creation of another. The new communal narratives (at least the ones selected by the governments) are seen as an essential part of building a strong state, to be reinforced by changes in school curricula and supported by a new material cultural heritage in which those narratives are to be made publicly visible. So new monuments, buildings, and museums have taken the place of the old, to promote a story of long national struggle and ultimate, triumphant survival.
 
@@ -101,7 +106,8 @@ In 1949, in spite of the huge economic challenges facing postwar Poland, the Pol
 
 History here has been denied and reversed. It is as though nothing at all happened on this site between 1939 and 1945. But one thing has most definitely happened: Polish survival has been affirmed, and since 1990 and the departure of Soviet troops, the castle has become more than ever a symbolic declaration that no foreign invader or occupier can destroy the Polish people or crush their spirit. As a piece of cultural heritage, sustaining the central national story, the significance of the building demolished by Hitler has been completely recovered. The Royal Castle is without question more effective in its mythic function now than it was before its destruction. The old meaning has been successfully transferred to a new building. The value of the restored castle as a source of information about the eighteenth century is negligible. What it says about Poland’s view of itself today is profound. In some circumstances, cultural heritage can be recovered, even from total destruction.
 
-\[production: insert line space here\]
+</section>
+<section>
 
 The Renaissance Palace of the Grand Dukes of Lithuania in Vilnius was the seat of the rulers of the Lithuanian–Polish Commonwealth, which around 1600 stretched from the Baltic to the Black Sea. The building was razed to the ground by the Russians in 1801, after their annexation of Lithuania in the final partition of Poland. As in Warsaw, the invaders’ aim was to remove a key symbol of national identity in a country that was henceforth to be—in this case—Russian. And, apart from a brief period between 1918 and 1939, Russian it remained until the collapse of the Soviet Union in 1989.
 
@@ -109,7 +115,8 @@ The decision to reconstruct the Palace in Vilnius was more complicated than in W
 
 However questionable as history, this is the foundation narrative of the new Lithuania, now a member of the European Union and of the North Atlantic Treaty Organization (NATO), a country looking resolutely west—and that story can be seen and visited here. A powerful piece of cultural heritage has been created, very successfully as far as can be judged, and the national narrative is now securely anchored in a new “sixteenth-century” building.
 
-\[production: insert line space here\]
+</section>
+<section>
 
 Finally, Berlin. Built around 1700, the Berlin Palace, seat of the king of Prussia and German kaiser, was the heart of the Hohenzollern capital, the baroque culmination of the grand avenue Unter den Linden. Though damaged by bombing in World War II, it could well have been completely restored after 1945, and indeed some parts of it were. But in 1950 the government of the German Democratic Republic decided to blow it up. To them the palace was the supreme expression of Prussian cultural heritage, a symbol of hierarchy, militarism, and imperialist aggression, a building which could have no place in a new German state based on the teachings of Marx and Engels. The state of Prussia had been abolished; now its rulers’ palace must follow it into oblivion. Unlike Warsaw or Vilnius, this destruction was—significantly—carried out not by an occupying enemy power, but by Germans themselves: the new East German state, seeking to differentiate itself from its Western, capitalist, and allegedly imperialist counterpart, the Federal Republic. One strand of German tradition and self-understanding was repudiating another, by dynamiting their shared past.
 
@@ -117,9 +124,12 @@ In the early 2000s, with Berlin again the capital of a united Germany, the feder
 
 As the building only recently opened to the public, it is too soon to say how successful it will be in giving visible—and visitable—form to this new German self-understanding. The old Royal Palace was never held high in public affection, so there is little emotional connection to build on. Some see the building as a dangerous exercise in escapist nostalgia. Critics are concerned that the Roman architecture of the reconstructed façades is in irresoluble conflict with the non-European contents: the sculpted military trophies and triumphal arch motifs might be thought to endorse the colonial conquest by which parts of the African and Oceanian collection were acquired. While it may in time become a much loved building, it is not clear that it will be able to carry any coherent symbolic charge, even less to embody an ennobling narrative of national identity. It will take time before we can say whether this is merely a new museum, beset by controversy, or whether a powerful piece of cultural heritage, bearing a meaning beyond itself, has been brought into being.
 
-\[production: insert line space here\]
+</section>
+<section>
 
 From these different examples, a few conclusions may be drawn. There is no doubt that when a communal myth or narrative can be embedded in a monument, that combination has a rare power to strengthen and sustain a society’s belief in itself. It is that embedding of meaning that makes an archaeological site, a building, or a monument into a piece of cultural heritage. And encouragingly for such objects, as the Eastern European examples show, destruction is not necessarily the end of the story. Much historical information may be irrecoverably lost when cultural sites perish, but the strengthening, vivifying role that they play in building community can on occasion be just as effectively performed by a reconstruction or a replacement, perhaps even more powerfully because they were once destroyed. They can live again.
+
+</section>
 
 <div class="backmatter">
 

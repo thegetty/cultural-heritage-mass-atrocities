@@ -377,6 +377,14 @@ strong {
   content: "";
 }
 
+/* Separate sections */
+.quire-page__content .content section {
+  margin-bottom: 2rem;
+}
+.quire-page__content .content section p:first-child {
+  text-indent: 0;
+}
+
 /* Adjust menu styling */
 .quire-menu__header {
   padding-right: 1rem;
