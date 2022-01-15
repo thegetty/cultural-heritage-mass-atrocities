@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Frederick
     last_name: Deknatel
+    type: secondary
     bio: "Frederick Deknatel is the Executive Editor of *Democracy in Exile*, the journal of Democracy for the Arab World Now (DAWN). His writing and reporting have appeared in the *Nation*, *Foreign Policy*, the *New Republic*, the *National*, and the *Los Angeles Review of Books*, among other publications. He was previously the Managing Editor of *World Politics Review*, and has also been a Staff Editor at *Foreign Affairs*. Deknatel is also a former Fulbright fellow in Syria, where he also worked for the United Nations High Commissioner for Refugees."
 ---
 

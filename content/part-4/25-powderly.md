@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Joseph
     last_name: Powderly
+    type: secondary
     bio: "Joseph Powderly is Associate Professor of Public International Law at the Grotius Centre for International Legal Studies, Leiden University. His research focuses broadly on issues relevant to international criminal law, international human rights law, and cultural heritage law. He published *Judges and the Making of International Criminal Law* in 2020."
 ---
 

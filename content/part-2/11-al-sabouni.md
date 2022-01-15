@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Marwa
     last_name: Al-Sabouni
+    type: secondary
     bio: "Marwa al-Sabouni is an award-winning architect, author, and well-known international public speaker. She holds a PhD in architectural design and Islamic architecture and has published two books, *The Battle for Home* (2016) and *Building for Hope* (2021). She received the Prince Claus award in 2018 and was recognized as one of the BBC 100 Women in 2019."
 ---
 

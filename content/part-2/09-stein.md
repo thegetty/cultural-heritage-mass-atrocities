@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Gil
     last_name: Stein
+    type: secondary
     bio: "Gil Stein is Professor of Near Eastern Archaeology at the University of Chicago and Director of the Chicago Center for Cultural Heritage Preservation. His research investigates ancient colonialism, the development of early urban civilizations in Mesopotamia, and cultural heritage preservation. He has directed archaeological excavations in Iraq, Syria, and Turkey. Since 2012 he has led six US State Department–funded cultural heritage projects in Afghanistan and Central Asia. He is lead editor of *Preserving the Cultural Heritage of Afghanistan* (2017)."
 ---
 

@@ -1,0 +1,33 @@
+{{/*
+
+  THIS OVERRIDE FILES ADDS A NOTICE TO THE BOTTOM OF THE PAGE
+  BASED ON THE copyright VALUE IN THE PAGE YAML
+
+  Essay layout. This layout describes a single-page template that has been
+  augmented with the ability to display a frontmatter-defined abstract (in
+  markdown format) as well as bibliography references.
+*/}}
+
+{{ define "main" }}
+<article class="{{ partial "page-class.html" . }} quire-essay" id="main" role="main">
+  {{ partial "page-header.html" . }}
+
+  <section id="content" class="section quire-page__content">
+    {{ if .Params.abstract }}
+    {{ partial "page-abstract.html" . }}
+    {{ end }}
+    <div class="container">
+      <div class="content">
+        {{ .Content }}
+        {{ partial "page-bibliography.html" . }}
+        {{ if .Params.copyright }}
+        <div class="backmatter page-copyright-notice">
+        {{ markdownify .Params.copyright }}
+        </div>
+        {{ end }}
+      </div>
+      {{ partial "footer-buttons.html" . }}
+    </div>
+  </section>
+</article>
+{{ end }}

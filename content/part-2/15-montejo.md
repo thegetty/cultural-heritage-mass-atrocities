@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Victor
     last_name: Montejo
+    type: secondary
     bio: "Victor Montejo is a Jakaltek Maya originally from Guatemala and a retired Professor of Native American Studies at the University of California, Davis. His academic interests focus on Latin American diasporas, human rights, migration, and transnationalism. From 2004 to 2008 Montejo served in the Guatemalan national congress. He has also served as Minister of Peace, in which capacity he worked out the National Program for Reparation to the victims of the armed conflict in Guatemala. Montejo is a nationally and internationally recognized author, whose major publications include *Testimony: Death of a Guatemalan Village* (1987), *Voices from Exile: Violence and Survival in Modern Maya History* (1999), *Maya Intellectual Renaissance: Critical Essays on Identity, Representation, and Leadership* (2003), and *Mayalogue: An Interactionist Theory on Indigenous Culture* (2021)."
 ---
 

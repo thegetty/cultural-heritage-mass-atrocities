@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Hugh
     last_name: Eakin
+    type: secondary
     bio: "Hugh Eakin is a senior editor at *Foreign Affairs*. He has written on cultural heritage and international politics for the *New York Review of Books*, *New York Times*, *Washington Post*, *New Yorker*, and other publications. His work has been supported by numerous fellowships and grants, including the National Endowment for the Humanities, the Cullman Center for Scholars and Writers, the Fritt Ord Foundation, and the Dora Maar House. His book *Picasso’s War* will be published in 2022."
 ---
 <div class="backmatter">
