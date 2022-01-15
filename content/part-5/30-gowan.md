@@ -1,6 +1,6 @@
 ---
 title: "Peace Operations and the Protection of Cultural Heritage"
-short_title:
+short_title: "Peace Operations"
 label: "30"
 weight: 55
 type: essay

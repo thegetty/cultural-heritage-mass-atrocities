@@ -1,6 +1,6 @@
 ---
 title: "Customs, General Principles, and the Intentional Destruction of Cultural Property"
-short_title:
+short_title: "Customs and General Principles"
 label: "24"
 weight: 45
 type: essay

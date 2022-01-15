@@ -1,6 +1,6 @@
 ---
 title: "Valuing the Legacy of our Cultural Heritage"
-short_title:
+short_title: "The Value of Cultural Heritage"
 label: "6"
 weight: 17
 type: essay

@@ -1,6 +1,6 @@
 ---
 title: "Choosing between Human Life and Cultural Heritage in War"
-short_title:
+short_title: "Human Life & Cultural Heritage in War"
 label: "17"
 weight: 34
 type: essay

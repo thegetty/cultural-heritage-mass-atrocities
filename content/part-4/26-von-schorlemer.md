@@ -1,6 +1,6 @@
 ---
 title: "Fighting Terrorist Attacks against World Heritage and Global Cultural Heritage Governance"
-short_title:
+short_title: "Terrorist Attacks on World Heritage"
 label: "26"
 weight: 47
 type: essay

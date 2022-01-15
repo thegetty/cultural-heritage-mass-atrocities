@@ -1,6 +1,7 @@
 ---
 title: "Protecting Cultural Property in Armed Conflict"
 subtitle: "The Necessity for Dialogue and Action Integrating the Heritage, Military, and Humanitarian Sectors"
+short_title: "Cultural Property in Armed Conflict"
 label: "31"
 weight: 56
 type: essay

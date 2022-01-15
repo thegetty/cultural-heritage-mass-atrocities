@@ -1,6 +1,7 @@
 ---
 title: "Performative Destruction"
 subtitle: "Da’esh (ISIS) Ideology and the War on Heritage in Iraq"
+short_title: "The War on Heritage in Iraq"
 label: "9"
 weight: 24
 type: essay

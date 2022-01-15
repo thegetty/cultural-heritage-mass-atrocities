@@ -1,6 +1,6 @@
 ---
 title: "Indigenous Threatened Heritage in Guatemala"
-short_title:
+short_title: "Indigenous Guatemalan Heritage"
 label: "15"
 weight: 30
 type: essay

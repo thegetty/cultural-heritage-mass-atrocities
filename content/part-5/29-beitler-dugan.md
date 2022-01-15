@@ -1,6 +1,7 @@
 ---
 title: "Practicing the Art of War While Protecting Cultural Heritage"
 subtitle: "A Military Perspective"
+short_title: "Cultural Heritage in Wartime"
 label: "29"
 weight: 54
 type: essay
