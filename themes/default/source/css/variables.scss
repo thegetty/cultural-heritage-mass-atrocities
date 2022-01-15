@@ -6,16 +6,15 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: null;
+$accent-color: #bc7c44;
 $content-background-color: null; // main text area background color
 $secondary-background-color: null; // only for modern theme
 
 // Declare the theme: modern/classic
-$theme: modern;
+$theme: classic;
 
 // Declare the navbar color style: normal/accent
-$navbar: normal;
-
+$navbar: accent;
 
 
 // Pre-defined fonts
@@ -29,8 +28,8 @@ $times-serif: Times, serif;
 
 // Page typography
 // -----------------------------------------------------------------------------
-$quire-base-font-size: 16px;
-$quire-page-paragraph-style: line-space; // or use indent
+$quire-base-font-size: 17px;
+$quire-page-paragraph-style: indent; // line-space or indent
 
 // Cover typography
 // -----------------------------------------------------------------------------
@@ -39,15 +38,11 @@ $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 
 // Menu
 // -----------------------------------------------------------------------------
-$quire-menu-width: 352px;
-
 $quire-menu-color: $off-black;
 $quire-menu-text-color: $white;
 
 // Image viewer (pop-up figure viewer & entry page viewer)
 // -----------------------------------------------------------------------------
-$quire-entry-header-height: 6rem;
-
 $quire-entry-image-color: $black;
 $quire-entry-image-icons-color: $white;
 
@@ -57,11 +52,11 @@ $quire-hover-color: $light-yellow;
 
 // Print/PDF stylesheet
 // -----------------------------------------------------------------------------
-$print-width: 8.5in;
-$print-height: 11in;
+$print-width: 7in;
+$print-height: 10in;
 $print-bleed: .125in;
 
-$print-base-font-size: 8.5pt;
+$print-base-font-size: 8.75pt;
 $print-text-color: $black;
 
 $print-splash-color: $off-white;
@@ -73,10 +68,10 @@ $print-entry-image-display: all; // first | all
 // Themes
 // -----------------------------------------------------------------------------
 // Declare theme variables
-$quire-primary-font: null; // body and menu text
-$quire-headings-font: null; // headings
-$quire-footnotes-font: null; // footnotes and page backmatter
-$quire-navigation-font: null; // navbar and next/prev buttons
+$quire-primary-font: $noto-serif; // body and menu text
+$quire-headings-font: 'Archivo Narrow', sans-serif; // headings
+$quire-footnotes-font: $noto-serif; // footnotes and page backmatter
+$quire-navigation-font: 'Archivo Narrow', sans-serif; // navbar and next/prev buttons
 
 @if $theme == classic {
   // Classic Theme
@@ -100,11 +95,8 @@ $quire-navigation-font: null; // navbar and next/prev buttons
 
 // Navbar
 // -----------------------------------------------------------------------------
-$navbar-height: 3rem;
-$quire-progress-bar-height: 2px;
-
 // Declare navbar colors
-$quire-navbar-color: null;
+$quire-navbar-color: $off-black;
 $quire-navbar-hover-color: null;
 $quire-navbar-text-color: null;
 
@@ -128,7 +120,7 @@ $quire-navbar-text-color: null;
 // -----------------------------------------------------------------------------
 // Declare cover gradient colors (make them the same for a solid background)
 $quire-cover-color-1: null;
-$quire-cover-color-2: null;
+$quire-cover-color-2: #966336;
 
 @if $theme == classic {
   $quire-cover-color-1: $accent-color !default;
@@ -140,5 +132,9 @@ $quire-cover-color-2: null;
 
 // Layout sizes
 // -----------------------------------------------------------------------------
+$quire-menu-width: 352px;
+$navbar-height: 3rem;
+$quire-progress-bar-height: 2px;
+$quire-entry-header-height: 6rem;
 $quire-map-height: 500px;
 $quire-deepzoom-height: 500px;
