@@ -1,0 +1,82 @@
+languages:
+
+  - lang_code: en
+    display: English
+    keynote: Keynote
+    abstract: Abstract
+  - lang_code: fr
+    display: Français
+    keynote: Discours principal
+    abstract: l' extrait
+  - lang_code: ru
+    display: Русский
+    keynote: Основной доклад
+    abstract: Абстрактный
+  - lang_code: es
+    display: Español
+    keynote: Fundamental
+    abstract: Abstracta
+  - lang_code: ar
+    display: العربية
+    keynote: الفكرة الرئيسية
+    abstract: الملخص
+  - lang_code: zh
+    display: 中文
+    keynote: 基调
+    abstract: 抽象的
+
+texts:
+
+  - essay: 01-appiah
+    translations:
+      - lang_code: en
+        title:
+        keynote: "In an excerpt from *The Lies That Bind*, Kwame Anthony Appiah demonstrates how the concept of “Western” identity has formed the basis of hierarchies, status, and structures of power. The idea of Western culture, he writes, is a modern construction, a grand “Plato-to-NATO” narrative that belies the complexity of all cultural practices and objects."
+        abstract: "What is the realm called “the West”? What does it mean to identify with “Western culture”? In an excerpt from his book *The Lies That Bind*, Kwame Anthony Appiah demonstrates how the notion of Western identity has formed the basis of hierarchies, status, and structures of power. The idea of Western culture represents a modern construction, a grand “Plato-to-NATO” narrative arc with its precursors in concepts of Christendom and Europe. Although this volume focuses on the protection of immovable cultural heritage, Appiah reminds us that all cultural practices and objects must be regarded as mobile, mutable, infinitely complex, and ultimately resistant to ownership by any single group."
+      - lang_code: fr
+        title: "Qui sommes nous? Identité et patrimoine culturel"
+        keynote:
+        abstract:
+      - lang_code: ru
+        title: "Кто мы? Самобытность и культурное наследие"
+        keynote:
+        abstract:
+      - lang_code: es
+        title: "¿Quienes somos? Identidad y patrimonio cultural"
+        keynote:
+        abstract:
+      - lang_code: ar
+        title: "من نحن؟ الهوية والتراث الثقافي"
+        keynote:
+        abstract:
+      - lang_code: zh
+        title: "我们是谁？身份和文化遗产"
+        keynote:
+        abstract:
+
+  - essay: 02-macgregor
+    translations:
+      - lang_code: en
+        title:
+        keynote: "We may best be able to understand why people value cultural heritage if we consider why they so often choose to destroy it. Presenting examples from England, Poland, Lithuania, and Germany, this chapter examines how recent instances of creation and destruction at cultural heritage sites in modern Europe may illuminate paths to prevent or mitigate future losses."
+        abstract: "We may best be able to understand why people value cultural heritage if we consider why they so often choose to destroy it. Presenting examples from England, Poland, Lithuania, and Germany, this chapter examines how recent instances of creation and destruction at cultural heritage sites in modern Europe may illuminate paths to prevent or mitigate future losses. Cultural heritage provides communities with communal narratives that allow them to survive and flourish. While all cultural heritage is in large measure intangible, an important aspect of physical cultural heritage is usually less the thing itself than the narratives which communities, local or global, choose to attach to it. That explains why cultural heritage is most in danger when that community narrative changes, or when one object becomes the focus of conflicting narratives. Encouragingly, this essay demonstrates that destruction is not necessarily the end of the story."
+      - lang_code: fr
+        title:
+        keynote:
+        abstract:
+      - lang_code: ru
+        title:
+        keynote:
+        abstract:
+      - lang_code: es
+        title:
+        keynote:
+        abstract:
+      - lang_code: ar
+        title:
+        keynote:
+        abstract:
+      - lang_code: zh
+        title:
+        keynote:
+        abstract:

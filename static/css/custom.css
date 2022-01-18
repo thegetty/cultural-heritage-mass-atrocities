@@ -565,3 +565,75 @@ strong {
 .quire-page__content .container .content .contribution-list + hr {
   margin-bottom: 2rem;
 }
+
+/* KEYONTE AND ABSTRACT TRANSLATIONS WITH THE q-translation SHORTCODE */
+.quire-page__content .container .content .tabbed [lang="ar"] {
+  direction: rtl;
+}
+.quire-page__content .container .content .tabbed {
+  margin-bottom: 4rem;
+}
+.quire-page__content .container .content .tabbed .essay-title {
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+}
+.quire-page__content .container .content .tabbed ul,
+.quire-page__content .container .content .tabbed ul li {
+  margin: 0;
+}
+.quire-page__content .container .content .tabbed ul li::before {
+  content: "";
+}
+[role="tablist"] {
+  padding: 0;
+}
+[role="tablist"] li,
+[role="tablist"] a {
+  display: inline-block;
+}
+.quire-page__content .content .tabbed [role="tablist"] a,
+.quire-page__content .content .tabbed [role="tablist"] a:hover {
+  text-decoration: none;
+  padding: 0.5rem 1em;
+  color: inherit !important;
+  border-bottom-width: 0 !important;
+}
+[role="tablist"] [aria-selected] {
+  border: 2px solid;
+  background: #fff;
+  border-bottom: 0;
+  position: relative;
+  top: 2px;
+}
+[role="tabpanel"] {
+  border: 2px solid;
+  padding: 1.5rem;
+}
+[role="tabpanel"] * + * {
+  margin-top: 0.75rem;
+}
+@media (max-width: 550px) {
+  [role="tablist"] li,
+  [role="tablist"] a {
+    display: block;
+    position: static;
+  }
+  [role="tablist"] a {
+    border: 2px solid !important;
+  }
+  [role="tablist"] li + li a {
+    border-top: 0 !important;
+  }
+  [role="tablist"] [aria-selected] {
+    position: static;
+    font-weight: 700;
+  }
+  [role="tablist"] [aria-selected]::after {
+    content: '\0020⬅';
+    font-size: 1.25rem;
+  }
+  [role="tabpanel"] {
+    border-top: 0;
+  }
+}
