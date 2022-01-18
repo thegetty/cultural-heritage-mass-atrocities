@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Marwa
     last_name: Al-Sabouni
+    type: secondary
     bio: "Marwa al-Sabouni is an award-winning architect, author, and well-known international public speaker. She holds a PhD in architectural design and Islamic architecture and has published two books, *The Battle for Home* (2016) and *Building for Hope* (2021). She received the Prince Claus award in 2018 and was recognized as one of the BBC 100 Women in 2019."
 ---
 
@@ -69,19 +70,21 @@ The city is located two to five kilometers from the bed of the Orontes River, an
 
 {{< q-figure id="fig-11-3-al-sabouni" >}}
 
-The second perspective on the archaeological evidence argues that the hill has been a significant settlement since Hellenistic times, and that its dominance culminated during the Roman era. Yet local historians are convinced other circumstances played a more important role in the development of the hill. For instance, Mustfa al-Sufi suggests in *The Establishment of a City’s History: From Emesa to Homs* that the building of Qattinah’s dam during the Roman period created the right environmental conditions for the establishment of Homs, which had previously been confined to the hill. By draining the river valley of its swamps, the dam made the location habitable ([fig. 11.4](#fig-11-4-al-sabouni)).
+The second perspective on the archaeological evidence argues that the hill has been a significant settlement since Hellenistic times, and that its dominance culminated during the Roman era. Yet local historians are convinced other circumstances played a more important role in the development of the hill. For instance, Mustfa al-Sufi suggests in *The Establishment of a City’s History: From Emesa to Homs* that the building of Qattinah’s dam during the Roman period created the right environmental conditions for the establishment of Homs, which had previously been confined to the hill. By draining the river valley of its swamps, the dam made the location habitable ([figs. 11.4a](#fig-11-4a-al-sabouni), [11.4b](#fig-11-4b-al-sabouni)).
 
-{{< q-figure id="fig-11-4-al-sabouni" >}}
+{{< q-figure-group id="fig-11-4a-al-sabouni, fig-11-4b-al-sabouni" caption="Homs hill (@marwa_alsabouni)" >}}
 
 The controversy surrounding the historical significance of Homs stems from data collected from aerial photography and geographical scans, along with comparisons of archaeological findings collected between 1957 and 1959. According to al-Sufi, the basis of the dispute is that despite the detection of a Hellenistic plan underlying the city, and the existence of engraved Greek writings that use the Seleucid dating system. That said, the fact that there are no remnants of monuments and buildings that can be attributed to the Seleucid era makes any historical judgment of an ancient Homs urban settlement inconclusive.
 
 However, it is agreed that while the city’s ancient name of Emesa is pre-Roman, it continued to be used when Homs became a religious center in the first century. The solar deity Elagabalus (in Arabic al-Gabal, the Mountain) was worshipped there in a great temple of the sun; the ancient city’s coinage displayed an image of the temple with a holy basalt stone at the center. It was built by the ruling Sampsigeramids (or Emesene), an Arab family of priests who ruled after the Seleucid Empire. They made marital relationships with the Romans and ruled the city as a client kingdom.
 
-Julia Domna, its Homsi princess and youngest daughter of the high priest of the temple, married the Libyan-born Septimius Severus, and the two ruled from Rome ([fig. 11.5](#fig-11-5-al-sabouni)). Meanwhile, Homs gained prominence as a religious center with its great temple and expanded well beyond the original hill. The temple long outlived its creators by adopting new religions with new rulers over the centuries, becoming a church and later a mosque. Its remains are incorporated within the walls of the Great Mosque of al-Nuri, which was built (or rather rebuilt) by Nour al-Din al-Zenki in the Mamluk Islamic era, during which it was adjacent to the city wall at one end and the souk, or market, at the other. During the Syrian civil war, pillars believed to be remnants of the temple became exposed by arms fire ([fig. 11.6](#fig-11-6-al-sabouni)).
+Julia Domna, its Homsi princess and youngest daughter of the high priest of the temple, married the Libyan-born Septimius Severus, and the two ruled from Rome ([fig. 11.5](#fig-11-5-al-sabouni)). Meanwhile, Homs gained prominence as a religious center with its great temple and expanded well beyond the original hill. The temple long outlived its creators by adopting new religions with new rulers over the centuries, becoming a church and later a mosque. Its remains are incorporated within the walls of the Great Mosque of al-Nuri, which was built (or rather rebuilt) by Nour al-Din al-Zenki in the Mamluk Islamic era, during which it was adjacent to the city wall at one end and the souk, or market, at the other. During the Syrian civil war, pillars believed to be remnants of the temple became exposed by arms fire ([figs. 11.6a](#fig-11-6a-al-sabouni), [11.6b](#fig-11-6b-al-sabouni), [11.6c](#fig-11-6c-al-sabouni)).
 
 {{< q-figure id="fig-11-5-al-sabouni" >}}
 
-{{< q-figure id="fig-11-6-al-sabouni" >}}
+{{< q-figure id="fig-11-6a-al-sabouni" >}}
+
+{{< q-figure-group grid=2 id="fig-11-6b-al-sabouni, fig-11-6c-al-sabouni" caption="Great Mosque of al-Nuri (three images @marwa_alsabouni)" >}}
 
 When I visited the mosque in the aftermath of fighting and first saw the half-exposed pillars, I was overwhelmed by the building’s sense of continuity in its development. The basalt slabs of its courtyard surface, its vaults, and its walls, were brightened by strips of white limestone around the mosque’s doors and windows. In this building, the idea of historical present was so perfectly practiced over millennia: each picking up from where the other had left, leaving no gaps in time through which meaning may slip. The word “heritage” in such places acquires another layer, belonging to no single past. It becomes an accumulation of experiences, expertise, and expressions.
 
@@ -95,13 +98,13 @@ The mausoleum of Emesa was part of Homs (and its necropolis) for nearly eighte
 
 {{< q-figure id="fig-11-8-al-sabouni" >}}
 
-One of the milestones in the making of the city was the creation of the al-Mujahediya irrigation canal by Asad al-Din Shirkuh in the twelfth century, which connected to the Qattinah dam. It irrigated the arable land between the west side of Homs and the river. But more important, it brought water right to the heart of the city for the first time, supplying mosques, hammams (public baths), mills, and all the city’s neighborhoods. The canal also protected Homs from the impact of floods that used to wreak havoc on the city ([fig.11.9](#fig-11-9-al-sabouni)).
+One of the milestones in the making of the city was the creation of the al-Mujahediya irrigation canal by Asad al-Din Shirkuh in the twelfth century, which connected to the Qattinah dam. It irrigated the arable land between the west side of Homs and the river. But more important, it brought water right to the heart of the city for the first time, supplying mosques, hammams (public baths), mills, and all the city’s neighborhoods. The canal also protected Homs from the impact of floods that used to wreak havoc on the city ([figs. 11.9a](#fig-11-9a-al-sabouni), [11.9b](#fig-11-9b-al-sabouni)).
 
-{{< q-figure id="fig-11-9-al-sabouni" >}}
+{{< q-figure-group id="fig-11-9a-al-sabouni, fig-11-9b-al-sabouni" caption="Irrigation canal of al-Mujahediya (@marwa_alsabouni)" >}}
 
-Waterwheels were built on the canal to raise the level of water where needed. A landmark waterwheel was built in 1712 near what is now considered the city center, in a neighborhood adjacent to the main souk, with numerous mosques and hammams that required water to be lifted to their level. All that remains of the great waterwheel is the name it has given to its locality: al-Naourah (after *noria* or waterwheel). In its place, French colonial buildings were erected, occupied by clinics and offices on the upper floors, and clothes shops at the ground level. Souk al-Naourah, as the neighborhood is called today, has no water anymore, nor a great *noria* ([fig. 11.10](#fig-11-10-al-sabouni)).
+Waterwheels were built on the canal to raise the level of water where needed. A landmark waterwheel was built in 1712 near what is now considered the city center, in a neighborhood adjacent to the main souk, with numerous mosques and hammams that required water to be lifted to their level. All that remains of the great waterwheel is the name it has given to its locality: al-Naourah (after *noria* or waterwheel). In its place, French colonial buildings were erected, occupied by clinics and offices on the upper floors, and clothes shops at the ground level. Souk al-Naourah, as the neighborhood is called today, has no water anymore, nor a great *noria* ([figs. 11.10a](#fig-11-10a-al-sabouni), [11.10b](#fig-11-10b-al-sabouni), [11.10c](#fig-11-10c-al-sabouni)).
 
-{{< q-figure id="fig-11-10-al-sabouni" >}}
+{{< q-figure-group id="fig-11-10a-al-sabouni, fig-11-10b-al-sabouni, fig-11-10c-al-sabouni" caption="Souk al-Naourah (two images @marwa_alsabouni)" >}}
 
 ## The Destruction of Heritage and the Undermining of Meaning
 

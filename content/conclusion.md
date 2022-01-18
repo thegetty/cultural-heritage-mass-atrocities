@@ -133,6 +133,10 @@ The proverbial bottom line: all people share a common human heritage—as intric
 
 <div class="backmatter">
 
+## Biography
+
+{{< q-contributor range="page" format="bio" >}}
+
 ## Notes
 
 </div>

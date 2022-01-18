@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Ron E.
     last_name: Hassner
+    type: secondary
     bio: "Ron E. Hassner is the Chancellor’s Professor of Political Science and Helen Diller Family Chair in Israel Studies at the University of California, Berkeley. He is also the faculty director of the Helen Diller Institute for Jewish Law and Israel Studies at Berkeley. He studies the role of ideas, practices, and symbols in international security with particular attention to the relationship between religion and violence. His books include *War on Sacred Grounds* (2009), *Religion in the Military Worldwide* (2014), and *Religion on the Battlefield* (2016). He is the editor of the Cornell University Press book series “Religion and Conflict.”"
 ---
 

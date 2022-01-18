@@ -8,6 +8,7 @@ copyright: "© 2018 Kwame Anthony Appiah. Originally published in *Cultural Heri
 contributor:
   - first_name: Kwame Anthony
     last_name: Appiah
+    type: secondary
     bio: "Kwame Anthony Appiah is Professor of Philosophy and Law, New York University. He has taught philosophy in Ghana, France, Britain, and the United States. He has written the *New York Times* column “The Ethicist” since 2015. His most recent book is *The Lies That Bind: Rethinking Identity* (2018)*.*"
 ---
 

@@ -8,6 +8,7 @@ copyright: "© 2022 Patty Gerstenblith. Originally published in *Cultural Herita
 contributor:
   - first_name: Patty
     last_name: Gerstenblith
+    type: secondary
     bio: "Patty Gerstenblith is Distinguished Research Professor of Law at DePaul University and Faculty Director of its Center for Art, Museum & Cultural Heritage Law. In 2011, President Obama appointed her to serve as Chair of the President’s Cultural Property Advisory Committee in the US Department of State, on which she had previously served as a Public Representative during the Clinton administration. She is currently the President of the Board of Directors of the US Committee of the Blue Shield and chairs the Working Group on Illicit Trafficking of Cultural Objects of Blue Shield International. She publishes and lectures widely in the United States and abroad on the international trade in art and antiquities and the protection of cultural heritage during armed conflict. The fourth edition of her casebook, *Art, Cultural Heritage and the Law*, was published in 2019."
 ---
 

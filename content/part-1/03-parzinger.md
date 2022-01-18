@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Hermann
     last_name: Parzinger
+    type: secondary
     bio: "Hermann Parzinger was appointed Director in 1990 and President in 2003 of the German Archaeological Institute, where he headed archaeological excavations in the Near East and Central Asia. Since 2008 he has been President of the Prussian Cultural Heritage Foundation, one of the largest cultural institutions in the world. For his academic work he has received awards and memberships from academies in Russia, China, Spain, Great Britain, the United States, and Germany. He is the author of fifteen books and over 250 essays on research and cultural policy issues."
 ---
 

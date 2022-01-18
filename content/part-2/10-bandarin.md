@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Francesco
     last_name: Bandarin
+    type: secondary
     bio: "Francesco Bandarin is an architect and urban planner. From 2000 to 2018 he was the Director of the World Heritage Centre and Assistant Director-General for Culture at UNESCO. He is currently Special Advisor of the International Centre for the Study of the Preservation and Restoration of Cultural Property (ICCROM), Senior Advisor of the Aga Khan Trust for Culture, member of the Advisory Board of the Smithsonian Center for Folklife and Cultural Heritage, and founding member of the international nongovernmental organization OurWorldHeritage. His recent publications include, *The Historic Urban Landscape* (2012), *Reconnecting the City* (2015), and *Re-shaping Urban Conservation* (2019)."
 ---
 

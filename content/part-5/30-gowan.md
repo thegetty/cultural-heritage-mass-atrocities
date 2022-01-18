@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Richard
     last_name: Gowan
+    type: secondary
     bio: "Richard Gowan is UN Director at the International Crisis Group. He has worked with the European Council on Foreign Relations, the New York University Center on International Cooperation, and the Foreign Policy Centre (London). He has taught at the School of International and Public Affairs at Columbia University and at Stanford in New York. (AT STANFORD IN NEW YORK? He has also worked as a consultant for organizations including the UN Department of Political Affairs, the UN Office of the Special Representative of the Secretary-General on International Migration, and the British, Canadian, and Finnish foreign ministries."
 ---
 

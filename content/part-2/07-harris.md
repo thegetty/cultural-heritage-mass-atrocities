@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Rachel
     last_name: Harris
+    type: secondary
     bio: "Rachel Harris is Professor of Ethnomusicology at SOAS, University of London. Her research focuses on expressive culture, religion, and the politics of heritage in China’s Muslim borderlands, and she has conducted long-term fieldwork with Uyghur communities in the Xinjiang Uyghur Autonomous Region, Kazakhstan, and Kyrgyzstan. She led the Leverhulme Research Project “Sounding Islam in China” (2014–17) and a British Academy Sustainable Development Project to revitalize Uyghur cultural heritage in the diaspora (2018–21). Her latest books are *Soundscapes of Uyghur Islam* (2020) and, co-edited with Guangtian Ha and Maria Jaschok, *Ethnographies of Islam in China* (2021)."
 ---
 
@@ -25,23 +26,17 @@ Over the past few years, the Xinjiang Uyghur Autonomous Region has been transfor
 
 <hr />
 
-By the forest side, there was a river bed
-
-The tomb was a wonderful place
-
-Those who lay there were all martyrs
-
-Heroes and men of God
-
-…
-
-Flag poles were set out everywhere
-
-This day, at the time of afternoon prayer
-
-They played marches and tambourines
-
-They shouted through the desert plain[^1]
+> By the forest side, there was a river bed <br/>
+> The tomb was a wonderful place <br/>
+> Those who lay there were all martyrs <br/>
+> Heroes and men of God <br/>
+>
+> …
+>
+> Flag poles were set out everywhere <br/>
+> This day, at the time of afternoon prayer <br/>
+> They played marches and tambourines <br/>
+> They shouted through the desert plain[^1]
 
 If one were to remove these … shrines, the Uyghur people would lose contact with \[the\] earth. They would no longer have a personal, cultural, and spiritual history. After a few years we would not have a memory of why we live here or where we belong.[^2]
 

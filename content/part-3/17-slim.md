@@ -8,6 +8,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - first_name: Hugo
     last_name: Slim
+    type: secondary
     bio: "Hugo Slim is a Senior Research Fellow at the Institute of Ethics, Law and Armed Conflict in the Blavatnik School of Government at the University of Oxford, and a Visiting Professor at Schwarzman College at Tsinghua University in Beijing. He was previously Head of Policy and Humanitarian Diplomacy at the International Committee of the Red Cross in Geneva. His most recent books are *Humanitarian Ethics: The Morality of Aid in War and Disaster* (2015) and *Killing Civilians: Method, Madness and Morality in War* (2008)."
 ---
 
