@@ -1,6 +1,6 @@
 ---
 title: "International Human Rights Law and Cultural Heritage"
-short_title:
+short_title: "International Human Rights Law"
 label: "23"
 weight: 44
 type: essay

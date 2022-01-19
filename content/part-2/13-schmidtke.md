@@ -1,6 +1,6 @@
 ---
 title: "Yemen’s Manuscript Culture under Attack"
-short_title:
+short_title: "Yemen’s Manuscript Culture"
 label: "13"
 weight: 28
 type: essay

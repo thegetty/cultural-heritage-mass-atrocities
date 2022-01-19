@@ -1,6 +1,7 @@
 ---
 title: "Protecting Cultural Heritage on the Battlefield"
 subtitle: "The Hard Case of Religion"
+short_title: "War and Religious Heritage"
 label: "27"
 weight: 52
 type: essay

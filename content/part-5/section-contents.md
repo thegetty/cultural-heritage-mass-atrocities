@@ -1,7 +1,7 @@
 ---
 label: "Part 5"
 title: "Cultural Heritage and Military Perspectives"
-short_title:
+short_title: "Military Perspectives"
 type: contents
 class: abstract
 slug: .

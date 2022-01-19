@@ -1,7 +1,7 @@
 ---
 label: "Part 2"
 title: "Cultural Heritage under Siege: Recent Cases"
-short_title:
+short_title: "Under Siege: Recent Case Studies"
 type: contents
 class: abstract
 slug: .
