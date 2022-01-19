@@ -12,19 +12,7 @@ contributor:
     bio: "Kwame Anthony Appiah is Professor of Philosophy and Law, New York University. He has taught philosophy in Ghana, France, Britain, and the United States. He has written the *New York Times* column “The Ethicist” since 2015. His most recent book is *The Lies That Bind: Rethinking Identity* (2018)*.*"
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-In an excerpt from *The Lies That Bind*, Kwame Anthony Appiah demonstrates how the concept of “Western” identity has formed the basis of hierarchies, status, and structures of power. The idea of Western culture, he writes, is a modern construction, a grand “Plato-to-NATO” narrative that belies the complexity of all cultural practices and objects.
-
-## Abstract
-
-What is the realm called “the West”? What does it mean to identify with “Western culture”? In an excerpt from his book *The Lies That Bind*, Kwame Anthony Appiah demonstrates how the notion of Western identity has formed the basis of hierarchies, status, and structures of power. The idea of Western culture represents a modern construction, a grand “Plato-to-NATO” narrative arc with its precursors in concepts of Christendom and Europe. Although this volume focuses on the protection of immovable cultural heritage, Appiah reminds us that all cultural practices and objects must be regarded as mobile, mutable, infinitely complex, and ultimately resistant to ownership by any single group.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 I have been writing and ruminating on questions of identity for more than three decades now. My theoretical thinking about identity began, actually, with thoughts about race, because I was genuinely puzzled by the different ways in which people in different places responded to my appearance. That wasn’t so much the case in Asante, where, so it seemed to me, one local parent was usually enough to belong. Jerry Rawlings, Ghana’s head of state from 1981 to 2001, had a father from Scotland; he wasn’t chosen by the people originally—he came to power twice through coups d’état—but his fellow countrymen eventually elected him to the presidency twice. Unlike my three sisters, born, like my father, in Asante, I have never been a Ghanaian citizen. I was born in England, before Ghana’s independence, with an English mother, and showed up in Asante at the age of one. So I’d have had to apply for Ghanaian citizenship, and my parents never applied for me. By the time it was up to me, I was used to being a Ghanaian with a British passport. My father, as president of the Ghanaian Bar Association, was once involved in writing one of our many constitutions. “Why don’t you change the rules, so that I can be both Ghanaian and British?” I asked him. “Citizenship,” he told me, “is unitary.” I could see I wasn’t going to get anywhere with him! But despite my lack of that legal connection, sometimes, when I do something noteworthy, I am claimed, at least by some, for the place that is home to half my ancestry.
 

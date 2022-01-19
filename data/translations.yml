@@ -6,24 +6,24 @@ languages:
     abstract: Abstract
   - lang_code: fr
     display: Français
-    keynote: Discours principal
-    abstract: l' extrait
+    keynote: Thème principal
+    abstract: Résumé
   - lang_code: ru
     display: Русский
-    keynote: Основной доклад
-    abstract: Абстрактный
+    keynote: Основная идея
+    abstract: Краткое содержание
   - lang_code: es
     display: Español
-    keynote: Fundamental
-    abstract: Abstracta
+    keynote: Presentación
+    abstract: Resumen
   - lang_code: ar
     display: العربية
     keynote: الفكرة الرئيسية
-    abstract: الملخص
+    abstract: ملخص
   - lang_code: zh
     display: 中文
-    keynote: 基调
-    abstract: 抽象的
+    keynote: 主旨
+    abstract: 摘要
 
 texts:
 
@@ -31,52 +31,62 @@ texts:
     translations:
       - lang_code: en
         title:
-        keynote: "In an excerpt from *The Lies That Bind*, Kwame Anthony Appiah demonstrates how the concept of “Western” identity has formed the basis of hierarchies, status, and structures of power. The idea of Western culture, he writes, is a modern construction, a grand “Plato-to-NATO” narrative that belies the complexity of all cultural practices and objects."
-        abstract: "What is the realm called “the West”? What does it mean to identify with “Western culture”? In an excerpt from his book *The Lies That Bind*, Kwame Anthony Appiah demonstrates how the notion of Western identity has formed the basis of hierarchies, status, and structures of power. The idea of Western culture represents a modern construction, a grand “Plato-to-NATO” narrative arc with its precursors in concepts of Christendom and Europe. Although this volume focuses on the protection of immovable cultural heritage, Appiah reminds us that all cultural practices and objects must be regarded as mobile, mutable, infinitely complex, and ultimately resistant to ownership by any single group."
-      - lang_code: fr
-        title: "Qui sommes nous? Identité et patrimoine culturel"
-        keynote:
-        abstract:
-      - lang_code: ru
-        title: "Кто мы? Самобытность и культурное наследие"
-        keynote:
-        abstract:
-      - lang_code: es
-        title: "¿Quienes somos? Identidad y patrimonio cultural"
-        keynote:
-        abstract:
+        keynote: In an excerpt from *The Lies That Bind*, Kwame Anthony Appiah demonstrates how the concept of “Western” identity has formed the basis of hierarchies, status, and structures of power. The idea of Western culture, he writes, is a modern construction, a grand “Plato-to-NATO” narrative that belies the complexity of all cultural practices and objects.
+        abstract: What is the realm called “the West”? What does it mean to identify with “Western culture”? In an excerpt from his book *The Lies That Bind*, Kwame Anthony Appiah demonstrates how the notion of Western identity has formed the basis of hierarchies, status, and structures of power. The idea of Western culture represents a modern construction, a grand “Plato-to-NATO” narrative arc with its precursors in concepts of Christendom and Europe. Although this volume focuses on the protection of immovable cultural heritage, Appiah reminds us that all cultural practices and objects must be regarded as mobile, mutable, infinitely complex, and ultimately resistant to ownership by any single group.
       - lang_code: ar
-        title: "من نحن؟ الهوية والتراث الثقافي"
-        keynote:
-        abstract:
+        title: منْ نحن؟ الهوية والتراث الثقافي
+        contributor: كوامي أنطوني أبّياه
+        keynote: في مقطع من كتاب \"*The Lies That Bind*\" (الأكاذيب الملزمة) يشرح كوامي أنطوني أبّياه كيف أن مفهوم الهوية \"الغربية\" شكّل الأساس للتسلسل الهرمي والتراتبية وهياكل السلطة. حيث يقول في الكتاب إن فكرة الثقافة الغربية هي عبارة عن بنية حديثة، وسردية ضخمة \"من أفلاطون إلى الناتو (حلف شمال الأطلسي)\" تناقض تعقيد الممارسات والكيانات الثقافية.
+        abstract: ما هو العالم المعروف بمصطلح \"الغرب\"؟ ما الذي يعني أن تتبنى هوية \"الثقافة الغربية\"؟ في مقطع من كتابه \"*The Lies That Bind*\" (الأكاذيب الملزمة) يشرح كوامي أنطوني أبّياه كيف أن مفهوم الهوية \"الغربية\" شكّل الأساس للتسلسل الهرمي والتراتبية وهياكل السلطة. ففكرة الثقافة الغربية تمثّل بنية حديثة، وسردية ضخمة \"من أفلاطون إلى الناتو (حلف شمال الأطلسي)\" وفي مسار موازٍ لما سبقها من مفاهيم العالم المسيحي وأوروبا. ورغم أن هذا الكتاب يركّز على حماية التراث الثقافي غير المنقول، إلا أن أبّياه يُذكرنا بوجوب اعتبار أن كافة الممارسات والكيانات الثقافية هي متحركة وعرضة للتغيير ومعقَّدة بشكل غير محدود، وهي في نهاية المطاف منيعة أمام الملكية من طرف جماعة واحدة.
       - lang_code: zh
-        title: "我们是谁？身份和文化遗产"
-        keynote:
-        abstract:
+        title: 我们是谁？身份与文化遗产
+        contributor: 奎迈·安东尼·阿皮亚 (Kwame Anthony Appiah)
+        keynote: 在 *The Lies That Bind*（《束缚我们的谎言》）一书中，作者奎迈·安东尼·阿皮亚论证了“西方”身份的概念成为等级制度、社会地位及权力结构之基础的过程。他写道，西方文化这一概念属于现代建构，这是一个“从柏拉图到北大西洋公约”的宏大叙事，掩盖了所有文化实践与客体的复杂性。
+        abstract: “西方世界”的范围是什么？认同“西方文奔跑化”意味着什么？在 *The Lies That Bind* （《束缚我们的谎言》）一书中，作者奎迈·安东尼·阿皮亚论证了西方身份的观念成为等级制度、社会地位及权力结构之基础的过程。西方文化这一概念属于现代建构，这是一个“从柏拉图到北大西洋公约”的宏大叙事弧，其前身是基督教世界与欧洲的各种观念。尽管这部著作主要讨论了对不可移动的文化遗产的保护，但阿皮亞提醒我们，所有文化实践及文化物品必须被视为流动的、可变的、无限复杂的，并且最终能够反对任何单一群体的所有权。
+      - lang_code: fr
+        title: Qui sommes-nous ? Identité et patrimoine culturel
+        contributor: Kwame Anthony Appiah
+        keynote: Dans un extrait tiré de l'ouvrage *The Lies That Bind* (Les mensonges qui font lien), Kwame Anthony Appiah démontre comment le concept d'identité « occidentale » a formé la base de hiérarchies, d'un statut, et de structures de pouvoir. L'idée d'une culture occidentale, écrit-il, est une construction moderne, un récit épique dit « Plato-to-NATO » (De Platon à l'OTAN) qui dissimule la complexité de l'ensemble des pratiques et objets culturels.
+        abstract: Quel est le royaume dénommé « l'Occident » ? Que signifie de s'identifier à la « culture occidentale » ? Dans un extrait tiré de son livre *The Lies That Bind* (Les mensonges qui font lien), Kwame Anthony Appiah démontre comment la notion d'identité occidentale a formé la base de hiérarchies, d'un statut, et de structures de pouvoir. L'idée de culture occidentale représente une construction moderne, un arc narratif épique dit « Plato-to-NATO » (De Platon à l'OTAN) dont les précurseurs sont les concepts de la chrétienté et de l'Europe. Bien que ce volume soit consacré à la protection du patrimoine culturel immobilier, Appiah nous rappelle que l'ensemble des pratiques et objets culturels doivent être considérés comme mobiles, modifiables, infiniment complexes, et, en définitive, résistants à toute appropriation par un groupe unique quelconque.
+      - lang_code: ru
+        title: "Кто мы? Самосознание и культурное наследие"
+        contributor: Кваме Энтони Аппиа
+        keynote: Отрывок из книги Кваме Энтони Аппиа *The Lies That Bind* («Ложь, которая связывает») описывает, каким образом концепция «западного» самосознания стала основой иерархий, статуса и структур власти. Идея западной культуры, рассуждает автор, является современным построением, величественной версией пути «от-Платона-к-НАТО», которая не отдает должного многогранности материальных объектов культуры и культурных практик.
+        abstract: Что же принято называть «Западом»? Что значит идентифицировать себя с «западной культурой»? Отрывок из книги Кваме Энтони Аппиа *The Lies That Bind* («Ложь, которая связывает») описывает, каким образом понятие «западного» самосознания легло в основу иерархий, статуса и структур власти. Идея западной культуры является современным построением, великой нарративной аркой «от-Платона-к-НАТО», которой предшествовали концепции Христианства и Европы. Хотя этот труд посвящен защите недвижимых памятников культуры, Аппиа напоминает нам, что все материальные объекты культуры и культурные практики следует воспринимать как подвижные, изменяемые, бесконечно сложные и, наконец, не принадлежащие исключительно какой-либо группе.
+      - lang_code: es
+        title: ¿Quiénes somos? Identidad y patrimonio cultural
+        contributor: Kwame Anthony Appiah
+        keynote: En un fragmento de *Las mentiras que nos unen*, Kwame Anthony Appiah demuestra cómo el concepto de identidad “occidental” ha conformado la base para las jerarquías, el estatus y las estructuras de poder. La idea de cultura occidental, escribe, es una construcción moderna, una gran narrativa “De Platón a la OTAN” que oculta la complejidad de todas las prácticas y los objetos culturales.
+        abstract: ¿Qué es el reino llamado “Occidente”? ¿Qué significa identificarse con la “cultura occidental”? En un fragmento de su libro *Las mentiras que nos unen*, Kwame Anthony Appiah demuestra cómo la idea de identidad occidental ha conformado la base para las jerarquías, el estatus y las estructuras de poder. La idea de cultura occidental representa una construcción moderna, un gran arco narrativo “De Platón a la OTAN” cuyos precursores son los conceptos de cristianismo y Europa. Aunque este volumen se centra en la protección del patrimonio cultural inamovible, Appiah nos recuerda que todas las prácticas y objetos culturales deben entenderse como móviles, mutables, infinitamente complejos y, en última instancia, resistentes a convertirse en propiedad de un único grupo.
 
   - essay: 02-macgregor
     translations:
       - lang_code: en
         title:
-        keynote: "We may best be able to understand why people value cultural heritage if we consider why they so often choose to destroy it. Presenting examples from England, Poland, Lithuania, and Germany, this chapter examines how recent instances of creation and destruction at cultural heritage sites in modern Europe may illuminate paths to prevent or mitigate future losses."
-        abstract: "We may best be able to understand why people value cultural heritage if we consider why they so often choose to destroy it. Presenting examples from England, Poland, Lithuania, and Germany, this chapter examines how recent instances of creation and destruction at cultural heritage sites in modern Europe may illuminate paths to prevent or mitigate future losses. Cultural heritage provides communities with communal narratives that allow them to survive and flourish. While all cultural heritage is in large measure intangible, an important aspect of physical cultural heritage is usually less the thing itself than the narratives which communities, local or global, choose to attach to it. That explains why cultural heritage is most in danger when that community narrative changes, or when one object becomes the focus of conflicting narratives. Encouragingly, this essay demonstrates that destruction is not necessarily the end of the story."
-      - lang_code: fr
-        title:
-        keynote:
-        abstract:
-      - lang_code: ru
-        title:
-        keynote:
-        abstract:
-      - lang_code: es
-        title:
-        keynote:
-        abstract:
+        keynote: We may best be able to understand why people value cultural heritage if we consider why they so often choose to destroy it. Presenting examples from England, Poland, Lithuania, and Germany, this chapter examines how recent instances of creation and destruction at cultural heritage sites in modern Europe may illuminate paths to prevent or mitigate future losses.
+        abstract: We may best be able to understand why people value cultural heritage if we consider why they so often choose to destroy it. Presenting examples from England, Poland, Lithuania, and Germany, this chapter examines how recent instances of creation and destruction at cultural heritage sites in modern Europe may illuminate paths to prevent or mitigate future losses. Cultural heritage provides communities with communal narratives that allow them to survive and flourish. While all cultural heritage is in large measure intangible, an important aspect of physical cultural heritage is usually less the thing itself than the narratives which communities, local or global, choose to attach to it. That explains why cultural heritage is most in danger when that community narrative changes, or when one object becomes the focus of conflicting narratives. Encouragingly, this essay demonstrates that destruction is not necessarily the end of the story.
       - lang_code: ar
-        title:
-        keynote:
-        abstract:
+        title: ما الذي يجعلنا نهتم بقيمة التراث الثقافي؟
+        contributor: نيل ماكغريغور
+        keynote: لربما نتمكّن من فهم سبب اهتمام الشعوب بقيمة التراث الثقافي في حال دراستنا للسبب الذي كثيرًا ما يجعلهم يختارون تدميره. عبر تقديم أمثلة من إنجلترا وبولندا وليتوانيا وألمانيا، يسبر هذا الفصل كيف أن حالات حديثة من إنشاء وتدمير مواقع تراث ثقافي في أوروبا الحديثة قد يسلّط الضوء على سُبل يمكن عبرها منع خسارات مستقبلية أو التخفيف من حدّتها.
+        abstract: لربما نتمكّن من فهم سبب اهتمام الشعوب بقيمة التراث الثقافي في حال دراستنا للسبب الذي كثيرًا ما يجعلهم يختارون تدميره. عبر تقديم أمثلة من إنجلترا وبولندا وليتوانيا وألمانيا، يسبر هذا الفصل كيف أن حالات حديثة من إنشاء وتدمير مواقع تراث ثقافي في أوروبا الحديثة قد يسلّط الضوء على سُبل يمكن عبرها منع خسارات مستقبلية أو التخفيف من حدّتها. يوفر التراث الثقافي للمجتمعات سرديات مشتركة تسمح لها بالصمود والازدهار. وبينما يُعتبر التراث الثقافي إلى حد بعيد غير ملموس، إلا أن جانبًا مهمًا من التراث الثقافي الملموس غالبًا ما يتعلق بالسرديات التي ترتئي المجتمعات، محلية كانت أم عالمية، أن تربطها به، أكثر من كونها متعلقة بالتراث المادي نفسه. ويُفسر ذلك السبب وراء كون التراث الثقافي عرضة للخطر في معظم الحالات عندما تتغير السرديات المجتمعية، أو عندما يتحوّل عمل من التراث الثقافي ما إلى محور تركيز سرديات متناقضة. والأمر المشجِّع هو أن هذه الدراسة تُظهر أن الدمار لا يُمثل بالضرورة نهاية القصة.
       - lang_code: zh
-        title:
-        keynote:
-        abstract:
+        title: 我们为何重视文化遗产？
+        contributor: 尼尔·麦格雷戈 (Neil MacGregor)
+        keynote: 要想更好地理解人们为何重视文化遗产，我们就得思考人们为何经常选择摧毁文化遗产。本篇章援引英国、波兰、立陶宛及德国的例证，探讨现代欧洲文化遗址的创建与毁坏行为对预防或减少未来损失之路的启示。
+        abstract: 要想更好地理解人们为何重视文化遗产，我们就得思考人们为何经常选择摧毁文化遗产。本篇章援引英国、波兰、立陶宛及德国的例证，探讨现代欧洲文化遗址的创建与毁坏行为对预防或减少未来损失之路的启示。文化遗产为社群提供集体记述，让该社群得以生存和繁荣。尽管在很大程度上，所有文化遗产都是无形的，但物质文化遗产的一个重要方面与其说在于其本身，不如说更在于当地或全球社群选择附着于其上的叙事。这解释了当群体叙事发生变化或某个物体成为矛盾叙事的焦点时，文化遗产最易受到威胁的原因。令人深受鼓舞的是，这篇文章证明，毁灭未必会迫使叙事终止。
+      - lang_code: fr
+        title: Pourquoi le patrimoine culturel revêt-il tant d'importance pour nous ?
+        contributor: Neil MacGregor
+        keynote: Il pourrait nous être possible de mieux comprendre l'importance accordée au patrimoine culturel par les peuples si nous examinons les raisons pour lesquelles ils font si souvent le choix de le détruire. Présentant une série d'exemples venus d'Angleterre, de Pologne, de Lituanie et d'Allemagne, ce chapitre examine comment des événements récents de création et de destruction sur des sites de patrimoine culturel dans l'Europe moderne pourraient ouvrir la voie à des moyens de prévention ou d'atténuation des pertes futures.
+        abstract: Il pourrait nous être possible de mieux comprendre l'importance accordée au patrimoine culturel par les peuples si nous examinons les raisons pour lesquelles ils font si souvent le choix de le détruire. Présentant une série d'exemples venus d'Angleterre, de Pologne, de Lituanie et d'Allemagne, ce chapitre examine comment des événements récents de création et de destruction sur des sites de patrimoine culturel dans l'Europe moderne pourraient ouvrir la voie à des moyens de prévention ou d'atténuation des pertes futures. Le patrimoine culturel fournit aux communautés des récits collectifs leur permettant de survivre et de prospérer. Si dans une grande mesure unpatrimoine culturel est immatériel, un aspect important du patrimoine culturel physique est habituellement moins lui-même que les récits qui y sont attachés en vertu du choix des communautés locales ou mondiales. Ceci explique pourquoi le patrimoine culturel devient extrêmement vulnérable lorsque le récit communautaire se modifie, ou lorsqu'un objet devient la cible de récits contradictoires. Cet essai démontre de manière encourageante que la destruction n'est pas nécessairement la fin de l'histoire.
+      - lang_code: ru
+        title: Почему мы ценим культурное наследие?
+        contributor: Нил Макгрегор
+        keynote: "Для того чтобы лучше понять, почему люди ценят культурное наследие, нам нужно попытаться ответить на вопрос: почему так часто они принимают решение его уничтожить? В данной главе на примерах недавних событий в Англии, Польше, Литве и Германии рассматривается вопрос о том, каким образом факты создания и разрушения объектов культурного наследия в современной Европе могут помочь найти пути предотвращения или минимизации подобных потерь в будущем."
+        abstract: "Для того чтобы лучше понять, почему люди ценят культурное наследие, нам нужно попытаться ответить на вопрос: почему так часто они принимают решение его уничтожить? В данной главе на примерах недавних событий в Англии, Польше, Литве и Германии рассматривается вопрос о том, каким образом факты создания и разрушения объектов культурного наследия в современной Европе могут помочь найти пути предотвращения или минимизации подобных потерь в будущем. Культурное наследие создает для человеческих сообществ объединяющее их повествование, благодаря которому они способны выживать и процветать. Поскольку всякое культурное наследие в значительной мере нематериально,, физические артефакты культурного наследия представляют ценность не столько сами по себе, сколько как часть того повествования, с которыми они связаны для местного или мирового сообщества. В этом и заключена причина того, что культурное наследие оказывается в опасности, когда меняется повествование, или когда с одним и тем же предметом связаны противоречащие друг другу повествования. Данное эссе содержит обнадеживающие свидетельства того, что разрушение не всегда означает конец истории."
+      - lang_code: es
+        title: ¿Por qué valoramos el patrimonio cultural?
+        contributor: Neil MacGregor
+        keynote: Quizás podamos comprender mejor por qué valoramos el patrimonio cultural si consideramos por qué es tan a menudo blanco de ataques. Este capítulo, que presenta ejemplos de Inglaterra, Polonia, Lituania y Alemania, analiza casos recientes de creación y destrucción de sitios de patrimonio cultural en la Europa moderna que quizás arrojen luz sobre distintas vías para prevenir o mitigar futuras pérdidas.
+        abstract: Quizás podamos comprender mejor por qué valoramos el patrimonio cultural si consideramos por qué es tan a menudo blanco de ataques. Este capítulo, que presenta ejemplos de Inglaterra, Polonia, Lituania y Alemania, analiza casos recientes de creación y destrucción de sitios de patrimonio cultural en la Europa moderna que quizás arrojen luz sobre distintas vías para prevenir o mitigar futuras pérdidas. El patrimonio cultural ofrece a las comunidades narrativas comunes que les permiten sobrevivir y florecer. Si bien todo el patrimonio cultural es, en gran medida, intangible, un aspecto importante del patrimonio cultural físico suele ser no tanto el objeto en sí como la narrativas que las comunidades, locales o globales, eligen vincular con el objeto. Ello explica por qué el patrimonio cultural peligra principalmente cuando las narrativas de una comunidad cambian o cuando un objeto se convierte en el foco de narrativas opuestas. De modo alentador, este ensayo demuestra que la destrucción no es necesariamente el final de la historia.
