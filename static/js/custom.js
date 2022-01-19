@@ -39,7 +39,7 @@
     }
 
   })
-})()
+})();
 
 // For the translations that appear at the top of each essay
 // from https://inclusive-components.design/tabbed-interfaces/
