@@ -1,5 +1,13 @@
 languages:
 
+  - lang_code: ar
+    display: العربية
+    keynote: الفكرة الرئيسية
+    abstract: ملخص
+  - lang_code: zh
+    display: 中文
+    keynote: 主旨
+    abstract: 摘要
   - lang_code: en
     display: English
     keynote: Keynote
@@ -16,14 +24,7 @@ languages:
     display: Español
     keynote: Presentación
     abstract: Resumen
-  - lang_code: ar
-    display: العربية
-    keynote: الفكرة الرئيسية
-    abstract: ملخص
-  - lang_code: zh
-    display: 中文
-    keynote: 主旨
-    abstract: 摘要
+
 
 texts:
 

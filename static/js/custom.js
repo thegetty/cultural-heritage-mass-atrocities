@@ -111,8 +111,8 @@
     panel.hidden = true;
   });
 
-  // Initially activate the first tab and reveal the first tab panel
-  tabs[0].removeAttribute('tabindex');
-  tabs[0].setAttribute('aria-selected', 'true');
-  panels[0].hidden = false;
+  // Initially activate the third tab [English] and reveal the third tab panel
+  tabs[2].removeAttribute('tabindex');
+  tabs[2].setAttribute('aria-selected', 'true');
+  panels[2].hidden = false;
 })();
