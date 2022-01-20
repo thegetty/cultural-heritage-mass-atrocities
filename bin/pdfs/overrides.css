@@ -1,0 +1,15 @@
+/*  This is a special css file that overrides some of the base page settings
+    for a better output for downloading individual entries.
+
+    All the !important calls seem to be necessary.
+ */
+@page {
+  size: 7in 10in;
+  prince-bleed: 0 !important;
+  bleed: 0 !important;
+  prince-trim: 0 !important;
+  marks: none !important;
+  margin-left: 1in !important;
+  margin-right: 1in !important;
+  color: #000 !important;
+}
