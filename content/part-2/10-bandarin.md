@@ -12,19 +12,7 @@ contributor:
     bio: "Francesco Bandarin is an architect and urban planner. From 2000 to 2018 he was the Director of the World Heritage Centre and Assistant Director-General for Culture at UNESCO. He is currently Special Advisor of the International Centre for the Study of the Preservation and Restoration of Cultural Property (ICCROM), Senior Advisor of the Aga Khan Trust for Culture, member of the Advisory Board of the Smithsonian Center for Folklife and Cultural Heritage, and founding member of the international nongovernmental organization OurWorldHeritage. His recent publications include, *The Historic Urban Landscape* (2012), *Reconnecting the City* (2015), and *Re-shaping Urban Conservation* (2019)."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-Aleppo suffered massive destruction during the 2012–16 Syrian war, when the city was at the center of major clashes between Syrian government forces and the opposition. The chapter provides an account of the evolution of the military campaign and assesses both the devastation produced by the conflict and the limitations of the international system of heritage protection.
-
-## Abstract
-
-Syrian cities and sites suffered devastating destruction during the ten-years’ war of 2011–20. The worst situation is found in Aleppo, a city all but destroyed during the conflict from 2012 to 2016. The population has been heavily affected, with two million leaving and over twenty-five thousand casualties. All areas of the city and its major monuments, souks, khans, and mosques suffered severe damage. The housing stock was also badly damaged, while the population was deprived of water, power, health, and educational services. This chapter examines the development of the conflict, its impact on the social and physical structures of the city, the destruction of its important cultural heritage, and the role played by national and international actors during the war. Finally, it assesses the current situation and the limitations of the international system of heritage protection during conflict.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 Ten years of war have destroyed Syria’s economic, social, and cultural structures. The country that existed in 2011 is hardly recognizable today, except for a few areas that have been preserved from destruction.[^1] This chapter addresses the destruction of the World Heritage Site of Aleppo during the conflict that raged in the city from 2012 to 2016. In addition to an assessment of the physical destruction of the city’s cultural heritage, housing, and infrastructure, also examined are the impact of the war on the social fabric of the city and the role played by the different national and international actors involved in the conflict. Finally, the effectiveness of international law for the protection of cultural heritage and of civilians during the Syrian war is discussed.
 

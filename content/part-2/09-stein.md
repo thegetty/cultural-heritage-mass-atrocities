@@ -13,19 +13,7 @@ contributor:
     bio: "Gil Stein is Professor of Near Eastern Archaeology at the University of Chicago and Director of the Chicago Center for Cultural Heritage Preservation. His research investigates ancient colonialism, the development of early urban civilizations in Mesopotamia, and cultural heritage preservation. He has directed archaeological excavations in Iraq, Syria, and Turkey. Since 2012 he has led six US State Department–funded cultural heritage projects in Afghanistan and Central Asia. He is lead editor of *Preserving the Cultural Heritage of Afghanistan* (2017)."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-From 2013 to 2019, Da’esh (ISIS) waged a violent campaign across much of Syria and Iraq in a dangerous new paradigm of “performative destruction”—a choreographed combination of cultural and physical genocide, publicized globally through the Internet. Da’esh framed its actions as a religious duty targeting people and cultural heritage monuments.
-
-## Abstract
-
-The rise of Da’esh (ISIS) and its expansion across Syria and Iraq were characterized by well-publicized attacks on both religious groups and cultural heritage, disseminated through a dangerous new paradigm of “performative destruction.” The performative destruction of monuments and sites was a carefully choreographed, Internet-propagated, public strategy of cultural genocide combined with acts of physical genocide. Da’esh’s war on people and things was effective because it was embedded in an integrated system combining religious ideology, a political agenda, and extreme violence, amplified and intensified through the Internet. Political actions were recast as religious acts consistent with Da’esh’s jihadist interpretation of Salafi Islam and its mission of returning to an idealized vision of Islam in its earliest, purest form. Although the Da’esh caliphate was destroyed as a polity, its paradigm for viral violence is a highly adaptable model that risks being emulated by other nonstate armed groups worldwide.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 Well-publicized genocidal actions, combined with ferocious iconoclastic attacks on cultural heritage, characterize the violent expansion of the caliphate of Da’esh, also known as the Islamic State of Iraq and Syria (ISIS or ISIL), over significant areas in the north of both countries from 2013 to 2019. These were not random acts of atrocity but instead formed a coherent, integrated politico-religious strategy of violence, communicated and amplified globally through innovative use of the Internet. In this chapter I suggest that Da’esh’s politics of heritage demolition were central to its very identity. Its destruction of cultural heritage monuments was a form of “cultural genocide” closely linked to concurrent acts of human genocide in attempts to exterminate its enemies, both Muslim and non-Muslim, in Syria and Iraq.
 

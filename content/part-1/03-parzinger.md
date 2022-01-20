@@ -13,19 +13,7 @@ contributor:
     bio: "Hermann Parzinger was appointed Director in 1990 and President in 2003 of the German Archaeological Institute, where he headed archaeological excavations in the Near East and Central Asia. Since 2008 he has been President of the Prussian Cultural Heritage Foundation, one of the largest cultural institutions in the world. For his academic work he has received awards and memberships from academies in Russia, China, Spain, Great Britain, the United States, and Germany. He is the author of fifteen books and over 250 essays on research and cultural policy issues."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-Intentional destruction of cultural heritage has occurred throughout history. While motivations may have differed, economic factors have usually been part of the mix, with political motives paramount in antiquity. More recently, cultural genocide has accompanied mass atrocities in European colonial contexts, and also seems common in most cases of the twentieth and early twenty-first centuries, when people and their cultural identity have become key targets.
-
-## Abstract
-
-This chapter explores the history of the intentional destruction of cultural heritage from ancient times to the present. It analyzes the political, religious, social, ethnic, and other conditions and motivations that feed the obliteration of cultural artifacts and cultural heritage. Of particular interest are the links to war crimes, crimes against humanity, and other atrocities perpetrated against civilian populations. These connections are explored in cases from antiquity to the Byzantine iconoclastic controversy, the iconoclasm of the Protestant Reformation, the European colonial age, the French and Russian Revolutions, and the Nazi era, when the systematized obliteration of culture and humanity reached new levels. Next, the crimes of the Khmer Rouge in Cambodia and the ethnic and cultural cleansings of the Balkan Wars are highlighted. Finally, another dimension of ruthlessness is reached with the annihilation of cultural heritage and humanity that the so-called Islamic State in Iraq and Syria exploited for propaganda purposes before the eyes of a global audience.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 The history of the intentional destruction of cultural heritage is long and diverse,[^1] with motivations similarly varied. Ideologically or politically motivated iconoclasm seeks to destroy symbols and representational signs that characterize a past that has been vanquished, or a deposed system to purge its memory. Religious iconoclasm is fed by the hatred of images of another religion, as well as the fight against idolatry and false gods in the service of the true faith. Economically motivated cultural destruction is characterized by the pillage and plunder of culturally significant sites or monuments for financial gain, which at times may give rise to shadow economies. It may not always be possible to clearly differentiate between the various reasons driving the destruction of cultural heritage, but they are closely intertwined. Cultural destruction also often goes hand in hand with human rights violations and other atrocities; particularly when the latter involve ethnic cleansing and genocide. These interconnections will be explored in detail throughout this essay.
 

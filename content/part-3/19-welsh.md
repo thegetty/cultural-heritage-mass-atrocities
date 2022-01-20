@@ -12,19 +12,7 @@ contributor:
     bio: "Jennifer M. Welsh is the Canada 150 Research Chair in Global Governance and Security at McGill University. She was previously Chair in International Relations at the European University Institute, and Professor in International Relations at the University of Oxford, where she cofounded the Oxford Institute for Ethics, Law and Armed Conflict. From 2013 to 2016 she served as the Special Adviser on the Responsibility to Protect to UN Secretary-General Ban Ki-moon. She has published several books and articles on humanitarian intervention, the “responsibility to protect” in international society, the UN Security Council, norm conflict and contestation, and Canadian foreign policy."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-This chapter examines nonstate armed groups (NSAGs) as both a threat to and potential protector of cultural heritage. It establishes the legal obligations of these entities, and suggests strategies for encouraging restraint in NSAGs’ behavior that are based on both a clear understanding of their goals, structure, and community ties, as well as greater willingness to engage with their members.
-
-## Abstract
-
-Nonstate armed groups (NSAGs) should be considered a critical part of any strategy to enhance the protection of cultural heritage in contemporary situations of violent conflict. The chapter begins by distinguishing these groups according to their goals, structure, and behavior, and goes on to show that while some of these groups pose a serious threat to cultural heritage, others have proven pivotal to its protection and preservation. It also emphasizes that NSAGs do not operate in a legal vacuum, but are bound in meaningful ways by a range of obligations under international humanitarian law and their individual members subject to international criminal law. Nevertheless, the primary challenge in protecting cultural heritage is less the creation of new rules to regulate the behavior of NSAGs, and more the need to ensure compliance with already existing obligations. The chapter therefore moves on to examine recent political science literature on belligerent conduct, as well as the ICRC’s “Roots of Restraint” project, to suggest potential ways in which the behavior of NSAGs can be directed or changed to enhance respect for laws and norms relating to the protection of cultural heritage. These efforts will necessitate a deeper understanding of not only the inner workings of NSAGs—in order to identify sources of authority, beliefs, and influence—but also the local communities in which many of these groups are embedded. As the chapter concludes, however, there are formidable challenges confronting efforts to engage with NSAGs. These include the effects of counterterrorism policies that have constrained the capacity and willingness to enter into dialogue with such entities as well as the longstanding reluctance of states and state-based organizations to undertake actions or commitments that they believe might legitimize NSAGs.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 Many of the core norms that seek to regulate the conduct of belligerents in armed conflict, or of the perpetrators of atrocity crimes, originally focused on the behavior of sovereign states. It is states and their representatives, after all, that make and enforce international law and thus it is their rights and responsibilities that are of primary concern. But in addition, national governments have long resisted any moves that might empower actors seeking to challenge state authority or the domestic political status quo. As a result, the laws of war, from their earliest incarnation, sought to set boundaries around those who can legitimately fight by insisting that only sovereigns have the “right authority” to wage war.[^1] It was not until the adoption of the Additional Protocols in 1977 that nonstate actors fighting in civil wars incurred obligations to comply with the Geneva Conventions—a delay due in large part to states’ reluctance to legitimize such entities.
 

@@ -12,19 +12,7 @@ contributor:
     bio: "Sabine von Schorlemer holds the Chair of International Law, Law of the EU and International Relations, and the UNESCO Chair in International Relations, both at Technische Universität Dresden. Among other organizations, she is an elected member of the German Commission for UNESCO, the German Foundation for Peace Research, and of the International Law Association Committee on Participation in Global Cultural Heritage Governance. Von Schorlemer has published several books and more than a hundred articles related to UN topics, notably cultural heritage, including *Kulturgutzerstörung: Die auslöschung von kulturerbe in krisenländern als herausforderung für die Vereinten Nationen* (Destruction of cultural heritage as a challenge for the United Nations, 2017)."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-Global cultural heritage governance may support international efforts to fight terrorist attacks against cultural heritage, thereby improving cultural heritage protection and developing its legal regime.
-
-## Abstract
-
-In the last two decades, cultural heritage has increasingly become a target for terrorist attacks. Considering the wanton and deliberate devastation of monuments and archaeological sites, and a new range of terrorist attacks, this chapter examines global cultural heritage governance as a means for combating such attacks. With conviction growing that improved global governance can play an essential role in sustaining peace and security, the participation of local communities, populations, and stakeholders can be a crucial element in strengthening the universal defense of cultural heritage. The chapter demonstrates that efforts by the international community are indeed shifting from a rather state-centered toward a more “people-centered” approach.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 Over the past few years, cultural heritage without military significance has increasingly become a target of systematic and intentional attacks by nonstate armed groups.[^2] The attractiveness of the world’s cultural heritage as target for terrorists in the twenty-first century is reflected in just a few prominent examples: the intentional destruction of the Buddha statues of Bamiyan by the Taliban in Afghanistan in 2001, the attacks of militant Islamist group Ansar Dine against world heritage in Mali in 2012, and the rage of the Islamic State of Iraq and Syria (ISIS, also known as ISIL or Da’esh) against monuments and archaeological sites in Syria and Iraq over the last ten years.
 

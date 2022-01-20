@@ -12,19 +12,7 @@ contributor:
     bio: "Rachel Harris is Professor of Ethnomusicology at SOAS, University of London. Her research focuses on expressive culture, religion, and the politics of heritage in China’s Muslim borderlands, and she has conducted long-term fieldwork with Uyghur communities in the Xinjiang Uyghur Autonomous Region, Kazakhstan, and Kyrgyzstan. She led the Leverhulme Research Project “Sounding Islam in China” (2014–17) and a British Academy Sustainable Development Project to revitalize Uyghur cultural heritage in the diaspora (2018–21). Her latest books are *Soundscapes of Uyghur Islam* (2020) and, co-edited with Guangtian Ha and Maria Jaschok, *Ethnographies of Islam in China* (2021)."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-China’s large-scale destruction of Uyghur religious heritage is presented to the outside world as a necessary part of its counterterrorism campaigns. Instead it represents a fundamental attack on Uyghur culture and identity, part of a push to fully pacify the Xinjiang region in pursuit of wider economic and geopolitical goals.
-
-## Abstract
-
-Over the past few years, the Xinjiang Uyghur Autonomous Region has been transformed into a high security police state, with an estimated 1.5 million Turkic Muslim citizens incarcerated and subjected to abusive regimes of indoctrination and forced labor. China explains its actions as a necessary response to extremist terror, while international observers and governments have designated its policies as genocide. However, China’s approach to heritage in this region is fully subsumed within the state’s political and economic goals. Uyghur religious heritage—mosques, cemeteries, and shrines—has been demolished; places whose principal value lies in the complex of historical meanings, forms of community, and religious and cultural expression which surround them. Their destruction represents a fundamental attack on Uyghur culture and identity, and is integral to a push to assimilate and pacify the region in pursuit of the economic and strategic goals of the Belt and Road Initiative.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 > By the forest side, there was a river bed <br/>
 > The tomb was a wonderful place <br/>

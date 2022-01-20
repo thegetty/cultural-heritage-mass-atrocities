@@ -12,19 +12,8 @@ contributor:
     bio: "Joseph Powderly is Associate Professor of Public International Law at the Grotius Centre for International Legal Studies, Leiden University. His research focuses broadly on issues relevant to international criminal law, international human rights law, and cultural heritage law. He published *Judges and the Making of International Criminal Law* in 2020."
 ---
 
-<div class="backmatter">
 
-## Keynote
-
-This chapter offers an account of the history of international criminal law’s efforts to prosecute cultural heritage destruction; it looks toward the possible future development of accountability for such attacks.
-
-## Abstract
-
-Over the course of the past century, international criminal justice mechanisms have played a pivotal role in securing individual criminal accountability for the deliberate destruction of cultural heritage, whether inside or outside the context of armed conflict. This chapter explores the manner in which international criminal law has evolved in order to pursue accountability for the deliberate destruction of cultural heritage. The chapter begins with an overview of the prehistory of individual criminal responsibility for heritage destruction as an international crime, looking at the oft-neglected efforts undertaken in the aftermath of World War I and World War II. Close consideration is given to key jurisprudential milestones identifiable at Nuremberg, and then later at the International Criminal Tribunal for the former Yugoslavia. Finally, the chapter reflects on contemporary developments before the International Criminal Court and the future trajectory of accountability for cultural heritage destruction.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 On the opening of the case against Ahmad al-Faqi al-Mahdi for his role in the destruction of mausoleums in Timbuktu, Mali, the then chief prosecutor of the International Criminal Court (ICC), Fatou Bensouda, reflected on the importance of pursuing international criminal accountability for heritage destruction. In her view, the case against al-Mahdi was historic “in view of the destructive rage that marks our times, in which humanity’s common heritage is subject to repeated and planned ravages.” She concluded that heritage destruction is “a crime that impoverishes us all and damages universal values we are bound to protect.”[^1] The protection and realization of universal values sit at the very heart of the purposive foundations of international criminal law. Since the inception of the notion of international criminal accountability, the courts and tribunals that have been tasked with its delivery have recognized that acts that threaten and destroy the heritage of peoples cannot be left unpunished. The prosecution of heritage destruction before international criminal courts and tribunals, from the International Military Tribunal at Nuremberg (IMT) in 1945–46 to the present day ICC, has made an important contribution to ending impunity for heritage destruction, and has significantly advanced the development of international law in this area.
 

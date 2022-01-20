@@ -16,19 +16,7 @@ contributor:
     bio: "Tural Mustafayev is an Associate Programme Specialist at the Cultural Heritage Protection Treaties Unit at UNESCO. He specializes in cultural property protection legislation in the context of armed conflict and advises on the execution of UNESCO’s program related to the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict and its two protocols. Previously, he was the Director of Research and the Education Department of the NATO International School of Azerbaijan and worked at the Department of International Law and Treaties of the Azerbaijani Ministry of Foreign Affairs."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-A comprehensive international legal framework has been developed to protect tangible cultural property during situations of armed conflict. It is now time to shift the focus from debating the review of the law to its implementation.
-
-## Abstract
-
-With tangible cultural property becoming a deliberate target, subject to collateral damage in recent armed conflicts, academic scrutiny of rules of international humanitarian law governing its protection has increased. Building on this debate, this chapter argues that a comprehensive framework exists under international law, both treaty and customary, regulating the protection of cultural property. Existing law not only regulates the conduct of hostilities vis-à-vis cultural property and the peacetime measures that states must put in place to adequately protect it, it also establishes normative and institutional mechanisms to support the implementation of the law. Consequently, giving effect to the protective nature of the law and strengthening compliance necessarily entails focusing on ways to support these mechanisms. In other words, the international legal framework protecting cultural property in armed conflict cannot be effective unless the action of implementing these mechanisms is reinforced.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 From entire libraries burnt to the ground during World War II to the more recent calculated and demonstrative destruction of archaeological sites in Syria, the deliberate attacks against historical monuments in Mali, Libya, and Yemen, or the looting of invaluable artefacts from museums in Iraq, the deleterious effects of war on cultural property are well documented. History has long shown there is an inherent link between the protection of cultural property during armed conflict and the protection of human beings, giving this protection a humanitarian imperative. A comprehensive corpus of international law has been developed since the 1950s to regulate the protection of cultural property against the devastating effects of war. Not only does this corpus establish a set of legal obligations addressed to states in peacetime and to parties to armed conflict—several of which have been crystallized into customary law— it also sets up normative and institutional mechanisms with a view to enhancing its effectiveness.
 

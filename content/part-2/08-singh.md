@@ -13,19 +13,7 @@ contributor:
     bio: "Kavita Singh is Professor at the School of Arts and Aesthetics of Jawaharlal Nehru University, where she teaches courses in the history of Indian painting, particularly the Mughal and Rajput schools, and the history and politics of museums. Singh has published on secularism and religiosity, fraught national identities, and the memorialization of difficult histories as they relate to museums in South Asia and beyond. She has also published essays and monographs on aspects of Mughal and Rajput painting, particularly on style as a signifying system. In 2018 she was awarded the Infosys Prize in Humanities and was elected to the American Academy of Arts and Sciences in 2020."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-Post-conflict cultural reconstruction can become a tool through which the powerful consolidate their hold over a country and deepen the marginalization of its minorities. This phenomenon is examined here in relation to Jaffna in Sri Lanka and Bamiyan in Afghanistan.
-
-## Abstract
-
-Cultural reconstruction in the “post-conflict” period in Sri Lanka and Afghanistan has taken a disturbing shape in regions dominated by religious or ethnic minorities. In Sri Lanka this is explored in relation to the northern Jaffna Peninsula, which is home to most of the country’s Hindu Tamils; in Afghanistan, the Bamiyan Valley, where the Hazara Shia minority live. Here, the very processes of reconstruction and heritage conservation meant to repair a society become instruments through which one side continues its domination over the other. In Sri Lanka, a majoritarian government uses all the tools at its disposal to effect a “recovery” of heritage that underlines the disempowerment of the Tamil minority; and in Afghanistan the international organizations that have come to assist in the aftermath of the Taliban era unwittingly contribute to a subtler power play between the central government and an ethnic minority that has long been at the margins of Afghan life.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 In the 2000s, two countries near my home in India emerged from a long and brutal period of internal conflict. With the ouster of the Taliban in 2001 and the defeat of the Tamil Tigers in 2009, Afghanistan and Sri Lanka seemed ready to leave their turbulent pasts behind and enter an era of greater peace. But the quiet that descended on these lands came with a victory for one side and defeat for another. What does “peace” look like in these circumstances, when a community of winners and a community of losers must live in a nation side by side? As countries riven by civil war or internecine conflicts head into what looks like their “post-conflict” periods, what appears to be peace to one group may look very much like subjugation to the other. In these contexts, even acts of rebuilding and repair can become instruments for the humiliation of the losing side.
 

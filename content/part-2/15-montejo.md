@@ -12,19 +12,7 @@ contributor:
     bio: "Victor Montejo is a Jakaltek Maya originally from Guatemala and a retired Professor of Native American Studies at the University of California, Davis. His academic interests focus on Latin American diasporas, human rights, migration, and transnationalism. From 2004 to 2008 Montejo served in the Guatemalan national congress. He has also served as Minister of Peace, in which capacity he worked out the National Program for Reparation to the victims of the armed conflict in Guatemala. Montejo is a nationally and internationally recognized author, whose major publications include *Testimony: Death of a Guatemalan Village* (1987), *Voices from Exile: Violence and Survival in Modern Maya History* (1999), *Maya Intellectual Renaissance: Critical Essays on Identity, Representation, and Leadership* (2003), and *Mayalogue: An Interactionist Theory on Indigenous Culture* (2021)."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-The Maya people have suffered throughout the centuries a violent process of conquest, colonization, and neocolonial forms of domination by the ruling elite of Guatemala, as demonstrated during the recent armed conflict. The international community must apply pressure on states to comply with existing laws aimed at the protection of cultural heritage, and indigenous scholars must be trained and supported to participate in ongoing debates concerning archaeological investigations of Maya sites.
-
-## Abstract
-
-The Guatemalan civil war of 1960–96 had a devastating impact on the Maya people and their heritage, building on a legacy of “Mayacide” begun over five centuries ago with the Spanish conquest and colonization. This chapter surveys the historical terrain and articulates the ongoing risks to this ancient heritage from the distinctive perspective of the living Maya, for whom nearly every aspect of their cultural tradition remains unprotected. It emphasizes the need to train and support indigenous scholars to protect Maya cultural heritage and to ensure that Maya voices participate in ongoing debates concerning archaeological investigations. Further, it argues that the international community must apply pressure on nations to comply with existing laws aimed at the protection of cultural heritage.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 The history of abuse and destruction of ancient Maya heritage in Guatemala started more than five centuries ago. This long and dark night has persisted as modern Maya continue to struggle for their basic human rights and cultural identity. Between 1960 and 1996 many Guatemalan people, especially its indigenous population, suffered extreme violence at the hands of the government. They were accused of being subversives and supporters of the guerrilla movement. As a result, the Guatemalan military government unleashed a scorched earth policy which destroyed entire villages and massacred thousands of indigenous people. According to the 1999 report of the Commission for Historical Clarification, otherwise known as the Truth Commission, more than two hundred thousand people died, one million were displaced internally, and a further thirty thousand were refugees in Mexico and other countries. In 1996, with the signing of the Peace Accords, most refugees returned to Guatemala and rebuilt their abandoned communities or were relocated in new settlements. Unfortunately, the most important of those signed, the Accord on the Identity and Rights of Indigenous Peoples (AIDPI) was not implemented. In other words, the roots of the conflict remained unsolved. It was a peace without justice for the indigenous population, who continue to endure racist treatment and discrimination.
 

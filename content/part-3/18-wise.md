@@ -12,19 +12,7 @@ contributor:
     bio: "Paul Wise, MD, is the Richard E. Behrman Professor of Child Health and Society and Professor of Pediatrics and Health Policy, Stanford University School of Medicine, and Senior Fellow in the Center on Democracy, Development, and the Rule of Law, and in the Center for International Security and Cooperation, Freeman Spogli Institute for International Studies, Stanford University. His research focuses on protecting health in violent and politically complex environments."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-The relationship between the destruction of heritage and of people is more empirically complex than has been traditionally proposed and demands a more detailed, transdisciplinary examination.
-
-## Abstract
-
-This chapter addresses the relationship between the destruction of cultural heritage and the destruction of people in war. While this connection helps justify heritage protection, the discussion assesses the evidence base supporting this linkage. Five empirical mechanisms are observed: *prelude*, when heritage destruction foreshadows subsequent attacks on vulnerable populations; *provocation*, attacks on heritage to incite or intensify violent conflict; *parallelism*, when the destruction of heritage occurs simultaneously with attacks on people; *protraction*, the prolongation of conflict in order to maintain illicit trafficking in heritage objects; and *propaganda*, using the destruction of heritage to undermine international norms that also protect people. Each of these mechanisms varies in prevalence and ability to influence the direct risk of violence to people and the reverberating, indirect effects on human health. The relationship between the destruction of heritage and of people is complex and demands more detailed, transdisciplinary examination.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 This chapter examines the relationship between saving people and saving the things they love. The humanitarian imperative to save lives in war is rooted in high ideals and a long history of nuanced, moral reasoning.[^1] This imperative, however, must operate in real-world settings of extreme risk, purposeful killing, and unspeakable cruelty. Both saints and generals have pondered this stark juxtaposition and struggled to craft humane but pragmatic principles that permit war while attempting to constrain its barbarity. After the horrors of World War II, a global consensus emerged in what these principles should express and the practical strategies that should be implemented to achieve these humanitarian goals.[^2] A global legal and normative infrastructure consisting of the Geneva Conventions, international humanitarian law more broadly, and principles of humanitarian practice was created to give operational form to these humanitarian intentions. This infrastructure has provided both legal legitimacy and practical guidance to an array of international agencies and nongovernmental organizations dedicated to humanitarian protection and service provision in areas of violent conflict.[^3]
 

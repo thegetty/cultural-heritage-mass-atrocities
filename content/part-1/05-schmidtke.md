@@ -12,19 +12,7 @@ contributor:
     bio: "Sabine Schmidtke is Professor of Islamic Intellectual History in the School of Historical Studies at the Institute for Advanced Study, Princeton. Her research interests include Shiʿism (Zaydism and Twelver Shiʿism), intersections of Jewish and Muslim intellectual history, the Arabic Bible, the history of Orientalism and the Science of Judaism, and the history of the book and libraries in the Islamicate world. Her recent publications include *Muslim Perceptions and Receptions of the Bible: Texts and Studies* (2019), with Camilla Adang; *Traditional Yemeni Scholarship amidst Political Turmoil and War: Muḥammad b. Muḥammad b. Ismāʿīl b. al-Muṭahhar al-Manṣūr (1915–2016) and His Personal Library* (2018); and *The Oxford Handbook of Islamic Philosophy* (2017), with Khaled El-Rouayheb."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-Islamic manuscript heritage is threatened in many ways—improper handling, theft, inclement climatic conditions, and willful destruction. Over the past several decades there have been repeated cases of deliberate destruction of Islamic manuscripts, and Islamic manuscripts of uncertain provenance continue to be auctioned off into private hands. The destruction of the cultural heritage of the Muslim world is a calamity beyond reckoning, with books and manuscript libraries among the hardest hit cultural forms and institutions.
-
-## Abstract
-
-The written heritage of the Muslim world constitutes a cultural heritage beyond reckoning, with much of the written culture of the Islamic world still today preserved in manuscript form. This manuscript heritage continues to be threatened in many ways—improper handling, exposure, theft, inclement climatic conditions, and willful destruction. Over the past several decades there have been repeated cases of deliberate destruction of Islamic manuscripts. These include the bombing of libraries and museums in Kosovo and Bosnia by Serbian nationalists in 1992, and the looting and destruction of major manuscript libraries in Iraq in the aftermath of the 1991 Gulf War and again with invasion and occupation from 2003. Sectarianism poses another threat to aspects of Islamic cultural heritage: libraries holding manuscripts that are seen as containing deviant views are targeted for destruction, and the same holds for historical monuments, which have been destroyed over the past few decades by Muslim extremists in an attempt to “purify” Islam.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 Over the past several decades, digital collections of texts produced by Muslim authors writing in Arabic during the premodern period have mushroomed. Major libraries include al-Maktaba al-Shamila, currently containing some seven thousand books;[^1] Noor Digital Library, with 35,169 books to date;[^2] PDF Books Library, currently containing 4,355 books;[^3] Arabic Collections Online (ACO), providing access to 15,131 volumes;[^4] Shia Online Library, with 4,715 books;[^5] and al-Maktaba al-Waqfiyya, containing some ten million pages of published books (in addition to a growing number of manuscript surrogates),[^6] to name only the most important. Moreover, since printing technologies were adopted in the Islamic world at a relatively late stage and slow rate, ([fig. 5.1](#fig-5-1-schmidtke)) much of the written cultural production of the Islamic world is still preserved in manuscript form. And although there has been a steady rise in the publication of manuscript catalogues all over the Islamic world over the past hundred years, much material is still unaccounted for, and discoveries of titles that were believed to be lost or that were entirely unknown regularly occur. In parallel, numerous libraries have started to digitize their collections of Islamic manuscripts, with a fair number providing open access to their holdings through institutional digital repositories, in addition to a growing number of online gateways to such manuscripts.[^7] At the same time, what is available online, whether published or in manuscript form, is only the tip of the iceberg.
 
