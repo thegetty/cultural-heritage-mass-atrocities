@@ -27,6 +27,225 @@ languages:
 
 texts:
 
+  # The `page` values corespond to the file directory and filename of a markdown file in the content directory.
+  # The first listings below include frontmatter pages as well as all the section pages and section intros. Following that are all the essays. At the bottom are the backmater pages
+
+  - page: foreword
+    translations:
+      - lang_code: ar
+        title: تمهيد
+        contributor: إرينا بوكوفا
+      - lang_code: zh
+        title: 序
+        contributor: 伊琳娜·博科娃(Irina Bokova)
+      - lang_code: fr
+        title: Avant-propos
+        contributor: Irina Bokova
+      - lang_code: ru
+        title: Предисловие
+        contributor: Ирина Бокова
+      - lang_code: es
+        title: Prólogo
+        contributor: Irina Bokova
+
+  - page: preface-acknowledgements
+    translations:
+      - lang_code: ar
+        title: مقدمة وشكر
+        contributor: جيمس كونو وتوماس ج. ويس
+      - lang_code: zh
+        title: 前言与致谢
+        contributor: 詹姆斯·库诺 (James Cuno) 与托马斯·G·怀斯 (Thomas G. Weiss)
+      - lang_code: fr
+        title: Préface et remerciements
+        contributor: James Cuno et Thomas G. Weiss
+      - lang_code: ru
+        title: Предисловие редакторов и благодарности
+        contributor: Джеймс Куно и Томас Дж. Уэйс
+      - lang_code: es
+        title: Prefacio y agradecimientos
+        contributor: James Cuno y Thomas G. Weiss
+
+  - page: part-1/section-contents
+    translations:
+      - lang_code: ar
+        label: الجزء 1
+        title: التراث الثقافي والقيم
+      - lang_code: zh
+        label: 第一
+        title: 部分文化遗产及其价值
+      - lang_code: fr
+        label: 1<sup>ère</sup> partie
+        title: Patrimoine et valeurs culturels
+      - lang_code: ru
+        label: Часть 1
+        title: Культурное наследие и ценности
+      - lang_code: es
+        label: Parte 1
+        title: El patrimonio cultural y los valores
+
+  - page: part-1/intro
+    translations:
+      - lang_code: ar
+        title: مقدمة
+        contributor: جيمس كونو وتوماس ج. ويس
+      - lang_code: zh
+        title: 简介
+        contributor: 詹姆斯·库诺 (James Cuno) 与托马斯·G·怀斯 (Thomas G. Weiss)
+      - lang_code: fr
+        title: Introduction
+        contributor: James Cuno et Thomas G. Weiss
+      - lang_code: ru
+        title: Введение
+        contributor: Джеймс Куно и Томас Дж. Уэйс
+      - lang_code: es
+        title: Introducción
+        contributor: James Cuno y Thomas G. Weiss
+
+  - page: part-2/section-contents
+    translations:
+      - lang_code: ar
+        label: الجزء 2
+        title: التراث الثقافي تحت الحصار حالات حديثة
+      - lang_code: zh
+        label: 第二
+        title: "部分遭到围困的文化遗产：近代案例"
+      - lang_code: fr
+        label: 2<sup>ème</sup> partie
+        title: "Le patrimoine culturel assiégé : exemples récents"
+      - lang_code: ru
+        label: Часть 2
+        title: Культурное наследие под ударом.Недавняя история
+      - lang_code: es
+        label: Parte 2
+        title: El patrimonio cultural bajo asedio Casos recientes
+
+  - page: part-2/intro
+    translations:
+      - lang_code: ar
+        title: مقدمة
+        contributor: جيمس كونو وتوماس ج. ويس
+      - lang_code: zh
+        title: 简介
+        contributor: 詹姆斯·库诺 (James Cuno) 与托马斯·G·怀斯 (Thomas G. Weiss)
+      - lang_code: fr
+        title: Introduction
+        contributor: James Cuno et Thomas G. Weiss
+      - lang_code: ru
+        title: Введение
+        contributor: Джеймс Куно и Томас Дж. Уэйс
+      - lang_code: es
+        title: Introducción
+        contributor: James Cuno y Thomas G. Weiss
+
+  - page: part-3/section-contents
+    translations:
+      - lang_code: ar
+        label: الجزء 3
+        title: التراث الثقافي والسكان المعرضين للخطر
+      - lang_code: zh
+        label: 第三
+        title: 部分受到威胁的文化遗产及人口
+      - lang_code: fr
+        label: 3<sup>ème</sup> partie
+        title: Patrimoine culturel et populations en danger
+      - lang_code: ru
+        label: Часть 3
+        title: Культурное наследие и население в опасности
+      - lang_code: es
+        label: Parte 3
+        title: El patrimonio cultural y las poblaciones en riesgo
+
+  - page: part-3/intro
+    translations:
+      - lang_code: ar
+        title: مقدمة
+        contributor: جيمس كونو وتوماس ج. ويس
+      - lang_code: zh
+        title: 简介
+        contributor: 詹姆斯·库诺 (James Cuno) 与托马斯·G·怀斯 (Thomas G. Weiss)
+      - lang_code: fr
+        title: Introduction
+        contributor: James Cuno et Thomas G. Weiss
+      - lang_code: ru
+        title: Введение
+        contributor: Джеймс Куно и Томас Дж. Уэйс
+      - lang_code: es
+        title: Introducción
+        contributor: James Cuno y Thomas G. Weiss
+
+  - page: part-4/section-contents
+    translations:
+      - lang_code: ar
+        label: الجزء 4
+        title: التراث الثقافي والقانون الدولي
+      - lang_code: zh
+        label: 第四
+        title: 部分文化遗产与国际法
+      - lang_code: fr
+        label: 4<sup>ème</sup> partie
+        title: Patrimoine culturel et droit international
+      - lang_code: ru
+        label: Часть 4
+        title: Культурное наследие и международное право
+      - lang_code: es
+        label: Parte 4
+        title: El patrimonio cultural y el derecho internacional
+
+  - page: part-4/intro
+    translations:
+      - lang_code: ar
+        title: مقدمة
+        contributor: جيمس كونو وتوماس ج. ويس
+      - lang_code: zh
+        title: 简介
+        contributor: 詹姆斯·库诺 (James Cuno) 与托马斯·G·怀斯 (Thomas G. Weiss)
+      - lang_code: fr
+        title: Introduction
+        contributor: James Cuno et Thomas G. Weiss
+      - lang_code: ru
+        title: Введение
+        contributor: Джеймс Куно и Томас Дж. Уэйс
+      - lang_code: es
+        title: Introducción
+        contributor: James Cuno y Thomas G. Weiss
+
+  - page: part-5/section-contents
+    translations:
+      - lang_code: ar
+        label: الجزء 5
+        title: التراث الثقافي ووجهات النظر العسكرية
+      - lang_code: zh
+        label: 第五
+        title: 部分文化遗产与军事视角
+      - lang_code: fr
+        label: 5<sup>ème</sup> partie
+        title: Patrimoine culturel et perspectives militaires
+      - lang_code: ru
+        label: Часть 5
+        title: Культурное наследие и военная перспектива
+      - lang_code: es
+        label: Parte 5
+        title: El patrimonio cultural y las perspectivas militares
+
+  - page: part-5/intro
+    translations:
+      - lang_code: ar
+        title: مقدمة
+        contributor: جيمس كونو وتوماس ج. ويس
+      - lang_code: zh
+        title: 简介
+        contributor: 詹姆斯·库诺 (James Cuno) 与托马斯·G·怀斯 (Thomas G. Weiss)
+      - lang_code: fr
+        title: Introduction
+        contributor: James Cuno et Thomas G. Weiss
+      - lang_code: ru
+        title: Введение
+        contributor: Джеймс Куно и Томас Дж. Уэйс
+      - lang_code: es
+        title: Introducción
+        contributor: James Cuno y Thomas G. Weiss
+
   - page: introduction
     translations:
       - lang_code: en
@@ -56,8 +275,8 @@ texts:
       - lang_code: es
         title: "Introducción: Patrimonio cultural y atrocidades en masa"
         contributor: James Cuno y Thomas G. Weiss
-        keynote: "En todo el mundo se ha protestado contra las atrocidades reconocidas —aunque a menudo ignoradas— que han afectado estratégicamente el patrimonio cultural inamovible. La historia demuestra que resulta prácticamente imposible separar los ataques contra el patrimonio cultural de los ataques contra las personas.
-        abstract: En enero de 2020, el entonces presidente de Estados Unidos Donald Trump amenazó con atacar sitios de patrimonio cultural dentro de sus cincuenta y dos objetivos si Irán tomaba represalias por el asesinato del comandante iraní Qassim Suleimani, uno de sus principales generales. Trump dijo que Estados Unidos consideraba los objetivos “de muy alto nivel e importantes para Irán y la cultura iraní”. La declaración provocó protestas a nivel mundial, en las que funcionarios de la ONU, la Unesco y Estados Unidos señalaron que Washington había firmado la convención de 1954 que protege la propiedad cultural en caso de conflictos armados. Los ataques al patrimonio cultural cuentan con una larga historia; ejemplos recientes incluyen el puente de Mostar en Bosnia y Herzegovina, los Budas de Bamiyán en Afganistán, los mausoleos de Tombuctú en Malí, y las ruinas grecorromanas de Palmira, Siria. Esta introducción plantea: ¿qué habría ocurrido si el borrador de la Convención sobre el genocidio de 1948, elaborado por Raphael Lemkin, hubiese mantenido su propuesta original de incluir el genocidio cultural así como el humano? Se debate el “valor” del patrimonio cultural, los motivos por los que suele ser blanco de ataques, las consecuencias humanitarias de dichas arremetidas y los principios de la legislación internacional existente. La introducción aplica las lecciones conceptuales y políticas de la responsabilidad de proteger (R2P, por sus siglas en inglés). La premisa que subyace en este libro es que los ataques al patrimonio cultural se encuentran casi indefectiblemente vinculados con ataques a poblaciones amenazadas como parte integral de las campañas militares y los actos performativos violentos contra grupos étnicos y religiosos. Ambos son intencionales y prácticamente imposibles de separar. Ambos buscan, en última instancia, eliminar a un pueblo y el patrimonio cultural con el que se identifica."
+        keynote: "En todo el mundo se ha protestado contra las atrocidades reconocidas —aunque a menudo ignoradas— que han afectado estratégicamente el patrimonio cultural inamovible. La historia demuestra que resulta prácticamente imposible separar los ataques contra el patrimonio cultural de los ataques contra las personas."
+        abstract: "En enero de 2020, el entonces presidente de Estados Unidos Donald Trump amenazó con atacar sitios de patrimonio cultural dentro de sus cincuenta y dos objetivos si Irán tomaba represalias por el asesinato del comandante iraní Qassim Suleimani, uno de sus principales generales. Trump dijo que Estados Unidos consideraba los objetivos “de muy alto nivel e importantes para Irán y la cultura iraní”. La declaración provocó protestas a nivel mundial, en las que funcionarios de la ONU, la Unesco y Estados Unidos señalaron que Washington había firmado la convención de 1954 que protege la propiedad cultural en caso de conflictos armados. Los ataques al patrimonio cultural cuentan con una larga historia; ejemplos recientes incluyen el puente de Mostar en Bosnia y Herzegovina, los Budas de Bamiyán en Afganistán, los mausoleos de Tombuctú en Malí, y las ruinas grecorromanas de Palmira, Siria. Esta introducción plantea: ¿qué habría ocurrido si el borrador de la Convención sobre el genocidio de 1948, elaborado por Raphael Lemkin, hubiese mantenido su propuesta original de incluir el genocidio cultural así como el humano? Se debate el “valor” del patrimonio cultural, los motivos por los que suele ser blanco de ataques, las consecuencias humanitarias de dichas arremetidas y los principios de la legislación internacional existente. La introducción aplica las lecciones conceptuales y políticas de la responsabilidad de proteger (R2P, por sus siglas en inglés). La premisa que subyace en este libro es que los ataques al patrimonio cultural se encuentran casi indefectiblemente vinculados con ataques a poblaciones amenazadas como parte integral de las campañas militares y los actos performativos violentos contra grupos étnicos y religiosos. Ambos son intencionales y prácticamente imposibles de separar. Ambos buscan, en última instancia, eliminar a un pueblo y el patrimonio cultural con el que se identifica."
 
   - page: part-1/01-appiah
     translations:
@@ -1082,3 +1301,73 @@ texts:
         contributor: Hugh Eakin
         keynote: En los últimos años, la protección de los monumentos culturales durante conflictos armados se ha convertido en una prioridad internacional apremiante. Sin embargo, la supervivencia a largo plazo de los sitios de patrimonio amenazados podría depender igualmente de lo que sucede tras finalizar el conflicto.
         abstract: "Durante los últimos veinticinco años, gran parte del debate en torno a los conflictos humanos y la destrucción del patrimonio se ha centrado en dos problemas: la guerra y el terrorismo. Motivadas por la indignación global sobre los ataques deliberados a sitios y monumentos, las naciones occidentales y las organizaciones internacionales han desarrollado importantes nuevas herramientas para lidiar con los ataques perpetrados por combatientes y grupos militantes. Sin embargo, si el objetivo es la preservación, la historia sugiere que un enfoque tal sirve solo hasta cierto punto. En contextos de “guerra caliente”, podría ser imposible montar una respuesta efectiva hasta que se haya hecho el daño. Por otro lado, la destrucción suele ocurrir en tiempos de “paz”, cuando los gobiernos soberanos se encuentran en control y los actores internacionales podrían ser reacios a intervenir. De hecho, la supervivencia a largo plazo de los sitios de patrimonio casi siempre ha dependido de las acciones de las comunidades y los gobiernos locales. Sobre esta base, este ensayo aborda la zona gris que se crea en el contexto posterior a un conflicto, cuando las fuerzas, las organizaciones y los fondos internacionales suelen estar presentes junto a un nuevo orden gubernamental y las medidas directas pueden tomarse *antes* de que ocurran los ataques. En casos recientes, desde Kosovo y Siria hasta Chipre y Azerbaiyán, esta fase surge como un periodo de amenazas intensificadas y como una oportunidad, en la que la participación internacional puede ayudar a convertir la protección a corto plazo en una preservación a largo plazo."
+
+  - page: conclusion
+    translations:
+      - lang_code: ar
+        title: 'خلاصة: نحو أبحاث وسياسات وبرامج عمل'
+        contributor: جيمس كونو وتوماس ج. ويس
+      - lang_code: zh
+        title: "结语：用于研究、制定政策与行动纲领"
+        contributor: 詹姆斯·库诺 (James Cuno) 与托马斯·G·怀斯 (Thomas G. Weiss)
+      - lang_code: fr
+        title: "Conclusion : Vers des programmes de recherche, de politique et d'action"
+        contributor: James Cuno et Thomas G. Weiss
+      - lang_code: ru
+        title: Заключение.Будущие исследования, политика и повестка дня
+        contributor: Джеймс Куно и Томас Дж. Уэйс
+      - lang_code: es
+        title: "Conclusión: Hacia la investigación, las políticas y los planes de acción"
+        contributor: James Cuno y Thomas G. Weiss
+
+  - page: suggested-readings
+    translations:
+      - lang_code: ar
+        title: قراءات مقترَحة
+      - lang_code: zh
+        title: 推荐阅读
+      - lang_code: fr
+        title: Suggestions de lectures
+      - lang_code: ru
+        title: Рекомендуемые публикации
+      - lang_code: es
+        title: Lecturas sugeridas
+
+  - page: treaties-documents
+    translations:
+      - lang_code: ar
+        title: معاهدات ووثائق أساسية
+      - lang_code: zh
+        title: 重要条约及文件
+      - lang_code: fr
+        title: Traités et documents essentiels
+      - lang_code: ru
+        title: Ключевые договоры и документы
+      - lang_code: es
+        title: Tratados y documentos clave
+
+  - page: contributors
+    translations:
+      - lang_code: ar
+        title:
+      - lang_code: zh
+        title:
+      - lang_code: fr
+        title:
+      - lang_code: ru
+        title:
+      - lang_code: es
+        title:
+
+  - page: book-index
+    translations:
+      - lang_code: ar
+        title: الفهرس
+      - lang_code: zh
+        title: 索引
+      - lang_code: fr
+        title: Index
+      - lang_code: ru
+        title: Указатель
+      - lang_code: es
+        title: Índice
