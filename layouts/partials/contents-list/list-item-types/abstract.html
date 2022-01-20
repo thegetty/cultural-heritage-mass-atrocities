@@ -1,17 +1,69 @@
+{{- $page := "" -}}
+{{ if eq .Page.File.Dir "/" }}
+  {{ $page = .Page.File.BaseFileName }}
+{{ else }}
+  {{ $page = printf "%s%s" .Page.File.Dir .Page.File.BaseFileName }}
+{{ end }}
+
+{{- $language := .Lang -}}
+{{- $label := "" -}}
+{{- $title := "" -}}
+{{- $contributor := "" -}}
+{{- $keynote := "" -}}
+{{- $abstract := "" -}}
+
+{{- if ne $language "en" -}}
+{{- range where .Site.Data.translations.texts "page" $page -}}
+{{- range where .translations "lang_code" $language -}}
+  {{- $label = .label -}}
+  {{- $title = .title -}}
+  {{- $contributor = .contributor -}}
+  {{- $keynote = .keynote -}}
+  {{- $abstract = .abstract -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+{{- $keynoteHead := "" -}}
+{{- $abstractHead := "" -}}
+{{- range where $.Site.Data.translations.languages "lang_code" .Lang -}}
+  {{- $keynoteHead = .keynote -}}
+  {{- $abstractHead = .abstract -}}
+{{- end -}}
+
 <a href="{{ .Page.Permalink | relURL }}">
 
-{{- with .Page.Params.label }}{{ . }}{{ $.Site.Params.pageLabelDivider }}{{ end -}}
+{{- if $label -}}
+  {{- $label | safeHTML }}{{ if ne .Lang "zh" }}{{ $.Site.Params.pageLabelDivider -}}{{ end -}}
+{{- else -}}
+  {{- with .Page.Params.label }}{{ . }}{{ $.Site.Params.pageLabelDivider }}{{ end -}}
+{{- end -}}
 
-{{- partial "page-title.html" . | markdownify -}}
+{{- if $title -}}
+  {{- $title | markdownify -}}
+{{- else -}}
+  {{- partial "page-title.html" . | markdownify -}}
+{{- end -}}
 
-{{- if .Page.Params.contributor }}<span class="contributor"> — {{ partial "contributor-list.html" (dict "range" .Page.Params.contributor "contributorType" "all" "listType" "string" "Site" .Site) }}</span>{{ end -}}
+{{- if $contributor -}}
+  <span class="contributor"> — {{ $contributor | markdownify }}</span>
+{{- else -}}
+  {{- if .Page.Params.contributor }}<span class="contributor"> — {{ partial "contributor-list.html" (dict "range" .Page.Params.contributor "contributorType" "all" "listType" "string" "Site" .Site) }}</span>{{ end -}}
+{{- end -}}
 
 <span class="arrow remove-from-epub">&nbsp;{{- partial "icon.html" (dict "type" "arrow-forward" "description" "") -}}</span></a>
 
-{{- if .Page.Params.abstract -}}
-<div class="abstract-text">
-  {{/* Returns abstract with any links stripped out
-  ------------------------------------------------------------------------- */}}
-  {{- .Page.Params.abstract | markdownify | replaceRE "</?a(|\\s*[^>]+)>" "" | htmlUnescape | safeHTML -}}
-</div>
+{{- range where .Site.Data.translations.texts "page" $page -}}
+{{- range where .translations "lang_code" $language -}}
+  {{- with $keynote -}}
+  <div class="keynote-text">
+    {{ . | markdownify -}}
+  </div>
+  {{- end -}}
+  {{- with $abstract -}}
+  <div class="abstract-text">
+    <strong>{{ $abstractHead }}:</strong> {{ . | markdownify -}}
+  </div>
+  {{- end -}}
+{{- end -}}
 {{- end -}}

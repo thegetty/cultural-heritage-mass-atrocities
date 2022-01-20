@@ -1,7 +1,7 @@
 {{- if in .Class "grid" -}}
   {{ partial "contents-list/list-item-types/grid.html" .Page }}
 {{- else if in .Class "abstract" -}}
-  {{ partial "contents-list/list-item-types/abstract.html" .Page }}
+  {{ partial "contents-list/list-item-types/abstract.html" (dict "Page" .Page "Site" .Site "Lang" .Lang) }}
 {{- else if in .Class "brief" -}}
   {{ partial "contents-list/list-item-types/brief.html" .Page }}
 {{- else -}}

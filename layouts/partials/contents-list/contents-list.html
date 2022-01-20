@@ -73,6 +73,8 @@
   {{- $contentsPageID = "" -}}
 {{- end -}}
 
+{{- $contentsPageLanguage := .contentsPage.Params.language -}}
+
 {{/* This contents list is built based on the number of section levels any given page is at, which is determined by looking at its File.Dir.
 
   Section level 1: section/
@@ -92,7 +94,7 @@ In order to properly close the /ul/li elements and nest sub-sections, the logic 
 {{- $contentsScopePattern := printf "%s%s" "^" $renderedSections -}}
 {{- $contentsPageID := .contentsPage.File.UniqueID -}}
 
-<ul>
+<ul lang="{{ $contentsPageLanguage }}">
 {{- range $index, $page := $pages -}}
 
   {{- $section := partial "contents-list/file-dir.html" .File.Dir -}}
@@ -155,17 +157,17 @@ In order to properly close the /ul/li elements and nest sub-sections, the logic 
       ------------------------------------------------------------------- */}}
       {{- partial "contents-list/section-heading" (dict "Section" $section "Level" (sub $sectionLevel 1) ) -}}
 
-      <li class="page-item level-{{ $sectionLevel }}{{ if lt .Page.Weight $pageOne }} frontmatter-page{{ end }}">{{ partial "contents-list/list-item-type" (dict "Page" . "Class" $contentsPageClass) }}</li>
+      <li class="page-item level-{{ $sectionLevel }}{{ if lt .Page.Weight $pageOne }} frontmatter-page{{ end }}">{{ partial "contents-list/list-item-type" (dict "Page" . "Site" .Site "Class" $contentsPageClass "Lang" $contentsPageLanguage ) }}</li>
       {{ partial "contents-list/closing-tags" (dict "Page" . "AllPages" $pages "PageIndex" $index "openSections" $openSections) -}}
 
     {{- else -}}
-      <li class="section-item level-{{ if eq .Slug "." }}{{ sub $sectionLevel 1 }}{{ else }}{{ $sectionLevel }}{{ end }}{{ if lt .Page.Weight $pageOne }} frontmatter-page{{ end }}">{{ partial "contents-list/list-item-type" (dict "Page" . "Class" $contentsPageClass) }}
+      <li class="section-item level-{{ if eq .Slug "." }}{{ sub $sectionLevel 1 }}{{ else }}{{ $sectionLevel }}{{ end }}{{ if lt .Page.Weight $pageOne }} frontmatter-page{{ end }}">{{ partial "contents-list/list-item-type" (dict "Page" . "Site" .Site "Class" $contentsPageClass "Lang" $contentsPageLanguage  ) }}
       <ul>
     {{- end -}}
 
   {{- else -}}
 
-    <li class="page-item level-{{ $sectionLevel }}{{ if lt .Page.Weight $pageOne }} frontmatter-page{{ end }}">{{ partial "contents-list/list-item-type" (dict "Page" . "Class" $contentsPageClass) }}</li>
+    <li class="page-item level-{{ $sectionLevel }}{{ if lt .Page.Weight $pageOne }} frontmatter-page{{ end }}">{{ partial "contents-list/list-item-type" (dict "Page" . "Site" .Site "Class" $contentsPageClass "Lang" $contentsPageLanguage  ) }}</li>
     {{ partial "contents-list/closing-tags" (dict "Page" . "AllPages" $pages "PageIndex" $index "openSections" $openSections) -}}
 
   {{- end -}}
