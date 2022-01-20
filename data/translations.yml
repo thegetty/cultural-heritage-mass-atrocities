@@ -25,10 +25,9 @@ languages:
     keynote: Presentación
     abstract: Resumen
 
-
 texts:
 
-  - essay: introduction
+  - page: introduction
     translations:
       - lang_code: en
         title:
@@ -60,7 +59,7 @@ texts:
         keynote: "En todo el mundo se ha protestado contra las atrocidades reconocidas —aunque a menudo ignoradas— que han afectado estratégicamente el patrimonio cultural inamovible. La historia demuestra que resulta prácticamente imposible separar los ataques contra el patrimonio cultural de los ataques contra las personas.
         abstract: En enero de 2020, el entonces presidente de Estados Unidos Donald Trump amenazó con atacar sitios de patrimonio cultural dentro de sus cincuenta y dos objetivos si Irán tomaba represalias por el asesinato del comandante iraní Qassim Suleimani, uno de sus principales generales. Trump dijo que Estados Unidos consideraba los objetivos “de muy alto nivel e importantes para Irán y la cultura iraní”. La declaración provocó protestas a nivel mundial, en las que funcionarios de la ONU, la Unesco y Estados Unidos señalaron que Washington había firmado la convención de 1954 que protege la propiedad cultural en caso de conflictos armados. Los ataques al patrimonio cultural cuentan con una larga historia; ejemplos recientes incluyen el puente de Mostar en Bosnia y Herzegovina, los Budas de Bamiyán en Afganistán, los mausoleos de Tombuctú en Malí, y las ruinas grecorromanas de Palmira, Siria. Esta introducción plantea: ¿qué habría ocurrido si el borrador de la Convención sobre el genocidio de 1948, elaborado por Raphael Lemkin, hubiese mantenido su propuesta original de incluir el genocidio cultural así como el humano? Se debate el “valor” del patrimonio cultural, los motivos por los que suele ser blanco de ataques, las consecuencias humanitarias de dichas arremetidas y los principios de la legislación internacional existente. La introducción aplica las lecciones conceptuales y políticas de la responsabilidad de proteger (R2P, por sus siglas en inglés). La premisa que subyace en este libro es que los ataques al patrimonio cultural se encuentran casi indefectiblemente vinculados con ataques a poblaciones amenazadas como parte integral de las campañas militares y los actos performativos violentos contra grupos étnicos y religiosos. Ambos son intencionales y prácticamente imposibles de separar. Ambos buscan, en última instancia, eliminar a un pueblo y el patrimonio cultural con el que se identifica."
 
-  - essay: 01-appiah
+  - page: part-1/01-appiah
     translations:
       - lang_code: en
         title:
@@ -92,7 +91,7 @@ texts:
         keynote: En un fragmento de *Las mentiras que nos unen*, Kwame Anthony Appiah demuestra cómo el concepto de identidad “occidental” ha conformado la base para las jerarquías, el estatus y las estructuras de poder. La idea de cultura occidental, escribe, es una construcción moderna, una gran narrativa “De Platón a la OTAN” que oculta la complejidad de todas las prácticas y los objetos culturales.
         abstract: ¿Qué es el reino llamado “Occidente”? ¿Qué significa identificarse con la “cultura occidental”? En un fragmento de su libro *Las mentiras que nos unen*, Kwame Anthony Appiah demuestra cómo la idea de identidad occidental ha conformado la base para las jerarquías, el estatus y las estructuras de poder. La idea de cultura occidental representa una construcción moderna, un gran arco narrativo “De Platón a la OTAN” cuyos precursores son los conceptos de cristianismo y Europa. Aunque este volumen se centra en la protección del patrimonio cultural inamovible, Appiah nos recuerda que todas las prácticas y objetos culturales deben entenderse como móviles, mutables, infinitamente complejos y, en última instancia, resistentes a convertirse en propiedad de un único grupo.
 
-  - essay: 02-macgregor
+  - page: part-1/02-macgregor
     translations:
       - lang_code: en
         title:
@@ -124,7 +123,7 @@ texts:
         keynote: Quizás podamos comprender mejor por qué valoramos el patrimonio cultural si consideramos por qué es tan a menudo blanco de ataques. Este capítulo, que presenta ejemplos de Inglaterra, Polonia, Lituania y Alemania, analiza casos recientes de creación y destrucción de sitios de patrimonio cultural en la Europa moderna que quizás arrojen luz sobre distintas vías para prevenir o mitigar futuras pérdidas.
         abstract: Quizás podamos comprender mejor por qué valoramos el patrimonio cultural si consideramos por qué es tan a menudo blanco de ataques. Este capítulo, que presenta ejemplos de Inglaterra, Polonia, Lituania y Alemania, analiza casos recientes de creación y destrucción de sitios de patrimonio cultural en la Europa moderna que quizás arrojen luz sobre distintas vías para prevenir o mitigar futuras pérdidas. El patrimonio cultural ofrece a las comunidades narrativas comunes que les permiten sobrevivir y florecer. Si bien todo el patrimonio cultural es, en gran medida, intangible, un aspecto importante del patrimonio cultural físico suele ser no tanto el objeto en sí como la narrativas que las comunidades, locales o globales, eligen vincular con el objeto. Ello explica por qué el patrimonio cultural peligra principalmente cuando las narrativas de una comunidad cambian o cuando un objeto se convierte en el foco de narrativas opuestas. De modo alentador, este ensayo demuestra que la destrucción no es necesariamente el final de la historia.
 
-  - essay: 03-parzinger
+  - page: part-1/03-parzinger
     translations:
       - lang_code: en
         title:
@@ -156,7 +155,7 @@ texts:
         keynote: La destrucción intencional del patrimonio cultural ha ocurrido a lo largo de la historia. Aunque las motivaciones pueden haber variado, los factores económicos a menudo han desempeñado cierto papel y los motivos políticos fueron fundamentales en la Antigüedad. Más recientemente, el genocidio cultural ha acompañado a las atrocidades en masa ocurridas en los contextos coloniales europeos y parece también común en la mayoría de los casos del siglo XX y principios del siglo XXI, cuando las personas y su identidad cultural se han convertido en blancos clave.
         abstract: Este capítulo explora la historia de la destrucción intencional del patrimonio cultural desde la Antigüedad hasta el presente. Analiza las condiciones y motivaciones políticas, religiosas, sociales y étnicas, entre otras, que impulsan la erradicación de los artefactos culturales y el patrimonio cultural. Resultan particularmente interesantes las conexiones con los crímenes de guerra, los crímenes de lesa humanidad y otras atrocidades perpetradas contra poblaciones civiles. Estas conexiones se exploran en casos que abarcan desde la Antigüedad a la controversia iconoclasta bizantina, la iconoclasia de la Reforma protestante, la era colonial europea, las revoluciones francesa y rusa, y la era nazi, en la que la destrucción sistematizada de la cultura y la humanidad alcanzó nuevos niveles. A continuación, se ponen de relieve los crímenes de los Jemeres Rojos en Camboya y las limpiezas étnicas y culturales de las guerras de los Balcanes. Por último, se alcanza un nuevo nivel de crueldad con la aniquilación del patrimonio cultural y la humanidad que el llamado Estado Islámico en Irak y Siria ha aprovechado para hacer propaganda ante la mirada del público mundial.
 
-  - essay: 04-bowersock
+  - page: part-1/04-bowersock
     translations:
       - lang_code: en
         title:
@@ -188,7 +187,7 @@ texts:
         keynote: La Antigüedad tardía proporciona un estudio de caso sobre la destrucción de patrimonio y las atrocidades. Si bien en la Antigüedad eran comunes los ejemplos de horrores del estilo, incluida la nivelación de la antigua Corinto, han ocurrido pocas atrocidades en el periodo histórico posterior. Cuando, tras la horrenda destrucción del patrimonio y las masacres, ese tipo de acontecimientos dejan de ocurrir o lo hacen rara vez durante un periodo de tiempo, debemos preguntarnos por qué.
         abstract: "La Antigüedad tardía proporciona un estudio de caso sobre la destrucción de patrimonio y las atrocidades. Este periodo histórico sigue al de la Antigüedad, en el que hubo ejemplos dramáticos de ambos, como la nivelación de la antigua Corinto y la matanza de ocho mil personas en un día en Anatolia. Sin embargo, tras la destrucción de Jerusalén, no ocurrieron muchos más horrores de este tipo en el Imperio romano, a pesar de algunos ejemplos de fanatismo (como el asesinato de Hipatia). Debemos preguntarnos: ¿que causó este cambio notorio? ¿Qué provocó una violencia tal mientras ocurría? La peste en los siglos III y VI d. C. aminoró la destrucción y las atrocidades, mientras que la religión, principalmente el cristianismo, causó el estallido de ambas allí donde ocurrieron."
 
-  - essay: 05-schmidtke
+  - page: part-1/05-schmidtke
     translations:
       - lang_code: en
         title:
@@ -220,7 +219,7 @@ texts:
         keynote: "El patrimonio manuscrito islámico se ve amenazado de muchas formas: una manipulación inadecuada, robos, condiciones climáticas inclementes y destrucción deliberada. Durante las últimas décadas, se han dado repetidos casos de destrucción deliberada de manuscritos islámicos y se continúan subastando manuscritos islámicos de procedencia incierta que terminan en manos de particulares. La destrucción del patrimonio cultural del mundo islámico es una calamidad incalculable, en la que libros y bibliotecas de manuscritos han sido unas de las formas e instituciones culturales más afectadas."
         abstract: "El patrimonio escrito del mundo musulmán constituye un patrimonio cultural inestimable, ya que gran parte de la cultura escrita del mundo islámico continúa preservándose en forma de manuscritos. Este patrimonio manuscrito continúa viéndose amenazado de muchas formas: una manipulación inadecuada, exposición, robos, condiciones climáticas inclementes y destrucción deliberada. Durante las últimas décadas, se han dado repetidos casos de destrucción deliberada de manuscritos islámicos. Ello incluye el bombardeo de bibliotecas y museos en Kosovo y Bosnia por parte de nacionalistas serbios en 1992 y el saqueo y destrucción de importantes bibliotecas de manuscritos en Irak tras la guerra del Golfo de 1991 y nuevamente con la invasión y ocupación de 2003. El sectarismo supone otra amenaza a distintos aspectos del patrimonio cultural islámico: las bibliotecas que contienen manuscritos con perspectivas que se consideran desviadas son blanco de la destrucción, y lo mismo ocurre con los monumentos históricos, que han sido destruidos a lo largo de las últimas décadas por extremistas musulmanes en un intento de “purificar” el islam."
 
-  - essay: 06-serageldin
+  - page: part-1/06-serageldin
     translations:
       - lang_code: en
         title:
@@ -252,7 +251,7 @@ texts:
         keynote: El patrimonio tangible e inamovible, como los monumentos y distritos históricos, posee un importante valor innato que puede calcularse. Contamos con rigurosas metodologías que pueden ayudarnos a cuantificar cuán valioso es nuestro patrimonio cultural, lo que permite enfatizar aún más cuán serios son los ataques hostiles contra el patrimonio cultural y cuánto el mundo entero debería protegerlo.
         abstract: Las sociedades y las personas sienten apego por su patrimonio cultural, que ayuda a definir su identidad y contribuye a su autoestima. Las acciones deliberadas de grupos armados no gubernamentales, milicias, gobiernos despóticos o ejércitos invasores que buscan atacar el patrimonio cultural tangible e intangible ocasionan pérdidas que exceden por mucho su destrucción física. Dichas acciones son semejantes al genocidio cultural y social. Un esfuerzo por cuantificar el valor económico del patrimonio cultural resulta instructivo en la apreciación del enorme costo de su destrucción. Contamos con técnicas adecuadas para captar los valores de uso y no uso, así como los valores tangibles e intangibles. Ello nos ayudará a apreciar la importancia de nuestro patrimonio cultural, que fortalece nuestra confianza y orgullo, pues aquellos que guardan lazos fuertes y vivos con su pasado se encuentran en mejores condiciones de diseñar su futuro.
 
-  - essay: 07-harris
+  - page: part-2/07-harris
     translations:
       - lang_code: en
         title:
@@ -284,7 +283,7 @@ texts:
         keynote: La destrucción a gran escala que China está realizando del patrimonio religioso uigur se presenta ante el resto del mundo como una parte necesaria de sus campañas antiterroristas. En cambio, representa un ataque fundamental sobre la cultura y la identidad uigures, parte de un esfuerzo por pacificar por completo la región de Xinjiang en pos de objetivos económicos y geopolíticos más amplios.
         abstract: Durante los últimos años, la Región Autónoma Uigur de Xinjiang se ha transformado en un estado policial de alta seguridad, donde se estima que 1.5 millones de ciudadanos musulmanes túrquicos se encuentran encarcelados y sometidos a regímenes abusivos de adoctrinamiento y trabajo forzado. China explica sus acciones como una respuesta necesaria ante el terror extremista, mientras que los observadores y gobiernos internacionales han tachado sus políticas de genocidio. Sin embargo, el enfoque de China respecto del patrimonio de la región se encuentra completamente incorporado a los objetivos políticos y económicos del estado. El patrimonio religioso uigur —mezquitas, cementerios y santuarios— se ha demolido; se trata de lugares cuyo valor principal reside en complejos significados históricos, formas de comunidad y las expresiones religiosas y culturales que los rodean. Su destrucción representa un ataque fundamental sobre la cultura y la identidad uigures, y es una parte integral de un esfuerzo por asimilar y pacificar la región en pos de los objetivos económicos y estratégicos de la Iniciativa de la Franja y la Ruta.
 
-  - essay: 08-singh
+  - page: part-2/08-singh
     translations:
       - lang_code: en
         title:
@@ -316,7 +315,7 @@ texts:
         keynote: La reconstrucción cultural tras un conflicto puede convertirse en una herramienta a través de la cual quienes ostentan el poder consolidan su dominio sobre un país y profundizan la marginalización de sus minorías. Este fenómeno se analiza aquí en relación con Jaffna en Sri Lanka y Bamiyán en Afganistán.
         abstract: "La reconstrucción cultural en el período “posconflicto” en Sri Lanka y Afganistán ha adoptado una forma perturbadora en regiones dominadas por minorías religiosas o étnicas. En Sri Lanka, ello se explora en relación con la península de Jaffna al norte de la isla, donde residen la mayoría de los tamiles hinduistas del país; en Afganistán, el valle de Bamiyán, donde habita la minoría hazara chiita. Aquí, los mismos procesos de reconstrucción y conservación del patrimonio que se supone deben reparar una sociedad se convierten en instrumentos a través de los cuales un bando perpetúa su dominación sobre el otro. En Sri Lanka, un gobierno mayoritario hace uso de todas las herramientas a su disposición para efectuar una “recuperación” del patrimonio que subraya el desempoderamiento de la minoría tamil; en Afganistán, las organizaciones internacionales que han acudido a asistir tras la era de los talibanes contribuyen inconscientemente a un juego de poderes más sutil entre el gobierno central y una minoría étnica que lleva mucho tiempo en los márgenes de la vida afgana."
 
-  - essay: 09-stein
+  - page: part-2/09-stein
     translations:
       - lang_code: en
         title:
@@ -348,7 +347,7 @@ texts:
         keynote: "Entre 2013 y 2019, el Dáesh (Estado Islámico) llevó a cabo una violenta campaña en gran parte de Siria e Irak como parte de un peligroso nuevo paradigma de “destrucción performativa”: una combinación coreografiada de genocidio cultural y físico, publicitada a nivel global por medio de Internet. El Dáesh enmarcó sus acciones como un deber religioso cuyo blanco eran personas y monumentos de patrimonio cultural."
         abstract: "El ascenso del Dáesh (Estado Islámico) y su expansión por Siria e Irak se caracterizaron por ataques bien publicitados contra grupos religiosos y sitios de patrimonio cultural, propagados a través de un peligroso nuevo paradigma de “destrucción performativa”. Esta destrucción performativa de monumentos y sitios era una estrategia pública de genocidio cultural cuidadosamente coreografiada y difundida por Internet, combinada con actos de genocidio físico. La guerra del Dáesh contra personas y objetos fue efectiva porque formaba parte de un sistema integrado que combinaba ideología religiosa, motivaciones políticas y extrema violencia, amplificada e intensificada por medio de Internet. Las acciones políticas se reestructuraron como actos religiosos congruentes con la interpretación yihadista que el Dáesh hace del salafismo y con su misión de recobrar una versión idealizada del islam en su forma más primitiva y pura. Aunque el califato del Dáesh se destruyó como forma de gobierno, su paradigma de violencia viral es un modelo muy versátil que se encuentra en riesgo de ser emulado por otros grupos armados no gubernamentales en el resto del mundo."
 
-  - essay: 10-bandarin
+  - page: part-2/10-bandarin
     translations:
       - lang_code: en
         title:
@@ -380,7 +379,7 @@ texts:
         keynote: Alepo sufrió una destrucción masiva durante la guerra siria de 2012 a 2016, cuando la ciudad se convirtió en el centro de importantes enfrentamientos entre fuerzas del gobierno sirio y la oposición. Este capítulo proporciona un recuento de la evolución de la campaña militar y evalúa tanto la devastación producida por el conflicto como las limitaciones del sistema internacional de protección del patrimonio.
         abstract: "Las ciudades y los sitios sirios han sufrido una destrucción devastadora durante los diez años de guerra entre 2011 y 2020. La peor situación se encuentra en Alepo, una ciudad que quedó prácticamente destruida durante el conflicto entre 2012 y 2016. La población se ha visto fuertemente afectada: dos millones han abandonado la ciudad y ha habido más de veinticinco mil víctimas. Todas las zonas de la ciudad y sus monumentos más importantes, zocos, caravasares y mezquitas han sufrido graves daños. El patrimonio inmobiliario también se vio gravemente dañado, mientras que la población quedó privada de agua, electricidad, servicios sanitarios y educativos. Este capítulo analiza el desarrollo del conflicto, su impacto sobre las estructuras sociales y físicas de la ciudad, la destrucción de sus importantes sitios de patrimonio cultural y el papel desempeñado por los actores nacionales e internacionales durante la guerra. Finalmente, evalúa la situación actual y las limitaciones del sistema internacional de protección del patrimonio durante el conflicto."
 
-  - essay: 11-al-sabouni
+  - page: part-2/11-al-sabouni
     translations:
       - lang_code: en
         title:
@@ -412,7 +411,7 @@ texts:
         keynote: Fue solo por la guerra que mi discreta ciudad apareció en las noticias internacionales. Pero Homs no siempre estuvo cubierta del polvo de la destrucción. Tuvo su momento de gloria como una antigua sociedad que vio nacer a una reina que gobernó desde Roma. Cierto misterio envuelve su declive, que yace precisamente en la destrucción de sus edificios.
         abstract: Detrás de cada creación hay un significado subyacente que llevó a su existencia. Por lo tanto, la destrucción física de edificios implica también una destrucción invisible, la de su significado. Este capítulo aborda dichos significados, que tienden a pasarse por alto en los procesos de restauración y preservación, argumentando que responder a la pregunta de cómo preservar sitios y construir patrimonio se relaciona inevitablemente con qué se preserva y por qué. Sin duda, es una cuestión de valores, que podría fácilmente simplificarse demasiado (hasta convertirse en una mera cuestión de identidad religiosa) o complicarse demasiado (hasta llegar a ser un debate sobre la importancia histórica). Este capítulo busca hallar puntos en común para comprender el valor del patrimonio haciendo un análisis del caso de Homs, la tercera ciudad más grande de Siria y su provincia central, que sufrió un enorme daño durante la guerra siria. Al revisar el génesis histórico de esta ciudad en relación con su geografía, tipología y valores culturales y religiosos, el proceso de su reconstrucción y la preservación de su patrimonio amenazado podría ser esperanzador en un futuro que, de lo contrario, parece sombrío.
 
-  - essay: 12-deknatel
+  - page: part-2/12-deknatel
     translations:
       - lang_code: en
         title:
@@ -444,7 +443,7 @@ texts:
         keynote: En 2021, la reconstrucción de Siria ya había comenzado, aunque su guerra civil no ha terminado y a pesar de la grave falta de financiación para reconstruir un país destruido. El gobierno del presidente Bashar al-Assad estaba aprovechando la reconstrucción para consolidar su autoridad y proyectar una imagen de triunfo que ocultaba sus debilidades subyacentes tras más de una década de guerra.
         abstract: "¿Cómo se desarrollará la reconstrucción en Siria, dada la asombrosa escala de destrucción causada por su larga guerra civil, los pocos recursos y los limitados intereses autoritarios del gobierno del presidente Bashar al-Assad? Unos cuantos proyectos de reconstrucción simbólicos que ya se encuentran en marcha en Alepo, Homs y Damasco proporcionan una respuesta inicial. Muy promocionados por las autoridades sirias y financiados parcialmente por patrocinadores extranjeros, reflejan que el gobierno de Assad entiende la reconstrucción como una herramienta propagandística y un vehículo para la corrupción de las élites. El gobierno se ha apresurado a priorizar qué reconstruir y qué no, proyectando una visión elitista de la “justicia del vencedor” en términos de Assad, mientras se descuidan grandes barrios residenciales alguna vez dominados por las fuerzas de la oposición. Los planes de reconstrucción del gobierno se basan en la apropiación del patrimonio de Siria, ya que sitios reconstruidos o restaurados apresuradamente en Alepo y Homs se han convertido en escenarios de su campaña propagandística. La reconstrucción emergente en Siria recuerda a la problemática reconstrucción de su vecino, el Líbano, tras su guerra civil, lo cual acarrea nefastas implicaciones para la futura reconstrucción de otros países que también emergen de guerras civiles y conflictos."
 
-  - essay: 13-schmidtke
+  - page: part-2/13-schmidtke
     translations:
       - lang_code: en
         title:
@@ -476,7 +475,7 @@ texts:
         keynote: La tradición literaria yemení-zaidí es una de las tradiciones más ricas y diversas de la civilización islámica. La amenaza a este valioso patrimonio cultural es inminente. Proteger y preservar una parte significativa del legado cultural de Yemen —su rica tradición de manuscritos— será clave para proporcionar a las futuras generaciones de yemeníes un fuerte sentido de identidad y pertenencia.
         abstract: "La tradición literaria zaidí es una de las tradiciones más ricas y diversas de la civilización islámica. Las colecciones de manuscritos zaidíes más significativas y sin duda numerosas se albergan en muchas bibliotecas públicas y privadas de Yemen. También son de gran importancia los fondos de manuscritos yemeníes conservados en otros lugares, especialmente en Egipto, Arabia Saudita, Turquía, Irán e Irak, así como en Europa y Estados Unidos. Dado el escaso conocimiento académico desarrollado en el área de los estudios zaidíes, son numerosos los desafíos resultantes de la gran dispersión del material y de la situación desastrosa que se vive en el Yemen actual. Para mayor desgracia, la amenaza a las bibliotecas de manuscritos del propio Yemen es inminente. Durante las últimas décadas, las autoridades yemeníes han luchado de manera continua contra el tráfico ilícito de manuscritos y muchas de las bibliotecas privadas del país se han visto gravemente dañadas, saqueadas o incluso destruidas como resultado de la agitación política y la guerra: el constante estado de conflicto constituye una amenaza inminente no solo para la población local sino también para su patrimonio cultural, lo que incluye sus muchas bibliotecas. Proteger y preservar una parte significativa del legado cultural de Yemen —su rica tradición de manuscritos— será clave para proporcionar a las futuras generaciones de yemeníes un fuerte sentido de identidad y pertenencia."
 
-  - essay: 14-assomo
+  - page: part-2/14-assomo
     translations:
       - lang_code: en
         title:
@@ -508,7 +507,7 @@ texts:
         keynote: En Tombuctú, Malí, entre enero y diciembre de 2012, los grupos extremistas que ocuparon la ciudad destruyeron por completo catorce de los dieciséis mausoleos de santos que formaban parte de la lista del Patrimonio de la Humanidad de la Unesco. Este capítulo analiza todo el proceso, desde la destrucción del patrimonio cultural de Tombuctú hasta su estrategia de reconstrucción.
         abstract: Entre enero y diciembre de 2012, Malí sufrió serias amenazas a su rico patrimonio cultural. En Tombuctú, los grupos extremistas que ocuparon la ciudad destruyeron por completo catorce de los dieciséis mausoleos de santos que formaban parte de la lista del Patrimonio de la Humanidad de la Unesco, dañaron gravemente tres mezquitas y quemaron 4203 manuscritos. En respuesta al llamamiento que el gobierno de Malí hizo a la comunidad internacional para poner fin a estos actos de destrucción deliberados, la Unesco lanzó una campaña de concientización sobre la importancia cultural de los mausoleos que estructuran la vida social y religiosa de las comunidades locales. La Unesco también contribuyó a la adopción de una resolución por parte del Consejo de Seguridad de la ONU que condenaba fuertemente la destrucción de los sitios culturales y religiosos de Malí y reconocía la importancia del papel que desempeñan las comunidades locales en la resolución del conflicto del país. La Unesco fue igualmente instrumental en la decisión de la Corte Internacional de Justicia de considerar, por primera vez en la historia de la justicia penal internacional, la destrucción deliberada del patrimonio cultural como un crimen de guerra. Este capítulo analiza todo el proceso, desde la destrucción del patrimonio cultural de Tombuctú desde la perspectiva de sus comunidades locales hasta la estrategia que se ha adoptado para su reconstrucción. Asimismo, analiza los motivos que se esconden detrás de dicha destrucción masiva, considerada por las comunidades locales como una atrocidad en nombre de la ideología, y examina las estrategias empleadas por los grupos extremistas para difundir el pánico manipulando la conciencia de las personas y convirtiéndolas en armas humanas. Por último, este capítulo explica por qué la reconstrucción de los mausoleos por parte de la Unesco no habría tenido éxito sin tomar en cuenta las perspectivas de las comunidades locales.
 
-  - essay: 15-montejo
+  - page: part-2/15-montejo
     translations:
       - lang_code: en
         title:
@@ -540,7 +539,7 @@ texts:
         keynote: El pueblo maya ha sufrido a lo largo de los siglos un violento proceso de conquista, colonización y formas de dominación neocoloniales impuestas por la elite gobernante de Guatemala, como se ha demostrado durante el reciente conflicto armado. La comunidad internacional debe presionar a los estados para que cumplan con las leyes existentes que tienen por objetivo proteger el patrimonio cultural, y los académicos indígenas deben recibir capacitación y apoyo para participar de los debates en curso relacionados con las investigaciones arqueológicas de los sitios mayas.
         abstract: "La guerra civil guatemalteca, ocurrida entre 1960 y 1996, tuvo un efecto devastador sobre el pueblo maya y su patrimonio, lo que se ha sumado a un legado de “mayacidio”, que se inició hace cinco siglos con la conquista y colonización española. Este capítulo examina el terreno histórico y articula las amenazas continuas a este patrimonio antiguo desde la singular perspectiva de los mayas vivos, para quienes casi todos los aspectos de su tradición cultural continúan estando desprotegidos. Asimismo, pone de relieve la necesidad de capacitar y apoyar a los académicos indígenas para proteger el patrimonio cultural maya y asegurar que las voces de los mayas participen en debates en curso relacionados con las investigaciones arqueológicas. Además, sostiene que la comunidad internacional debe presionar a las naciones para que cumplan con las leyes existentes que tienen por objetivo proteger el patrimonio cultural."
 
-  - essay: 16-adams
+  - page: part-3/16-adams
     translations:
       - lang_code: en
         title:
@@ -572,7 +571,7 @@ texts:
         keynote: "En zonas de conflicto de todo el mundo, varios grupos armados no gubernamentales, así como gobiernos, perpetran ataques contra sitios de patrimonio cultural y comunidades minoritarias. Amenazada por lo que la directora general de la Unesco describió como “limpieza cultural”, la comunidad internacional tiene la responsabilidad de proteger a las poblaciones vulnerables de aquellos que buscan destruirlas."
         abstract: "En varias zonas de conflicto de todo el mundo existen actualmente tanto grupos armados no gubernamentales como gobiernos que continúan infringiendo la legislación internacional con ataques deliberados contra sitios de patrimonio cultural y comunidades minoritarias. Esta poblaciones, que soportan lo que la exdirectora general de la Unesco Irina Bokova describió como una política de “limpieza cultural”, enfrentan la amenaza de posibles crímenes de guerra, crímenes de lesa humanidad y genocidio. Este capítulo se centra en tres ejemplos: la destrucción en 2001 de los Budas de Bamiyán y los ataques contra la etnia hazara en Afganistán; la campaña llevada a cabo por el Estado Islámico entre 2014 y 2017 en Irak y el Levante para destruir culturas minoritarias en el norte de Irak; y los continuos esfuerzos del gobierno chino por destruir la cultura uigur de la provincia de Xinjiang. En respuesta a los ataques deliberados contra el patrimonio cultural de la humanidad, la comunidad internacional tiene la responsabilidad de proteger a las poblaciones vulnerables de aquellos que buscan destruirlas."
 
-  - essay: 17-slim
+  - page: part-3/17-slim
     translations:
       - lang_code: en
         title:
@@ -604,7 +603,7 @@ texts:
         keynote: Las vidas de los civiles y de combatientes no hostiles deberían priorizarse sobre el patrimonio cultural en tiempos de guerra, a pesar del profundo valor ontológico que tiene el patrimonio cultural como parte integral del ser humano. Esto es así porque en la vida humana existe siempre un potencial para la renovación cultural.
         abstract: "Este capítulo analiza los valores éticos que entran en juego al tomar decisiones en el campo de batalla entre salvar vidas humanas o patrimonio cultural. En primer lugar, examina por qué el patrimonio cultural importa en absoluto y, por lo tanto, por qué son decisiones difíciles de tomar, sugiriendo que se debe a que el patrimonio cultural no solo es un medio por el cual los humanos prosperan, sino que posee un valor ontológico real en el ser humano, explicado en términos de dependencia, identidad y universalidad. La dimensión ontológica del patrimonio cultural se asume luego para plantear la disyuntiva de si los civiles y las fuerzas militares deberían priorizar la vida o el patrimonio, sosteniendo que la vida humana siempre debería triunfar sobre el patrimonio cultural en una situación extremadamente difícil, dado que en la vida humana existe siempre un potencial para la renovación cultural. Sin embargo, este triunfo debería tener en cuenta tres requisitos para mitigar la pérdida cultural: recalcular la proporcionalidad de fuerza contra los combatientes enemigos que amenazan directamente el patrimonio cultural; permitir que las personas se queden con su patrimonio cultural si así lo desean, incluso si ello significa la muerte; e intentar por todos los medios de salvar los restos del patrimonio de los pueblos a la vez que se prioriza la vida humana."
 
-  - essay: 18-wise
+  - page: part-3/18-wise
     translations:
       - lang_code: en
         title:
@@ -636,7 +635,7 @@ texts:
         keynote: La relación entre la destrucción del patrimonio y de las personas es más compleja empíricamente de lo que se ha propuesto de manera tradicional y requiere de un análisis más detallado e interdisciplinario.
         abstract: "Este capítulo aborda la relación que existe entre la destrucción del patrimonio cultural y la destrucción de personas en tiempos de guerra. Si bien esta conexión ayuda a justificar la protección del patrimonio, este análisis evalúa la base empírica que sustenta dicho vínculo. Se observan cinco mecanismos empíricos: *preludio*, o destrucción del patrimonio que presagia ataques subsiguientes contra poblaciones vulnerables; *provocación*, ataques al patrimonio para incitar o intensificar un conflicto violento; *paralelismo*, destrucción del patrimonio que ocurre de forma simultánea con los ataques a personas; *prolongación*, el alargamiento del conflicto para mantener el tráfico ilícito de objetos patrimoniales; y *propaganda*, el uso de la destrucción de patrimonio para socavar las normas internacionales que también protegen a las personas. Cada uno de estos mecanismos varía en su preponderancia y capacidad de influir sobre el riesgo directo de violencias a las personas y sobre los efectos indirectos que repercuten sobre la salud humana. La relación entre la destrucción del patrimonio y de las personas es compleja y requiere de un análisis más detallado e interdisciplinario."
 
-  - essay: 19-welsh
+  - page: part-3/19-welsh
     translations:
       - lang_code: en
         title:
@@ -668,7 +667,7 @@ texts:
         keynote: Este capítulo analiza los grupos armados no gubernamentales como una amenaza y como protectores potenciales del patrimonio cultural. Establece las obligaciones legales de estas entidades y sugiere estrategias para alentar la moderación del comportamiento de estos grupos sobre la base de una comprensión clara de sus objetivos, estructura y lazos comunitarios, así como de una mayor voluntad de interactuar con sus miembros.
         abstract: Los grupos armados no gubernamentales deberían considerarse un componente crucial de cualquier estrategia para mejorar la protección del patrimonio cultural en situaciones contemporáneas de conflicto violento. Este capítulo comienza por distinguir estos grupos según sus objetivos, estructura y comportamiento, para luego mostrar que, mientras algunos de ellos suponen una seria amenaza para el patrimonio cultural, otros han demostrado ser fundamentales para su protección y preservación. También pone de relieve que los grupos armados no gubernamentales no operan en un vacío legal, sino que se encuentran vinculados de formas significativas por una variedad de obligaciones impuestas por el derecho humanitario internacional y que sus miembros se encuentran sujetos al derecho penal internacional. No obstante, el principal desafío en la protección del patrimonio cultural no tiene tanto que ver con la creación de nuevas reglas para regular el comportamiento de los grupos armados no gubernamentales, sino más bien con la necesidad de asegurar el cumplimiento de las obligaciones ya existentes. Por tanto, el capítulo continúa examinando bibliografía reciente en el campo de la ciencia política sobre la conducta beligerante, así como el proyecto “Las raíces de la moderación” del Comité Internacional de la Cruz Roja, para sugerir posibles formas en las que se podría encauzar o cambiar el comportamiento de los grupos armados no gubernamentales para aumentar su respeto por las leyes y normas relativas a la protección del patrimonio cultural. Estos esfuerzos requerirán de una comprensión más profunda no solo del funcionamiento interno de estos grupos —para identificar fuentes de autoridad, creencias e influencias—, sino también de las comunidades locales en las que se insertan muchos de ellos. Sin embargo, el capítulo concluye presentando los formidables desafíos a los que se enfrentan los esfuerzos por interactuar con grupos armados no gubernamentales. Entre ellos se encuentran los efectos de las políticas antiterroristas que han constreñido la capacidad y voluntad de entablar diálogos con dichas entidades, así como la larga reticencia de los estados y las organizaciones estatales por emprender acciones o aceptar compromisos que consideran podrían legitimar a los grupos armados no gubernamentales.
 
-  - essay: 20-sands-rai
+  - page: part-3/20-sands-rai
     translations:
       - lang_code: en
         title:
@@ -700,7 +699,7 @@ texts:
         keynote: El derecho internacional adopta varios enfoques para cuestiones de la identidad cultural y la propiedad en sociedades que se encuentran en un periodo de transición tras sufrir atrocidades en masa. Si bien ninguno de ellos puede por sí solo abordar todo el espectro de derechos culturales afectados, en conjunto podrían ofrecer una comprensión más holística de la relación que existe entre el patrimonio cultural y la identidad.
         abstract: ¿A quién pertenece el patrimonio cultural? El continuo de la propiedad —desde un individuo hasta un grupo determinado a toda la humanidad— es una cuestión que plantea preguntas fundamentales sobre la identidad y la responsabilidad de proteger y promover dicho patrimonio, al mismo tiempo que pone en juego un espectro de derechos relacionados. Desde lo hiperlocal y regional hasta lo nacional e internacional, los círculos concéntricos y superpuestos de intereses —y en ocasiones opuestos— sostienen una gama de reivindicaciones simultáneas. Este capítulo rastrea las distintas reivindicaciones al patrimonio cultural tras la ocurrencia de una atrocidad a través de la lente del derecho internacional público. Si bien la legislación internacional sobre el patrimonio cultural pone de relieve la protección descontextualizada de sitios y propiedad cultural, el concepto de justicia de transición suele evadir la cuestión problemática de la propiedad en favor de soluciones prácticas para comunidades integradas. Cada enfoque tiene la capacidad de priorizar o deslegitimar las reivindicaciones de ciertas partes interesadas. A partir de los distintos esfuerzos por reconciliar las complejas nociones de identidad cultural con el daño causado por las atrocidades en masa, emerge una narrativa más amplia sobre las conexiones duraderas, multifacéticas y complejas que existen entre el patrimonio cultural y la identidad.
 
-  - essay: 21-gerstenblith
+  - page: part-4/21-gerstenblith
     translations:
       - lang_code: en
         title:
@@ -732,7 +731,7 @@ texts:
         keynote: Este capítulo aborda la destrucción del patrimonio cultural inamovible durante conflictos armados y la posible aplicabilidad de la norma emergente sobre la responsabilidad de proteger. Dado que el patrimonio tangible inamovible guarda lazos con las comunidades locales, involucrar a estas comunidades, así como a los actores no gubernamentales, en los esfuerzos de preservación y protección probablemente dé más frutos que un esfuerzo vertical que se centre principalmente en los intereses de los estados y las organizaciones intergubernamentales.
         abstract: "Este capítulo analiza la destrucción del patrimonio cultural inamovible a través de la lente de los derechos humanos y sostiene que el significado del patrimonio cultural debe ser evaluado desde las perspectivas de las comunidades internacionales, nacionales y locales. Resume brevemente los instrumentos legales internacionales aplicables y la categorización de la destrucción del patrimonio cultural en el contexto de las atrocidades en masa: genocidios, crímenes de lesa humanidad y crímenes de guerra. Más adelante, el debate se centra en la norma emergente sobre la responsabilidad de proteger (R2P, por sus siglas en inglés), analizando en particular la posible aplicabilidad del tercer pilar de la R2P en la preservación del patrimonio inamovible. Se evalúan cuatro elementos desde la perspectiva de la legitimidad y la viabilidad: intervención militar, responsabilidad criminal, involucramiento de actores no gubernamentales y salvaguarda del patrimonio cultural. El capítulo concluye que el involucramiento de las comunidades y los actores no gubernamentales en los esfuerzos de preservación y protección probablemente dé más frutos que un esfuerzo vertical que se centre principalmente en los intereses de los estados y las organizaciones intergubernamentales."
 
-  - essay: 22-charlier-mustafayev
+  - page: part-4/22-charlier-mustafayev
     translations:
       - lang_code: en
         title:
@@ -764,7 +763,7 @@ texts:
         keynote: Se ha desarrollado un marco legal internacional exhaustivo para proteger la propiedad cultural tangible en situaciones de conflicto armado. Ha llegado la hora de redirigir nuestra atención y pasar de debatir el análisis de la ley a implementarla.
         abstract: Dado que la propiedad cultural tangible se ha convertido en un blanco deliberado, susceptible de volverse un daño colateral en los conflictos armados recientes, ha aumentado el análisis académico de las reglas del derecho humanitario internacional que regulan su protección. Sobre la base de ese debate, este capítulo sostiene que ya existe un marco exhaustivo en el derecho internacional, tanto consuetudinario como establecido en tratados, que regula la protección de la propiedad cultural. La legislación existente no solo regula la conducta de las hostilidades en relación con la propiedad cultural y las medidas que los estados adoptan en tiempos de paz para protegerla, sino que también establece mecanismos normativos e institucionales para respaldar la implementación de la ley. En consecuencia, hacer efectiva la naturaleza protectora de la ley y reforzar su cumplimiento implica necesariamente centrarse en formas de respaldar estos mecanismos. En otras palabras, el marco legal internacional que protege la propiedad cultural en situaciones de conflicto armado no puede resultar efectivo a menos que se refuerce la implementación de estos mecanismos.
 
-  - essay: 23-renold-chechi
+  - page: part-4/23-renold-chechi
     translations:
       - lang_code: en
         title:
@@ -796,7 +795,7 @@ texts:
         keynote: Los seres humanos no son las únicas víctimas de los conflictos armados. Los objetos culturales movibles e inamovibles también se toman como blanco. Ello ocurre especialmente cuando las partes beligerantes buscan aniquilar la identidad de sus enemigos y, por tanto, socavar su supervivencia (cultural). Este capítulo revisa dicho problema analizando la conexión que existe entre el derecho humanitario internacional y el derecho del patrimonio cultural.
         abstract: "La dimensión tangible de los objetos culturales movibles e inamovibles se encuentra acompañada por una dimensión humana intangible, derivada de los valores simbólicos, espirituales o históricos que dichos objetos encarnan. Estos valores son asignados al objeto por sus creadores y aquellos que se identifican con él. Ello explica por qué las atrocidades en masa cometidas durante los conflictos armados suelen verse acompañadas por la destrucción y el saqueo del patrimonio cultural tangible del enemigo: las partes beligerantes atacan el patrimonio cultural para aniquilar la identidad de sus enemigos e incluso su mera existencia. Este capítulo explora esta conexión analizando las formas en que el derecho humanitario internacional ha contribuido al crecimiento del derecho del patrimonio cultural y debatiendo cómo el patrimonio cultural se ha ido integrando cada vez más en los tratados sobre derechos humanos."
 
-  - essay: 24-francioni
+  - page: part-4/24-francioni
     translations:
       - lang_code: en
         title:
@@ -828,7 +827,7 @@ texts:
         keynote: A pesar de que han surgido reglas consuetudinarias relativas a la prohibición de la destrucción deliberada y el saqueo del patrimonio cultural, estas son aplicables solo en contextos de conflicto armado y terrorismo. No obstante, existen principios generales del derecho que pueden proporcionar una protección directa e indirecta contra la destrucción deliberada en tiempos de paz.
         abstract: "Este capítulo analiza la práctica de los estados, los organismos internacionales, los órganos judiciales internacionales y las cortes locales para verificar si existen ciertas obligaciones legales en el campo de la protección del patrimonio cultural que sean vinculantes para los estados según la legislación consuetudinaria internacional y los principios generales de la ley. La conclusión a la que se llega es que han surgido reglas consuetudinarias relativas a la prohibición de la destrucción deliberada y el saqueo de bienes culturales, pero son aplicables solo en contextos de conflicto armado, ya sea internacional o no, y de terrorismo. Actualmente, no existen pruebas convincentes de que dichas reglas consuetudinarias sean aplicables a las actividades en tiempos de paz. Ello no implica que el derecho internacional sea indiferente a la destrucción del patrimonio cultural en tiempos de paz: existen principios generales de la ley, en el sentido del Artículo 38.1.c del Estatuto de la Corte Internacional de Justicia, que pueden proporcionar una protección directa e indirecta contra la destrucción intencional del patrimonio cultural y las atrocidades en masas relacionadas."
 
-  - essay: 25-powderly
+  - page: part-4/25-powderly
     translations:
       - lang_code: en
         title:
@@ -860,7 +859,7 @@ texts:
         keynote: Este capítulo ofrece un recuento de la historia del derecho penal internacional y sus esfuerzos por emprender acciones legales contra la destrucción del patrimonio cultural; asimismo, pone sus miras en el posible desarrollo futuro de la responsabilidad por dichos ataques.
         abstract: A lo largo del último siglo, los mecanismos de la justicia penal internacional han desempeñado papel fundamental en asegurar la responsabilidad criminal de individuos por la destrucción deliberada de patrimonio cultural, ya fuese en el contexto de un conflicto armado o no. Este capítulo explora la forma en la que el derecho penal internacional ha evolucionado para responsabilizar a los culpables de la destrucción deliberada de patrimonio cultural. El capítulo comienza repasando la prehistoria de la responsabilidad penal individual por la destrucción de patrimonio como delito internacional, atendiendo a los esfuerzos a menudo ignorados emprendidos después de la Primera y la Segunda Guerra Mundial. Se presta especial atención a los hitos jurisprudenciales clave identificables en Nuremberg y, más tarde, en el Tribunal Penal Internacional para la antigua Yugoslavia. Finalmente, el capítulo presenta una reflexión sobre los avances contemporáneos anteriores al Tribunal Penal Internacional y la futura trayectoria de la responsabilidad ante la destrucción de patrimonio cultural.
 
-  - essay: 26-von-schorlemer
+  - page: part-4/26-von-schorlemer
     translations:
       - lang_code: en
         title:
@@ -892,7 +891,7 @@ texts:
         keynote: La gobernanza mundial del patrimonio cultural podría respaldar los esfuerzos internacionales en la lucha contra los ataques terroristas al patrimonio cultural, mejorando así la protección del patrimonio cultural y desarrollando su régimen jurídico.
         abstract: "En las últimas dos décadas, el patrimonio cultural ha sido un blanco cada vez más corriente de los ataques terroristas. Teniendo en cuenta la destrucción gratuita y deliberada de monumentos y sitios arqueológicos, así como una nueva gama de ataques terroristas, este capítulo analiza la gobernanza mundial del patrimonio cultural como forma de combatir dichos ataques. Con la creciente convicción de que una mejor gobernanza mundial puede desempeñar un papel fundamental en el mantenimiento de la paz y la seguridad, la participación de comunidades, poblaciones y partes interesadas locales puede resultar esencial en el fortalecimiento de la defensa universal del patrimonio cultural. Esta capítulo demuestra que los esfuerzos realizados por la comunidad internacional están, de hecho, pasando de ser principalmente estatales a adoptar un enfoque más “centrado en las personas”."
 
-  - essay: 27-hassner
+  - page: part-5/27-hassner
     translations:
       - lang_code: en
         title:
@@ -924,7 +923,7 @@ texts:
         keynote: "Los combatientes son particularmente propensos a proteger los sitios de patrimonio religioso cuando son importantes para un gran público internacional de creyentes y en guerras que involucran un componente de “corazones y mentes”. Asimismo, resulta probable que sus oponentes se aprovechen de esta limitación."
         abstract: "Los sitios sagrados son un caso difícil con el que explorar la cuestión más amplia de la protección de artefactos culturales. Este capítulo explora las decisiones de Estados Unidos respecto de la protección de sitios de patrimonio cristiano en Europa durante la Segunda Guerra Mundial. Incluso en este conflicto decisivo y brutal, los organizadores militares realizaron un gran esfuerzo por identificar, proteger y reparar estructuras de valor cultural. Se analiza el esfuerzo más amplio por proteger monumento culturales y estructuras religiosas en Europa, así como la difícil decisión tomada por los Aliados de bombardear la Abadía de Montecasino en Italia. Mi conclusión es que los combatientes son particularmente propensos a proteger los sitios de patrimonio religioso cuando son importantes para un gran público internacional de creyentes, más aún en guerras que involucran un componente de “corazones y mentes”. Por el contrario, los sitios sagrados son propensos a sufrir daños si los oponentes aprovechan esta limitación y utilizan los lugares sagrados como bases de operaciones."
 
-  - essay: 28-sagan
+  - page: part-5/28-sagan
     translations:
       - lang_code: en
         title:
@@ -956,7 +955,7 @@ texts:
         keynote: ¿Cómo protegen el patrimonio cultural las leyes sobre los conflictos armados? La historia de los planes y las operaciones militares estadounidenses en 1945, 1991, 2003 y 2020 demuestra la compleja interacción de la lógica estratégica, ética y legal. Las leyes crean obligaciones y vinculaciones que limitan la toma de decisiones de maneras inesperadas.
         abstract: ¿Cómo protegen el patrimonio cultural las leyes sobre los conflictos armados? La historia de la decisión del presidente Harry Truman de salvar Kioto de la destrucción atómica en 1945, las decisiones estadounidenses con respecto a los blancos en la guerra del Golfo en 1991, el saqueo del Museo de Irak en Bagdad en 2003 y las amenazas del presidente Donald Trump de atacar los sitios culturales iraníes en 2020 ponen de manifiesto la compleja interacción entre la lógica estratégica y ética o legal. Siempre deben seguirse los principios legales internacionales de la proporcionalidad y la precaución para que los soldados tomen riesgos y evalúen apropiadamente el daño que provoca la destrucción del patrimonio cultural frente a la importancia de destruir un blanco legítimo. Desafortunadamente, este complejo acto de equilibrio se hace aún más difícil cuando las fuerzas militares adversarias se esconden cerca o dentro de los sitios de patrimonio cultural. Afortunadamente, la historia también arroja luz sobre cómo las limitaciones legales pueden cobrar vida propia e influenciar las decisiones operativas incluso cuando los líderes políticos por sí mismos no se preocupan particularmente por acatar la legislación internacional.
 
-  - essay: 29-beitler-dugan
+  - page: part-5/29-beitler-dugan
     translations:
       - lang_code: en
         title:
@@ -988,7 +987,7 @@ texts:
         keynote: Este capítulo explora los desafíos modernos que se presentan a la hora de proteger sitios de patrimonio cultural durante las operaciones militares y evalúa las prácticas y capacidades actuales del ejército estadounidense a este respecto. Concluye con un debate sobre las varias maneras que los militares pueden emplear para priorizar la protección del patrimonio cultural.
         abstract: Los importantes desafíos del siglo XXI han hecho más compleja la protección de patrimonio cultural durante las operaciones militares. El aumento en el uso de las redes sociales permite visualizar la destrucción del patrimonio cultural y hacer propaganda con ello de manera instantánea, mientras las municiones guiadas aumentan la expectativa de que los sitios de patrimonio cultural no sufran daños durante un conflicto. Esta expectativa suele llevar a un mayor resentimiento y frustración cuando no se protegen los sitios o cuando estos se convierten en daños colaterales. Este capítulo explora los desafíos modernos que se presentan a la hora de proteger sitios de patrimonio cultural durante las operaciones militares y evalúa las prácticas y capacidades actuales del ejército estadounidense investigando su doctrina formal, sus roles y la capacidad recientemente desarrollada de preservar el patrimonio cultural durante las operaciones militares. Concluye con un debate sobre las varias maneras que los militares pueden emplear para asegurarse de que se considere que sus fuerzas protegen —o al menos no dañan— el patrimonio cultural local. Ello incluye una mayor capacitación y educación, colaboraciones con expertos en la materia y operaciones de información ampliadas.
 
-  - essay: 30-gowan
+  - page: part-5/30-gowan
     translations:
       - lang_code: en
         title:
@@ -1020,7 +1019,7 @@ texts:
         keynote: Las fuerzas de paz internacionales han protegido el patrimonio cultural en conflictos desde los Balcanes hasta África Occidental. Si bien las operaciones de paz puede proporcionar cierta seguridad física para los sitios de patrimonio, deberían enfocarse en la resolución de conflictos políticos y la colaboración con las comunidades locales para llegar a un consenso entre antiguos enemigos sobre la necesidad de preservar el patrimonio cultural.
         abstract: Las fuerzas de paz internacionales cuentan con una larga historia de amenazas al patrimonio cultural. En 2017, el Consejo de Seguridad de la ONU aprobó una resolución que respalda el papel que desempeñan las operaciones de paz en la protección de los sitios de patrimonio cultural. Sin embargo, aún existen dudas sobre si ello debería ser una prioridad real de las fuerzas de paz, y los defensores de la protección del patrimonio tienen la necesidad de probar que ello promueve otras prioridades, como la protección de los civiles contra la violencia, la posibilidad de acuerdos políticos tras los conflictos y la facilitación de reconciliaciones a nivel comunitario. Si bien las fuerzas militares de paz desempeñan un papel fundamental en la salvaguarda de los sitios de patrimonio, la mayoría de las operaciones de paz no son lo suficientemente fuertes para realizar esta tarea en todas las áreas en todo momento. Las operaciones de paz deberían, por el contrario, centrarse en los aspectos políticos y civiles de la protección del patrimonio, poniendo de relieve las cuestiones relativas al patrimonio en los procesos de mediación y las iniciativas de participación local. El Consejo de Seguridad debería renovar su apoyo a esta tarea, ya que no ha realizado un seguimiento a fondo de su resolución de 2017 durante cinco años.
 
-  - essay: 31-stone
+  - page: part-5/31-stone
     translations:
       - lang_code: en
         title:
@@ -1052,7 +1051,7 @@ texts:
         keynote: En tiempos de guerra, debemos siempre priorizar la protección de los civiles. Un aspecto indisolublemente relacionado con ello es la protección de la propiedad cultural, que establece lazos tangibles e intangibles con el pasado, ayudando a proporcionar identidad y bienestar, así como a lograr comunidades sanas, pacíficas, seguras y sustentables.
         abstract: Este capítulo aborda cinco cuestiones relacionadas. En primer lugar, plantea el papel, la misión y las aspiraciones de la organización Escudo Azul, un órgano consultivo de la Unesco sobre la protección de los bienes culturales (CPP, por sus siglas en inglés) en caso de conflicto armado, que pone de relieve la necesidad de que se establezcan colaboraciones entre los sectores patrimonial, humanitario y uniformado. En segundo lugar, esboza la quizás inesperadamente larga historia de la CPP como un concepto con implicaciones prácticas para los involucrados en un conflicto armado. En tercer lugar, plantea por qué los sectores uniformado y humanitario deberían interesarse en la CPP y qué debe hacer el sector patrimonial para ganar terreno con estos otros dos sectores que, a simple vista, podrían parecer aliados poco probables. En cuarto lugar, delinea algunas de las amenazas clave a las que se enfrentan los bienes culturales en caso de conflicto armado. Por último, se centra en el rol futuro de la CPP en situaciones de conflicto armado.
 
-  - essay: 32-eakin
+  - page: part-5/32-eakin
     translations:
       - lang_code: en
         title:

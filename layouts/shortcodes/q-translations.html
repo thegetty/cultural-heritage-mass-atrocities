@@ -1,4 +1,9 @@
-{{- $essay := .Page.File.BaseFileName -}}
+{{- $page := "" -}}
+{{ if eq .Page.File.Dir "/" }}
+  {{ $page = .Page.File.BaseFileName }}
+{{ else }}
+  {{ $page = printf "%s%s" .Page.File.Dir .Page.File.BaseFileName }}
+{{ end }}
 
 <div class="backmatter tabbed">
 
@@ -12,7 +17,7 @@
 
   {{ $language := .lang_code }}
 
-  {{ range where $.Site.Data.translations.texts "essay" $essay }}
+  {{ range where $.Site.Data.translations.texts "page" $page }}
   {{ range where .translations "lang_code" $language }}
 
   {{ $keynoteHead := "" }}
