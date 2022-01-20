@@ -60,7 +60,7 @@ The city is located two to five kilometers from the bed of the Orontes River, an
 
 The second perspective on the archaeological evidence argues that the hill has been a significant settlement since Hellenistic times, and that its dominance culminated during the Roman era. Yet local historians are convinced other circumstances played a more important role in the development of the hill. For instance, Mustfa al-Sufi suggests in *The Establishment of a City’s History: From Emesa to Homs* that the building of Qattinah’s dam during the Roman period created the right environmental conditions for the establishment of Homs, which had previously been confined to the hill. By draining the river valley of its swamps, the dam made the location habitable ([figs. 11.4a](#fig-11-4a-al-sabouni), [11.4b](#fig-11-4b-al-sabouni)).
 
-{{< q-figure-group id="fig-11-4a-al-sabouni, fig-11-4b-al-sabouni" caption="Homs hill (@marwa_alsabouni)" >}}
+{{< q-figure-group id="fig-11-4a-al-sabouni, fig-11-4b-al-sabouni" caption="Views of Homs hill." >}}
 
 The controversy surrounding the historical significance of Homs stems from data collected from aerial photography and geographical scans, along with comparisons of archaeological findings collected between 1957 and 1959. According to al-Sufi, the basis of the dispute is that despite the detection of a Hellenistic plan underlying the city, and the existence of engraved Greek writings that use the Seleucid dating system. That said, the fact that there are no remnants of monuments and buildings that can be attributed to the Seleucid era makes any historical judgment of an ancient Homs urban settlement inconclusive.
 
