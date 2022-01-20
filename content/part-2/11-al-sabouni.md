@@ -12,19 +12,7 @@ contributor:
     bio: "Marwa al-Sabouni is an award-winning architect, author, and well-known international public speaker. She holds a PhD in architectural design and Islamic architecture and has published two books, *The Battle for Home* (2016) and *Building for Hope* (2021). She received the Prince Claus award in 2018 and was recognized as one of the BBC 100 Women in 2019."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-It was only because of war that my low-profile city made it into the international news. But Homs was not always covered in the dust of destruction. It had its share of glory as an ancient city that gave birth to a queen who ruled from Rome. There is a mystery behind its decline, which resides in the very destruction of its buildings.
-
-## Abstract
-
-Behind every creation there is an underlying meaning that led to its existence. Hence, the physical destruction of buildings involves an invisible destruction too, that of their meaning. This chapter addresses those meanings, which tend to be overlooked in the processes of restoration and preservation, arguing that the answer to the question of how to preserve sites and built heritage inevitably relates to what is preserved and why. This is surely a question of values, a matter that could easily be oversimplified (into purely a matter of religious identity) or overcomplicated (into a debate around historical significance). This chapter seeks to find common ground in understanding the value of heritage through an examination of the case of Homs, the third major city in Syria and its central province, which sustained enormous damage during the Syrian war. By revisiting the historical genesis of this city in relation to its geography, typology, and cultural and religious values, the process of its rebuilding and the preservation of its endangered heritage may have a chance in its otherwise dim future.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 As an architecture student in Syria, I found it difficult to understand the different connotations of the word “heritage.” Not because I thought it was a complicated concept, but because the remnants of our ancient past stood at odds with the fleeting examples of our present. So feeble seemed the present that it could not face the past alone without calling on the future. With this apparent disconnect between the present and past, questions of identity and value seemed more pressing than ever. As “architects of the future,” as our professors encouraged us to become, we found little interest in studying the history of our city of Homs.
 

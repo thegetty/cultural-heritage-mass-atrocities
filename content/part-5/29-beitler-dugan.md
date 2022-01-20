@@ -1,6 +1,7 @@
 ---
 title: "Practicing the Art of War While Protecting Cultural Heritage"
 subtitle: "A Military Perspective"
+short_title: "Cultural Heritage in Wartime"
 label: "29"
 weight: 54
 type: essay
@@ -16,19 +17,7 @@ contributor:
     bio: "Dexter Dugan is an active-duty Major in the US Army, teaching at the United States Military Academy at West Point as an Instructor in International Relations. His military experience includes battalion and brigade staff officer positions in the Republic of Korea and Kuwait. With an academic focus in international security, he was a contributing author for the 2019 Columbia University report to the United Kingdom Home Office on prevention and deterrence strategies for transnational organized crime."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-This chapter explores the modern challenges of protecting cultural heritage sites during military operations and assesses the US Army’s current practices and capabilities in this endeavor. It concludes with a discussion of various means that the military can employ to ensure the priority of cultural heritage protection.
-
-## Abstract
-
-Significant twenty-first century challenges have complicated cultural heritage protection during military operations. The increased use of social media provides instantaneous viewing and propagandizing of cultural heritage destruction, while precision munitions heighten the expectation that cultural heritage sites will be spared during conflict. This expectation often leads to increased resentment and frustration when sites are not protected or become collateral damage. This chapter explores the modern challenges of protecting cultural heritage sites during military operations and assesses the US Army’s current practices by investigating its formal doctrine, roles, and the capabilities recently developed to preserve cultural heritage during military operations. It concludes with a discussion of various means that the military can employ to ensure that its forces are perceived as protecting—or at least not harming—local cultural heritage. This includes increased training and education, partnerships with subject matter experts, and expanded information operations.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 While serving in Afghanistan in 2006, a special forces officer briefed Lieutenant General Karl Eikenberry, commander of Combined Forces Command–Afghanistan, about a night raid that his unit was going to conduct. Although Eikenberry did not have operational control of the mission, other units coordinated with him. The special forces unit wanted to capture a Taliban bombmaker responsible for the death of at least two members of their team. When the military located the bombmaker in a village, the unit prepared for a midnight attack. Eikenberry disagreed with this approach, contending that the operation would traumatize the village by raiding at midnight, having loud Blackhawk helicopters circling overhead, and disrespecting the culture by violating women’s privacy rules during the search. Even if the bombmaker was captured, the general contended, the exact threat would be replicated in a month, so he suggested “getting him” on the road and not in a village. According to Eikenberry, this anecdote reflects the imperative that “tactics be put in the larger context.”[^1]
 

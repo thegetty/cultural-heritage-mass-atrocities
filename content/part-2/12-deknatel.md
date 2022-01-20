@@ -1,5 +1,5 @@
 ---
-title: "Reconstructions, Who Decides?"
+title: "Reconstruction, Who Decides?"
 short_title:
 label: "12"
 weight: 27
@@ -12,19 +12,7 @@ contributor:
     bio: "Frederick Deknatel is the Executive Editor of *Democracy in Exile*, the journal of Democracy for the Arab World Now (DAWN). His writing and reporting have appeared in the *Nation*, *Foreign Policy*, the *New Republic*, the *National*, and the *Los Angeles Review of Books*, among other publications. He was previously the Managing Editor of *World Politics Review*, and has also been a Staff Editor at *Foreign Affairs*. Deknatel is also a former Fulbright fellow in Syria, where he also worked for the United Nations High Commissioner for Refugees."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-As of 2021, Syria’s reconstruction had already begun, even though its civil war had not ended, and despite a severe lack of funding to rebuild the shattered country. President Bashar al-Assad’s government was seizing on reconstruction to consolidate its authority and project an image of triumph that masked its underlying weaknesses after more than a decade of war.
-
-## Abstract
-
-How will reconstruction unfold in Syria, given the staggering scale of destruction from its long civil war, and the limited resources and narrow, authoritarian interests of President Bashar al-Assad’s government? A few token rebuilding projects already underway in Aleppo, Homs, and Damascus provide an initial answer. Heavily promoted by Syrian authorities and partly paid for by foreign patrons, they reflect how the Assad government sees reconstruction as a propaganda tool and vehicle for elite corruption. It is quickly prioritizing what to rebuild, and what not to—projecting an exclusionary vision of “victor’s justice” on Assad’s terms, while neglecting vast residential neighborhoods once held by opposition forces. The government’s reconstruction agenda relies on co-opting Syria’s cultural heritage, as hastily rebuilt or restored sites such as historical mosques in Aleppo and Homs have become stages for its propaganda campaign. Nascent reconstruction in Syria echoes the troubled post­–civil war rebuilding of neighboring Lebanon, with dire implications for future reconstruction in other countries emerging from civil war and conflict.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 How will reconstruction unfold in Syria, given not only the staggering scale of destruction across the country after a decade of civil war, but the limited resources and narrow, authoritarian interests of the Syrian government of President Bashar al-Assad? A few token rebuilding projects already underway in Aleppo, Homs, and Damascus provide an initial answer, even if the war still has not ended as of late 2021. Heavily promoted by Syrian authorities and in some cases paid for by their foreign patrons, they reflect how the Assad government sees reconstruction as a propaganda tool and vehicle for elite corruption. It is quickly prioritizing what to rebuild, and what not to—projecting an exclusionary vision of “victor’s justice” on Assad’s terms, while neglecting vast residential neighborhoods once held by opposition forces that the government either cannot rebuild, because it lacks the funds and resources, or will not as a form of collective punishment.
 

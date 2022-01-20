@@ -12,19 +12,7 @@ contributor:
     bio: "Lazare Eloundou Assomo is Director of Culture and Emergencies in the Culture Sector of UNESCO."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-In Timbuktu, Mali, from January to December 2012, fourteen of the sixteen mausoleums of the saints inscribed on the UNESCO World Heritage List were completely destroyed by extremist groups who then occupied the city. This chapter examines the entire process, beginning with the destruction of Timbuktu’s cultural heritage to the reconstruction strategy.
-
-## Abstract
-
-From January to December 2012, Mali experienced serious threats to its rich cultural heritage. In Timbuktu, fourteen of the sixteen mausoleums of the saints inscribed on the UNESCO World Heritage List were completely destroyed, three mosques were severely damaged, and 4,203 manuscripts were burned by the extremist groups who then occupied the city. In response to the Malian government’s call for the international community to stop these deliberate acts of destruction, UNESCO launched an awareness-raising campaign on the cultural significance of the mausoleums that structure the social and religious life of the local communities. UNESCO also contributed to the adoption of a resolution by the UN Security Council strongly condemning the destruction of Malian cultural and religious sites and recognizing the important role of local communities in resolving the Malian conflict. UNESCO was equally instrumental in the International Criminal Court’s decision to recognize, for the first time in the history of international criminal justice, the intentional destruction of cultural heritage as a war crime. This chapter examines the entire process, beginning with the destruction of Timbuktu’s cultural heritage from the perspective of local communities to the adopted reconstruction strategy. It also analyzes the reasons behind such mass destruction, considered by local communities an atrocity in the name of ideology, and examines the extremist groups’ strategy of spreading terror by manipulating people’s consciences and turning them into human weapons. Finally, this chapter explains why UNESCO’s reconstruction of the mausoleums would not have succeeded without considering the perspectives of local communities.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 From January to December 2012, Mali experienced serious threats to its rich cultural heritage. The country's northern region, where two of the four Malian sites inscribed on the UN Educational, Scientific and Cultural Organization (UNESCO) World Heritage List are located, was occupied by armed Islamist groups: al-Qaeda in the Islamic Maghreb (AQIM), the Movement for Oneness and Jihad in West Africa (MOJWA), and Ansar Dine. The occupied territory reached as far as the Cliff of Bandiagara, an area known as the Land of the Dogons. During the occupation, the armed groups attacked and damaged cultural heritage and cultural expressions intentionally and methodically. They also seized Timbuktu, attacking the city’s tangible and intangible heritage with the aim of spreading fear and promoting radical extremism. Fourteen of the city’s sixteen mausoleums of the saints inscribed on the World Heritage List were completely destroyed, three mosques were severely damaged, and 4,203 ancient manuscripts burned. Other tangible cultural heritage was also damaged, such as the El Farouk independence monument, along with much of the basic services infrastructure and houses in the city center.
 

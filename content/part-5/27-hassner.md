@@ -1,6 +1,7 @@
 ---
 title: "Protecting Cultural Heritage on the Battlefield"
 subtitle: "The Hard Case of Religion"
+short_title: "War and Religious Heritage"
 label: "27"
 weight: 52
 type: essay
@@ -12,19 +13,7 @@ contributor:
     bio: "Ron E. Hassner is the Chancellor’s Professor of Political Science and Helen Diller Family Chair in Israel Studies at the University of California, Berkeley. He is also the faculty director of the Helen Diller Institute for Jewish Law and Israel Studies at Berkeley. He studies the role of ideas, practices, and symbols in international security with particular attention to the relationship between religion and violence. His books include *War on Sacred Grounds* (2009), *Religion in the Military Worldwide* (2014), and *Religion on the Battlefield* (2016). He is the editor of the Cornell University Press book series “Religion and Conflict.”"
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-Combatants are particularly likely to protect sites of religious heritage when they are of importance to a large international audience of believers and in wars that involve a “hearts-and-minds” component. Opponents are likely to take advantage of that restraint.
-
-## Abstract
-
-Sacred sites are a hard case for exploring the broader question of protecting cultural artifacts. This chapter explores US decisions regarding the protection of Christian heritage sites in Europe during World War II. Even in this decisive and brutal conflict, military planners went to great lengths to identify, protect, or repair structures of cultural value. The broader effort at protecting cultural monuments and religious structures in Europe is analyzed, as well as the difficult Allied decision to bomb the abbey of Monte Cassino in Italy. I conclude that combatants are particularly likely to protect sites of religious heritage when these are of importance to a large international audience of believers; more so in wars that involve a “hearts and minds” component. Conversely, sacred sites are likely to suffer if opponents take advantage of that restraint and utilize sacred places as centers of operation.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 Arguments about the protection of cultural assets in wartime are often made in the abstract, drawing on theoretical insights from ethics, international law, and just war theory. How do these principles fare when tested on the battlefield?
 

@@ -1,7 +1,7 @@
 ---
 label: "Part 4"
 title: "Cultural Heritage and International Law"
-short_title:
+short_title: "International Law"
 type: contents
 class: abstract
 slug: .

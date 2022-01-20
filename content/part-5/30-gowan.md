@@ -1,6 +1,6 @@
 ---
 title: "Peace Operations and the Protection of Cultural Heritage"
-short_title:
+short_title: "Peace Operations"
 label: "30"
 weight: 55
 type: essay
@@ -12,19 +12,7 @@ contributor:
     bio: "Richard Gowan is UN Director at the International Crisis Group. He has worked with the European Council on Foreign Relations, the New York University Center on International Cooperation, and the Foreign Policy Centre (London). He has taught at the School of International and Public Affairs at Columbia University and at Stanford in New York. (AT STANFORD IN NEW YORK? He has also worked as a consultant for organizations including the UN Department of Political Affairs, the UN Office of the Special Representative of the Secretary-General on International Migration, and the British, Canadian, and Finnish foreign ministries."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-International peacekeepers have protected cultural heritage in conflicts from the Balkans to West Africa. While peace operations can provide some physical security for heritage sites, they should focus on political conflict resolution and engagement with local communities to build consensus on the need to preserve cultural heritage among former foes.
-
-## Abstract
-
-International peacekeepers have a long history of addressing threats to cultural heritage. In 2017 the UN Security Council passed a resolution endorsing the role of peace operations in protecting heritage sites. But there are still doubts about whether this is a real priority for peacekeepers, and advocates for heritage protection need to demonstrate that this promotes other priorities, including protecting civilians from violence, enabling political settlements after conflict, and facilitating community-level reconciliation. While military peacekeepers have a crucial role to play in safeguarding heritage sites, most peace operations are not strong enough to do this throughout their areas of operation at all times. Peace operations should instead focus on the political and civilian aspects of heritage protection, emphasizing heritage issues in mediation processes and local outreach initiatives. The Security Council should renew its support to this work, having failed to follow up on its 2017 resolution in depth for five years.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 International peacekeepers have witnessed attacks on cultural heritage since the earliest days of United Nations peacekeeping. In 1948, the UN Security Council mandated the UN Truce Supervision Organization (UNTSO) to observe the armistice that ended the first Arab–Israeli war. The armistice line ran through Jerusalem, where Jordanian forces held the Old City and holy sites. Both sides were responsible for damage to historical buildings.[^1] The Jordanians used synagogues in the Jewish quarter of the Old City as stables, while Israeli troops used churches on the front line as barracks. In 1954, new fighting erupted in Jerusalem, and while UNTSO observers tried to mediate ceasefires, Arab officials accused the Israelis of bombarding religious sites. The Lebanese permanent representative to the UN in New York complained to the Security Council that shells had hit the Old City’s medieval citadel and Armenian monastery, and fallen close to the Church of the Holy Sepulcher.[^2]
 

@@ -1,6 +1,6 @@
 ---
 title: "Valuing the Legacy of our Cultural Heritage"
-short_title:
+short_title: "The Value of Cultural Heritage"
 label: "6"
 weight: 17
 type: essay
@@ -12,19 +12,7 @@ contributor:
     bio: "Ismail Serageldin is the Emeritus Librarian of Alexandria, and was the Founding Director of the Bibliotheca Alexandrina, the New Library of Alexandria in Egypt (2001–17). Before that he was the Vice President of the World Bank (1993–2000). He has received many awards including the Order of the Rising Sun of Japan. He is a knight of the French Legion d’Honneur and a Commander of Arts and Letters of the French Republic. He has lectured widely, published more than a hundred books and five hundred articles, and has received over thirty-five honorary doctorates from all over the world."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-Tangible and immovable heritage, like monuments and historical districts, has important innate value that can be calculated. We have rigorous methodologies that can help us quantify how valuable our cultural heritage is, further underlining how serious hostile attacks against cultural heritage are, and how much the world should guard against them.
-
-## Abstract
-
-Societies and individuals are attached to their cultural heritage, which helps define their identity and contributes to their self-esteem. The purposeful actions of nonstate armed groups, militias, despotic governments, or invading armies in attacking tangible and intangible cultural heritage inflict losses that far exceed their physical destruction. Such actions are akin to cultural and social genocide. An effort to quantify the economic value of cultural heritage becomes instructive in appreciating the enormous cost of its destruction. We have techniques well suited to capture both use and nonuse values as well as tangible and intangible values. This will help us appreciate the importance of our cultural heritage, which strengthens our self-confidence and pride, for those with strong and living links to their past are in the best position to design their future.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 The world has witnessed ethnic and religious genocide, by which one party has tried to destroy or displace another by the most extreme measures.[^1] In such instances, the attackers have turned on the cultural heritage of the victims as a way of erasing their associations with both location and building, and of erasing their legacies as a people. In so doing they recognize that there is an additional dimension to cultural heritage that makes it much more than just the physical reality of a space, building, or object, and that endows it with a value beyond the commercial attributes of its component parts.
 

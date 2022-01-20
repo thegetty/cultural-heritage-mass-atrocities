@@ -1,6 +1,5 @@
 ---
 title: "Why Do We Value Cultural Heritage?"
-short_title:
 label: "2"
 weight: 13
 type: essay
@@ -12,19 +11,7 @@ contributor:
     bio: "Neil MacGregor was director of the National Gallery and British Museum in London, and a founding director of the Humboldt Forum, Berlin. He is the author of many books, including *Seeing Salvation: Images of Christ in Art* (2000), *A History of the World in 100 Objects* (2011), *Shakespeare’s Restless World: An Unexpected History in Twenty Objects* (2012), *Germany: Memories of a Nation* (2016), and *Living with the Gods: On Beliefs and Peoples* (2018)."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-We may best be able to understand why people value cultural heritage if we consider why they so often choose to destroy it. Presenting examples from England, Poland, Lithuania, and Germany, this chapter examines how recent instances of creation and destruction at cultural heritage sites in modern Europe may illuminate paths to prevent or mitigate future losses.
-
-## Abstract
-
-We may best be able to understand why people value cultural heritage if we consider why they so often choose to destroy it. Presenting examples from England, Poland, Lithuania, and Germany, this chapter examines how recent instances of creation and destruction at cultural heritage sites in modern Europe may illuminate paths to prevent or mitigate future losses. Cultural heritage provides communities with communal narratives that allow them to survive and flourish. While all cultural heritage is in large measure intangible, an important aspect of physical cultural heritage is usually less the thing itself than the narratives which communities, local or global, choose to attach to it. That explains why cultural heritage is most in danger when that community narrative changes, or when one object becomes the focus of conflicting narratives. Encouragingly, this essay demonstrates that destruction is not necessarily the end of the story.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 <section>
 

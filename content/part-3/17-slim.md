@@ -1,6 +1,6 @@
 ---
 title: "Choosing between Human Life and Cultural Heritage in War"
-short_title:
+short_title: "Human Life and Cultural Heritage in War"
 label: "17"
 weight: 34
 type: essay
@@ -12,19 +12,7 @@ contributor:
     bio: "Hugo Slim is a Senior Research Fellow at the Institute of Ethics, Law and Armed Conflict in the Blavatnik School of Government at the University of Oxford, and a Visiting Professor at Schwarzman College at Tsinghua University in Beijing. He was previously Head of Policy and Humanitarian Diplomacy at the International Committee of the Red Cross in Geneva. His most recent books are *Humanitarian Ethics: The Morality of Aid in War and Disaster* (2015) and *Killing Civilians: Method, Madness and Morality in War* (2008)."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-The lives of civilians and friendly combatants should be prioritized over cultural heritage in war, despite a profound ontological value in cultural heritage that is integral to being human. This is because in human life there is always the potential for cultural renewal.
-
-## Abstract
-
-This chapter examines the ethical values involved in making hard battlefield choices between saving human life and cultural heritage. It looks first at why cultural heritage matters at all, and so why these are hard choices, suggesting this is because cultural heritage is not just a means to human flourishing but has actual ontological value in being human, explained in terms of dependency, identity, and universality. The ontological dimension of cultural heritage is then assumed to ask whether civilians and military forces should prioritize life or heritage, arguing that human life should always trump cultural heritage in extremis because in human life there is always the potential for cultural renewal. However, this trump should be played with three qualifications to mitigate cultural loss: to recalculate proportionality of force against enemy combatants who directly threaten cultural heritage; to let individuals stay with their cultural heritage if they wish, even if staying means their death; and trying very hard to save remnants of peoples’ heritage while prioritizing human life.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 One of the most devastating ways to hurt and erase a people in war is to destroy the places and artifacts that are most precious to them as a group. These may be sacred spaces where they meet to celebrate new life, pray together, experience transcendence, or bury their dead. They may be ancient market squares where families have traded with one another for centuries through good times and bad. They may also be works of architecture, art, and craft so beautiful that they exemplify the very best the community can achieve, heartfelt proof that as a people, past and present, they have reached moments that are truly sublime.
 

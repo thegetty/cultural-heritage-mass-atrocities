@@ -12,19 +12,7 @@ contributor:
     bio: "Scott D. Sagan is the Caroline SG Munro Professor of Political Science and a Senior Fellow at the Center for International Security and Cooperation and the Freeman Spogli Institute at Stanford University. Sagan is the author of *The Limits of Safety: Organizations, Accidents, and Nuclear Weapons* (1993) and, with Kenneth N. Waltz, *The Spread of Nuclear Weapons: An Enduring Debate* (2012). Sagan previously was a lecturer in the Department of Government at Harvard University and served as special assistant to the director of the Organization of the Joint Chiefs of Staff at the US Department of Defense."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-How does the law of armed conflict protect cultural heritage? The history of US military plans and operations in 1945, 1991, 2003, and 2020 demonstrates how strategic, ethical, and legal logics interact in a complex manner. Laws create obligations and entailments that constrain decisionmakers in unexpected ways.
-
-## Abstract
-
-How does the law of armed conflict protect cultural heritage? The history of President Harry Truman’s decision to spare Kyoto from atomic destruction in 1945, US targeting decisions in the 1991 Gulf War, the 2003 looting of the Iraq Museum in Baghdad, and President Donald Trump’s threats in 2020 to attack Iranian cultural sites demonstrate how strategic logic and ethical or legal logic interact in complex ways. The international legal principles of proportionality and precaution must always be followed so that soldiers take risks and properly weigh the harm of cultural heritage destruction against the importance of destroying a legitimate target. Unfortunately, this complex balancing act is made more difficult when an adversary’s military forces hide near or within cultural heritage sites. Fortunately, the history also illuminates how legal constraints can take on a life of their own, influencing operational decisions even when individual political leaders themselves are not particularly concerned about following international law.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 In July 1945, at the end of World War II, US secretary of war Henry Stimson persuaded President Harry Truman to remove Kyoto, the ancient capital of Japan, from the top of the target list for the dropping of the atomic bomb. In 1991, during the Gulf War, US Central Command developed an extensive “no-attack” list of cultural, religious, and historical sites that were off-limits for military targeting. In March 2003, after the invasion of Iraq, it became clear that such no-attack lists are not enough when considerable looting took place at the Iraq Museum in Baghdad. Yet in response to widespread criticism of the US military for failing to prevent the looting, Secretary of Defense Donald Rumsfeld displayed little concern about the incident. In January 2020, President Donald Trump tweeted a threat to target Iranian cultural heritage sites, but Secretary of Defense Mark Esper promptly announced that US armed forces would follow the laws of armed conflict in any retaliatory attack against Iran.
 

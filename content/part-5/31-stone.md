@@ -1,6 +1,7 @@
 ---
 title: "Protecting Cultural Property in Armed Conflict"
 subtitle: "The Necessity for Dialogue and Action Integrating the Heritage, Military, and Humanitarian Sectors"
+short_title: "Cultural Property in Armed Conflict"
 label: "31"
 weight: 56
 type: essay
@@ -12,19 +13,7 @@ contributor:
     bio: "Peter Stone is the UNESCO Chair in Cultural Property Protection (CPP) & Peace at Newcastle University, the United Kingdom, and the President of the nongovernmental organization the Blue Shield, an advisory body to UNESCO on CPP in the event of armed conflict. He has worked in CPP since 2003 and has written extensively on this topic, including coediting with Joanne Farchakh Bajjaly *The Destruction of Cultural Heritage in Iraq* (2008) and editing *Cultural Heritage, Ethics and the Military* (2011). His article “The 4 Tier Approach” in *The British Army Review* led directly to the establishment of the Cultural Property Protection Unit in the British armed forces."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-In war we must always prioritize the protection of civilians. An indivisibly intertwined aspect of this is the protection of their cultural property, which gives tangible and intangible links to the past, helping provide their identity and wellbeing, and the achievement of healthy, peaceful, secure, and sustainable communities.
-
-## Abstract
-
-This chapter addresses five interrelated issues. First, it outlines the role, mission, and aspirations of the Blue Shield organization, an advisory body to UNESCO on cultural property protection (CPP) in the event of armed conflict, which emphasizes the need for partnership between the heritage, humanitarian, and uniformed sectors. Second, it sketches the perhaps unexpectedly long history of CPP as a concept with practical implications for those involved in armed conflict. Third, it discusses why the uniformed and humanitarian sectors should be interested in CPP and what the heritage sector needs to do to gain traction with these, at first glance, perhaps unlikely bedfellows. Fourth, it outlines some of the key threats to cultural property in the event of armed conflict. Finally, it looks to the future role of CPP in armed conflict.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 Where they burn books, they will in the end burn people[^1]
 

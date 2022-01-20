@@ -1,6 +1,6 @@
 ---
 title: "The Cultural Heritage of Late Antiquity"
-short_title:
+short_title: "Cultural Heritage of Late Antiquity"
 label: "4"
 weight: 15
 type: essay
@@ -12,19 +12,7 @@ contributor:
     bio: "Glen Bowersock is Professor Emeritus of Ancient History at the Institute for Advanced Study in Princeton, New Jersey. He was Professor of History and Classics at Harvard University from 1962 until 1980, when he accepted a Professorship in the School of Historical Studies at the Institute for Advanced Study. He retired in 1986. His many books range from *Augustus and the Greek World* in 1965 to *The Crucuble of Islam* in 2017. He is a member of numerous academies, including the Russian Academy of Sciences, the Accademia dei Lincei, the Académie des Inscriptions et Belles-Lettres, and the American Philosophical Society."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-Late antiquity provides a case study for heritage destruction and atrocities. While dramatic examples of such horrors were common in antiquity, including the leveling of ancient Corinth, few atrocities occurred in the subsequent historical period. When, after horrendous destruction of heritage and mass killings, such events no longer or rarely occur for a period of time we must ask why.
-
-## Abstract
-
-Late antiquity provides a case study for heritage destruction and atrocities. This historical period follows that of antiquity, in which there had been dramatic examples of both, including the leveling of ancient Corinth and the killing of eighty thousand people in one day in Anatolia. Yet after the destruction of Jerusalem there was not much more horror of this kind in the Roman Empire, despite a few instances of fanaticism (such as the murder of Hypatia). We have to ask what caused this conspicuous change? What provoked such violence as actually occurred? The plague in the third and sixth centuries AD diminished destruction and atrocity, whereas religion, principally Christianity, caused outbreaks of both when they occurred.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 In the later years of the Peloponnesian War in the early fifth century BC, the Athenians enlisted a contingent of Thracian soldiers to join their ill-fated expedition to Sicily, an expedition that ended disastrously in Syracuse near the Assinarus River. The Thracians had been recruited to supplement the Athenian contingent even though the Greeks looked down on Thracians as barbarians. But they could be useful because they were notoriously fierce fighters. Unfortunately, the Thracian forces arrived after the Greeks had already set sail for Sicily. So they were sent back northward along the eastern coast to return to their homeland.
 

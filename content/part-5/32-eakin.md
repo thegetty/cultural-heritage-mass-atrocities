@@ -11,19 +11,8 @@ contributor:
     type: secondary
     bio: "Hugh Eakin is a senior editor at *Foreign Affairs*. He has written on cultural heritage and international politics for the *New York Review of Books*, *New York Times*, *Washington Post*, *New Yorker*, and other publications. His work has been supported by numerous fellowships and grants, including the National Endowment for the Humanities, the Cullman Center for Scholars and Writers, the Fritt Ord Foundation, and the Dora Maar House. His book *Picasso’s War* will be published in 2022."
 ---
-<div class="backmatter">
 
-## Keynote
-
-In recent years the protection of cultural monuments during armed conflict has become an urgent international priority. But the long-term survival of threatened heritage sites may depend as much on what happens when the fighting stops.
-
-## Abstract
-
-Over the past quarter century, much of the talk around human conflict and heritage destruction has focused on the twin problems of war and terrorism. Driven by global outrage over the intentional targeting of sites and monuments, Western nations and international organizations have developed important new tools for addressing attacks by combatants and militant groups. But if the goal is preservation, history suggests that such an approach can only go so far. In “hot war” settings, it may be impossible to mount an effective response until the damage is done. Meanwhile, destruction often occurs in times of “peace,” when sovereign governments are in control and international actors may be reluctant to intervene. In fact, the long-term survival of heritage sites has almost always depended on the actions of local communities and governments. Drawing on these insights, this essay takes up the gray area of the post-conflict environment, when international forces, organizations, and funds are typically present alongside a new governing order, and direct measures can be taken *before* attacks happen. In recent cases from Kosovo and Syria to Cyprus and Azerbaijan this phase emerges as both a time of heightened threats and a window of opportunity, in which international involvement can help convert short-term protection to long-term preservation.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 On 17 November 2020, Catholicos Karekin II, the supreme head of the Armenian Apostolic Church, made an urgent international appeal. “One of the last remaining regions of our ancient culture,” he warned, “is at risk of destruction.” After weeks of fighting in the South Caucasus territory of Nagorno-Karabakh, several of the world’s oldest monasteries, along with hundreds of medieval churches, sacred sites, and *kachkars*—intricately carved cross stones—had fallen into the hands of Armenia’s archenemy, Azerbaijan. The government of Azerbaijan had a history of destroying Armenian sites, Catholicos noted, and there was now an imminent danger of “cultural cleansing.”[^1] Soon after, the Armenian patriarch’s warnings were echoed by Western scholars, with one asserting in the *Wall Street Journal* that “ancient national treasures” were “at risk of complete erasure.”[^2]
 

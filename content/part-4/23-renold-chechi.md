@@ -1,6 +1,6 @@
 ---
 title: "International Human Rights Law and Cultural Heritage"
-short_title:
+short_title: "International Human Rights Law"
 label: "23"
 weight: 44
 type: essay
@@ -16,19 +16,7 @@ contributor:
     bio: "Alessandro Chechi is a senior researcher and lecturer at the University of Geneva, at the Geneva Academy of International Humanitarian Law and Human Rights, and at the Université Catholique de Lille. Alessandro serves as a member of the editorial boards of the Italian Yearbook of International Law and the *Santander Art and Culture Law Review*. He was consultant for the European Committee on Crime Problems (CDPC) of the Council of Europe for the revision of the Convention on Offences Relating to Cultural Property. He is the author of *The Settlement of International Cultural Heritage Disputes* (2014)."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-Human beings are not the only victims of armed conflict. Movable and immovable cultural objects are also targeted. This occurs especially when belligerents seek to annihilate the identity of their enemies and hence to undermine their (cultural) survival. This chapter explores this problem by examining the interconnection between international human rights law and international cultural heritage law.
-
-## Abstract
-
-The tangible dimension of movable and immovable cultural objects is accompanied by an intangible human dimension, which derives from the symbolic, spiritual, or historical values embodied in such objects. Such values are assigned to the object by its makers and those who identify with it. This explains why mass atrocity crimes committed during armed conflict are often accompanied by the destruction and looting of the tangible cultural heritage of the enemy: belligerents target cultural heritage to annihilate the identity of their enemies and even their very existence. This chapter explores this link by examining the ways in which international human rights law has contributed to the growth of international cultural heritage law, and by discussing how cultural heritage has increasingly been integrated into human rights treaties.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 The tangible dimension of any movable and immovable cultural object is completed and accompanied by an intangible human dimension, which relates to the symbolic, spiritual, or historical values embodied in such objects. Such values—which are independent of any aesthetic or monetary significance—are assigned to cultural heritage by its makers and those who identify with these objects.[^1] In other words, culture is understood, protected, and promoted not only for its physical manifestations but for the relationship of culture to people, individually or in groups, and the diversity of the relationships being protected and promoted.[^2]
 

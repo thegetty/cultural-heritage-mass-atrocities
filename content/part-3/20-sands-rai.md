@@ -1,6 +1,7 @@
 ---
 title: "After the Dust Settles"
 subtitle: "Transitional Justice and Identity in the Aftermath of Cultural Destruction"
+short_title: "Transitional Justice Strategies"
 label: "20"
 weight: 37
 type: essay
@@ -16,19 +17,7 @@ contributor:
     bio: "Ashrutha Rai is a doctoral candidate at the University of Cambridge, where her research focuses on the protection of intangible cultural heritage in armed conflict and forced displacement. She was previously an Associate Legal Officer and Judicial Fellow at the International Court of Justice."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-There are various approaches taken by international law to questions of cultural identity and ownership in societies transitioning out of mass atrocities. While none alone can address the full spectrum of affected cultural rights, together they may offer a more holistic understanding of the link between cultural heritage and identity.
-
-## Abstract
-
-To whom does cultural heritage belong? The continuum of ownership—from an individual to a distinct group to all humankind—is a matter that raises essential questions of identity and the responsibility to protect and promote such heritage, at the same time as engaging a spectrum of related rights. From the hyperlocal and regional to the national and international, concentric and overlapping (and sometimes conflicting) circles of interest sustain a range of simultaneous claims. This chapter traces different claims to cultural heritage in the aftermath of atrocities through the lens of public international law. While international cultural heritage law emphasizes the decontextualized protection of cultural sites and property, the concept of transitional justice often skirts around fractious questions of ownership in favor of practical solutions for embedded communities. Each approach is capable of prioritizing or delegitimizing the claims of certain stakeholders. From these varied efforts at reconciling complex notions of cultural identity with the damage wrought by mass atrocities, a broader narrative emerges of the enduring, multilayered, and complex connections between cultural heritage and identity.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 The question of ownership of cultural heritage has long been contentious. The identity of groups and the feelings of their members are often associated with monuments and other cultural objects. The accompanying traditions, histories, and customs are considered emblematic of a group’s culture, perhaps even that of multiple groups. Yet cultural heritage has also come to be seen as a common heritage of humankind, belonging to everyone and no one in particular. The tension between these rival conceptions of belonging and ownership can have far-reaching ramifications in the interplay between law and politics. Often it is circumstance and perspective that determine the relative legitimacy of competing claims, providing only temporary or incomplete answers to the enduring question of ownership.
 

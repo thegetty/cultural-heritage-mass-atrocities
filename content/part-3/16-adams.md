@@ -1,6 +1,6 @@
 ---
 title: "Cultural Cleansing and Mass Atrocities"
-short_title:
+short_title: "Cultural Cleansing and Mass Atrocities"
 label: "16"
 weight: 33
 type: essay
@@ -12,19 +12,7 @@ contributor:
     bio: "Simon Adams is President and CEO of the Center for Victims of Torture, the world’s largest organization for the treatment of torture survivors. CVT also publicly advocates for an end to torture around the world. From 2011 to 2021 he served as Executive Director of the Global Centre for the Responsibility to Protect, an organization that provides policy advice and carries out advocacy with the UN Security Council and Human Rights Council regarding the prevention of crimes against humanity, war crimes, and genocide. Adams is the author of five books on international conflict, and regularly appears in the media on matters related to human rights."
 ---
 
-<div class ="backmatter">
-
-## Keynote
-
-In conflict zones around the world, various nonstate armed groups and governments are attacking cultural heritage sites and targeting minority communities. Threatened by what UNESCO’s director-general described as “cultural cleansing,” the international community has a responsibility to protect vulnerable populations from those seeking to destroy them.
-
-## Abstract
-
-In various conflict zones around the world today both nonstate armed groups and governments continue to violate international law with deliberate attacks on cultural heritage sites and the targeting of minority communities. Enduring what former UNESCO director-general Irina Bokova described as a policy of “cultural cleansing,” these populations face the threat of potential war crimes, crimes against humanity, and genocide. This chapter focuses on three examples: the 2001 destruction of the Bamiyan Buddhas and attacks on the ethnic Hazara population in Afghanistan; the 2014–17 campaign by the Islamic State of Iraq and the Levant to destroy minority cultures in northern Iraq; and the Chinese government’s ongoing efforts to demolish Uyghur culture in Xinjiang Province. In response to intentional assaults on humanity’s cultural heritage, the international community has a responsibility to protect vulnerable populations from those seeking to destroy them.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 Raphael Lemkin was personally responsible for the creation of the term “genocide.” As a Polish-Jewish refugee during the Second World War, Lemkin was painfully aware of how Nazi Germany demolished the cultural underpinnings of Jewish life in occupied Europe. For Lemkin the killing of a people “in a spiritual and cultural sense” was linked to their destruction in a physical sense. It is understandable, therefore, that his conception of genocide included the “desecration and destruction of cultural symbols, destruction of cultural leadership, destruction of cultural centers, prohibition of cultural activities” and forced conversion to an alien religion or way of life. The intentional eradication of a people’s “traditions, monuments, archives, libraries, and churches” amounted to the destruction of “the shrines of a nation’s soul.” Regrettably, opposition from some member states of the early United Nations saw Lemkin’s ideas regarding culture discarded in the final version of the Genocide Convention that was adopted in December 1948.[^1]
 

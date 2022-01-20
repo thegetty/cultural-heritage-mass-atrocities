@@ -1,6 +1,6 @@
 ---
 title: "Customs, General Principles, and the Intentional Destruction of Cultural Property"
-short_title:
+short_title: "Customs and General Principles"
 label: "24"
 weight: 45
 type: essay
@@ -12,19 +12,7 @@ contributor:
     bio: "Francesco Francioni is Professor Emeritus of International Law, the European University Institute, and Professor of International Cultural Heritage Law, LUISS University, Rome. A member of the Institut de Droit International and of the American Law Institute, he held the chair of international law at the University of Siena from 1980 to 2003 and was visiting professor in the law faculties of Cornell University, the University of Texas, the University of Oxford, Columbia University, and Panthéon-Assas University (Paris 2). He is the author and editor of a large number of books and articles on cultural heritage and international law, including *The* *Oxford Commentary to the 1972 World Heritage Convention* (2008), with Federico Lenzerini, and *The* *Oxford Handbook of International Cultural Heritage Law* (2020), with Ana Filipa Vrdoljak. He participated in the negotiation and drafting of the 1995 UNIDROIT Convention, the 1999 Second Protocol to the 1954 Hague Convention, the 2003 Convention for the Safeguarding of the Intangible Cultural Heritage, and the 2003 UNESCO Declaration Concerning the Intentional Destruction of Cultural Heritage. In 1997–98 he was President of the UNESCO World Heritage Committee."
 ---
 
-<div class="backmatter">
-
-## Keynote
-
-While certain customary rules have emerged with regard to the prohibition of intentional destruction and looting of cultural heritage, they are applicable only in the contexts of armed conflict and terrorism. Nonetheless, a number of general principles of law can provide direct and indirect protection against intentional destruction in peacetime.
-
-## Abstract
-
-This chapter examines the practice of states, international bodies, international judicial organs, and domestic courts in order to verify whether certain legal obligations exist in the field of cultural heritage protection which are binding upon states as a matter of customary international law and general principles of law. The conclusion is that certain customary rules have emerged with regard to the prohibition of intentional destruction and looting of cultural property, but they are applicable only in the contexts of armed conflict, international and non-international, and of terrorism. No compelling evidence exists today that such customary rules are applicable to peacetime activities. This does not mean that international law is indifferent to peacetime destruction of cultural heritage—a number of general principles of law, within the meaning of Article 38.1.c of the Statute of the International Court of Justice, can provide direct and indirect protection against the intentional destruction of cultural heritage and related mass atrocities.
-
-</div>
-
-<hr />
+{{< q-translations >}}
 
 At a time when terrorists destroy temples and monuments declared the patrimony of humanity and angry crowds tear down statues memorializing controversial symbols of the past, we may well ask what does international law have to say with regard to this phenomenon? To answer this question one must remember that in the past half century, international law on the protection of cultural heritage has undergone a spectacular development at the level of standard setting. UNESCO has promoted the adoption of treaty regimes for the prevention of cultural destruction in time of war, of illicit traffic in cultural property, for the protection of world cultural heritage and underwater cultural heritage, for the safeguarding of intangible cultural heritage, and for the protection and promotion of cultural diversity.[^1] But the obligations undertaken by states in this field are still predominantly treaty based, i.e., they are founded on consent expressed by states in their acts of ratification or accession to relevant treaties. As such, they are binding only for the states parties to these treaties and place no obligations on third parties. If we look at the most relevant international instrument for the prevention of cultural property destruction, the 1954 Hague Convention on the Protection of Cultural Heritage in the Event of Armed Conflict, it is in force for 133 states, a fairly high number of contracting parties, considering also that they include major military powers, and, after the United Kingdom’s accession in 2017, all five permanent members of the UN Security Council (the so-called P5).
 
