@@ -29,8 +29,7 @@
 
   <section id="lang-{{ .lang_code }}" lang="{{ .lang_code }}" >
     <p class="essay-title">{{ .title | markdownify }}<br /><span class="essay-contributor">{{ .contributor | markdownify }}</span></p>
-    <h2>{{ $keynoteHead }}</h2>
-    <p>{{ .keynote | markdownify }}</p>
+    <p class="keynote-text">{{ .keynote | markdownify }}</p>
     <h2>{{ $abstractHead }}</h2>
     <p>{{ .abstract | markdownify }}</p>
   </section>
