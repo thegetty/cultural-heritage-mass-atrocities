@@ -660,6 +660,15 @@ strong {
   }
 }
 
+/* REMOVE JIM AND TOM'S TITLES FROM SECTION INTO PAGES */
+#part-1-intro .quire-contributor__grouped-info,
+#part-2-intro .quire-contributor__grouped-info,
+#part-3-intro .quire-contributor__grouped-info,
+#part-4-intro .quire-contributor__grouped-info,
+#part-5-intro .quire-contributor__grouped-info {
+  display: none;
+}
+
 /* HIDE DEFAULT LINKS AND STYLE HARDCODED LINK LIST */
 #james-cuno .quire-contributor__page-link,
 #thomas-g-weiss .quire-contributor__page-link {
