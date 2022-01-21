@@ -3,7 +3,7 @@
 {{ else }}
 {{ $.Scratch.Set "imageDir" "" }}
 {{ end -}}
-<section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero"{{ with .Params.language }} lang="{{ . }}"{{ end }}>
+<section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero">
   <div class="hero-body">
     {{/* Page Title */}}
     <h1 class="quire-page__header__title" id="{{ .Title | urlize }}">
@@ -11,7 +11,7 @@
       {{- partial "page-title.html" . | markdownify -}}
     </h1>
     {{/* Contributors, if any */}}
-    {{ partial "page-contributor.html" . }}
+    {{ partial "page-contributor.html" . }}  
   </div>
 </section>
 
