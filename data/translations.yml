@@ -66,6 +66,19 @@ texts:
         title: Prefacio y agradecimientos
         contributor: James Cuno y Thomas G. Weiss
 
+  - page: abbreviations
+    translations:
+      - lang_code: ar
+        title:
+      - lang_code: zh
+        title:
+      - lang_code: fr
+        title:
+      - lang_code: ru
+        title:
+      - lang_code: es
+        title:
+  
   - page: part-1/section-contents
     translations:
       - lang_code: ar
