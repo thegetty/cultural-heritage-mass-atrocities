@@ -469,7 +469,7 @@ figure_list:
     credit: ""
 
   - id: "fig-5-14-schmidtke"
-    src:
+    src: "figures/fig-5-14-schmidtke.jpg"
     alt: ""
     label: "Figure 5.14"
     caption: "Evidence of ongoing illicit trafficking of manuscripts from Yemen (source: Ahmed Shaker, with kind permission)"
