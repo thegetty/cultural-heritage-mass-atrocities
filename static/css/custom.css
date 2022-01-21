@@ -515,6 +515,81 @@ strong {
   }
 }
 
+/* STYLE FIGURE LABELS INCLUDED INSIDE LINK TAG FOR FIGURE MODAL */
+.quire-figure__label.quire-figure__label--below {
+  font-size: .75em;
+  margin-top: .37rem;
+  float: left;
+}
+
+/* HIDE/SHOW CAPTIONS & CREDITS IN GROUP SHORTCODES */
+@media screen {
+  .quire-figure.quire-figure--shared-caption figure figcaption {
+    display: none;
+  }
+}
+@media print {
+  .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__caption-content,
+  .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__credit {
+    display: none;
+  }
+}
+
+/* STYLE OVERRIDE VERSION OF THE q-figure-group SHORTCODE */
+@media screen {
+  .content .quire-figure--group figure,
+  .content .quire-figure--group figure:not(:first-child) {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: .5em;
+    margin-left: 0;
+  }
+  .quire-page__content figure.quire-figure--group {
+    display: grid;
+    grid-gap: 1rem;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-1 {
+    grid-template-columns: 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-2 {
+    grid-template-columns: 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-3 {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group > .quire-figure__caption {
+    grid-column: 1/-1;
+    margin-top: 0;
+  }
+}
+@media print {
+  .quire-page__content figure.quire-figure--group {
+    display: block;
+    white-space: nowrap;
+  }
+  .quire-page__content figure.quire-figure--group figcaption {
+    white-space: normal;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2 figure,
+  .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
+    margin: 0;
+    width: calc(50% - .75rem);
+    display: inline-block;
+    vertical-align: top;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
+    margin-left: 1.5rem;
+  }
+}
+
+/* CREATE GRID OF ONE WIDE IMAGE OVER TWO NARROWER ONES */
+.screen-one-over-two-grid > figure:first-child {
+  grid-column: 1/-1;
+}
+
 /* IMPROVE TABLE STYLING INLINE & IN MODAL */
 .quire-figure__table {
   font-size: 1rem;

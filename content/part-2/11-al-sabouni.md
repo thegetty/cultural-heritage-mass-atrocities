@@ -70,9 +70,7 @@ Julia Domna, its Homsi princess and youngest daughter of the high priest of the
 
 {{< q-figure id="fig-11-5-al-sabouni" >}}
 
-{{< q-figure id="fig-11-6a-al-sabouni" >}}
-
-{{< q-figure-group grid=2 id="fig-11-6b-al-sabouni, fig-11-6c-al-sabouni" caption="Great Mosque of al-Nuri (three images @marwa_alsabouni)" >}}
+{{< q-figure-group grid="2" id="fig-11-6a-al-sabouni, fig-11-6b-al-sabouni, fig-11-6c-al-sabouni" caption="Great Mosque of al-Nuri (three images @marwa_alsabouni)" class="screen-one-over-two-grid" >}}
 
 When I visited the mosque in the aftermath of fighting and first saw the half-exposed pillars, I was overwhelmed by the building’s sense of continuity in its development. The basalt slabs of its courtyard surface, its vaults, and its walls, were brightened by strips of white limestone around the mosque’s doors and windows. In this building, the idea of historical present was so perfectly practiced over millennia: each picking up from where the other had left, leaving no gaps in time through which meaning may slip. The word “heritage” in such places acquires another layer, belonging to no single past. It becomes an accumulation of experiences, expertise, and expressions.
 
