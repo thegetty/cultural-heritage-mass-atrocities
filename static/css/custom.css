@@ -1,3 +1,30 @@
+/* TEMP "UNCORRECTED PROOF" BANNER */
+@media screen {
+  #container::before,
+  #container::after {
+    color: white;
+    font-weight: 700;
+    position: fixed;
+    width: 230px;
+    height: 230px;
+    z-index: 4000;
+    transform: rotate(-45deg);
+    text-align: center;
+    padding-top: 1rem;
+  }
+  #container::before {
+    content: "UNCORRECTED";
+    background-color: red;
+    bottom: -115px;
+    right: -115px;
+  }
+  #container::after {
+    content: "PROOF";
+    bottom: -130px;
+    right: -130px;
+  }
+}
+
 :root {
 
   /* Palette:
