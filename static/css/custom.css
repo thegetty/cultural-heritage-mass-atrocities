@@ -576,14 +576,17 @@ strong {
   margin-bottom: 4rem;
 }
 .quire-page__content .container .content .tabbed .essay-title {
-  font-size: 1rem;
+  font-size: 1.15rem;
   font-weight: 700;
   font-family: "IBM Plex Sans Condensed", sans-serif;
 }
 .quire-page__content .container .content .tabbed .essay-title .essay-contributor {
   color: var(--color-mid-dark);
-  font-size: 0.875rem;
+  font-size: 1rem;
   font-weight: 400;
+}
+.quire-page__content .container .content .tabbed .keynote-text {
+  font-size: 1.15rem;
 }
 .quire-page__content .container .content .tabbed ul,
 .quire-page__content .container .content .tabbed ul li {
