@@ -507,6 +507,14 @@ strong {
   display: none;
 }
 
+/* ENSURE IMAGES ARE SEEN IN FULL WITHIN USER'S WINDOW WITHOUT SCROLLING */
+@media screen {
+  .content figure .quire-figure__image {
+    max-height: calc(100vh - 7rem);
+    width: auto;
+  }
+}
+
 /* IMPROVE TABLE STYLING INLINE & IN MODAL */
 .quire-figure__table {
   font-size: 1rem;
