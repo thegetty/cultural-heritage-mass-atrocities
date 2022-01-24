@@ -8,6 +8,7 @@
 # should not be included.
 #
 # IMPORTANT: `quire preview` must be running for this script to work.
+# And `pdf: true` must be set in config.yml
 
 previewURL=http://localhost:1313/
 outputDirectory=static/downloads/pages/
@@ -18,6 +19,7 @@ baseName=cultural-heritage-mass-atrocities
 TRANSLATIONS=(
 contents-ar
 contents-zh
+contents-en
 contents-fr
 contents-ru
 contents-es
