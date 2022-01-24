@@ -95,7 +95,7 @@ In Cambodia in 1975, a reign of terror began as the Khmer Rouge, a Maoist nation
 
 Throughout the last few decades, destruction of cultural heritage has often been encountered in the context of ethnic conflict. In the case of the wars in the former Yugoslavia in the 1990s, the cultural heritage destruction was not random or unintentional—collateral damage in the course of military strife—but systematic and targeted. Serbs and Croats targeted mosques for bombing ([fig. 3.3](#fig-3-3-parzinger)), Croats and Bosnians did the same to churches, and Serbs and Bosnians to Catholic places of worship—the sacral architecture of the enemy ethnic group was a preferred target. While the destruction of the symbolic Muslim bridge of Mostar awakened the international community, the Catholic episcopal palace, including its library, and the largest Catholic churches in the region were also severely damaged.[^40] The war was fought on parallel tracks—against the people and their culture and heritage—with particular ruthlessness. The intent was to thus make ethnic cleansing campaigns irreversible.
 
-{{< q-figure id="fig-3-3-parzinger" >}}
+{{< q-figure id="fig-3-3-parzinger" class="pdf-narrow" >}}
 
 Serbs and Albanians also adhered to this strategy during the 1998–99 Kosovo War. Again, mosques and churches were in the crosshairs. Countless Orthodox churches and monasteries were destroyed, as were the majority the mosques.[^41] The cultural and particularly the architectural heritage of the region became a symbolic battlefield.
 

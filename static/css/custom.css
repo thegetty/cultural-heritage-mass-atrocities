@@ -277,8 +277,10 @@
   }
   #copyright .quire-page__content {
     text-align: left;
-    max-width: 4.25in;
-    margin-left: 0;
+    margin-left: .75in;
+    column-count: 2;
+    column-gap: .1875in;
+    font-size: .625rem;
   }
   #copyright .quire-page__content .container .content .backmatter {
     /* padding-top: 2.125in; */
@@ -298,29 +300,121 @@
     width: 3in;
     height: .5pt;
   }
-  #contents .quire-contents-list,
-  #contents .quire-page__header__title {
-    margin-left: 1.75in;
+  #contents .quire-contents-list {
+    margin-left: .75in;
   }
   #contents .quire-page__content .menu-list a {
     font-weight: 600;
     text-align: left;
   }
+  .quire-contents-list .section-item a::after,
   .quire-contents-list .page-item a::after {
     content: leader(' ') ' ' target-counter(attr(href, url), page);
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.25em;
     font-weight: 400;
   }
+  .quire-contents-list .section-item.frontmatter-page > a::after,
+  .quire-contents-list .page-item.frontmatter-page > a::after {
+    content: leader(' ') ' ' target-counter(attr(href, url), page, lower-roman);
+    font-style: normal;
+  }
+  #abbreviations .quire-page__content table {
+    margin-left: .75in;
+  }
   p {
     orphans: 2;
     widows: 2;
   }
+  .quire-page__content .content .footnotes ol {
+    margin-left: 2rem;
+  }
   .quire-page__content .container .content li {
     margin-bottom: 0;
   }
+  .quire-page__content .container .content ul {
+    margin-left: 1.5em;
+    margin-top: .75em;
+    margin-bottom: .75em;
+  }
+  .quire-page__content .container .content ul li {
+    margin-left: 1.5em;
+  }
+  .quire-page__content .container .content ul li::before {
+    margin-left: -1.5rem;
+  }
+  .quire-page__content .container .content .readings li {
+    margin-bottom: 1em;
+  }
+  .quire-page__content .container .content li p {
+    text-indent: 0;
+  }
   .quire-contributor__bio {
     line-height: 1.7;
+  }
+
+  /*  FIGURE ADJUSTMENTS */
+  .content .quire-figure {
+    max-width: 95%;
+  }
+
+  .content .quire-figure.pdf-narrow {
+    max-width: 100%;
+  }
+  .content .quire-figure.pdf-narrow .q-figure__wrapper {
+    display: flex;
+    align-items: flex-end;
+  }
+  .content .quire-figure.pdf-narrow .q-figure__wrapper figcaption {
+    min-width: 1.3125in;
+    width: 1.3125in;
+    margin-left: .1875in;
+    margin-top: 0;
+    margin-bottom: -2.5px;
+  }
+
+  .pdf-page-break-before {
+    page-break-before: always;
+  }
+  .pdf-page-break-after {
+    page-break-after: always;
+  }
+
+  .content figure.quire-figure.pdf-65-percent-width .q-figure__wrapper img,
+  .content figure.quire-figure.pdf-65-percent-width .q-figure__wrapper figcaption {
+    max-width: 65%;
+    margin-left: 0;
+  }
+  .content figure.quire-figure.pdf-85-percent-width .q-figure__wrapper img,
+  .content figure.quire-figure.pdf-85-percent-width .q-figure__wrapper figcaption {
+    max-width: 85%;
+    margin-left: 0;
+  }
+
+  /* https://www.princexml.com/howcome/2021/guides/float/index.html */
+  .content figure.quire-figure:not(.pdf-no-snap) {
+    -prince-float: snap;
+    margin: 1.5rem 0;
+    -prince-margin-alt: 0;
+  }
+
+  /* LOC Cataloguing in Publication format */
+  .quire-page__content .container .content .cip-data p {
+    margin-bottom: 0;
+  }
+  .quire-page__content .container .content .cip-data ul {
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+  .quire-page__content .container .content .cip-data ul li {
+    line-height: 1.6;
+    margin: 0;
+    padding-left: 1.5em;
+    text-indent: -1.5em;
+  }
+  .quire-page__content .container .content .cip-data ul li::before {
+    display: none;
   }
 }
 
@@ -566,6 +660,13 @@ strong {
   }
 }
 @media print {
+  .content .quire-figure--group figure,
+  .content .quire-figure--group figure:not(:first-child) {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 1em;
+    margin-left: 0;
+  }
   .quire-page__content figure.quire-figure--group {
     display: block;
     white-space: nowrap;
@@ -589,14 +690,41 @@ strong {
 .screen-one-over-two-grid > figure:first-child {
   grid-column: 1/-1;
 }
+@media print {
+  .quire-page__content .quire-figure--group.quire-figure--group--grid-2.screen-one-over-two-grid {
+    white-space: normal;
+    text-align: left;
+    max-width: 90%;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2.screen-one-over-two-grid figure {
+    display: inline-block;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2.screen-one-over-two-grid figure {
+    width: calc((100% - .1875in - 4px) * .5);
+    margin-left: 0;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2.screen-one-over-two-grid figure:first-child {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2.screen-one-over-two-grid figure:nth-child(3) {
+    margin-left: .1875in;
+  }
+}
 
 /* IMPROVE TABLE STYLING INLINE & IN MODAL */
 .quire-figure__table {
   font-size: 1rem;
 }
+.content table td {
+  /* semi-transparent --accent-color */
+  border-color: rgba(188, 124, 68, .3);
+}
+
 .quire-figure__table thead th {
   background-color: var(--accent-color);
   color: var(--white) !important;
+  border-width: 0;
 }
 .quire-figure__table .table-key {
   font-size: .75rem;
@@ -665,7 +793,8 @@ strong {
 #part-2-intro .quire-contributor__grouped-info,
 #part-3-intro .quire-contributor__grouped-info,
 #part-4-intro .quire-contributor__grouped-info,
-#part-5-intro .quire-contributor__grouped-info {
+#part-5-intro .quire-contributor__grouped-info,
+#preface-acknowledgements .quire-contributor__grouped-info {
   display: none;
 }
 
@@ -688,6 +817,11 @@ strong {
 }
 .quire-page__content .container .content .contribution-list + hr {
   margin-bottom: 2rem;
+}
+@media print {
+  .quire-page__content .container .content .contribution-list {
+    display: none;
+  }
 }
 
 /* KEYONTE AND ABSTRACT TRANSLATIONS WITH THE q-translation SHORTCODE */
@@ -769,6 +903,11 @@ strong {
     border-top: 0;
   }
 }
+@media print {
+  .quire-page__content .container .content .tabbed {
+    display: none;
+  }
+}
 
 /* ARABIC LANGUAGE SECTIONS */
 [lang="ar"] {
@@ -819,4 +958,9 @@ strong {
   }
 }
 
-
+/* Accounts for pdf output of cover and first blank page. Numbering
+  should alwys start at 1 on the half title page. This negative number
+  hack on the cover seems to do the trick */
+.quire-page--frontmatter.quire-cover {
+  counter-reset: page -1;
+}

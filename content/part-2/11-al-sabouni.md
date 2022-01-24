@@ -68,9 +68,9 @@ However, it is agreed that while the city’s ancient name of Emesa is pre-Roman
 
 Julia Domna, its Homsi princess and youngest daughter of the high priest of the temple, married the Libyan-born Septimius Severus, and the two ruled from Rome ([fig. 11.5](#fig-11-5-al-sabouni)). Meanwhile, Homs gained prominence as a religious center with its great temple and expanded well beyond the original hill. The temple long outlived its creators by adopting new religions with new rulers over the centuries, becoming a church and later a mosque. Its remains are incorporated within the walls of the Great Mosque of al-Nuri, which was built (or rather rebuilt) by Nour al-Din al-Zenki in the Mamluk Islamic era, during which it was adjacent to the city wall at one end and the souk, or market, at the other. During the Syrian civil war, pillars believed to be remnants of the temple became exposed by arms fire ([figs. 11.6a](#fig-11-6a-al-sabouni), [11.6b](#fig-11-6b-al-sabouni), [11.6c](#fig-11-6c-al-sabouni)).
 
-{{< q-figure id="fig-11-5-al-sabouni" >}}
+{{< q-figure id="fig-11-5-al-sabouni" class="pdf-narrow" >}}
 
-{{< q-figure-group grid="2" id="fig-11-6a-al-sabouni, fig-11-6b-al-sabouni, fig-11-6c-al-sabouni" caption="Great Mosque of al-Nuri (three images @marwa_alsabouni)" class="screen-one-over-two-grid" >}}
+{{< q-figure-group grid="2" id="fig-11-6a-al-sabouni, fig-11-6b-al-sabouni, fig-11-6c-al-sabouni" caption="Great Mosque of al-Nuri (three images @marwa_alsabouni)" class="screen-one-over-two-grid pdf-no-snap" >}}
 
 When I visited the mosque in the aftermath of fighting and first saw the half-exposed pillars, I was overwhelmed by the building’s sense of continuity in its development. The basalt slabs of its courtyard surface, its vaults, and its walls, were brightened by strips of white limestone around the mosque’s doors and windows. In this building, the idea of historical present was so perfectly practiced over millennia: each picking up from where the other had left, leaving no gaps in time through which meaning may slip. The word “heritage” in such places acquires another layer, belonging to no single past. It becomes an accumulation of experiences, expertise, and expressions.
 
@@ -82,15 +82,15 @@ The mausoleum of Emesa, a monument built by the Sampsigeramids in 78–79, was 
 
 The mausoleum of Emesa was part of Homs (and its necropolis) for nearly eighteen centuries, until 1911, when the city government dynamited it to make room for an oil depot. The mausoleum, as documented in the drawings and photographs of nineteenth- and twentieth-century Orientalists, was a two-story structure, the square base topped with an obelisk whose shape resembled the pyramidical tombs of Palmyra. Each façade decorated with a row of five columns at the base with another row on the second floor. The building materials, the local black basalt and white limestone mentioned earlier, are a unique feature of Homs’s architecture. The greater part of the necropolis had been excavated by 1952 and was reburied to build a municipal stadium ([fig. 11.8](#fig-11-8-al-sabouni)).
 
-{{< q-figure id="fig-11-8-al-sabouni" >}}
+{{< q-figure id="fig-11-8-al-sabouni" class="pdf-narrow" >}}
 
 One of the milestones in the making of the city was the creation of the al-Mujahediya irrigation canal by Asad al-Din Shirkuh in the twelfth century, which connected to the Qattinah dam. It irrigated the arable land between the west side of Homs and the river. But more important, it brought water right to the heart of the city for the first time, supplying mosques, hammams (public baths), mills, and all the city’s neighborhoods. The canal also protected Homs from the impact of floods that used to wreak havoc on the city ([figs. 11.9a](#fig-11-9a-al-sabouni), [11.9b](#fig-11-9b-al-sabouni)).
 
-{{< q-figure-group id="fig-11-9a-al-sabouni, fig-11-9b-al-sabouni" caption="Irrigation canal of al-Mujahediya (@marwa_alsabouni)" >}}
+{{< q-figure-group id="fig-11-9a-al-sabouni, fig-11-9b-al-sabouni" caption="Irrigation canal of al-Mujahediya (@marwa_alsabouni)" class="pdf-no-snap" >}}
 
 Waterwheels were built on the canal to raise the level of water where needed. A landmark waterwheel was built in 1712 near what is now considered the city center, in a neighborhood adjacent to the main souk, with numerous mosques and hammams that required water to be lifted to their level. All that remains of the great waterwheel is the name it has given to its locality: al-Naourah (after *noria* or waterwheel). In its place, French colonial buildings were erected, occupied by clinics and offices on the upper floors, and clothes shops at the ground level. Souk al-Naourah, as the neighborhood is called today, has no water anymore, nor a great *noria* ([figs. 11.10a](#fig-11-10a-al-sabouni), [11.10b](#fig-11-10b-al-sabouni), [11.10c](#fig-11-10c-al-sabouni)).
 
-{{< q-figure-group id="fig-11-10a-al-sabouni, fig-11-10b-al-sabouni, fig-11-10c-al-sabouni" caption="Souk al-Naourah (two images @marwa_alsabouni)" >}}
+{{< q-figure-group id="fig-11-10a-al-sabouni, fig-11-10b-al-sabouni, fig-11-10c-al-sabouni" caption="Souk al-Naourah (two images @marwa_alsabouni)" class="pdf-no-snap pdf-65-percent-width" >}}
 
 ## The Destruction of Heritage and the Undermining of Meaning
 

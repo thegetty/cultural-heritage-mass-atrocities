@@ -21,7 +21,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date:  # YYYY-MM-DD
+pub_date: 2022-09-15
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -30,7 +30,7 @@ identifier:
   url:
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: Getty Publications
     location: Los Angeles
     url:
     logo: logo-getty.png
@@ -67,10 +67,11 @@ contributor:
 copyright: © 2022 J. Paul Getty Trust
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  name: Creative Commons Attribution-NonCommercial 4.0 International License
+  abbreviation: CC BY-NC
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+  scope: some-exceptions # full | text-only | some-exceptions
+  online_text: "Unless otherwise indicated, the text of this work and figs. TK are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights."
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -99,11 +100,11 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://www.getty.edu/legal/privacy.html
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
-    url:
+    url: https://www.getty.edu/legal/copyright.html
 
 # ------------------------------------------------------------------------------
 # Subjects

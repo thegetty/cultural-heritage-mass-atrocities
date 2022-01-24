@@ -38,7 +38,7 @@ When the Target Committee, which included Robert Oppenheimer and Major General L
 
 > Kyoto: This target is an urban industrial area with a population of 1,000,000. It is the former capital of Japan and many people and industries are now being moved there as other areas are being destroyed. From the psychological point of view there is the advantage that Kyoto is an intellectual center for Japan and the people there are more apt to appreciate the significance of such a weapon as the gadget … Hiroshima has the advantage of being such a size and with possible focusing from nearby mountains that a large fraction of the city may be destroyed. The Emperor’s Palace in Tokyo has a greater fame than any other target but is of least strategic value ([fig. 28.1](#fig-28-1-sagan)).[^8]
 
-{{< q-figure id="fig-28-1-sagan" >}}
+{{< q-figure id="fig-28-1-sagan" class="pdf-narrow" >}}
 
 Military logic supported attacking Kyoto because of the increasing amount of military industry coming into the city, its location surrounded by mountains, and because of its large population. Indeed, Kyoto was well over twice the size of Hiroshima or any other city that had not yet been subjected to the firebombing campaign of the US Army Air Forces (as the US Air Force was then known). Simply put, if Kyoto was attacked, more Japanese people would be killed. This appealed to General Groves: as he later put it, “I particularly wanted Kyoto as a target because … it was large enough in area for us to gain complete knowledge of the effect of an atomic bomb.”[^9]
 

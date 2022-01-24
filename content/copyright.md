@@ -18,10 +18,10 @@ The free online edition of this publication is available at [getty.edu/publicati
 
 Unless otherwise indicated, the text of this work and figs. TK are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
-"Who Are We? Identity and Cultural Heritage" originally appeared in Kwame Anthony Appiah, The Lies That Bind: Rethinking Identity (New York: Liveright, 2018), 6–12 and 189–211, and is reproduced with permission.
+"Who Are We? Identity and Cultural Heritage" originally appeared in Kwame Anthony Appiah, *The Lies That Bind: Rethinking Identity* (New York: Liveright, 2018), 6–12 and 189–211, and is reproduced with permission.
 
 First edition, 2022<br />
-[github.com/thegetty/cultural-heritage-mass-atrocities](https://ggithub.com/thegetty/cultural-heritage-mass-atrocities)
+[github.com/thegetty/cultural-heritage-mass-atrocities/](https://ggithub.com/thegetty/cultural-heritage-mass-atrocities/)
 
 **Published by Getty Publications, Los Angeles**<br />
 1200 Getty Center Drive, Suite 500<br />

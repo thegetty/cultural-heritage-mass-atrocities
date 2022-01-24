@@ -24,8 +24,6 @@ UNESCO also launched an awareness-raising campaign regarding the cultural signif
 
 UNESCO also cooperated with the International Criminal Court (ICC) to facilitate the investigation of the intentional destruction of the mausoleums. This resulted in the confirmation of war crime charges against Ahmad al-Faqi al-Mahdi, a member of Ansar Dine, who was sentenced on 27 September 2016 to nine years in prison for intentionally directing attacks against historical monuments and buildings, including nine mausoleums and one mosque in Timbuktu.
 
-#
-
 ## Understanding Timbuktu’s Cultural Heritage
 
 Timbuktu is said to have been founded toward the end of the Hegira (Muhammad’s departure from Mecca to Medina in 622) by a group of Imakcharen Tuaregs, a regional tribal group. With a remarkable geostrategic position at the crossroads between sub-Saharan and North Africa and along the Niger River, the city developed as part of the trans-Saharan trade route, becoming the most prestigious intellectual and scientific center in what is known as the African Middle Ages.(1400–1800). Its prestigious Koranic University of Sankoré attracted numerous scholars, explorers, and the adventurous, and became the intellectual measure of West Africa as well as an important center for the propagation of Islam throughout Africa in the fifteenth and sixteenth centuries. Its three great mosques at Djingareyber, Sankoré, and Sidi Yahia recall Timbuktu’s golden age during the fourteenth and fifteenth centuries ([fig. 14.1](#fig-14-1-eloundou-assomo)).[^3]

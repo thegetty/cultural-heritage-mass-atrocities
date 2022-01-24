@@ -30,7 +30,7 @@ https://www.getty.edu/publications/cultural-heritage-mass-atrocities/
 
 Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/cultural-heritage-mass-atrocities/](https://github.com/thegetty/cultural-heritage-mass-atrocities/), where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
 
-###
+### September 15, 2022
 
   - First edition
 
@@ -66,7 +66,7 @@ This publication was created using [Quire](https://quire.getty.edu/)™, a multi
 
 Unless otherwise indicated, the text of this work and figs. TK are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
-"Who Are We? Identity and Cultural Heritage" originally appeared in Kwame Anthony Appiah, The Lies That Bind: Rethinking Identity (New York: Liveright, 2018), 6–12 and 189–211, and is reproduced with permission.
+"Who Are We? Identity and Cultural Heritage" originally appeared in Kwame Anthony Appiah, *The Lies That Bind: Rethinking Identity* (New York: Liveright, 2018), 6–12 and 189–211, and is reproduced with permission.
 
 **Published by Getty Publications, Los Angeles**<br />
 1200 Getty Center Drive, Suite 500<br />

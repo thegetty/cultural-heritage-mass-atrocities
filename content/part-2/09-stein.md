@@ -47,7 +47,9 @@ It is important to emphasize that Da’esh’s and the Taliban’s focus on dest
 
 Da’esh’s devastation of both ancient and modern cultural heritage was so effective because it took place in a well-integrated system that combined religious ideology, a political agenda, extreme violence, and Internet-based communication. Michael Danti describes Da’esh’s attacks on heritage as “performative destruction” to emphasize their public character: “Performative deliberate destructions are scripted productions with ISIL militants delivering speeches and reciting religious passages on camera, purporting that the targeted heritage is idolatrous or heretical within their interpretation of Islam. … These diatribes are followed by meticulously edited film sequences showing destructions of architecture and sculpture using explosives, heavy machinery, and hand tools ([figs. 9.1](#fig-9-1-stein), [9.2](#fig-9-2-stein)). Videos and still photos are then posted on the internet with ISIL branding or are featured in the ISIL magazine *Dabiq*.”[^13] The importance of these actions goes far beyond Da’esh and may foreshadow the emergence of a broader-based new paradigm of performative destruction that could threaten people and patrimony in unprecedented ways at a global level.
 
-{{< q-figure-group id="fig-9-1-stein, fig-9-2-stein" >}}
+{{< q-figure id="fig-9-1-stein" >}}
+
+{{< q-figure id="fig-9-2-stein" >}}
 
 Da’esh’s performative destruction of objects, monuments, and sites was a religiously and politically motivated public propagandistic act of cultural genocide accompanying the destruction of people and communities through physical genocide as defined in international law.[^14] These attacks were so effective because they were embedded in a well-integrated system that combined religious ideology, a political agenda, extreme violence, and sophisticated propaganda—all amplified at a global scale to reach multiple, targeted audiences through Internet videos, digital magazines, and other social media. Nonhierarchical channels of Internet communication make these messages extremely difficult to counter or suppress.
 

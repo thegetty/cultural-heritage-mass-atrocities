@@ -16,7 +16,7 @@ contributor:
 
 Over the past several decades, digital collections of texts produced by Muslim authors writing in Arabic during the premodern period have mushroomed. Major libraries include al-Maktaba al-Shamila, currently containing some seven thousand books;[^1] Noor Digital Library, with 35,169 books to date;[^2] PDF Books Library, currently containing 4,355 books;[^3] Arabic Collections Online (ACO), providing access to 15,131 volumes;[^4] Shia Online Library, with 4,715 books;[^5] and al-Maktaba al-Waqfiyya, containing some ten million pages of published books (in addition to a growing number of manuscript surrogates),[^6] to name only the most important. Moreover, since printing technologies were adopted in the Islamic world at a relatively late stage and slow rate, ([fig. 5.1](#fig-5-1-schmidtke)) much of the written cultural production of the Islamic world is still preserved in manuscript form. And although there has been a steady rise in the publication of manuscript catalogues all over the Islamic world over the past hundred years, much material is still unaccounted for, and discoveries of titles that were believed to be lost or that were entirely unknown regularly occur. In parallel, numerous libraries have started to digitize their collections of Islamic manuscripts, with a fair number providing open access to their holdings through institutional digital repositories, in addition to a growing number of online gateways to such manuscripts.[^7] At the same time, what is available online, whether published or in manuscript form, is only the tip of the iceberg.
 
-{{< q-figure id="fig-5-1-schmidtke" >}}
+{{< q-figure id="fig-5-1-schmidtke" class="pdf-narrow" >}}
 
 We do not possess reliable data that would allow us to quantify the overall literary production by Muslim scholars over the past 1,500 years, nor do we have estimates of the total number of preserved manuscripts. However, the following figures, randomly chosen, may provide some idea of the overall scope of the corpus. The Süleymaniye Library in Istanbul, one of the most important libraries in Turkey, though just one among many, holds some one hundred thousand manuscripts in Arabic, Persian, and Ottoman Turkish, and the estimated number of Islamic manuscripts in all Turkish libraries is three hundred thousand.[^8] ([fig. 5.2](#fig-5-2-schmidtke)) The Union Catalogue of Manuscripts in Iranian Libraries, published in 2011 in thirty-five volumes, lists some four hundred thousand manuscripts in Arabic and Persian, not including the holdings of the many uncatalogued private collections in the country. Estimates of the total number of manuscripts in the countless public and private libraries in Yemen, most of which are only partly catalogued if at all, range from forty thousand to one hundred thousand codices. Moreover, libraries with significant holdings of Islamic manuscripts are not confined to regions that are (or were) part of the Islamic world—they are spread all over the world. Important and substantial collections of Islamic manuscripts can be found across Europe, Russia, North America, and Australia, as well as East Asia. ([fig. 5.3](#fig-5-3-schmidtke))
 
@@ -106,9 +106,9 @@ There are many reasons why a certain book has come down to us while others fall 
 
 {{< q-figure id="fig-5-13-schmidtke" >}}
 
-{{< q-figure id="fig-5-14-schmidtke" >}}
+{{< q-figure id="fig-5-14-schmidtke" class="pdf-narrow" >}}
 
-<div class="backmatter">
+<div class="backmatter pdf-page-break-before">
 
 ## Biography
 
