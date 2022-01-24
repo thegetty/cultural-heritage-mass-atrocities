@@ -90,17 +90,18 @@
 /* Centering contributor and adjusting type style */
 .quire-page__header__contributor {
   text-align: center;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-style: normal;
   font-family: "Archivo Narrow", sans-serif;
   color: var(--color-mid-dark);
+  margin-top: 2.5rem;
 }
 
 @media screen {
   .quire-page__header .hero-body {
     margin: 0 auto;
     max-width: 720px;
-    text-align: left;
+    text-align: center;
     padding-left: 4rem;
     padding-right: 4rem;
     padding-top: 5rem;
@@ -784,7 +785,7 @@ strong {
 @media print {
   .quire-essay h2#biography,
   .quire-essay .quire-contributors-list.bio {
-    display: none;
+    /* display: none; */
   }
 }
 
@@ -963,4 +964,19 @@ strong {
   hack on the cover seems to do the trick */
 .quire-page--frontmatter.quire-cover {
   counter-reset: page -1;
+}
+
+/* PDF DOWNLOAD LINKS ON INDIVIDUAL PAGES */
+.quire-page__header .download-link a {
+  display: inline-block;
+  text-align: center;
+  color: var(--color-dark);
+  font-size: 1rem;
+  margin: 1rem .5rem 0 .5rem;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.quire-page__header .download-link a svg {
+  height: .75rem;
+  width:  .75rem;
+  fill: var(--color-dark);
 }

@@ -12,4 +12,24 @@
   margin-left: 1in !important;
   margin-right: 1in !important;
   color: #000 !important;
+
+  @bottom-right {
+    content: "" !important;
+  }
+
+  @bottom-left {
+    content: "" !important;
+  }
+}
+
+/* Display bios on the individual page downloads since they are otherwise only displayed in the end of the book in the full PDF */
+@media print {
+  .quire-essay h2#biography,
+  .quire-essay ul.quire-contributors-list.bio {
+    display: inherit !important;
+  }
+  .quire-essay ul.quire-contributors-list.bio,
+  .quire-essay ul.quire-contributors-list.bio li {
+    margin-left: 0 !important;
+  }
 }

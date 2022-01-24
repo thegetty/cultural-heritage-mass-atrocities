@@ -2,6 +2,7 @@
 title: List of Abbreviations
 weight: 6
 type: page
+pdf_download: false
 ---
 
 |         |             |
@@ -20,7 +21,7 @@ type: page
 | CAVR    |  Commission for Reception, Truth and Reconciliation in East Timor |
 | CCP     | Chinese Communist Party |
 | CE      | Common or Christian Era |
-| CESCR   | Committee on Economic, Social and Cultural Rights |  
+| CESCR   | Committee on Economic, Social and Cultural Rights |
 | CNN     |  Cable News Network |
 | DGAM    | Directorate General for Antiquities and Museums |
 | Eamena  | Endangered Archaeology in the Middle East and North Africa |
@@ -46,7 +47,7 @@ type: page
 | IRR     | Internal rate of return |
 | ISIL    | Islamic State of Iraq and the Levant |
 | ISIS    | Islamic State of Iraq and Syria |
-| KFOR    | NATO’s Kosovo Force |   
+| KFOR    | NATO’s Kosovo Force |
 | KLA     | Kosovo Liberation Army |
 | LIDAR   | Light Detection and Ranging |
 | LOAC    | Law of armed conflict |

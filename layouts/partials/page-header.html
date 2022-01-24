@@ -1,0 +1,56 @@
+{{/*
+
+  THIS OVERRIDE PARTIAL ADDS LINKS FOR INDIVIDUAL PAGE DOWNLOADS
+
+  ADD `pdf_download: false` TO REMOVE THE DOWNLOAD LINK
+
+  NOTE THAT THE PDF FILE DIRECTORY AND NAME IS HARD-CODED IN TWO PLACES BELOW
+
+*/}}
+{{- if isset $.Site.Params "imagedir" }}
+{{ $.Scratch.Set "imageDir" $.Site.Params.imageDir }}
+{{ else }}
+{{ $.Scratch.Set "imageDir" "" }}
+{{ end -}}
+<section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero">
+  <div class="hero-body">
+    {{/* Page Title */}}
+    <h1 class="quire-page__header__title" id="{{ .Title | urlize }}">
+      {{- with .Params.label }}<span class="label">{{ . }}<span class="visually-hidden">{{ $.Site.Params.pageLabelDivider }}</span></span>{{ end -}}
+      {{- partial "page-title.html" . | markdownify -}}
+    </h1>
+    {{/* Contributors, if any */}}
+    {{ partial "page-contributor.html" . }}
+
+    {{- if ne .Params.pdf_download false -}}
+      {{- $page := "" -}}
+      {{- if eq .Page.File.Dir "/" -}}
+        {{- $page = .Page.File.BaseFileName -}}
+      {{- else if eq .Params.slug "." -}}
+        {{- $page = replace .Page.Page.File.Dir "/" "" -}}
+      {{- else -}}
+        {{- $page = printf "%s%s" .Page.File.Dir .Page.File.BaseFileName -}}
+        {{- $page = replace $page "/" "-" -}}
+      {{- end -}}
+
+      {{- $link := "/downloads/pages/cultural-heritage-mass-atrocities" -}}
+      {{- $link = printf "%s--%s.%s" $link $page "pdf" -}}
+      <span class="download-link is-screen-only remove-from-epub"><a href="{{ $link }}">PDF {{- partial "icon.html" (dict "type" "download" "description" "download") -}}</a></span>
+    {{- end -}}
+
+    {{ if eq .Title "Contents" }}
+    {{ range .Site.Data.translations.languages }}
+      {{- $link := "/downloads/pages/cultural-heritage-mass-atrocities--contents" -}}
+      {{- $link = printf "%s-%s.%s" $link .lang_code "pdf" -}}
+      <span class="download-link is-screen-only remove-from-epub"><a href="{{ $link }}">{{ .display }} {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a></span>
+    {{ end }}
+    {{ end }}
+
+  </div>
+</section>
+
+{{- if .Params.image -}}
+{{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") .Params.image -}}
+  <section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero__image" style="background-image: url('{{ $imgPath | relURL }}');">
+  </section>
+{{- end -}}

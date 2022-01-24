@@ -2,6 +2,7 @@
 title: Contributors
 weight: 90
 type: page
+pdf_download: false
 ---
 
 {{< q-contributor range="primary" format="bio" >}}

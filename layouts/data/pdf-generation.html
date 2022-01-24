@@ -1,0 +1,14 @@
+{{- $pages := "" -}}
+{{- $pages = where .Site.Pages ".Kind" "page" -}}
+{{- $pages = where $pages ".Type" "!=" "data" -}}
+{{- $pages = where $pages "Params.online" "!=" "false" -}}
+{{- $pages = where $pages "Params.pdf_download" "!=" "false" -}}
+{{- range $pages -}}
+{{- if eq .Page.File.Dir "/" -}}
+  {{- .Page.File.BaseFileName }}
+{{ else if eq .Params.slug "." -}}
+  {{- replace .Page.Page.File.Dir "/" "" }}
+{{ else -}}
+  {{- printf "%s%s" .Page.File.Dir .Page.File.BaseFileName }}
+{{ end -}}
+{{- end -}}

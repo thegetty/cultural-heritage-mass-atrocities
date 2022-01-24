@@ -6,4 +6,5 @@ type: contents
 class: abstract
 slug: .
 weight: 31
+pdf_download: false
 ---

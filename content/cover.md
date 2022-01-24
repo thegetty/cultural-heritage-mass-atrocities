@@ -6,6 +6,7 @@ type: cover
 slug: .
 toc: false
 image:
+pdf_download: false
 ---
 
 Intentional destruction of cultural heritage has a long history. Contemporary examples include the Bamiyan Buddhas in Afghanistan, mosques in Xinjiang, mausoleums in Timbuktu, and Greco-Roman remains in Syria. Cultural heritage destruction invariably accompanies assaults on civilians, making heritage attacks impossible to disentangle from the mass atrocities of genocide, war crimes, crimes against humanity, and ethnic cleansing. Both seek to eliminate people and the heritage with which they identify.
