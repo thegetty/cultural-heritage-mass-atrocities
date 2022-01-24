@@ -1,7 +1,9 @@
 ---
 title: Contents
-weight: 2
+weight: 3
 type: contents
 class: list
 search: false
+toc: false
+pdf_download: false
 ---

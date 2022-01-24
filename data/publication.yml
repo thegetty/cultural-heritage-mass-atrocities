@@ -9,22 +9,19 @@
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Cultural Heritage and Mass Atrocities
+subtitle:
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: >-
-    Quire is a digital publishing framework built on top of the Hugo static site
-    generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files.
-
+  full:
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2019-03-01 # YYYY-MM-DD
+pub_date: 2022-09-15
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -33,7 +30,7 @@ identifier:
   url:
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: Getty Publications
     location: Los Angeles
     url:
     logo: logo-getty.png
@@ -42,25 +39,24 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Edited by James Cuno and Thomas G. Weiss
 
 contributor:
-  - id: jkeller
+  - id: jcuno
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    pic: contributors/judith-keller.jpg
-  - id:
-    type:
-    first_name:
-    last_name:
-    title:
-    affiliation:
-    bio:
+    first_name: James
+    last_name: Cuno
+    title: President and CEO
+    affiliation: J. Paul Getty Trust
+    bio: "James Cuno is President of the J. Paul Getty Trust and Co-chair of its Cultural Heritage at Risk Project. His recent single- and coauthored books include: *Museums Matter: In Praise of the Encyclopedic Museum* (2011); *Whose Culture? The Promise of Museums and the Debate over Antiquities* (2009); and *Who Owns Antiquity: Museums and the Battle Over Our Ancient Heritage* (2008)."
+    pic:
+  - id: tweiss
+    type: primary
+    first_name: Thomas G.
+    last_name: Weiss
+    title: Presidential Professor of Political Science
+    affiliation: CUNY Graduate Center
+    bio: "Thomas G. Weiss is Co-chair of the Cultural Heritage at Risk Project of the J. Paul Getty Trust and Presidential Professor of Political Science at the CUNY Graduate Center; he is also Distinguished Fellow, Global Governance, at the Chicago Council on Global Affairs, and Global Eminence Scholar, Kyung Hee University, Korea. His recent single- and coauthored books include: *The “Third” United Nations: How a Knowledge Ecology Helps the UN Think* (2021); *Rethinking Global Governance* (2019); *The United Nations and Changing World Politics* (2019); *Would the World Be Better without the UN?* (2018); and *Humanitarianism, War, and Politics: Solferino to Syria and Beyond* (2018)."
     url:
     pic:
 
@@ -68,13 +64,14 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: © 2022 J. Paul Getty Trust
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  name: Creative Commons Attribution-NonCommercial 4.0 International License
+  abbreviation: CC BY-NC
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+  scope: some-exceptions # full | text-only | some-exceptions
+  online_text: "Unless otherwise indicated, the text of this work and figs. TK are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights."
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -103,34 +100,34 @@ resource_link:
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
+    url: https://www.getty.edu/legal/privacy.html
   - type: footer-link
     name: Terms of Use
     link_relation: terms-of-service
-    url:
+    url: https://www.getty.edu/legal/copyright.html
 
 # ------------------------------------------------------------------------------
 # Subjects
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: getty
-    name: Dorothea Lange
-    identifier: "https://vocab.getty.edu/ulan/500007674"
-  - type: keyword
-    name: photography
-  - type: getty
-    name: Walker Evans
-    identifier: "https://vocab.getty.edu/ulan/500012076"
-  - type: getty
-    name: black-and-white photography
-    identifier: "https://vocab.getty.edu/aat/300162056"
-  - type: getty
-    name: despression (economic concept)
-    identifier: "https://vocab.getty.edu/aat/300410245"
+  - type:
+    name:
+    identifer:
+  - type:
+    name:
+    identifier:
+  - type:
+    name:
+  - type:
+    name:
+    identifier:
+  - type:
+    name:
+    identifier:
+  - type:
+    name:
+    identifier:
 
 # ------------------------------------------------------------------------------
 # Revision History

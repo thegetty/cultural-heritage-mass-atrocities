@@ -10,18 +10,20 @@
 // -----------------------------------------------------------------------------
 $print-base-text-column-width: 4.75in;
 
-$print-bottom-margin: 0.875in;
-$print-top-margin: 0.75in;
-$print-outer-margin: 0.75in;
-$print-inner-margin: 1in;
+$print-bottom-margin: 0.75in;
+$print-top-margin: 0.875in;
+$print-outer-margin: 1.125in;
+$print-inner-margin: .625in;
 
-@if $print-width <= 7 {
-  $print-inner-margin: $print-width - $print-base-text-column-width - $print-outer-margin;
-}
+$print-base-text-column-width: $print-width - $print-outer-margin - $print-inner-margin;
 
-@if $print-height <= 10 {
-  $print-top-margin: 0.5in;
-}
+// @if $print-width <= 7 {
+//   $print-inner-margin: $print-width - $print-base-text-column-width - $print-outer-margin;
+// }
+
+// @if $print-height <= 10 {
+//   $print-top-margin: 0.5in;
+// }
 
 $print-footer-font: $quire-headings-font;
 $print-footer-font-size: 8pt;

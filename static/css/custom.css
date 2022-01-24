@@ -1,0 +1,1004 @@
+/* TEMP "UNCORRECTED PROOF" BANNER */
+@media screen {
+  #container::before,
+  #container::after {
+    color: white;
+    font-weight: 700;
+    position: fixed;
+    width: 230px;
+    height: 230px;
+    z-index: 4000;
+    transform: rotate(-45deg);
+    text-align: center;
+    padding-top: 1rem;
+  }
+  #container::before {
+    content: "UNCORRECTED";
+    background-color: red;
+    bottom: -115px;
+    right: -115px;
+  }
+  #container::after {
+    content: "PROOF";
+    bottom: -130px;
+    right: -130px;
+  }
+}
+
+:root {
+
+  /* Palette:
+    https://coolors.co/f5f5f5-2d1e10-6a4525-966336-bc7c44
+  */
+
+  --color-dark: #2d1e10;
+  --color-dark-rgb: 45,30,16;
+  /* --color-dark should be the same value as $off-black in
+  themes/quire-starter-theme/source/css/colors.scss */
+  /* --color-dark-rgb is the RGB version used for shading
+  under the cover type when specified in cover.md with the
+  .with-shading class */
+
+  --color-mid-dark: #6a4525;
+
+  --color-mid-light: #966336;
+
+  --accent-color: #bc7c44; /* Getty Terracotta */
+  /* --accent-color should be the same value as $accent-color in
+   themes/quire-starter-theme/source/css/variables.scss */
+
+  --white: #f5f5f5;
+  --print-white: #ffff;
+
+}
+
+/* STANDARD OCCASIONAL PAPERS SERIES DESIGN (EXCEPT FOR COVER)
+============================================================================= */
+
+/* Matching running heads from previous print editions */
+.quire-navbar-page-controls__item {
+  text-transform: uppercase;
+  letter-spacing: .75px;
+  font-weight: 600;
+}
+
+/* Adjusting navbar display */
+.quire-progress-bar {
+  background-color: var(--color-mid-dark);
+  height: 6px;
+}
+.quire-progress-bar div {
+  height: 6px;
+  background-color: var(--accent-color);
+}
+.quire-menu__formats h6 {
+  color: var(--accent-color);
+  border-color: var(--accent-color);
+}
+
+/* Using Source Sans for better font-weight match */
+.quire-page__header .hero-body .label {
+  border-width: 0;
+  font-size: 4rem;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
+  margin-bottom: 0;
+  background-color: inherit;
+  color: var(--color-dark);
+}
+
+/* Centering contributor and adjusting type style */
+.quire-page__header__contributor {
+  text-align: center;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-family: "Archivo Narrow", sans-serif;
+  color: var(--color-mid-dark);
+  margin-top: 2.5rem;
+}
+
+@media screen {
+  .quire-page__header .hero-body {
+    margin: 0 auto;
+    max-width: 720px;
+    text-align: center;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 5rem;
+    padding-bottom: 0;
+  }
+  .quire-page__header .hero-body .label {
+    margin: 0 0 .25rem;
+    padding: 0;
+    line-height: 1;
+    display: block;
+    width: initial;
+  }
+}
+@media screen and (max-width: 500px) {
+  .quire-page__header .hero-body {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    min-width: 100%;
+  }
+}
+
+/* Fix spacing on content page */
+@media screen {
+  .quire-contents-list {
+    padding-top: 1.5rem;
+    margin-top: 45px;
+  }
+  .quire-contents .quire-page__content .container {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+  }
+}
+
+/* Matching page headings */
+.quire-page:not(.quire-cover) h1, .quire-page__header__title {
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+@media screen {
+  .quire-page:not(.quire-cover) h1, .quire-page__header__title {
+    text-align: center;
+  }
+}
+.quire-page h2,
+.quire-page__content .content h2 {
+  font-family: 'Noto Serif', serif;
+  text-transform: inherit;
+  font-size: 1.1rem;
+  margin-top: 1.5em;
+  margin-bottom: 0;
+  line-height: 1.7;
+}
+.quire-page .backmatter h2,
+.quire-page__content .content .backmatterh2 {
+  margin-bottom: 1rem;
+}
+
+.quire:not(.no-js) .quire__primary #main,
+.quire #main,
+.quire-page__header,
+.quire-page__content .container .content {
+  background-color: var(--white);
+}
+@media print {
+  .quire:not(.no-js) .quire__primary #main,
+  .quire #main,
+  .quire-page__header,
+  .quire-page__content .container .content {
+    background-color: var(--print-white);
+  }
+}
+
+/* Handle contributor bio/name a little differently */
+.quire-contributor .title {
+  /* display: none; */
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 0;
+}
+
+@media screen {
+  .quire-contents-list a {
+    font-family: 'Noto Serif', serif;
+    font-size: 1em !important;
+  }
+}
+
+@media print {
+  .quire-page__header {
+    margin-top: .5in;
+    margin-bottom: 1.125in;
+  }
+  .hero-body {
+    padding: 0;
+  }
+  .quire-page__header .hero-body .label {
+    margin: 0;
+  }
+  .quire-page:not(.quire-cover) h1, .quire-page__header__title {
+    margin-top: 0;
+    text-align: left;
+    margin-left: .75in;
+    font-size: 20pt;
+  }
+  .quire-page__header__contributor {
+    text-align: left;
+    margin-left: .75in;
+  }
+  .quire-page h2,
+  .quire-page__content .content h2 {
+    font-size: 1em;
+    margin-bottom: 0;
+    line-height: 1.7;
+  }
+  .quire-page__content .container .content p {
+    line-height: 1.7;
+  }
+  /* .quire-cover__hero {
+    display: none;
+  } */
+  .title-page {
+    text-align: left;
+    padding-left: 1.375in;
+    padding-right: 1.125in;
+    padding-top: .875in;
+  }
+  .title-page .series-name,
+  .title-page .series-number,
+  .title-page .pub-date {
+    text-transform: uppercase;
+    letter-spacing: .5pt;
+    font-weight: 700;
+    font-size: .875em;
+  }
+  .title-page .series-number,
+  .title-page .pub-date {
+    font-weight: 400;
+  }
+  .title-page .series-name {
+    max-width: 2.25in;
+    margin-bottom: 1.5em;
+  }
+  .title-page .title-tp {
+    color: #000;
+    font-size: 5.5em;
+    letter-spacing: -.5pt;
+    margin-top: 1.125in;
+  }
+  .title-page .contributor {
+    text-transform: uppercase;
+    margin-top: 1.25in;
+    font-size: 1.5em;
+  }
+  .title-page .contributor .small {
+    font-size: .625em;
+    display: inline;
+  }
+  .title-page .publisher {
+    text-transform: none;
+    letter-spacing: 0;
+    bottom: .875in;
+    right: inherit;
+    font-size: 1em;
+  }
+  #copyright .quire-page,
+  #contents .quire-page {
+    page: no-footer;
+  }
+  #copyright,
+  #contents {
+    margin-top: .5in;
+  }
+  #copyright .quire-page__content {
+    text-align: left;
+    margin-left: .75in;
+    column-count: 2;
+    column-gap: .1875in;
+    font-size: .625rem;
+  }
+  #copyright .quire-page__content .container .content .backmatter {
+    /* padding-top: 2.125in; */
+  }
+  #copyright .quire-page__header.hero {
+    display: none;
+  }
+  #copyright img {
+    max-height: .25in;
+    margin-bottom: -4pt;
+  }
+  #copyright .quire-page__content .container .content hr::after {
+    content: none;
+  }
+  #copyright .quire-page__content .container .content hr {
+    background-color: #000;
+    width: 3in;
+    height: .5pt;
+  }
+  #contents .quire-contents-list {
+    margin-left: .75in;
+  }
+  #contents .quire-page__content .menu-list a {
+    font-weight: 600;
+    text-align: left;
+  }
+  .quire-contents-list .section-item a::after,
+  .quire-contents-list .page-item a::after {
+    content: leader(' ') ' ' target-counter(attr(href, url), page);
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.25em;
+    font-weight: 400;
+  }
+  .quire-contents-list .section-item.frontmatter-page > a::after,
+  .quire-contents-list .page-item.frontmatter-page > a::after {
+    content: leader(' ') ' ' target-counter(attr(href, url), page, lower-roman);
+    font-style: normal;
+  }
+  #abbreviations .quire-page__content table {
+    margin-left: .75in;
+  }
+  p {
+    orphans: 2;
+    widows: 2;
+  }
+  .quire-page__content .content .footnotes ol {
+    margin-left: 2rem;
+  }
+  .quire-page__content .container .content li {
+    margin-bottom: 0;
+  }
+  .quire-page__content .container .content ul {
+    margin-left: 1.5em;
+    margin-top: .75em;
+    margin-bottom: .75em;
+  }
+  .quire-page__content .container .content ul li {
+    margin-left: 1.5em;
+  }
+  .quire-page__content .container .content ul li::before {
+    margin-left: -1.5rem;
+  }
+  .quire-page__content .container .content .readings li {
+    margin-bottom: 1em;
+  }
+  .quire-page__content .container .content li p {
+    text-indent: 0;
+  }
+  .quire-contributor__bio {
+    line-height: 1.7;
+  }
+
+  /*  FIGURE ADJUSTMENTS */
+  .content .quire-figure {
+    max-width: 95%;
+  }
+
+  .content .quire-figure.pdf-narrow {
+    max-width: 100%;
+  }
+  .content .quire-figure.pdf-narrow .q-figure__wrapper {
+    display: flex;
+    align-items: flex-end;
+  }
+  .content .quire-figure.pdf-narrow .q-figure__wrapper figcaption {
+    min-width: 1.3125in;
+    width: 1.3125in;
+    margin-left: .1875in;
+    margin-top: 0;
+    margin-bottom: -2.5px;
+  }
+
+  .pdf-page-break-before {
+    page-break-before: always;
+  }
+  .pdf-page-break-after {
+    page-break-after: always;
+  }
+
+  .content figure.quire-figure.pdf-65-percent-width .q-figure__wrapper img,
+  .content figure.quire-figure.pdf-65-percent-width .q-figure__wrapper figcaption {
+    max-width: 65%;
+    margin-left: 0;
+  }
+  .content figure.quire-figure.pdf-85-percent-width .q-figure__wrapper img,
+  .content figure.quire-figure.pdf-85-percent-width .q-figure__wrapper figcaption {
+    max-width: 85%;
+    margin-left: 0;
+  }
+
+  /* https://www.princexml.com/howcome/2021/guides/float/index.html */
+  .content figure.quire-figure:not(.pdf-no-snap) {
+    -prince-float: snap;
+    margin: 1.5rem 0;
+    -prince-margin-alt: 0;
+  }
+
+  /* LOC Cataloguing in Publication format */
+  .quire-page__content .container .content .cip-data p {
+    margin-bottom: 0;
+  }
+  .quire-page__content .container .content .cip-data ul {
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+  .quire-page__content .container .content .cip-data ul li {
+    line-height: 1.6;
+    margin: 0;
+    padding-left: 1.5em;
+    text-indent: -1.5em;
+  }
+  .quire-page__content .container .content .cip-data ul li::before {
+    display: none;
+  }
+}
+
+/* Making button text read better */
+.quire-contents-buttons li.quire-nav-button a {
+  font-size: 18px;
+  letter-spacing: .5px;
+}
+
+ /* Style footnotes using custom q-note shortcode */
+
+ /* make appear as if new section with line break above and no text indent */
+ .quire-citation.name {
+   margin-left: -1.5rem;
+   margin-top: 1rem;
+   display: inline-block;
+ }
+
+ /* but not for the first paragraph on the page */
+ .quire-page__content .content > p:first-child .quire-citation.name {
+   margin-left: 0;
+   margin-top: 0;
+ }
+ @media print {
+   .content sup.quire-citation {
+     top: 1.5pt;
+     font-size: 6pt;
+   }
+ }
+.quire-citation__button {
+  border-bottom-width: 0;
+  margin-right: 1pt;
+  margin-left: .5pt;
+}
+.quire-citation__button:hover {
+  border-bottom-width: 0;
+}
+.quire-citation__button.name-button {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-right: .5em;
+  font-family: "Archivo Narrow", sans-serif;
+  color: var(--color-mid-light);
+}
+@media print {
+  .quire-citation__button.name-button {
+    color: #000;
+  }
+}
+
+/* Overriding default color */
+strong {
+  color: var(--color-dark);
+}
+.backmatter .quire-copyright__icon * {
+  fill: var(--color-dark);
+}
+
+/* Styling copyright and about pages */
+.quire-page__content .content .backmatter p {
+  text-indent: 0;
+  margin-bottom: 1rem;
+}
+
+/* Make sure print is black only */
+@media print {
+  body * {
+    color: #000 !important;
+  }
+}
+
+/* Restyle blockquote  */
+.quire-page__content .content blockquote {
+  font-style: normal;
+}
+@media screen {
+  .quire-page__content .content blockquote {
+    padding: 0;
+  }
+}
+.quire-page__content .content blockquote + p {
+  text-indent: 0;
+}
+.quire-page__content .container .content blockquote p:first-child::before, .quire-page__content .container .content blockquote ul:first-child::before, .quire-page__content .container .content blockquote ol:first-child::before, .quire-page__content .container .content blockquote dl:first-child::before, .quire-page__content .container .content blockquote h1:first-child::before, .quire-page__content .container .content blockquote h2:first-child::before, .quire-page__content .container .content blockquote h3:first-child::before, .quire-page__content .container .content blockquote h4:first-child::before, .quire-page__content .container .content blockquote h5:first-child::before, .quire-page__content .container .content blockquote h6:first-child::before {
+  content: "";
+}
+
+/* Separate sections */
+.quire-page__content .content section {
+  margin-bottom: 2rem;
+}
+.quire-page__content .content section p:first-child {
+  text-indent: 0;
+}
+
+/* Adjust menu styling */
+.quire-menu__header {
+  padding-right: 1rem;
+}
+.quire-menu__header__contributors,
+.quire-menu .cite-this,
+.quire-menu .quire-copyright + .menu-list {
+  font-family: "Archivo Narrow", sans-serif;
+}
+.quire-menu__header__contributors {
+  font-size: 1.15rem;
+}
+.quire-menu .quire-copyright {
+  padding-left: 0;
+}
+.quire-menu .quire-copyright + .menu-list {
+  margin-left: -.5em;
+}
+
+/* Adjust appearance of contributor names */
+.content ul.quire-contributors-list.name-title-block .quire-contributor {
+  width: 100%;
+  margin-bottom: 1rem;
+  page-break-inside: avoid;
+}
+.content ul.quire-contributors-list.name-title-block .quire-contributor__title,
+.content ul.quire-contributors-list.name-title-block .quire-contributor__affiliation {
+  font-style: normal;
+}
+.content ul.quire-contributors-list.name-title-block .quire-contributor__name {
+  font-weight: bold;
+}
+@media print {
+  .content ul.quire-contributors-list.name-title-block {
+    display: inherit;
+  }
+}
+
+/* Indent following blockquote */
+.content .indent_following_blockquote + p {
+  text-indent: 1.5rem;
+}
+
+/* Break paragraphs with line space and no indent in blockquotes */
+.quire-page__content .content blockquote p {
+  margin-bottom: 1rem;
+  text-indent: 0;
+}
+
+/* Fix spacing for lists in print */
+@media print {
+  .quire-page__content .content ul {
+    margin-bottom: 1rem;
+  }
+}
+
+/* Remove top margin from notes list and others */
+.content ol:first-child {
+  margin-top: 0;
+}
+
+/* SPECIFIC FOR THIS VOLUME
+============================================================================= */
+
+/* Q-READINGS SHORTCODE */
+.quire-page__content .content ul.readings,
+.quire-page__content .content ul.readings li,
+.quire-page__content .content ul.readings li ul {
+  margin-left: 0;
+}
+.quire-page__content .content ul.readings li::before {
+  content: "";
+}
+.quire-page__content .content ul.readings .link-icon,
+.quire-page__content .content ul.readings .link-icon:hover {
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .content ul.readings .link-icon svg {
+  height: .75em;
+  width: .75em;
+}
+.quire-page__content .content ul.readings .link-icon:hover svg {
+  fill: var(--accent-color);
+}
+
+/* HIDE AUTHOR NAMES ABOVE BIOS ON ESSAY PAGES */
+.quire-page__content .content .backmatter .quire-contributors-list.bio .title {
+  display: none;
+}
+
+/* ENSURE IMAGES ARE SEEN IN FULL WITHIN USER'S WINDOW WITHOUT SCROLLING */
+@media screen {
+  .content figure .quire-figure__image {
+    max-height: calc(100vh - 7rem);
+    width: auto;
+  }
+}
+
+/* STYLE FIGURE LABELS INCLUDED INSIDE LINK TAG FOR FIGURE MODAL */
+.quire-figure__label.quire-figure__label--below {
+  font-size: .75em;
+  margin-top: .37rem;
+  float: left;
+}
+
+/* HIDE/SHOW CAPTIONS & CREDITS IN GROUP SHORTCODES */
+@media screen {
+  .quire-figure.quire-figure--shared-caption figure figcaption {
+    display: none;
+  }
+}
+@media print {
+  .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__caption-content,
+  .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__credit {
+    display: none;
+  }
+}
+
+/* STYLE OVERRIDE VERSION OF THE q-figure-group SHORTCODE */
+@media screen {
+  .content .quire-figure--group figure,
+  .content .quire-figure--group figure:not(:first-child) {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: .5em;
+    margin-left: 0;
+  }
+  .quire-page__content figure.quire-figure--group {
+    display: grid;
+    grid-gap: 1rem;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-1 {
+    grid-template-columns: 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-2 {
+    grid-template-columns: 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-3 {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group.quire-figure--group--grid-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  .quire-page__content figure.quire-figure--group > .quire-figure__caption {
+    grid-column: 1/-1;
+    margin-top: 0;
+  }
+}
+@media print {
+  .content .quire-figure--group figure,
+  .content .quire-figure--group figure:not(:first-child) {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 1em;
+    margin-left: 0;
+  }
+  .quire-page__content figure.quire-figure--group {
+    display: block;
+    white-space: nowrap;
+  }
+  .quire-page__content figure.quire-figure--group figcaption {
+    white-space: normal;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2 figure,
+  .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
+    margin: 0;
+    width: calc(50% - .75rem);
+    display: inline-block;
+    vertical-align: top;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
+    margin-left: 1.5rem;
+  }
+}
+
+/* CREATE GRID OF ONE WIDE IMAGE OVER TWO NARROWER ONES */
+.screen-one-over-two-grid > figure:first-child {
+  grid-column: 1/-1;
+}
+@media print {
+  .quire-page__content .quire-figure--group.quire-figure--group--grid-2.screen-one-over-two-grid {
+    white-space: normal;
+    text-align: left;
+    max-width: 90%;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2.screen-one-over-two-grid figure {
+    display: inline-block;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2.screen-one-over-two-grid figure {
+    width: calc((100% - .1875in - 4px) * .5);
+    margin-left: 0;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2.screen-one-over-two-grid figure:first-child {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .content .quire-figure--group.quire-figure--group--grid-2.screen-one-over-two-grid figure:nth-child(3) {
+    margin-left: .1875in;
+  }
+}
+
+/* IMPROVE TABLE STYLING INLINE & IN MODAL */
+.quire-figure__table {
+  font-size: 1rem;
+}
+.content table td {
+  /* semi-transparent --accent-color */
+  border-color: rgba(188, 124, 68, .3);
+}
+
+.quire-figure__table thead th {
+  background-color: var(--accent-color);
+  color: var(--white) !important;
+  border-width: 0;
+}
+.quire-figure__table .table-key {
+  font-size: .75rem;
+}
+.quire-page__content .container .content table tbody th,
+.quire-page__content .container .content table tbody td {
+  border-left-width: 0;
+  border-right-width: 0;
+}
+.quire-deepzoom .leaflet-table table th,
+.quire-figure.table th {
+  background-color: var(--accent-color);
+  color: var(--white) !important;
+}
+.quire-figure__table {
+  padding-bottom: .25rem;
+}
+.quire-page__content table {
+  font-size: 1em;
+}
+.quire-page__content .quire-figure__table .table-key {
+  color: var(--color-dark);
+  text-align: left;
+  display: block;
+  margin: .5em 0;
+}
+@media print {
+  .quire-page__content .quire-figure__table .table-key {
+    color: var(--color-dark);
+  }
+}
+.quire-deepzoom .leaflet-table {
+  padding: 0 1.5rem 1.5rem;
+  background-color: inherit;
+}
+.quire-deepzoom .leaflet-table table,
+.quire-deepzoom .leaflet-table table + .table-key {
+  margin: auto;
+  width: fit-content;
+  background-color: var(--white);
+  padding: 1rem;
+}
+.quire-deepzoom .leaflet-table table + .table-key {
+  display: block;
+  background-color: inherit;
+  color: var(--white);
+}
+
+/* ADD COPYRIGHT NOTICES AT THE BOTTOM OF ESSAYS */
+.quire-page__content .container .content .backmatter.page-copyright-notice {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #333;
+}
+
+/* REMOVE BIOS FROM ESSAY IN PRINT */
+@media print {
+  .quire-essay h2#biography,
+  .quire-essay .quire-contributors-list.bio {
+    display: none;
+  }
+}
+
+/* REMOVE JIM AND TOM'S TITLES FROM SECTION INTO PAGES */
+#part-1-intro .quire-contributor__grouped-info,
+#part-2-intro .quire-contributor__grouped-info,
+#part-3-intro .quire-contributor__grouped-info,
+#part-4-intro .quire-contributor__grouped-info,
+#part-5-intro .quire-contributor__grouped-info,
+#preface-acknowledgements .quire-contributor__grouped-info {
+  display: none;
+}
+
+/* HIDE DEFAULT LINKS AND STYLE HARDCODED LINK LIST */
+#james-cuno .quire-contributor__page-link,
+#thomas-g-weiss .quire-contributor__page-link {
+  display: none;
+}
+.quire-page__content .container .content .contribution-list {
+  margin-bottom: 3rem;
+}
+.quire-page__content .container .content .contribution-list > ul {
+  margin-left: 0;
+}
+.quire-page__content .container .content .contribution-list li {
+  margin-left: 0;
+}
+.quire-page__content .container .content .contribution-list li::before {
+  content: "";
+}
+.quire-page__content .container .content .contribution-list + hr {
+  margin-bottom: 2rem;
+}
+@media print {
+  .quire-page__content .container .content .contribution-list {
+    display: none;
+  }
+}
+
+/* KEYONTE AND ABSTRACT TRANSLATIONS WITH THE q-translation SHORTCODE */
+.quire-page__content .container .content .tabbed {
+  margin-bottom: 4rem;
+}
+.quire-page__content .container .content .tabbed .essay-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+}
+.quire-page__content .container .content .tabbed .essay-title .essay-contributor {
+  color: var(--color-mid-dark);
+  font-size: 1rem;
+  font-weight: 400;
+}
+.quire-page__content .container .content .tabbed .keynote-text {
+  font-size: 1.15rem;
+}
+.quire-page__content .container .content .tabbed ul,
+.quire-page__content .container .content .tabbed ul li {
+  margin: 0;
+}
+.quire-page__content .container .content .tabbed ul li::before {
+  content: "";
+}
+[role="tablist"] {
+  padding: 0;
+}
+[role="tablist"] li,
+[role="tablist"] a {
+  display: inline-block;
+}
+.quire-page__content .content .tabbed [role="tablist"] a,
+.quire-page__content .content .tabbed [role="tablist"] a:hover {
+  text-decoration: none;
+  padding: 0.5rem 1em;
+  color: inherit !important;
+  border-bottom-width: 0 !important;
+}
+[role="tablist"] [aria-selected] {
+  border: 2px solid;
+  background: var(--white);
+  border-bottom: 0;
+  position: relative;
+  top: 2px;
+}
+[role="tabpanel"] {
+  border: 2px solid;
+  padding: 1.5rem;
+}
+[role="tabpanel"] * + * {
+  margin-top: 0.75rem;
+}
+.quire-page__content .content .tabbed + p {
+  text-indent: 0;
+}
+@media (max-width: 550px) {
+  [role="tablist"] li,
+  [role="tablist"] a {
+    display: block;
+    position: static;
+  }
+  [role="tablist"] a {
+    border: 2px solid !important;
+  }
+  [role="tablist"] li + li a {
+    border-top: 0 !important;
+  }
+  [role="tablist"] [aria-selected] {
+    position: static;
+    font-weight: 700;
+  }
+  [role="tablist"] [aria-selected]::after {
+    content: '\0020⬅';
+    font-size: 1.25rem;
+  }
+  [role="tabpanel"] {
+    border-top: 0;
+  }
+}
+@media print {
+  .quire-page__content .container .content .tabbed {
+    display: none;
+  }
+}
+
+/* ARABIC LANGUAGE SECTIONS */
+[lang="ar"] {
+  direction: rtl;
+}
+[lang="ar"] .quire-page:not(.quire-cover) h1,
+[lang="ar"] .quire-page__header__title,
+[lang="ar"] .quire-page__header__contributor {
+  text-align: right !important;
+  margin-right: .75in;
+}
+
+/* PDFs OF TRANSLATED TOCs */
+@media print {
+  .quire-page--translated-contents .quire-contents-list li li {
+    padding-left: 2rem;
+  }
+  .quire-page--translated-contents .quire-contents-list li li a {
+    border-bottom: 1px dotted var(--color-dark);
+  }
+  .quire-page--translated-contents .quire-contents-list .section-item > a {
+    font-weight: 700;
+  }
+  .quire-page--translated-contents .quire-contents-list li .keynote-text {
+    margin-top: .25em;
+    font-family: 'Noto Serif', serif;
+    font-size: 1em !important;
+    margin-left: 1rem;
+  }
+  .quire-page--translated-contents .quire-contents-list li .abstract-text {
+    font-family: 'Noto Serif', serif;
+    font-size: .875em !important;
+    margin-left: 1rem;
+  }
+  .quire-page--translated-contents .quire-contents-list li li .keynote-text,
+  .quire-page--translated-contents .quire-contents-list li li .abstract-text {
+    margin-left: 0;
+  }
+  .quire-page--translated-contents .label {
+    display: inline-block;
+  }
+  .quire-page--translated-contents .quire-contents-list .section-item > a::after,
+  .quire-page--translated-contents .quire-contents-list .section-item.frontmatter-page > a::after,
+  .quire-page--translated-contents .quire-contents-list .page-item a::after,
+  .quire-page--translated-contents .quire-contents-list .page-item.frontmatter-page > a::after {
+    content: "" !important;
+    margin: 0;
+  }
+}
+
+/* Accounts for pdf output of cover and first blank page. Numbering
+  should alwys start at 1 on the half title page. This negative number
+  hack on the cover seems to do the trick */
+.quire-page--frontmatter.quire-cover {
+  counter-reset: page -1;
+}
+
+/* PDF DOWNLOAD LINKS ON INDIVIDUAL PAGES */
+.quire-page__header .download-link a {
+  display: inline-block;
+  text-align: center;
+  color: var(--color-dark);
+  font-size: 1rem;
+  margin: 1rem .5rem 0 .5rem;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.quire-page__header .download-link a svg {
+  margin-left: .2rem;
+  height: .75rem;
+  width:  .75rem;
+  fill: var(--color-dark);
+}
+
+/* STYLE SECTION BREAK PAGES IN PDF */
+@media print {
+  @page splash {
+    @bottom-right {
+      content: none;
+    }
+    @bottom-left {
+      content: none;
+    }
+  }
+  .quire-page--abstract.quire-contents:not(.quire-page--translated-contents) .quire-contents-list {
+    display: none;
+  }
+  .quire-page--abstract.quire-contents:not(.quire-page--translated-contents) {
+    page: splash;
+  }
+  .quire-page--abstract.quire-contents:not(.quire-page--translated-contents) .quire-page__header {
+    padding-top: 2in;
+  }
+}

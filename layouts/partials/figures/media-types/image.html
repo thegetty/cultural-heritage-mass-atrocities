@@ -1,0 +1,87 @@
+{{/*
+
+  THIS OVERRIDE ADDS IIIF SUPPORT.
+
+  IT ALSO MOVES THE FIGURE LABEL INTO THE a LINK SURROUNDING THE img RATHER
+  THAN HAVING IT AS IT'S OWN SEPARATE LINK WHICH WAS CAUSING EACH IMAGE TO BE
+  DUPLICATED IN THE FIGURE MODAL
+
+*/}}
+{{- $imageDir := "" -}}
+{{- if .Site.Params.imageDir -}}
+  {{- $imageDir = .Site.Params.imageDir -}}
+  {{- else }}
+  {{- $imageDir = "img" -}}
+{{- end }}
+
+{{- $now := now.UnixNano -}}
+
+{{ $figureId := printf "%s-%d" "deepzoom" $now }}
+{{ $modalLink := printf "%s%s" "#" $figureId }}
+
+{{- if eq .Site.Params.figureModal true -}}
+  <figure
+    id="{{ $figureId }}"
+    title="{{ .caption | markdownify | safeHTML }}"
+    class="quire-figure leaflet-outer-wrapper mfp-hide notGet"
+  >
+  {{ if .iiif }}
+    <figure
+      id="iiif-{{ $now }}"
+      title="{{ .caption | markdownify | safeHTML }}"
+      class="quire-figure leaflet-outer-wrapper mfp-hide"
+    >
+      <div
+        id="js-iiif-{{ $now }}"
+        class="quire-deepzoom inset leaflet-inner-wrapper"
+        aria-live="polite"
+        role="application"
+        aria-label="Zoomable image"
+        data-iiif="{{ .iiif }}"
+        {{ if .zoom_max }} data-zoom-max="{{ .zoom_max }}" {{ end }}
+      ></div>
+    <span class="figure-caption visually-hidden">
+        {{ with .caption }}
+        {{ . | markdownify }}
+        {{ end }}
+    </span>
+    </figure>
+  {{ else }}
+      <div
+        id="js-{{ $figureId }}"
+        class="quire-deepzoom inset leaflet-inner-wrapper "
+        aria-label="Zoomable image"
+        aria-live="polite"
+        role="application"
+        src="{{ printf "%s/%s" $imageDir .src | relURL }}"
+      ></div>
+  {{ end }}
+  </figure>
+  <a
+    {{ if .iiif }}href="#iiif-{{ $now }}"
+    {{ else }} href="{{ $modalLink }}"
+    {{ end }}
+    class="inline popup"
+    data-type="inline"
+    title="{{ .caption | markdownify | safeHTML }}">
+{{- end -}}
+
+  <img
+    class="quire-figure__image"
+    src="{{ printf "%s/%s" $imageDir .src | relURL }}"
+    alt="{{ .alt }}"
+  />
+
+{{- $dict := dict "Site" .Site "caption" .caption "credit" .credit "label" .label "modalLink" $modalLink -}}
+
+{{- if and (ne .Site.Params.epub true) (ne .Site.Params.pdf true) -}}
+{{- if or .label (eq .Site.Params.figureModal true ) }}
+  {{- partial "figures/label.html" $dict -}}
+{{- end -}}
+{{- end -}}
+
+{{- if eq .Site.Params.figureModal true -}}
+  </a>
+{{- end -}}
+
+{{- partial "figures/caption.html" $dict -}}

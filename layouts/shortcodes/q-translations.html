@@ -1,0 +1,41 @@
+{{- $page := "" -}}
+{{ if eq .Page.File.Dir "/" }}
+  {{ $page = .Page.File.BaseFileName }}
+{{ else }}
+  {{ $page = printf "%s%s" .Page.File.Dir .Page.File.BaseFileName }}
+{{ end }}
+
+<div class="backmatter tabbed">
+
+  <ul>
+    {{ range .Site.Data.translations.languages }}
+    <li><a href="#lang-{{ .lang_code }}" class="tab-link">{{ .display }}</a>
+    {{ end }}
+  </ul>
+
+  {{ range .Site.Data.translations.languages }}
+
+  {{ $language := .lang_code }}
+
+  {{ range where $.Site.Data.translations.texts "page" $page }}
+  {{ range where .translations "lang_code" $language }}
+
+  {{ $keynoteHead := "" }}
+  {{ $abstractHead := "" }}
+  {{ range where $.Site.Data.translations.languages "lang_code" .lang_code }}
+  {{ $keynoteHead = .keynote }}
+  {{ $abstractHead = .abstract }}
+  {{ end }}
+
+  <section id="lang-{{ .lang_code }}" lang="{{ .lang_code }}" >
+    <p class="essay-title">{{ .title | markdownify }}<br /><span class="essay-contributor">{{ .contributor | markdownify }}</span></p>
+    <p class="keynote-text">{{ .keynote | markdownify }}</p>
+    <h2>{{ $abstractHead }}</h2>
+    <p>{{ .abstract | markdownify }}</p>
+  </section>
+  {{ end }}
+  {{ end }}
+
+  {{ end }}
+
+</div>

@@ -1,0 +1,60 @@
+{{/*
+
+  THIS OVERRIDE MOVES THE FIGURE LABEL INTO THE a LINK SURROUNDING THE
+  img RATHER THAN HAVING IT AS IT'S OWN SEPARATE LINK WHICH WAS CAUSING EACH
+  IMAGE TO BE DUPLICATED IN THE FIGURE MODAL
+
+*/}}
+{{- $imageDir := "" -}}
+{{- if .Site.Params.imageDir -}}
+  {{- $imageDir = .Site.Params.imageDir -}}
+  {{- else }}
+  {{- $imageDir = "img" -}}
+{{- end }}
+
+{{- $tableSrc := printf "%s/%s/%s" "static" $imageDir .src -}}
+
+{{- $now := now.UnixNano -}}
+{{ $figureId := printf "%s-%d" "deepzoomtable" $now }}
+{{ $modalLink := printf "%s%s" "#" $figureId }}
+
+{{- if eq .Site.Params.figureModal true -}}
+  <figure
+    id="{{ $figureId }}"
+    title="{{ .caption | markdownify | safeHTML }}"
+    class="quire-figure leaflet-outer-wrapper mfp-hide notGet"
+  >
+    <div
+      id="js-{{ $figureId }}"
+      class="quire-deepzoom inset leaflet-inner-wrapper"
+      aria-label="Zoomable table"
+      aria-live="polite"
+      role="application"
+    >
+      <figure class="leaflet-table">{{ readFile $tableSrc | safeHTML }}</figure>
+    </div>
+  </figure>
+  <a
+    href="{{ $modalLink }}"
+    class="inline popup"
+    data-type="inline"
+    title="{{ .caption | markdownify | safeHTML }}">
+  {{- end -}}
+
+    <figure class="quire-figure__table">
+      {{ readFile $tableSrc | safeHTML }}
+    </figure>
+
+{{- $dict := dict "Site" .Site "caption" .caption "credit" .credit "label" .label "modalLink" $modalLink -}}
+
+{{- if and (ne .Site.Params.epub true) (ne .Site.Params.pdf true) -}}
+{{- if or .label (eq .Site.Params.figureModal true ) }}
+  {{- partial "figures/label.html" $dict -}}
+{{- end -}}
+{{- end -}}
+
+{{- if eq .Site.Params.figureModal true -}}
+  </a>
+{{- end -}}
+
+{{- partial "figures/caption.html" $dict -}}
