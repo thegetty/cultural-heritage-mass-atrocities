@@ -976,7 +976,7 @@ strong {
   font-family: 'Source Sans Pro', sans-serif;
 }
 .quire-page__header .download-link a svg {
-  margin-left: .1rem;
+  margin-left: .2rem;
   height: .75rem;
   width:  .75rem;
   fill: var(--color-dark);

@@ -18,9 +18,14 @@
   {{- $label = .label -}}
   {{- $title = .title -}}
   {{- $contributor = .contributor -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+{{- range where .Site.Data.translations.texts "page" $page -}}
+{{- range where .translations "lang_code" $language -}}
   {{- $keynote = .keynote -}}
   {{- $abstract = .abstract -}}
-{{- end -}}
 {{- end -}}
 {{- end -}}
 
