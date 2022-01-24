@@ -2,7 +2,8 @@
 
 # Convert images to JPGs at 80% quality and a maximum pixel dimension of 1800px (web and print ready) and apply a consisent color profile to them.
 # Create JPGs of those same images at 100% quality and sized to optimize IIIF processing where applicable
-# Create a CSV with basic image info that can be converted for use in figures.yml
+# Create a figures.csv file with basic image info that can be converted for use in figures.yml
+# Create a figures.yml file ready for use in Quire that includes the figure id, src, and if IIIF, the media_type and iiif information.
 
 defaultSize=1800
 defaultQuality=80
@@ -68,9 +69,9 @@ if [ $outputYAML == true ]
 then
   if [ "$type" == "iiif" ]
   then
-    printf '\n\n  - id: \"'$1'\"\n    src: \"'$figureOutputDir'/'$1'.jpg\"\n    media_type: iiif\n    iiif: \"'$iiifTilesDir$1'/info.json\"\n    alt: \"\"\n    caption: \"\"\n    credit: \"\"' >> bin/magick/figures.yml
+    printf '\n\n  - id: \"'$1'\"\n    src: \"'$figureOutputDir'/'$1'.jpg\"\n    media_type: iiif\n    iiif: \"'$iiifTilesDir$1'/info.json\"\n    alt: \"\"\n    label: \"\"\n    caption: \"\"\n    credit: \"\"' >> bin/magick/figures.yml
   else
-    printf '\n\n  - id: \"'$1'\"\n    src: \"'$figureOutputDir'/'$1'.jpg\"\n    alt: \"\"\n    caption: \"\"\n    credit: \"\"' >> bin/magick/figures.yml
+    printf '\n\n  - id: \"'$1'\"\n    src: \"'$figureOutputDir'/'$1'.jpg\"\n    alt: \"\"\n    label: \"\"\n    caption: \"\"\n    credit: \"\"' >> bin/magick/figures.yml
   fi
 fi
 }
