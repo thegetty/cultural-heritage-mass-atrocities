@@ -785,7 +785,7 @@ strong {
 @media print {
   .quire-essay h2#biography,
   .quire-essay .quire-contributors-list.bio {
-    /* display: none; */
+    display: none;
   }
 }
 
@@ -979,4 +979,25 @@ strong {
   height: .75rem;
   width:  .75rem;
   fill: var(--color-dark);
+}
+
+/* STYLE SECTION BREAK PAGES IN PDF */
+@media print {
+  @page splash {
+    @bottom-right {
+      content: none;
+    }
+    @bottom-left {
+      content: none;
+    }
+  }
+  .quire-page--abstract.quire-contents .quire-contents-list {
+    display: none;
+  }
+  .quire-page--abstract.quire-contents {
+    page: splash;
+  }
+  .quire-page--abstract.quire-contents .quire-page__header {
+    padding-top: 2in;
+  }
 }
