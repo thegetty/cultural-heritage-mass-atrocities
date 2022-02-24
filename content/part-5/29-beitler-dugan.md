@@ -14,7 +14,7 @@ contributor:
   - first_name: Dexter W.
     last_name: Dugan
     type: secondary
-    bio: "Dexter Dugan is an active-duty Major in the US Army, teaching at the United States Military Academy at West Point as an Instructor in International Relations. His military experience includes battalion and brigade staff officer positions in the Republic of Korea and Kuwait. With an academic focus in international security, he was a contributing author for the 2019 Columbia University report to the United Kingdom Home Office on prevention and deterrence strategies for transnational organized crime."
+    bio: "Dexter Dugan is an active-duty Major in the US Army, teaching at the United States Military Academy at West Point as an Assistant Professor in International Affairs. His military experience includes battalion and brigade staff officer positions in the Republic of Korea and Kuwait. With an academic focus in international security, he was a contributing author for the 2019 Columbia University report to the United Kingdom Home Office on prevention and deterrence strategies for transnational organized crime."
 ---
 
 {{< q-translations >}}
