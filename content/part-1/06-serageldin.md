@@ -9,7 +9,7 @@ contributor:
   - first_name: Ismail
     last_name: Serageldin
     type: secondary
-    bio: "Ismail Serageldin is the Emeritus Librarian of Alexandria, and was the Founding Director of the Bibliotheca Alexandrina, the New Library of Alexandria in Egypt (2001–17). Before that he was the Vice President of the World Bank (1993–2000). He has received many awards including the Order of the Rising Sun of Japan. He is a knight of the French Legion d’Honneur and a Commander of Arts and Letters of the French Republic. He has lectured widely, published more than a hundred books and five hundred articles, and has received over thirty-five honorary doctorates from all over the world."
+    bio: "Ismail Serageldin is the Emeritus Librarian of Alexandria, and was the Founding Director of the Bibliotheca Alexandrina, the New Library of Alexandria in Egypt (2001–17). Before that he was the Vice President of the World Bank (1993–2000). He has received many awards including the Order of the Rising Sun of Japan. He is a knight of the French Légion d’honneur and a Commander of Arts and Letters of the French Republic. He has lectured widely, published more than a hundred books and five hundred articles, and has received over thirty-five honorary doctorates from all over the world."
 ---
 
 {{< q-translations >}}

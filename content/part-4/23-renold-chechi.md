@@ -13,7 +13,7 @@ contributor:
   - first_name: Alessandro
     last_name: Chechi
     type: secondary
-    bio: "Alessandro Chechi is a lecturer at the University of Geneva, at the Geneva Academy of International Humanitarian Law and Human Rights, and at the Université Catholique de Lille. Alessandro serves as a member of the editorial boards of the Italian Yearbook of International Law and the *Santander Art and Culture Law Review*. He was consultant for the European Committee on Crime Problems (CDPC) of the Council of Europe for the revision of the Convention on Offences Relating to Cultural Property. He is the author of *The Settlement of International Cultural Heritage Disputes* (2014)."
+    bio: "Alessandro Chechi is a lecturer at the University of Geneva, at the Geneva Academy of International Humanitarian Law and Human Rights, and at the Université Catholique de Lille. Chechi serves as a member of the editorial boards of the Italian Yearbook of International Law and the *Santander Art and Culture Law Review*. He was consultant for the European Committee on Crime Problems (CDPC) of the Council of Europe for the revision of the Convention on Offences Relating to Cultural Property. He is the author of *The Settlement of International Cultural Heritage Disputes* (2014)."
 ---
 
 {{< q-translations >}}
