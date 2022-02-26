@@ -9,7 +9,7 @@ contributor:
   - first_name: Paul H.
     last_name: Wise
     type: secondary
-    bio: "Paul H. Wise, MD, MPH, is the Richard E. Behrman Professor of Child Health and Society and Professor of Pediatrics and Health Policy, Stanford University School of Medicine, and Senior Fellow in the Center on Democracy, Development, and the Rule of Law, and in the Center for International Security and Cooperation, Freeman Spogli Institute for International Studies, Stanford University. His research focuses on protecting health in violent and politically complex environments."
+    bio: "Paul H. Wise, MD, MPH, is the Richard E. Behrman Professor of Child Health and Society and Professor of Pediatrics and Health Policy at the Stanford University School of Medicine. He is also Senior Fellow in the Center on Democracy, Development, and the Rule of Law, and in the Center for International Security and Cooperation, at the Freeman Spogli Institute for International Studies at Stanford University. His research focuses on protecting health in violent and politically complex environments."
 ---
 
 {{< q-translations >}}

@@ -13,7 +13,7 @@ contributor:
   - first_name: Tural
     last_name: Mustafayev
     type: secondary
-    bio: "Tural Mustafayev is an Associate Programme Specialist at the Cultural Heritage Protection Treaties Unit at UNESCO. He specializes in cultural property protection legislation in the context of armed conflict and advises on the execution of UNESCO’s program related to the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict and its two protocols. Previously, he was the Director of Research and the Education Department of the NATO International School of Azerbaijan and worked at the Department of International Law and Treaties of the Azerbaijani Ministry of Foreign Affairs."
+    bio: "Tural Mustafayev is an Associate Programme Specialist at the Cultural Heritage Protection Treaties Unit at UNESCO. He specializes in cultural property protection legislation in the context of armed conflict and advises on the execution of UNESCO’s program related to the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict and its two protocols. Previously he was the Director of Research and the Education Department of the NATO International School of Azerbaijan and worked at the Department of International Law and Treaties of the Azerbaijani Ministry of Foreign Affairs."
 ---
 
 {{< q-translations >}}

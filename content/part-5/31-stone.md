@@ -10,7 +10,7 @@ contributor:
   - first_name: Peter G.
     last_name: Stone
     type: secondary
-    bio: "Peter Stone is the UNESCO Chair in Cultural Property Protection (CPP) & Peace at Newcastle University, the United Kingdom, and the President of the nongovernmental organization the Blue Shield, an advisory body to UNESCO on CPP in the event of armed conflict. He has worked in CPP since 2003 and has written extensively on this topic, including coediting with Joanne Farchakh Bajjaly *The Destruction of Cultural Heritage in Iraq* (2008) and editing *Cultural Heritage, Ethics and the Military* (2011). His article “The 4 Tier Approach” in *The British Army Review* led directly to the establishment of the Cultural Property Protection Unit in the British armed forces."
+    bio: "Peter Stone is the UNESCO Chair in Cultural Property Protection (CPP) and Peace at Newcastle University, the United Kingdom, and President of the nongovernmental organization the Blue Shield, an advisory body to UNESCO on CPP in the event of armed conflict. He has worked in CPP since 2003 and has written extensively on this topic, including coediting with Joanne Farchakh Bajjaly *The Destruction of Cultural Heritage in Iraq* (2008) and editing *Cultural Heritage, Ethics and the Military* (2011). His article “The 4 Tier Approach” in *The British Army Review* led directly to the establishment of the Cultural Property Protection Unit in the British armed forces."
 ---
 
 {{< q-translations >}}
