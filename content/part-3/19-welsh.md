@@ -9,7 +9,7 @@ contributor:
   - first_name: Jennifer M.
     last_name: Welsh
     type: secondary
-    bio: "Jennifer M. Welsh is the Canada 150 Research Chair in Global Governance and Security at McGill University. She was previously Chair in International Relations at the European University Institute, and Professor in International Relations at the University of Oxford, where she cofounded the Oxford Institute for Ethics, Law and Armed Conflict. From 2013 to 2016 she served as the Special Adviser on the Responsibility to Protect to UN Secretary-General Ban Ki-moon. She has published several books and articles on humanitarian intervention, the “responsibility to protect” in international society, the UN Security Council, norm conflict and contestation, and Canadian foreign policy."
+    bio: "Jennifer M. Welsh is the Canada 150 Research Chair in Global Governance and Security at McGill University. She was previously chair in international relations at the European University Institute, and professor in international relations at the University of Oxford, where she cofounded the Oxford Institute for Ethics, Law and Armed Conflict. From 2013 to 2016 she served as the special adviser on the Responsibility to Protect to UN Secretary-General Ban Ki-moon. She has published several books and articles on humanitarian intervention, the “responsibility to protect” in international society, the UN Security Council, norm conflict and contestation, and Canadian foreign policy."
 ---
 
 {{< q-translations >}}

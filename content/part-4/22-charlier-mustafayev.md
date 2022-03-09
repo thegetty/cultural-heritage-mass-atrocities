@@ -9,11 +9,11 @@ contributor:
   - first_name: Benjamin Charlier
     last_name: Charlier
     type: secondary
-    bio: "Benjamin Charlier is a Legal Adviser at the International Committee of the Red Cross. From 2016 to 2021, he was the ICRC coordinator for the protection of cultural property in armed conflict. During that time, he acted as a legal expert on cultural property protection and coordinated the ICRC’s operational, capacity-building, and diplomatic initiatives in that field. Prior to that, he worked at the Office of the Belgian Federal Prosecutor in Brussels and carried out field missions for the ICRC in Myanmar, Darfur, Kosovo, and Rwanda."
+    bio: "Benjamin Charlier is a legal adviser at the International Committee of the Red Cross. From 2016 to 2021, he was the ICRC coordinator for the protection of cultural property in armed conflict. During that time, he acted as a legal expert on cultural property protection and coordinated the ICRC’s operational, capacity-building, and diplomatic initiatives in that field. Prior to that, he worked at the Office of the Belgian Federal Prosecutor in Brussels and carried out field missions for the ICRC in Myanmar, Darfur, Kosovo, and Rwanda."
   - first_name: Tural
     last_name: Mustafayev
     type: secondary
-    bio: "Tural Mustafayev is an Associate Programme Specialist at the Cultural Heritage Protection Treaties Unit at UNESCO. He specializes in cultural property protection legislation in the context of armed conflict and advises on the execution of UNESCO’s program related to the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict and its two protocols. Previously he was the Director of Research and the Education Department of the NATO International School of Azerbaijan and worked at the Department of International Law and Treaties of the Azerbaijani Ministry of Foreign Affairs."
+    bio: "Tural Mustafayev is associate programme specialist at the Cultural Heritage Protection Treaties Unit at UNESCO. He specializes in cultural property protection legislation in the context of armed conflict and advises on the execution of UNESCO’s program related to the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict and its two protocols. Previously he was the director of research and the Education Department of the NATO International School of Azerbaijan and worked at the Department of International Law and Treaties of the Azerbaijani Ministry of Foreign Affairs."
 ---
 
 {{< q-translations >}}

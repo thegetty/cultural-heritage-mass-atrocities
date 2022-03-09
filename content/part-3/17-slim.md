@@ -9,7 +9,7 @@ contributor:
   - first_name: Hugo
     last_name: Slim
     type: secondary
-    bio: "Hugo Slim is a Senior Research Fellow at the Las Casas Institute for Social Justice at Blackfriars Hall at the University of Oxford and at the Institute of Ethics, Law and Armed Conflict at Oxford's Blavatnik School of Government. He is also a Visiting Professor at Schwarzman College at Tsinghua University. He was previously Head of Policy and Humanitarian Diplomacy at the International Committee of the Red Cross in Geneva. His most recent books are *Solferino 21: Warfare, Civilians and Humanitarians in the Twenty-First Century* (2022) and *Humanitarian Ethics: The Morality of Aid in War and Disaster* (2015)."
+    bio: "Hugo Slim is senior research fellow at the Las Casas Institute for Social Justice at Blackfriars Hall at the University of Oxford and at the Institute of Ethics, Law and Armed Conflict at Oxford's Blavatnik School of Government. He is also a visiting professor at Schwarzman College at Tsinghua University. He was previously head of policy and humanitarian diplomacy at the International Committee of the Red Cross in Geneva. His most recent books are *Solferino 21: Warfare, Civilians and Humanitarians in the Twenty-First Century* (2022) and *Humanitarian Ethics: The Morality of Aid in War and Disaster* (2015)."
 ---
 
 {{< q-translations >}}
