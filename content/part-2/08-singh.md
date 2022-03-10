@@ -10,7 +10,7 @@ contributor:
   - first_name: Kavita
     last_name: Singh
     type: secondary
-    bio: "Kavita Singh is Professor at the School of Arts and Aesthetics of Jawaharlal Nehru University, where she teaches courses in the history of Indian painting, particularly the Mughal and Rajput schools, and the history and politics of museums. Singh has published on secularism and religiosity, fraught national identities, and the memorialization of difficult histories as they relate to museums in South Asia and beyond. She has also published essays and monographs on aspects of Mughal and Rajput painting, particularly on style as a signifying system. In 2018 she was awarded the Infosys Prize in Humanities and was elected to the American Academy of Arts and Sciences in 2020."
+    bio: "Kavita Singh is professor at the School of Arts and Aesthetics of Jawaharlal Nehru University, where she teaches courses in the history of Indian painting, particularly the Mughal and Rajput schools, and the history and politics of museums. Singh has published on secularism and religiosity, fraught national identities, and the memorialization of difficult histories as they relate to museums in South Asia and beyond. She has also published essays and monographs on aspects of Mughal and Rajput painting, particularly on style as a signifying system. In 2018 she was awarded the Infosys Prize for Humanities and was elected to the American Academy of Arts and Sciences in 2020."
 ---
 
 {{< q-translations >}}

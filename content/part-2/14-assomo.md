@@ -9,7 +9,7 @@ contributor:
   - first_name: Lazare Eloundou
     last_name: Assomo
     type: secondary
-    bio: "Lazare Eloundou Assomo is Director of Culture and Emergencies in the Culture Sector of UNESCO."
+    bio: "Lazare Eloundou Assomo is director of Culture and Emergencies in the Culture Sector of UNESCO."
 ---
 
 {{< q-translations >}}

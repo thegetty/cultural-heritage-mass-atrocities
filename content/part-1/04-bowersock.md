@@ -9,7 +9,7 @@ contributor:
   - first_name: Glen W.
     last_name: Bowersock
     type: secondary
-    bio: "Glen Bowersock is Professor Emeritus of Ancient History at the Institute for Advanced Study in Princeton, New Jersey. He was Professor of History and Classics at Harvard University from 1962 until 1980, when he accepted a Professorship in the School of Historical Studies at the Institute for Advanced Study. He retired in 1986. His many books range from *Augustus and the Greek World* in 1965 to *The Crucuble of Islam* in 2017. He is a member of numerous academies, including the Russian Academy of Sciences, the Accademia dei Lincei, the Académie des Inscriptions et Belles-Lettres, and the American Philosophical Society."
+    bio: "Glen W. Bowersock is professor emeritus of Ancient History at the Institute for Advanced Study in Princeton, New Jersey. He was professor of History and Classics at Harvard University from 1962 until 1980, when he accepted a professorship in the School of Historical Studies at the Institute for Advanced Study. He retired in 1986. His many books range from *Augustus and the Greek World* in 1965 to *The Crucible of Islam* in 2017. He is a member of numerous academies, including the Russian Academy of Sciences, the Accademia dei Lincei, the Académie des Inscriptions et Belles-Lettres, and the American Philosophical Society."
 ---
 
 {{< q-translations >}}

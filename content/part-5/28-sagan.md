@@ -9,7 +9,7 @@ contributor:
   - first_name: Scott D.
     last_name: Sagan
     type: secondary
-    bio: "Scott D. Sagan is the Caroline SG Munro Professor of Political Science and a Senior Fellow at the Center for International Security and Cooperation and the Freeman Spogli Institute at Stanford University. Sagan is the author of *The Limits of Safety: Organizations, Accidents, and Nuclear Weapons* (1993) and, with Kenneth N. Waltz, *The Spread of Nuclear Weapons: An Enduring Debate* (2012). Sagan previously was a lecturer in the Department of Government at Harvard University and served as special assistant to the director of the Organization of the Joint Chiefs of Staff at the US Department of Defense."
+    bio: "Scott D. Sagan is the Caroline SG Munro Professor of Political Science and a senior fellow and co-director at the Center for International Security and Cooperation and the Freeman Spogli Institute at Stanford University. Sagan is the author of *The Limits of Safety: Organizations, Accidents, and Nuclear Weapons* (1993) and, with Kenneth N. Waltz, *The Spread of Nuclear Weapons: An Enduring Debate* (2012). Sagan previously was a lecturer in the Department of Government at Harvard University and served as special assistant to the director of the Organization of the Joint Chiefs of Staff at the US Department of Defense."
 ---
 
 {{< q-translations >}}

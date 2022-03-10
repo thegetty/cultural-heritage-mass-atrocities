@@ -9,7 +9,7 @@ contributor:
   - first_name: Simon
     last_name: Adams
     type: secondary
-    bio: "Simon Adams is President and CEO of the Center for Victims of Torture, the world’s largest organization for the treatment of torture survivors. CVT also publicly advocates for an end to torture around the world. From 2011 to 2021 he served as Executive Director of the Global Centre for the Responsibility to Protect, an organization that provides policy advice and carries out advocacy with the UN Security Council and Human Rights Council regarding the prevention of crimes against humanity, war crimes, and genocide. Adams is the author of five books on international conflict, and regularly appears in the media on matters related to human rights."
+    bio: "Simon Adams is president and CEO of the Center for Victims of Torture, the world’s largest organization for the treatment of torture survivors. CVT also publicly advocates for an end to torture around the world. From 2011 to 2021 Adams served as executive director of the Global Centre for the Responsibility to Protect, an organization that provides policy advice and carries out advocacy with the UN Security Council and Human Rights Council regarding the prevention of crimes against humanity, war crimes, and genocide. Adams is the author of five books on international conflict, and regularly appears in the media on matters related to human rights."
 ---
 
 {{< q-translations >}}

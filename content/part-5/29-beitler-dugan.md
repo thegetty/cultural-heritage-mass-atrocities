@@ -10,11 +10,11 @@ contributor:
   - first_name: Ruth Margolies
     last_name: Beitler
     type: secondary
-    bio: "Ruth Margolies Beitler, PhD, is a Professor of Comparative Politics at the United States Military Academy at West Point. She is the Director of the Conflict and Human Security Studies Program and author or coauthor of four books and numerous book chapters and journal articles."
+    bio: "Ruth Margolies Beitler, PhD, is professor of comparative politics at the United States Military Academy at West Point. She is the director of the Conflict and Human Security Studies Program and author or coauthor of four books and numerous book chapters and journal articles."
   - first_name: Dexter W.
     last_name: Dugan
     type: secondary
-    bio: "Dexter Dugan is an active-duty Major in the US Army, teaching at the United States Military Academy at West Point as an Instructor in International Relations. His military experience includes battalion and brigade staff officer positions in the Republic of Korea and Kuwait. With an academic focus in international security, he was a contributing author for the 2019 Columbia University report to the United Kingdom Home Office on prevention and deterrence strategies for transnational organized crime."
+    bio: "Dexter W. Dugan is an active-duty major in the US Army and teaches at the United States Military Academy at West Point as an assistant professor in international affairs. His military experience includes battalion and brigade staff officer positions in the Republic of Korea and Kuwait. With an academic focus in international security, he was a contributing author for the 2019 Columbia University report to the United Kingdom Home Office on prevention and deterrence strategies for transnational organized crime."
 ---
 
 {{< q-translations >}}
