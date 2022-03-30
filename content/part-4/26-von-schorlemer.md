@@ -140,7 +140,7 @@ The position of the World Heritage Committee adopted in the light of the horrifi
 
 Still, experts from the Global South tell us that when the international community turns its attention to a damaged heritage site and international organizations bring professional standards, expertise, and funds, the site starts to change as it becomes placed within a different paradigm.[^70] It is of tremendous importance, therefore, to not only listen to local people, but to also give them a voice in the decision-making process of rebuilding.
 
-Another rather difficult ethical point pertains to the question of balancing different priorities, e.g., when local communities wish to rebuild “their” religious sites (cemeteries, churches, mosques, synagogues) instead of reconstructing ancient monuments and archaeological sites of outstanding universal value which the international community sees as important. As Weiss has rightly put it: “It is not just the famous sites.”[^71] To address these problems, further research on participatory global cultural heritage governance in post-conflict peacebuilding is needed.[^72]
+Another rather difficult ethical point pertains to the question of balancing different priorities, e.g., when local communities wish to rebuild “their” religious sites (cemeteries, churches, mosques, synagogues) instead of reconstructing ancient monuments and archaeological sites of outstanding universal value which the international community sees as important. As Weiss has rightly put it: “It is not just the most famous sites.”[^71] To address these problems, further research on participatory global cultural heritage governance in post-conflict peacebuilding is needed.[^72]
 
 ## Conclusion
 
@@ -184,11 +184,11 @@ The author wishes to express her gratitude to Jessica Nagamichi for her research
 
 [^9]: UN Office on Drugs and Crime, *Module 1: Introduction to International Terrorism*, Education for Justice University Module Series on Counter-Terrorism, August 2018, https://www.unodc.org/documents/e4j/18-04932_CT_Mod_01_ebook_FINALpdf.pdf. See also Sabine von Schorlemer, “Cultural Heritage Protection as a Security Issue in the 21st Century: Recent Developments,” *Indonesian Journal of International Law* 16, no. 1 (2018): 30–33.
 
-[^10]: James Cuno and Thomas G. Weiss, “Introduction,” in *Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*, Occasional Papers in Culturla Heritage Policy, no. 4 (Los Angeles: Getty Publications, 2020), 6.
+[^10]: James Cuno and Thomas G. Weiss, “Introduction,” in *Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*, Occasional Papers in Cultural Heritage Policy, no. 4 (Los Angeles: Getty Publications, 2020), 6.
 
 [^11]: UNESCO, “Director-General Denounces Cultural Cleansing during Visit to Iraq,” 4 November 2014, https://en.unesco.org/news/director-general-denounces-cultural-cleansing-during-visit-iraq.
 
-[^12]: UNESCO, Reinforcement of UNESCO’s Action for the Protection of Culture and the Promotion of Cultural Pluralism in the Event of Armed Conflict, doc. no. 38/C/49, 2 November 2015, para. 6, n.2.
+[^12]: UNESCO, Reinforcement of UNESCO’s Action for the Protection of Culture and the Promotion of Cultural Pluralism in the Event of Armed Conflict, doc. no. 38/C/49, 2 November 2015, para. 6, n. 2.
 
 [^13]: Cuno and Weiss, “Introduction,” in *Cultural Heritage under Siege*, 7.
 
