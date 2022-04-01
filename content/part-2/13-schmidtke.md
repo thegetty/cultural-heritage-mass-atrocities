@@ -128,7 +128,7 @@ For Yemen’s book culture, it is a curse and a blessing that some of the most p
 
 [^19]: This is also the case with the online digital Imam Zayd b. Ali Cultural Foundation Library, which contains most of the material previously distributed by the foundation on compact discs and now kept on a website run by the Ministry of Endowments & Religious Affairs of Oman: see Ministry of Endowments & Religious Affairs, “Cultural Foundation Library,” https://elibrary.mara.gov.om/mktbtt-muosstt-aliemam-zed-bn-ale-althqafett/mktbtt-muosstt-aliemam-zed-bn-ale-althqafett/.
 
-[^20]: By way of example, see Sabine Schmidtke, “The Intricacies of Capturing the Holdings of a Mosque Library in Yemen: The Library of the Shrine of Imām al-Hādī, Ṣaʿda,” *Manuscript Studies* 3, no. 1 (2018): 220–37; and *Traditional Yemeni Scholarship amidst Political Turmoil and War: Muḥammad b. Muḥammad b. Ismāʿīl b. al-Muṭahhar al-Manṣūr (1915–2016) and His Personal Library* (Córdoba: UCO Press, 2018).
+[^20]: By way of example, see Sabine Schmidtke, “The Intricacies of Capturing the Holdings of a Mosque Library in Yemen: The Library of the Shrine of Imām al-Hādī, Ṣaʿda,” *Manuscript Studies* 3, no. 1 (2018): 220–37; and *Traditional Yemeni Scholarship amidst Political Turmoil and War: Muḥammad b. Muḥammad b. Ismāʿīl b. al-Muṭahhar al-Manṣūr (1915–2016) and His Personal Library* (Córdoba: Córdoba University Press, 2018).
 
 [^21]: For examples, see Sabine Schmidtke, “The Zaydi Manuscript Tradition: Virtual Repatriation of Cultural Heritage,” *International Journal of Middle East Studies* 50, no. 1 (2018): 124–28.
 
