@@ -218,7 +218,7 @@ There are many reasons why a certain book has come down to us while others fall 
 
 [^48]: It is on the basis of the detailed information Ibn Tawus provides throughout his oeuvre that the contents of his library have been reconstructed. See Etan Kohlberg, *A Medieval Muslim Scholar at Work: Ibn Ṭāwūs and His Library* (Leiden: Brill, 1992).
 
-[^49]: See, e.g., Sabine Schmidtke, *Traditional Yemeni Scholarship amidst Political Turmoil and War: Muḥammad b. Muḥammad b. Ismāʿīl b. al-Muṭahhar al-Manṣūr (1915–2016) and His Personal Library* (Córdoba: UCO Press, 2018), 41 n.138.
+[^49]: See, e.g., Sabine Schmidtke, *Traditional Yemeni Scholarship amidst Political Turmoil and War: Muḥammad b. Muḥammad b. Ismāʿīl b. al-Muṭahhar al-Manṣūr (1915–2016) and His Personal Library* (Córdoba: Córdoba University Press, 2018), 41 n.138.
 
 [^50]: For other examples of scholars engaged in the transcription of manuscripts during the twentieth century, see Ansari and Schmidtke, *Al-Šarīf al-Murtaḍā’s Oeuvre*, chapter 2.4.
 
