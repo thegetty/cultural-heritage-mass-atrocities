@@ -114,7 +114,7 @@ If the UN—and other multilateral organizations that take policy ideas from the
 
 {{< q-contributor range="page" format="bio" >}}
 
-## Selected Readings
+## Suggested Readings
 
 {{< q-readings range="essay" >}}
 
