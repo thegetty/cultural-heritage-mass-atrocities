@@ -122,7 +122,7 @@ As Fatou Bensouda, the ICC chief prosecutor at the time, stated in the *Al Mahdi
 
 [^3]: Joseph L. Sax, “Heritage Preservation as a Public Duty: The Abbé Grégoire and the Origins of an Idea,” *Michigan Law Review* 88, no. 5 (1989–90): 1161.
 
-[^4]:  David Nersessian, “Rethinking Cultural Genocide under International Law,” Human Rights Dialogue: Cultural Rights, Carnegie Council for Ethics in International Affairs, 22 April 2005, [https://www.carnegiecouncil.org/publications/archive/dialogue/2_12/section_1/5139](https://www.carnegiecouncil.org/publications/archive/dialogue/2_12/section_1/5139); and Elisa Novic, *The Concept of Cultural Genocide* (Oxford: Oxford University Press, 2016), 18–22. See also Edward C. Luck, *Cultural Genocide and the Protection of Cultural Heritage* (Los Angeles: J. Paul Getty Trust, 2018), Occasional Papers in Cultural Heritage Policy no. 2, 17–22, https://www.getty.edu/publications/pdfs/CulturalGenocide_Luck.pdf.
+[^4]:  David Nersessian, “Rethinking Cultural Genocide under International Law,” Human Rights Dialogue: Cultural Rights, Carnegie Council for Ethics in International Affairs, 22 April 2005, [https://www.carnegiecouncil.org/publications/archive/dialogue/2_12/section_1/5139](https://www.carnegiecouncil.org/publications/archive/dialogue/2_12/section_1/5139); and Elisa Novic, *The Concept of Cultural Genocide* (Oxford: Oxford University Press, 2016), 18–22. See also Edward C. Luck, *Cultural Genocide and the Protection of Cultural Heritage*, Occasional Papers in Cultural Heritage Policy, no. 2 (Los Angeles: Getty Publications, 2018), 17–22, https://www.getty.edu/publications/pdfs/CulturalGenocide_Luck.pdf.
 
 [^5]:  Raphael Lemkin, “Acts Constituting a General (Transnational) Danger Considered as Offences against the Law of Nations,” Additional Explications to the Special Report Presented to the 5th Conference for the Unification of Penal Law in Madrid, 14–20 October 1933, www.preventgenocide.org/lemkin/madrid1933-english.htm.
 
@@ -202,7 +202,7 @@ As Fatou Bensouda, the ICC chief prosecutor at the time, stated in the *Al Mahdi
 
 [^43]: Weiss and Connelly, *Cultural Cleansing and Mass Atrocities*, 38.
 
-[^44]: Helen Frowe and Derek Matravers, *Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection* (Los Angeles: J. Paul Getty Trust, 2019), Occasional Papers in Cultural Heritage Policy no. 3.
+[^44]: Helen Frowe and Derek Matravers, *Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection*, Occasional Papers in Cultural Heritage Policy, no. 3 (Los Angeles: Getty Publications, 2019), https://www.getty.edu/publications/occasional-papers-3/.
 
 [^45]: James Cuno, “The Responsibility to Protect the World’s Cultural Heritage,” *Brown Journal of World Affairs* 23, no. 1 (2016): 106.
 
