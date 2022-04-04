@@ -141,7 +141,7 @@ The challenge for the independent but connected trajectories is that privileging
 
 [^14]: Marina Lostal and Emma Cunliffe, “Cultural Heritage That Heals: Factoring in Cultural Heritage Discourses in the Syrian Peacebuilding Process,” *The Historic Environment: Policy & Practice* 7, nos. 2–3 (2016): 3.
 
-[^15]: Thomas G. Weiss and Nina Connelly, *Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones* (Los Angeles: J. Paul Getty Trust, 2017), Occasional Papers in Cultural Heritage Policy no. 1, 13.
+[^15]: Thomas G. Weiss and Nina Connelly, *Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones*, Occasional Papers in Cultural Heritage Policy, no. 1 (Los Angeles: Getty Publications, 2017), 13, https://www.getty.edu/publications/occasional-papers-1/.
 
 [^16]: Annette Becker, “Dark Tourism: The ‘Heritagization’ of Sites of Suffering, with an Emphasis on Memorials of the Genocide Perpetrated against the Tutsi of Rwanda,” *International Review of the Red Cross* 101, no. 910 (2019): 325.
 
