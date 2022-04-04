@@ -146,7 +146,7 @@ As the Israeli example illustrates, even in the aftermath of a violent conflict 
 
 [^6]: For a list of parties to the 1954 Hague Convention and its protocols, see UNESCO, “Armed Conflict and Heritage: States Parties,” http://www.unesco.org/new/en/culture/themes/armed-conflict-and-heritage/convention-and-protocols/states-parties/.
 
-[^7]: See, for example, Thomas G. Weiss and Nina Connelly, eds., *Cultural Cleansing and Mass Atrocities: Protecting Heritage in Armed Conflicts*, Occasional Papers in Cultural Heritage Policy, no. 1 (Los Angeles: Getty Publications, 2017), [https://www.getty.edu/publications/occasional-papers-1/](https://www.getty.edu/publications/occasional-papers-1/); and “Protecting Cultural Heritage in War Zones,” *Third World Quarterly* 40, no. 1 (2019): 1–17.
+[^7]: See, for example, Thomas G. Weiss and Nina Connelly, *Cultural Cleansing and Mass Atrocities: Protecting Heritage in Armed Conflicts*, Occasional Papers in Cultural Heritage Policy, no. 1 (Los Angeles: Getty Publications, 2017), [https://www.getty.edu/publications/occasional-papers-1/](https://www.getty.edu/publications/occasional-papers-1/); and “Protecting Cultural Heritage in War Zones,” *Third World Quarterly* 40, no. 1 (2019): 1–17.
 
 [^8]: The newly independent Republic of Croatia ratified the Hague Convention, as well as the First Protocol, on 6 July 1992. The shelling of the Mostar Bridge by Croatian-government-supported paramilitary forces called the Croatian Defence Council (HVO) took place on 9 November 1993.
 

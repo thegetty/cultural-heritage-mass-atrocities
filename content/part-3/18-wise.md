@@ -134,7 +134,7 @@ The primary conclusion of this discussion is that the humanitarian justification
 
 [^8]: Patty Gerstenblith, “The Destruction of Cultural Heritage: A Crime against Property or a Crime against People?” *John Marshall Review of Intellectual Property Law* 15, no. 3 (2016): 337–89.
 
-[^9]: Weiss and Connelly, “Protecting Cultural Heritage in War Zones,” 2; and James Cuno and Thomas G. Weiss, *Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict* (Los Angeles: J. Paul Getty Trust, 2020), Occasional Papers in Cultural Heritage Policy no. 4.
+[^9]: Weiss and Connelly, “Protecting Cultural Heritage in War Zones,” 2; and James Cuno and Thomas G. Weiss, eds., *Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*, Occasional Papers in Cultural Heritage Policy, no. 4 (Los Angeles: Getty Publications, 2020), https://www.getty.edu/publications/occasional-papers-4/.
 
 [^10]: Irina Bokova, “Culture on the Front Line of New Wars,” *Brown Journal of World Affairs* 22, no. 1 (2015): 289.
 
@@ -146,11 +146,11 @@ The primary conclusion of this discussion is that the humanitarian justification
 
 [^14]: Heinrich Heine, *Almansor: Eine Tragödie* (Berlin: Hofenberg, 2015).
 
-[^15]: Edward C. Luck, *Cultural Genocide and the Protection of Cultural Heritage* (Los Angeles: J. Paul Getty Trust, 2018), Occasional Papers in Cultural Heritage Policy no. 2.
+[^15]: Edward C. Luck, *Cultural Genocide and the Protection of Cultural Heritage*, Occasional Papers in Cultural Heritage Policy, no. 2 (Los Angeles: Getty Publications, 2018), https://www.getty.edu/publications/occasional-papers-2/.
 
 [^16]: Stephen J. Whitfield, “Where They Burn Books …” *Modern Judaism* 22, no. 3 (2002): 213–33.
 
-[^17]: Helen Frowe and Derek Matravers, *Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection* (Los Angeles: J. Paul Getty Trust, 2019), Occasional Papers in Cultural Heritage Policy no. 3.
+[^17]: Helen Frowe and Derek Matravers, *Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection*, Occasional Papers in Cultural Heritage Policy, no. 3 (Los Angeles: Getty Publications, 2019), https://www.getty.edu/publications/occasional-papers-3/.
 
 [^18]: Daniel Siemens, *Stormtroopers: A New History of Hitler’s Brownshirts* (New Haven, CT: Yale University Press, 2017).
 
