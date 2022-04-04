@@ -174,7 +174,7 @@ Still, gains in global cultural heritage governance are neither to be achieved e
 
 [^5]: UN Human Rights Council, *Report of the Special Rapporteur in the Field of Cultural Rights*, UN doc. A/HRC/34/56, 16 January 2017, para. 5.
 
-[^6]: Irina Bokova, *UNESCO’s Response to the Rise of Violent Extremism: A Decade of Building International Momentum in the Struggle to Protect Cultural Heritage* (Los Angeles: J. Paul Getty Trust, 2021), Occasional Papers in Cultural Heritage Policy no. 3, 16–20.
+[^6]: Irina Bokova, *UNESCO’s Response to the Rise of Violent Extremism: A Decade of Building International Momentum in the Struggle to Protect Cultural Heritage*, Occasional Papers in Cultural Heritage Policy, no. 5 (Los Angeles: Getty Publications, 2021), 16–20, https://www.getty.edu/publications/occasional-papers-5/.
 
 [^7]: See Security Council, “United Nations Security Council Consolidated List,” https://www.un.org/securitycouncil/content/un-sc-consolidated-list.
 
