@@ -1,6 +1,6 @@
 ---
 title: "When Peace Breaks Out"
-subtitle: "The Perils and Promise of “Afterwar”"
+subtitle: "The Peril and Promise of “Afterwar”"
 label: "32"
 weight: 57
 type: essay

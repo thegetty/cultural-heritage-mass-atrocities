@@ -6,7 +6,7 @@ weight: 43
 type: essay
 copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Heritage and Mass Atrocities* © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))"
 contributor:
-  - first_name: Benjamin Charlier
+  - first_name: Benjamin
     last_name: Charlier
     type: secondary
     bio: "Benjamin Charlier is a legal adviser at the International Committee of the Red Cross. From 2016 to 2021, he was the ICRC coordinator for the protection of cultural property in armed conflict. During that time, he acted as a legal expert on cultural property protection and coordinated the ICRC’s operational, capacity-building, and diplomatic initiatives in that field. Prior to that, he worked at the Office of the Belgian Federal Prosecutor in Brussels and carried out field missions for the ICRC in Myanmar, Darfur, Kosovo, and Rwanda."
