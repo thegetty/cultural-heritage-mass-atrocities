@@ -112,7 +112,7 @@ It is important that more governments recognize that protection of cultural heri
 
 </div>
 
-[^1]: Laurie W. Rush, “Cultural Property Protection as a Force Multiplier in Stability Operations,” *Military Review* (March–April 2012): 36. Also see Laurie W. Rush and Matthew F. Bogdanos, “Protecting the Past to Secure the Future: The Strategic Value of Heritage Training,” *Joint Force Quarterly* 53, no. 2 (2009): 126–27; and Thomas G. Weiss and Nina Connelly, *Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones* (Los Angeles: J. Paul Getty Trust, 2017), Occasional Papers in Cultural Heritage Policy no. 1, 14.
+[^1]: Laurie W. Rush, “Cultural Property Protection as a Force Multiplier in Stability Operations,” *Military Review* (March–April 2012): 36. Also see Laurie W. Rush and Matthew F. Bogdanos, “Protecting the Past to Secure the Future: The Strategic Value of Heritage Training,” *Joint Force Quarterly* 53, no. 2 (2009): 126–27; and Thomas G. Weiss and Nina Connelly, *Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones*, Occasional Papers in Cultural Heritage Policy, no. 1 (Los Angeles: Getty Publications, 2017), 14, https://www.getty.edu/publications/occasional-papers-1/.
 
 [^2]: Laura Ford Savarese and John Fabian Witt, “Strategy & Entailments: The Enduring Role of Law in the US Armed Forces,” *Daedalus* 146, no. 1 (2017): 11.
 

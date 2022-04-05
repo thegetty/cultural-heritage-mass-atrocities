@@ -174,7 +174,7 @@ The author wishes to express her gratitude to Jessica Nagamichi for her research
 
 [^4]: UN Human Rights Council, *Report of the Special Rapporteur in the Field of Cultural Rights*, UN doc. A/HRC/34/56, 16 January 2017, para. 5.
 
-[^5]: Irina Bokova, *UNESCO’s Response to the Rise of Violent Extremism: A Decade of Building International Momentum in the Struggle to Protect Cultural Heritage*, Occasional Papers in Cultural Heritage Policy no. 5 (Los Angeles: Getty Publications, 2021), 16–20.
+[^5]: Irina Bokova, *UNESCO’s Response to the Rise of Violent Extremism: A Decade of Building International Momentum in the Struggle to Protect Cultural Heritage*, Occasional Papers in Cultural Heritage Policy, no. 5 (Los Angeles: Getty Publications, 2021), 16–20, https://www.getty.edu/publications/occasional-papers-5/.
 
 [^6]: See Security Council, United Nations Security Council Consolidated List, https://www.un.org/securitycouncil/content/un-sc-consolidated-list.
 
