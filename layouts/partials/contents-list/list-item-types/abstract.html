@@ -67,7 +67,7 @@
   {{- end -}}
   {{- with $abstract -}}
   <div class="abstract-text">
-    <strong>{{ $abstractHead }}:</strong> {{ . | markdownify -}}
+    <strong>{{ $abstractHead }}{{ if eq $language "fr" }} : {{ else }}: {{ end }}</strong>{{ . | markdownify -}}
   </div>
   {{- end -}}
 {{- end -}}
