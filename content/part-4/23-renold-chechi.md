@@ -114,7 +114,7 @@ The importance of promoting and developing human rights education is underlined 
 
 [^2]: Ana F. Vrdoljak, introduction to *The Cultural Dimension of Human Rights*, ed. Ana Filipa Vrdoljak (Oxford: Oxford University Press, 2013), 1. See also Roger O’Keefe, “Tangible Cultural Heritage and International Human Rights Law,” in *Realising Cultural Heritage Law: Festschrift for Patrick O’Keefe*, ed. Lyndel V. Prott, Ruth Redmond-Cooper, and Stephen Urice (Builth Wells, UK: Institute of Art and Law, 2013), 95.
 
-[^3]: This chapter focuses on atrocities committed during armed conflict and their deleterious impact on cultural heritage. However, egregious violations of cultural heritage and cultural rights also occur in time of peace. This is testified by the systematic persecution of Tibetans, Uyghurs, and other Muslim minorities in China, which is accompanied by the destruction of their heritage.
+[^3]: This chapter focuses on atrocities committed during armed conflict and their deleterious impact on cultural heritage. However, egregious violations of cultural heritage and cultural rights also occur in time of peace. This is testified by the systematic persecution of Tibetans, Uighurs, and other Muslim minorities in China, which is accompanied by the destruction of their heritage.
 
 [^4]: Farida Shaheed, *Report of the Independent Expert in the Field of Cultural Rights*, Human Rights Council, UN doc. A/HRC/17/38, 21 March 2001, para. 18.
 
