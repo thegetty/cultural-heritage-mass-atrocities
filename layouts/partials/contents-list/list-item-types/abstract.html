@@ -51,7 +51,7 @@
 {{- end -}}
 
 {{- if $contributor -}}
-  <span class="contributor"> — {{ $contributor | markdownify }}</span>
+  <span class="contributor">{{ if eq $language "ru" }}. {{ else }} — {{ end }}{{ $contributor | markdownify }}</span>
 {{- else -}}
   {{- if .Page.Params.contributor }}<span class="contributor"> — {{ partial "contributor-list.html" (dict "range" .Page.Params.contributor "contributorType" "all" "listType" "string" "Site" .Site) }}</span>{{ end -}}
 {{- end -}}
@@ -67,7 +67,7 @@
   {{- end -}}
   {{- with $abstract -}}
   <div class="abstract-text">
-    <strong>{{ $abstractHead }}:</strong> {{ . | markdownify -}}
+    <strong>{{ $abstractHead }}{{ if eq $language "fr" }} : {{ else }}: {{ end }}</strong>{{ . | markdownify -}}
   </div>
   {{- end -}}
 {{- end -}}
