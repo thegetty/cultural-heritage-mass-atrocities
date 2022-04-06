@@ -136,7 +136,7 @@ That, after all, was the whole point of Bokova’s “cultural cleansing” argu
 
 </div>
 
-[^1]: Its full name is the Convention on the Prevention and Punishment of the Crime of Genocide. See Donald Bloxham and A. Dirk Moses, eds., *The Oxford Handbook of Genocide Studies* (New York: Oxford University Press, 2010), 305; Donna-Lee Frieze, ed., *Totally Unofficial: The Autobiography of Raphael Lemkin* (New Haven, CT: Yale University Press, 2013), 172; and Edward C. Luck, *Cultural Genocide and the Protection of Cultural Heritage*, Occasional Papers in Cultural Heritage Policy, no. 2 (Los Angeles: Getty Publications, 2018), 17–26, https://www.getty.edu/publications/occasional-papers-2/.
+[^1]: Its full name is the Convention on the Prevention and Punishment of the Crime of Genocide. See Donald Bloxham and A. Dirk Moses, eds., *The Oxford Handbook of Genocide Studies* (New York: Oxford University Press, 2010), 305; Donna-Lee Frieze, ed., *Totally Unofficial: The Autobiography of Raphael Lemkin* (New Haven, CT: Yale University Press, 2013), 172; and Edward C. Luck, *Cultural Genocide and the Protection of Cultural Heritage*, Occasional Papers in Cultural Heritage Policy no. 2 (Los Angeles: Getty Publications, 2018), 17–26, https://www.getty.edu/publications/occasional-papers-2/.
 
 [^2]: Ramesh Thakur, *Reviewing the Responsibility to Protect: Origins, Implementation and Controversies* (New York: Routledge, 2019), 5, 122; and UN, *2005 World Summit Outcome*, UN doc. A/RES/60/1, https://documents-dds-ny.un.org/doc/UNDOC/GEN/N05/487/60/PDF/N0548760.pdf?OpenElement.
 
