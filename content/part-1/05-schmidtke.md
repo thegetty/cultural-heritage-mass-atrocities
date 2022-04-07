@@ -52,7 +52,7 @@ Whereas the biobibliographical works of Muslim scholars such as Ismaʿil Basha a
 
 Moreover, the historical sources refer to large-scale libraries in the intellectual hubs of the Muslim world from early on. The Fatimid royal libraries, for example, are said to have amassed some 1.5 million volumes toward the end of the dynasty in the early twelfth century. Whether or not the figure is exaggerated, there is no doubt that their holdings were enormous and comprised the full range of what existed at the time in Arabic.[^27] One of the most important libraries during the Abbasid period was founded in Karkh (Baghdad), attached to the academy of learning (*dar al-ʿilm*), by the Shiʿi Shapur b. Ardashir (d. 1035/36), the erstwhile vizier of the Buyid ruler Bahaʾ al-Dawla. The library existed for six decades, and its holdings amounted to some ten thousand volumes, until it was destroyed in 1059, during the Seljuq Tughril Beg’s march on Baghdad ([fig. 5.7](#fig-5-7-schmidtke)).
 
-{{< q-figure id="fig-5-7-schmidtke" >}}
+{{< q-figure id="fig-5-7-schmidtke" class="pdf-narrow" >}}
 
 Although we know very little about the history, holdings, and organization of most early rulers’ libraries, as the narrative sources provide primarily anecdotal evidence, an increasing number of documentary sources have come to light over the past several decades—inventories of property and records of sold objects, endowment deeds, inheritance inventories, confiscation registers, gift registers, court records, account books, and library catalogues, as well as paratextual material in manuscript codices—informing us about the history, organization and management, arrangement, and holdings of a growing number of libraries from the tenth century onwards, and more discoveries can be expected within this vibrant field of scholarship. Fairly detailed descriptions are available, for example, of the private library of Baghdad scholar Abu Bakr al-Suli (d. 947).[^28]
 
@@ -106,7 +106,7 @@ There are many reasons why a certain book has come down to us while others fall 
 
 {{< q-figure id="fig-5-13-schmidtke" >}}
 
-{{< q-figure id="fig-5-14-schmidtke" class="pdf-narrow" >}}
+{{< q-figure id="fig-5-14-schmidtke" class="pdf-narrower" >}}
 
 <div class="backmatter pdf-page-break-before">
 

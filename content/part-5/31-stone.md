@@ -31,7 +31,7 @@ The World Health Organization defines health as “a state of complete physical,
 
 Over the last decade there has been a growing realization within the Blue Shield that, in order to help sustain such communities impacted by armed conflict, it must work across the heritage, humanitarian, and uniformed sectors to emphasize the importance of, and value to, these sectors’ *own* agendas of integrating good cultural property protection into their thinking and practice. Strong and stable communities are prime goals for both the uniformed and humanitarian sectors. CPP cannot be a heritage-only aspiration, for if it remains so, it is doomed. To this end the Blue Shield has developed formal agreements with uniformed, humanitarian, and heritage partners, including the ICRC, the North Atlantic Treaty Organization (NATO), the UN peacekeeping force in Lebanon, and, in process, UNESCO. This structure is depicted in the following diagram ([fig. 31.1](#fig-31-1-stone)):
 
-{{< q-figure id="fig-31-1-stone" >}}
+{{< q-figure id="fig-31-1-stone" class="pdf-narrower" >}}
 
 The three points of the triangle show the interdependence of the three sectors, with the internal “safe space” within the triangle available for dialogue to mutually understand the importance of good CPP to the goals and aspirations of all three sectors and to identify proactive actions relating to all sectors to implement good CPP. The triangle is set within the wider context of political, legal, and media influences, and, of critical importance, communities.
 
