@@ -10,11 +10,11 @@ contributor:
   - first_name: Philippe
     last_name: Sands
     type: secondary
-    bio: "Philippe Sands is professor of law and director of the Centre on International Courts and Tribunals at University College London, and the Samuel and Judith Pisar Visiting Professor of Law at Harvard Law School. He is a practicing barrister at Matrix Chambers with extensive experience litigating cases before international courts and tribunals including the International Court of Justice, the International Tribunal for the Law of the Sea, the International Criminal Court, and the European Court of Justice."
+    bio: "**Philippe Sands** is professor of law and director of the Centre on International Courts and Tribunals at University College London, and the Samuel and Judith Pisar Visiting Professor of Law at Harvard Law School. He is a practicing barrister at Matrix Chambers with extensive experience litigating cases before international courts and tribunals including the International Court of Justice, the International Tribunal for the Law of the Sea, the International Criminal Court, and the European Court of Justice."
   - first_name: Ashrutha
     last_name: Rai
     type: secondary
-    bio: "Ashrutha Rai is a doctoral candidate at the University of Cambridge, where her research focuses on the protection of intangible cultural heritage in armed conflict and forced displacement. She was previously an associate legal officer and judicial fellow at the International Court of Justice."
+    bio: "**Ashrutha Rai** is a doctoral candidate at the University of Cambridge, where her research focuses on the protection of intangible cultural heritage in armed conflict and forced displacement. She was previously an associate legal officer and judicial fellow at the International Court of Justice."
 ---
 
 {{< q-translations >}}

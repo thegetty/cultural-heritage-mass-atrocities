@@ -9,7 +9,7 @@ contributor:
   - first_name: Frederick
     last_name: Deknatel
     type: secondary
-    bio: "Frederick Deknatel is the executive editor of *Democracy in Exile*, the journal of Democracy for the Arab World Now (DAWN). His writing and reporting have appeared in the *Nation*, *Foreign Policy*, the *New Republic*, the *National* (UAE), and the *Los Angeles Review of Books*, among other publications. He was previously the managing editor of *World Politics Review* and has also been a staff editor at *Foreign Affairs*. Deknatel is a former Fulbright fellow in Syria, where he also worked for the Office of the United Nations High Commissioner for Refugees."
+    bio: "**Frederick Deknatel** is the executive editor of *Democracy in Exile*, the journal of Democracy for the Arab World Now (DAWN). His writing and reporting have appeared in the *Nation*, *Foreign Policy*, the *New Republic*, the *National* (UAE), and the *Los Angeles Review of Books*, among other publications. He was previously the managing editor of *World Politics Review* and has also been a staff editor at *Foreign Affairs*. Deknatel is a former Fulbright fellow in Syria, where he also worked for the Office of the United Nations High Commissioner for Refugees."
 ---
 
 {{< q-translations >}}

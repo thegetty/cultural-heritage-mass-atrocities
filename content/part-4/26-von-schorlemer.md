@@ -9,7 +9,7 @@ contributor:
   - first_name: Sabine
     last_name: von Schorlemer
     type: secondary
-    bio: "Sabine von Schorlemer holds the chair of international law, European Union law and international relations, and the UNESCO Chair in International Relations, both at Technische Universität Dresden. From September 2009 to November 2014, she served as the Saxon state minister for Higher Education, Research and the Fine Arts. She is an elected member of the German Commission for UNESCO, the German Foundation for Peace Research, and of the International Law Association Committee on Participation in Global Cultural Heritage Governance, among others. Von Schorlemer has published several books and more than one hundred articles on the United Nations, many related to cultural heritage."
+    bio: "**Sabine von Schorlemer** holds the chair of international law, European Union law and international relations, and the UNESCO Chair in International Relations, both at Technische Universität Dresden. From September 2009 to November 2014, she served as the Saxon state minister for Higher Education, Research and the Fine Arts. She is an elected member of the German Commission for UNESCO, the German Foundation for Peace Research, and of the International Law Association Committee on Participation in Global Cultural Heritage Governance, among others. Von Schorlemer has published several books and more than one hundred articles on the United Nations, many related to cultural heritage."
 ---
 
 {{< q-translations >}}

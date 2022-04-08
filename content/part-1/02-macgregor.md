@@ -8,7 +8,7 @@ contributor:
   - first_name: Neil
     last_name: MacGregor
     type: secondary
-    bio: "Neil MacGregor was director of the National Gallery and British Museum in London, and a founding director of the Humboldt Forum, Berlin. He is the author of many books, including *Seeing Salvation: Images of Christ in Art* (2000), *A History of the World in 100 Objects* (2011), *Shakespeare’s Restless World: An Unexpected History in Twenty Objects* (2012), *Germany: Memories of a Nation* (2016), and *Living with the Gods: On Beliefs and Peoples* (2018)."
+    bio: "**Neil MacGregor** was director of the National Gallery and British Museum in London, and a founding director of the Humboldt Forum, Berlin. He is the author of many books, including *Seeing Salvation: Images of Christ in Art* (2000), *A History of the World in 100 Objects* (2011), *Shakespeare’s Restless World: An Unexpected History in Twenty Objects* (2012), *Germany: Memories of a Nation* (2016), and *Living with the Gods: On Beliefs and Peoples* (2018)."
 ---
 
 {{< q-translations >}}
@@ -118,9 +118,9 @@ From these different examples, a few conclusions may be drawn. There is no doubt
 
 </section>
 
-Epigraphs: Joan Didion, *The White Album* (New York: Farrar, Straus and Giroux, 1979), 11; Amanda Gorman, “The Hill We Climb,” read at the inauguration of US president Joseph R. Biden, Washington, DC, 20 January 2021.
-
 <div class="backmatter">
+
+Epigraphs: Joan Didion, *The White Album* (New York: Farrar, Straus and Giroux, 1979), 11; Amanda Gorman, “The Hill We Climb,” read at the inauguration of US president Joseph R. Biden, Washington, DC, 20 January 2021.
 
 ## Biography
 
@@ -128,7 +128,7 @@ Epigraphs: Joan Didion, *The White Album* (New York: Farrar, Straus and Giroux, 
 
 ## Suggested Readings
 
-\[TK\]
+{{< q-readings range="essay" >}}
 
 ## Notes
 

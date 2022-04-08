@@ -9,7 +9,7 @@ contributor:
   - first_name: Rachel
     last_name: Harris
     type: secondary
-    bio: "Rachel Harris is professor of Ethnomusicology at SOAS, University of London. Her research focuses on expressive culture, religion, and the politics of heritage in China’s Muslim borderlands, and she has conducted long-term fieldwork with Uyghur communities in the Xinjiang Uyghur Autonomous Region, Kazakhstan, and Kyrgyzstan. She led the Leverhulme Research Project “Sounding Islam in China” (2014–17) and a British Academy Sustainable Development Project to revitalize Uyghur cultural heritage in the diaspora (2018–21). Her latest books are *Soundscapes of Uyghur Islam* (2020) and, co-edited with Guangtian Ha and Maria Jaschok, *Ethnographies of Islam in China* (2021)."
+    bio: "**Rachel Harris** is professor of Ethnomusicology at SOAS, University of London. Her research focuses on expressive culture, religion, and the politics of heritage in China’s Muslim borderlands, and she has conducted long-term fieldwork with Uyghur communities in the Xinjiang Uyghur Autonomous Region, Kazakhstan, and Kyrgyzstan. She led the Leverhulme Research Project “Sounding Islam in China” (2014–17) and a British Academy Sustainable Development Project to revitalize Uyghur cultural heritage in the diaspora (2018–21). Her latest books are *Soundscapes of Uyghur Islam* (2020) and, co-edited with Guangtian Ha and Maria Jaschok, *Ethnographies of Islam in China* (2021)."
 ---
 
 {{< q-translations >}}
@@ -134,11 +134,9 @@ In spite of its own numerous laws addressing the protection of religious and cul
 
 Ultimately, perhaps, hope for the survival of the unique culture surrounding this religious heritage lies in the very transient nature of its architecture. These humble mud-brick structures have survived wars, changing governments, and the shifting desert sands for nearly a millennium through constant renovation and rebuilding, just as the histories of their saints have been retold and passed down to the present day. In this long history of resilience lies hope that the current campaigns will not result in their final erasure from the collective memory of the people they have served for so long.
 
-</section>
+<div class="backmatter pdf-20px-top-margin">
 
 Epigraphs: From the travelogue of the eighteenth-century poet Zalili, translated in Alexandre Papas, “A Sufi Travelogue as a Source for the History of Mazars in the Tarim Basin,” in *Mazar: Studies on Islamic Sacred Sites in Central Eurasia*, ed. Jun Sugawara and Rahile Dawut (Tokyo: Tokyo University of Foreign Studies Press, 2016), 253–74; Su Manzi, “An Interview with Rahilä Dawut,” in *Living Shrines of Uyghur China*, by Lisa Ross (New York: Monacelli Press, 2013), 121–23.
-
-<div class="backmatter">
 
 ## Biography
 

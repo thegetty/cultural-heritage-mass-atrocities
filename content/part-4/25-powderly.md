@@ -9,7 +9,7 @@ contributor:
   - first_name: Joseph
     last_name: Powderly
     type: secondary
-    bio: "Joseph Powderly is associate professor of public international law at the Grotius Centre for International Legal Studies, Leiden University. His research focuses broadly on issues relevant to international criminal law, international human rights law, and cultural heritage law. He published *Judges and the Making of International Criminal Law* in 2020."
+    bio: "**Joseph Powderly** is associate professor of public international law at the Grotius Centre for International Legal Studies, Leiden University. His research focuses broadly on issues relevant to international criminal law, international human rights law, and cultural heritage law. He published *Judges and the Making of International Criminal Law* in 2020."
 ---
 
 

@@ -10,7 +10,7 @@ contributor:
   - first_name: Hermann
     last_name: Parzinger
     type: secondary
-    bio: "Hermann Parzinger was appointed director in 1990 and president in 2003 of the German Archaeological Institute, where he headed archaeological excavations in the Near East and Central Asia. Since 2008 he has been president of the Prussian Cultural Heritage Foundation, one of the largest cultural institutions in the world. For his academic work he has received awards and memberships from academies in Russia, China, Spain, Great Britain, the United States, and Germany. He is the author of fifteen books and over 250 essays on research and cultural policy issues."
+    bio: "**Hermann Parzinger** was appointed director in 1990 and president in 2003 of the German Archaeological Institute, where he headed archaeological excavations in the Near East and Central Asia. Since 2008 he has been president of the Prussian Cultural Heritage Foundation, one of the largest cultural institutions in the world. For his academic work he has received awards and memberships from academies in Russia, China, Spain, Great Britain, the United States, and Germany. He is the author of fifteen books and over 250 essays on research and cultural policy issues."
 ---
 
 {{< q-translations >}}

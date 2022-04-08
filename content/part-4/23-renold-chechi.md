@@ -9,11 +9,11 @@ contributor:
   - first_name: Marc-André
     last_name: Renold
     type: secondary
-    bio: "Marc-André Renold is professor at the University of Geneva Law School, where he teaches art and cultural heritage law and, since 2012, has held the UNESCO Chair in International Law for the Protection of Cultural Property. In this capacity he established the ArThemis database on the resolution of disputes relating to cultural heritage. He serves as the director of the Art–Law Centre, which is dedicated to research and teaching on legal issues relating to works of art and cultural property. Renold is also a practicing attorney and member of the Geneva Bar, where he practices in the fields of art and cultural heritage law, international civil and commercial law, and intellectual property law."
+    bio: "**Marc-André Renold** is professor at the University of Geneva Law School, where he teaches art and cultural heritage law and, since 2012, has held the UNESCO Chair in International Law for the Protection of Cultural Property. In this capacity he established the ArThemis database on the resolution of disputes relating to cultural heritage. He serves as the director of the Art–Law Centre, which is dedicated to research and teaching on legal issues relating to works of art and cultural property. Renold is also a practicing attorney and member of the Geneva Bar, where he practices in the fields of art and cultural heritage law, international civil and commercial law, and intellectual property law."
   - first_name: Alessandro
     last_name: Chechi
     type: secondary
-    bio: "Alessandro Chechi is a lecturer at the University of Geneva, at the Geneva Academy of International Humanitarian Law and Human Rights, and at the Université Catholique de Lille. He serves as a member of the editorial boards of the *Italian Yearbook of International Law* and the *Santander Art and Culture Law Review*. He was consultant for the European Committee on Crime Problems (CDPC) of the Council of Europe for the revision of the Convention on Offences Relating to Cultural Property. He is the author of *The Settlement of International Cultural Heritage Disputes* (2014)."
+    bio: "**Alessandro Chechi** is a lecturer at the University of Geneva, at the Geneva Academy of International Humanitarian Law and Human Rights, and at the Université Catholique de Lille. He serves as a member of the editorial boards of the *Italian Yearbook of International Law* and the *Santander Art and Culture Law Review*. He was consultant for the European Committee on Crime Problems (CDPC) of the Council of Europe for the revision of the Convention on Offences Relating to Cultural Property. He is the author of *The Settlement of International Cultural Heritage Disputes* (2014)."
 ---
 
 {{< q-translations >}}
@@ -204,7 +204,7 @@ The importance of promoting and developing human rights education is underlined 
 
 [^46]: UNESCO, *Operational Guidelines for the Implementation of the Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property (UNESCO, Paris, 1970)* (Paris: UNESCO, May 2015).
 
-[^47]: Ana F. Vrdoljak, “Human Rights and Illicit Trade in Cultural Objects”, in *Cultural Heritage, Cultural Rights, Cultural Diversity. New Developments in International Law*, ed. Silvia Borelli and Federico Lenzerini (Leiden: Martinus Nijhoff, 2012), 124.  
+[^47]: Ana F. Vrdoljak, “Human Rights and Illicit Trade in Cultural Objects”, in *Cultural Heritage, Cultural Rights, Cultural Diversity. New Developments in International Law*, ed. Silvia Borelli and Federico Lenzerini (Leiden: Martinus Nijhoff, 2012), 124.
 
 [^48]: Vrdoljak, “Human Rights and Cultural Heritage,” 140.
 

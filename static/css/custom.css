@@ -160,6 +160,17 @@
 .quire-page__content .content .backmatterh2 {
   margin-bottom: 1rem;
 }
+.quire-page h3,
+.quire-page__content .content h3 {
+  font-family: 'Noto Serif', serif;
+  text-transform: inherit;
+  font-size: 1.1rem;
+  margin-top: 1.5em;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 0;
+  line-height: 1.7;
+}
 
 .quire:not(.no-js) .quire__primary #main,
 .quire #main,
@@ -201,6 +212,7 @@
   }
   .quire-page__header .hero-body .label {
     margin: 0;
+    padding-left: 0;
   }
   .quire-page:not(.quire-cover) h1, .quire-page__header__title {
     margin-top: 0;
@@ -376,8 +388,8 @@
     margin-bottom: -2.5px;
   }
   .content .quire-figure.pdf-narrower .q-figure__wrapper figcaption {
-    min-width: 1.8125in;
-    width: 1.8125in;
+    min-width: 2.1875in;
+    width: 2.1875in;
     margin-left: .1875in;
     margin-top: 0;
     margin-bottom: -2.5px;
@@ -400,7 +412,18 @@
     max-width: 85%;
     margin-left: 0;
   }
-
+  .content figure.quire-figure.pdf-padding-top {
+    padding-top: .5rem;
+  }
+  .content figure.quire-figure.pdf-4rem-margin-bottom {
+    margin-bottom: 4rem;
+  }
+  html body .remove-from-epub {
+    display: inherit;
+  }
+  html body .is-screen-only {
+    display: none;
+  }
   /* https://www.princexml.com/howcome/2021/guides/float/index.html */
   .content figure.quire-figure:not(.pdf-no-snap) {
     -prince-float: snap;
@@ -799,6 +822,8 @@ strong {
 }
 
 /* REMOVE JIM AND TOM'S TITLES FROM SECTION INTO PAGES */
+#introduction .quire-contributor__grouped-info,
+#conclusion .quire-contributor__grouped-info,
 #part-1-intro .quire-contributor__grouped-info,
 #part-2-intro .quire-contributor__grouped-info,
 #part-3-intro .quire-contributor__grouped-info,
@@ -1010,4 +1035,32 @@ strong {
   .quire-page--abstract.quire-contents:not(.quire-page--translated-contents) .quire-page__header {
     padding-top: 2in;
   }
+}
+
+/* HIDE CONTRIBUTOR HEADINGS IN PDF TO SAVE SPACE */
+.quire-contributors-list.bio .quire-contributor strong {
+  font-weight: 400;
+}
+@media print {
+  .quire-contributors-list.bio .quire-contributor .title {
+    display: none;
+  }
+  .quire-contributors-list.bio .quire-contributor strong {
+    font-weight: 700;
+  }
+}
+
+/* ELIMINATE NOTES SPACING IN PDF TO SAVE SPACE */
+.quire-page__content .content .footnotes ol li {
+  margin-bottom: 0;
+}
+
+/* ADD SOME TOP MARGIN */
+.pdf-20px-top-margin {
+  margin-top: 20px;
+}
+
+/* HIDE PDF COVER PAGES */
+.quire-cover-page {
+  display: none;
 }

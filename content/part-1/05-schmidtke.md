@@ -9,7 +9,7 @@ contributor:
   - first_name: Sabine
     last_name: Schmidtke
     type: secondary
-    bio: "Sabine Schmidtke is professor of Islamic Intellectual History in the School of Historical Studies at the Institute for Advanced Study, Princeton. Her research interests include Shiʿism (Zaydism and Twelver Shiʿism), intersections of Jewish and Muslim intellectual history, the Arabic Bible, the history of Orientalism and the Science of Judaism, and the history of the book and libraries in the Islamicate world. Her recent publications include *Muslim Perceptions and Receptions of the Bible: Texts and Studies* (2019), with Camilla Adang; *Traditional Yemeni Scholarship amidst Political Turmoil and War: Muḥammad b. Muḥammad b. Ismāʿīl b. al-Muṭahhar al-Manṣūr (1915–2016) and His Personal Library* (2018); and *The Oxford Handbook of Islamic Philosophy* (2017), co-edited with Khaled el-Rouayheb."
+    bio: "**Sabine Schmidtke** is professor of Islamic Intellectual History in the School of Historical Studies at the Institute for Advanced Study, Princeton. Her research interests include Shiʿism (Zaydism and Twelver Shiʿism), intersections of Jewish and Muslim intellectual history, the Arabic Bible, the history of Orientalism and the Science of Judaism, and the history of the book and libraries in the Islamicate world. Her recent publications include *Muslim Perceptions and Receptions of the Bible: Texts and Studies* (2019), with Camilla Adang; *Traditional Yemeni Scholarship amidst Political Turmoil and War: Muḥammad b. Muḥammad b. Ismāʿīl b. al-Muṭahhar al-Manṣūr (1915–2016) and His Personal Library* (2018); and *The Oxford Handbook of Islamic Philosophy* (2017), co-edited with Khaled el-Rouayheb."
 ---
 
 {{< q-translations >}}
@@ -100,15 +100,15 @@ Many modern scholars and scribes in contrast have also pursued scholarly purpose
 
 There are many reasons why a certain book has come down to us while others fall into oblivion and eventually get lost. What becomes part of the canon at any given time and what is discarded is continuously renegotiated, and many of the registers discussed above not only record what was there but also silently exclude what is meant to be left out.[^51] At the same time, Islamic manuscript heritage continues to be threatened in many ways—exposed to improper handling, exposure, theft, inclement climatic conditions, and willful destruction, to name a few dangers. Over the past few decades, there have been repeated cases of deliberate destruction of Islamic manuscripts. They include the bombing of libraries, archives, and museums in Kosovo and Bosnia by Serbian nationalists, most importantly the tragic burning of the National Library of Bosnia-Herzegovina in August 1992, when some two million books were destroyed by fire.[^52] Moreover, a large portion of the manuscript holdings of the libraries of Iraq was either destroyed or looted in the aftermath of the 1991 Gulf War and again in March 2003, following the invasion of Iraq by American and British troops ([fig. 5.11](#fig-5-11-schmidtke)).[^53] It is also worrying that Islamic manuscripts of uncertain provenance continue to be auctioned off into private hands.[^54] Sectarianism and multiple forms of censorship pose another threat to Islamic cultural heritage. Reducing the intellectually rich and diverse Islamic literary heritage to the bare minimum of what is seen as allegedly authentic is a strategy that is characteristic of Wahhabism, Salafism, and jihadism, and their proponents. Whatever goes against their interpretation of Islam is classified as “heretical” and banned from distribution ([fig. 5.12](#fig-5-12-schmidtke)). Moreover, libraries holding books and manuscripts that are seen as containing deviant views are targeted for destruction, and the same holds for historical monuments, shrines, and religious sites, which have been destroyed over the past several decades by Muslim extremists in an attempt to “purify” Islam ([fig. 5.13](#fig-5-13-schmidtke)). Particular mention should be made of the attempts by Islamic militants to destroy important manuscript holdings in Timbuktu, Mali in 2013; the destruction of cultural heritage in Sukur, Nigeria, in 2015;[^55] the destruction of books and manuscripts in the libraries of Mosul at the hands of the Islamic State of Iraq and Syria (ISIS, also known as ISIL or Da’esh) in 2015; and attacks on Zaydi libraries in Yemen ([fig. 5.14](#fig-5-14-schmidtke)).
 
-{{< q-figure id="fig-5-11-schmidtke" >}}
+{{< q-figure id="fig-5-11-schmidtke" class="pdf-no-snap" >}}
 
-{{< q-figure id="fig-5-12-schmidtke" >}}
+{{< q-figure id="fig-5-12-schmidtke" class="pdf-no-snap pdf-page-break-before" >}}
 
-{{< q-figure id="fig-5-13-schmidtke" >}}
+{{< q-figure id="fig-5-13-schmidtke" class="pdf-no-snap" >}}
 
-{{< q-figure id="fig-5-14-schmidtke" class="pdf-narrower" >}}
+{{< q-figure id="fig-5-14-schmidtke" class="pdf-no-snap pdf-narrower" >}}
 
-<div class="backmatter pdf-page-break-before">
+<div class="backmatter">
 
 ## Biography
 

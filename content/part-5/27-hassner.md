@@ -10,7 +10,7 @@ contributor:
   - first_name: Ron E.
     last_name: Hassner
     type: secondary
-    bio: "Ron E. Hassner is the Chancellor’s Professor of Political Science and Helen Diller Family Chair in Israel Studies at the University of California, Berkeley. He is also the faculty director of the Helen Diller Institute for Jewish Law and Israel Studies at Berkeley. He studies the role of ideas, practices, and symbols in international security with particular attention to the relationship between religion and violence. His books include *War on Sacred Grounds* (2009), *Religion in the Military Worldwide* (2014), and *Religion on the Battlefield* (2016). He is the editor of the Cornell University Press book series “Religion and Conflict.”"
+    bio: "**Ron E. Hassner** is the Chancellor’s Professor of Political Science and Helen Diller Family Chair in Israel Studies at the University of California, Berkeley. He is also the faculty director of the Helen Diller Institute for Jewish Law and Israel Studies at Berkeley. He studies the role of ideas, practices, and symbols in international security with particular attention to the relationship between religion and violence. His books include *War on Sacred Grounds* (2009), *Religion in the Military Worldwide* (2014), and *Religion on the Battlefield* (2016). He is the editor of the Cornell University Press book series “Religion and Conflict.”"
 ---
 
 {{< q-translations >}}
@@ -101,7 +101,7 @@ Fourth, the intention of the combatant matters. Constraint is most likely in con
 
 The fifth and final lesson is that opponents will take advantage of that hesitation. Thus, any reluctance to target sacred heritage sites in wartime will provoke a moral hazard. At the very least, the enemy will use sacred sites as sanctuaries from violence, hiding their wounded, weapons, supplies, and even combatants there. At worst, they will try to provoke attacks on sacred heritage sites by using them as bases of operation, placing sniper nests in church towers or minarets, or seeking refuge from hot pursuit in temples and mosques.[^42] As often in war, acting with restraint imposes costs on one’s own units and provides some advantage to opponents. The challenge for decisionmakers is to strike a balance between those tactical considerations and the broader strategic costs of damaging holy places.
 
-<div class="backmatter">
+<div class="backmatter pdf-page-break-before">
 
 ## Biography
 
