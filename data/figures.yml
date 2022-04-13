@@ -21,7 +21,7 @@ figure_list:
     alt: ""
     label: "Figure 10.3"
     caption: "The siege of Aleppo, July 2016. Armenak Tokmajyan, *Aleppo Conflict Timeline* (Budapest: Central European University, 2016), 3."
-    credit: "Reproduced with kind permission from CEU, The Aleppo Project"
+    credit: "Image: Reproduced with kind permission from CEU, The Aleppo Project"
 
   - id: "fig-10-4-bandarin"
     src: "figures/fig-10-4-bandarin.jpg"
@@ -98,7 +98,7 @@ figure_list:
     alt: ""
     label: "Figure 11.3"
     caption: "Map of Homs showing the city’s location near the River Orontes. The orchards separate the city from Al-Wa’er neighborhood, a newer development built in the 1970s and 80s."
-    credit: "© 2001 Homsonline.com"
+    credit: "Image: © 2001 Homsonline.com"
 
   - id: "fig-11-4a-al-sabouni"
     src: "figures/fig-11-4a-al-sabouni.jpg"
@@ -208,7 +208,7 @@ figure_list:
     alt: ""
     label: "Figure 13.1"
     caption: "Ms. Ṣanʿāʾ, Maktabat al-Awqāf 2318, page 2, transfer note (upper two lines and margin) for the codex from Ẓafār to Sana’a in Rabīʿ I 1348 (August–September 1929)"
-    credit: "Image courtesy of private collector"
+    credit: "Image: Courtesy of private collector"
 
   - id: "fig-13-2-schmidtke"
     src: "figures/fig-13-2-schmidtke.jpg"
@@ -260,7 +260,7 @@ figure_list:
     alt: ""
     label: "Figure 13.6"
     caption: "Inside the Dār al-Makhṭūṭāt, 2009"
-    credit: "Photograph by the author"
+    credit: "Image: Photograph by the author"
 
   - id: "fig-13-7-schmidtke"
     src: "figures/fig-13-7-schmidtke.jpg"
@@ -269,7 +269,7 @@ figure_list:
     alt: ""
     label: "Figure 13.7"
     caption: "Personnel of the Imam Zayd b. Ali Cultural Foundation, Ṣanʿāʾ, digitizing manuscripts, 2009"
-    credit: "Photograph by the author"
+    credit: "Image: Photograph by the author"
 
   - id: "fig-13-8-schmidtke"
     src: "figures/fig-13-8-schmidtke.jpg"
@@ -278,21 +278,21 @@ figure_list:
     alt: ""
     label: "Figure 13.8"
     caption: "Stack of manuscripts in a private library in Yemen, 2019"
-    credit: "Photograph by the Imam Zayd b. Ali Cultural Foundation, Sana’a, reproduced with kind permission"
+    credit: "Image: Photograph by the Imam Zayd b. Ali Cultural Foundation, Sana’a, reproduced with kind permission"
 
   - id: "fig-13-9-schmidtke"
     src: "figures/fig-13-9-schmidtke.jpg"
     alt: ""
     label: "Figure 13.9"
     caption: "A Yemeni man inspects the damage following a bomb explosion at the Badr mosque in southern Sana’a on 20 March 2015."
-    credit: "Mohammed Huwais / Getty Images"
+    credit: "Image: Mohammed Huwais / Getty Images"
 
   - id: "fig-14-1-eloundou-assomo"
     src: "figures/fig-14-1-eloundou-assomo.jpg"
     label: "Figure 14.1"
     alt: ""
     caption: "Aerial photo of Timbuktu"
-    credit: "© UNESCO / Serge Negre"
+    credit: "Image: © UNESCO / Serge Negre"
 
   - id: "fig-14-2-eloundou-assomo"
     src: "figures/fig-14-2-eloundou-assomo.jpg"
@@ -301,7 +301,7 @@ figure_list:
     alt: ""
     label: "Figure 14.2"
     caption: "Djingareyber Mosque, built in 1325"
-    credit: "© UNESCO"
+    credit: "Image: © UNESCO"
 
   - id: "fig-14-3-eloundou-assomo"
     src: "figures/fig-14-3-eloundou-assomo.jpg"
@@ -310,7 +310,7 @@ figure_list:
     alt: ""
     label: "Figure 14.3"
     caption: "Destroyed Alpha Moya mausoleum"
-    credit: "© UNESCO"
+    credit: "Image: © UNESCO"
 
   - id: "fig-14-4-eloundou-assomo"
     src: "figures/fig-14-4-eloundou-assomo.jpg"
@@ -319,7 +319,7 @@ figure_list:
     alt: ""
     label: "Figure 14.4"
     caption: "Reconstructed Sidi Ben Amar mausoleum"
-    credit: "© UNESCO"
+    credit: "Image: © UNESCO"
 
   - id: "fig-15-1-montejo"
     src: "figures/fig-15-1-montejo.jpg"
@@ -349,7 +349,7 @@ figure_list:
     alt: ""
     label: "Figure 27.3"
     caption: "US Marines take up position on the perimeter of a mosque while patrolling in the central Iraqi city of Yusufiyah, December 2004."
-    credit: "Odd Andersen/AFP via Getty Images"
+    credit: "Image: Odd Andersen/AFP via Getty Images"
 
   - id: "fig-28-1-sagan"
     src: "figures/fig-28-1-sagan.jpg"
@@ -415,21 +415,21 @@ figure_list:
     alt: ""
     label: "Figure 31.2"
     caption: "Protection of the Mosque of Omar in Jerusalem in 1917 by Muslim troops in the British Expeditionary Force."
-    credit: "© Courtesy of The Northumberland Gazette"
+    credit: "Image: © Courtesy of The Northumberland Gazette"
 
   - id: "fig-31-3-stone"
     src: "figures/fig-31-3-stone.jpg"
     alt: ""
     label: "Figure 31.3"
     caption: "The extensive damage to the al-Askari Shrine in Samarra, Iraq in 2006 has been regarded by many as the tipping point that turned general unease with the coalition presence in Iraq into a full scale, sectarian civil war. The minarets were destroyed in 2007."
-    credit: "PJF Military Collection / Alamy Stock Photo"
+    credit: "Image: PJF Military Collection / Alamy Stock Photo"
 
   - id: "fig-31-4-stone"
     src: "figures/fig-31-4-stone.jpg"
     alt: ""
     label: "Figure 31.4"
     caption: "Ras Almargeb, Libya, where forces loyal to the government of Muammar Gaddafi stationed six vehicles of a mobile radar/communications unit in the hope they would not be targeted because of the proximity to the Roman fort. All six were destroyed by precision weapons leaving the Roman building intact."
-    credit: "Photo © Karl Habsburg"
+    credit: "Image: Photo © Karl Habsburg"
 
   - id: "fig-5-1-schmidtke"
     src: "figures/fig-5-1-schmidtke.jpg"
@@ -445,14 +445,14 @@ figure_list:
     alt: ""
     label: "Figure 5.10"
     caption: "Title page of Ms. San Lorenzo, El Escorial, arabe 1485, fol. 7r, containing another copy of al-Murtada’s *K. al-Ghurar*, transmitted through Fadl Allah al-Rawandi"
-    credit: "Patrimonio Nacional, Biblioteca del Real Monasterio de San Lorenzo de El Escorial, arabe 1485"
+    credit: "Image: Patrimonio Nacional, Biblioteca del Real Monasterio de San Lorenzo de El Escorial, arabe 1485"
 
   - id: "fig-5-11-schmidtke"
     src: "figures/fig-5-11-schmidtke.jpg"
     alt: ""
     label: "Figure 5.11"
     caption: "Bayt al-ḥikma, Baghdad, view of the burned second floor"
-    credit: "Photograph courtesy of Nabil al-Tikriti"
+    credit: "Image: Photograph courtesy of Nabil al-Tikriti"
 
   - id: "fig-5-12-schmidtke"
     src: "figures/fig-5-12-schmidtke.jpg"
@@ -466,7 +466,7 @@ figure_list:
     alt: ""
     label: "Figure 5.13"
     caption: "Burned books in the National Library, Baghdad, April 2003"
-    credit: "Reuters / Alamy Stock Photo"
+    credit: "Image: Reuters / Alamy Stock Photo"
 
   - id: "fig-5-14-schmidtke"
     src: "figures/fig-5-14-schmidtke.jpg"
@@ -516,7 +516,7 @@ figure_list:
     alt: ""
     label: "Figure 5.6"
     caption: "Title page of a manuscript in the Chester Chester Beatty Library in Dublin, Ar 3315. One of the oldest extant copies of Ibn al-Nadim’s *Catalog*, which was purchased in 1421 by the prominent Egyptian scholar Taqi l-Din Ahmad b. ʿAli al-Maqrizi (d. 1442)"
-    credit: "© The Trustees of the Chester Beatty Library, Dublin"
+    credit: "Image: © The Trustees of the Chester Beatty Library, Dublin"
 
   - id: "fig-5-7-schmidtke"
     src: "figures/fig-5-7-schmidtke.jpg"
@@ -532,7 +532,7 @@ figure_list:
     alt: ""
     label: "Figure 5.8"
     caption: "Page from a Mamluk Qurʾan, in Marcus Fraser, *Geometry in Gold: An Illuminated Mamlūk Qurʾān Section* (London: Sam Fogg, 2005)"
-    credit: "Image courtesy of Sam Fogg"
+    credit: "Image: Courtesy of Sam Fogg"
 
   - id: "fig-5-9-schmidtke"
     src: "figures/fig-5-9-schmidtke.jpg"
@@ -562,7 +562,7 @@ figure_list:
     alt: ""
     label: "Figure 7.2"
     caption: "Pilgrims at the shrine of Imam Aptah."
-    credit: "Photo courtesy of Rahile Dawut"
+    credit: "Image: Photo courtesy of Rahile Dawut"
 
   - id: "fig-7-3-harris"
     src: "figures/fig-7-3-harris.jpg"
@@ -578,7 +578,7 @@ figure_list:
     alt: ""
     label: "Figure 7.4"
     caption: "Friday prayer at a local mosque in southern Xinjiang in 2012."
-    credit: "Photo courtesy of Aziz Isa"
+    credit: "Image: Photo courtesy of Aziz Isa"
 
   - id: "fig-7-5-harris"
     src: "figures/fig-7-5-harris.jpg"
@@ -587,7 +587,7 @@ figure_list:
     alt: ""
     label: "Figure 7.5"
     caption: "A local graveyard in southern Xinjiang in 2012."
-    credit: "Photograph by the author"
+    credit: "Image: Photograph by the author"
 
   - id: "fig-8-1-singh"
     src: "figures/fig-8-1-singh.jpg"
