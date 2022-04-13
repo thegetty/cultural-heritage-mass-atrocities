@@ -14,23 +14,23 @@ contributor:
 
 {{< q-translations >}}
 
+<div class="epigraph">
+
 > *By the forest side, there was a river bed* <br/>
 > *The tomb was a wonderful place* <br/>
 > *Those who lay there were all martyrs* <br/>
 > *Heroes and men of God* <br/>
->
-> *…*
->
+> <span class="section-break">*…*</span><br/>
 > *Flag poles were set out everywhere* <br/>
 > *This day, at the time of afternoon prayer* <br/>
 > *They played marches and tambourines* <br/>
-> *They shouted through the desert plain*
+> *They shouted through the desert plain*<br/>
+> <span class="attribution">—Zalili, eighteenth-century poet</span>
 
-> –Zalili, eighteenth-century poet
+>*If one were to remove these … shrines, the Uyghur people would lose contact with \[the\] earth. They would no longer have a personal, cultural, and spiritual history. After a few years we would not have a memory of why we live here or where we belong.*<br/>
+> <span class="attribution">—Rahile Duwat, scholar and Uyghur folklorist</span>
 
->*If one were to remove these … shrines, the Uyghur people would lose contact with \[the\] earth. They would no longer have a personal, cultural, and spiritual history. After a few years we would not have a memory of why we live here or where we belong.*
-
-> –Rahile Duwat, scholar and Uyghur folklorist
+</div>
 
 Over the past few years, government authorities in the Xinjiang Uyghur Autonomous Region of China have destroyed large swathes of the religious heritage of the Turkic Muslim Uyghurs. This campaign of destruction has proceeded in tandem with the heavy securitization of the region, mass incarcerations, and attacks on Uyghur language and other aspects of cultural identity.[^1] An estimated 1.8 million people have been arbitrarily detained in a system of “political education” camps, pretrial detention centers, and prisons. Uyghurs and other Turkic Muslims have been given long prison sentences simply for sharing religious recordings or downloading Uyghur language e-books. Numerous testimonies have reported that detainees in the camp system are subjected to systematic torture and rape, cultural and political indoctrination, and forced labor. Outside the detention facilities, Xinjiang’s Turkic Muslim citizens are subject to a pervasive system of mass surveillance, controls on movement, forced sterilization, and family separation.[^2]
 

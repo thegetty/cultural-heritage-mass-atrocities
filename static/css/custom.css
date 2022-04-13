@@ -911,7 +911,8 @@ strong {
 [role="tabpanel"] * + * {
   margin-top: 0.75rem;
 }
-.quire-page__content .content .tabbed + p {
+.quire-page__content .content .tabbed + p,
+.quire-page__content .content .epigraph + p {
   text-indent: 0;
 }
 @media (max-width: 550px) {
@@ -1063,4 +1064,22 @@ strong {
 /* HIDE PDF COVER PAGES */
 .quire-cover-page {
   display: none;
+}
+
+/* MAKE EPIGRAPHS ITALIC */
+.quire-page__content .content .epigraph blockquote em {
+  font-style: italic;
+}
+.quire-page__content .content .epigraph blockquote .attribution {
+  margin-left: 1rem;
+  display: block;
+  margin-top: .5rem;
+}
+.quire-page__content .content .epigraph blockquote .section-break {
+  display: inline-block;
+  margin-top: .25rem;
+  margin-bottom: .75rem;
+}
+.quire-page__content .content .epigraph blockquote {
+  margin-bottom: 2.5rem;
 }

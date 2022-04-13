@@ -15,7 +15,11 @@ contributor:
 
 {{< q-translations >}}
 
+<div class="epigraph">
+
 > *Where they burn books, they will in the end burn people.*[^1]
+
+</div>
 
 This chapter explores cultural property protection (CPP) in armed conflict and is written through the lens of the international nongovernmental organization (NGO) the Blue Shield, an advisory body to the UN Educational, Scientific and Cultural Organization’s (UNESCO’s) Committee for the Protection of Cultural Property in the Event of Armed Conflict. It addresses five interrelated issues. First, the role, mission, and aspirations of the Blue Shield are outlined, which emphasize the need for partnership between the heritage,[^2] humanitarian, and uniformed sectors, the latter include armed forces, police, customs, and emergency services. Second, the perhaps unexpectedly long history of CPP as a concept is sketched, with practical implications for those involved in armed conflict. Third, partly drawing on this history, the chapter discusses why the uniformed and humanitarian sectors should be interested in CPP, and what the heritage sector needs to do to gain traction with these, at first glance perhaps unlikely, bedfellows. Fourth, it outlines some of the key threats to cultural property in the event of armed conflict. Finally, it looks to the future role of CPP in armed conflict.
 

@@ -15,14 +15,16 @@ contributor:
 
 <section>
 
-> *We tell ourselves stories in order to live.*
->
-> –Joan Didion
+<div class="epigraph">
+
+> *We tell ourselves stories in order to live.*<br/>
+> <span class="attribution">—Joan Didion</span>
 
 > *… because being American is more than a pride we inherit.* <br/>
-> *It’s the past we step into, and how we repair it.*
->
-> –Amanda Gorman
+> *It’s the past we step into, and how we repair it.*<br/>
+> <span class="attribution">—Amanda Gorman</span>
+
+</div>
 
 This is essentially a book about things. Things from the past, usually the distant past, and what may and should be done to prevent their destruction. The words used to describe those things—“cultural heritage”—are of course a metaphor, carrying over the European legal idea of ownership and inheritance from the private or family sphere into the public domain. And like all metaphors, it is helpful only to a certain point. This chapter seeks to explore the limits of that metaphor in helping us understand the creation and destruction of cultural heritage and in achieving our aim—the purpose of this book—to prevent or limit its loss.
 
