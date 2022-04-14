@@ -180,6 +180,6 @@ Finally, we recognize that Maya resiliency has been fundamental to their ability
 
 [^30]: López, “Narcos: Los nuevos actores.”
 
-[^31]: Simon Adams, contributor to *Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*, ed. James Cuno and Thomas G. Weiss, Occasional Papers in Cultural Heritage Policy, no. 4 (Los Angeles: Getty Publications, 2020), 12, https://www.getty.edu/publications/occasional-papers-4/.
+[^31]: Simon Adams, contributor to *Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*, ed. James Cuno and Thomas G. Weiss, Occasional Papers in Cultural Heritage Policy no. 4 (Los Angeles: Getty Publications, 2020), 12, https://www.getty.edu/publications/occasional-papers-4/.
 
 [^32]: Edward C. Luck, contributor, *Cultural Heritage under Siege*, 15.

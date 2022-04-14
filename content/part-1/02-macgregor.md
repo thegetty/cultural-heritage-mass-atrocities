@@ -136,7 +136,7 @@ Epigraphs: Joan Didion, *The White Album* (New York: Farrar, Straus and Giroux, 
 
 </div>
 
-[^1]: Kavita Singh gives a memorable example of the Hazara inhabitants of the Bamiyan valley, who had attached a completely new meaning to the colossal Buddhas, transforming them into a legendary hero and his princess. See Kavita Singh, commentary in “Social and Cultural Costs,” *Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*, ed. James Cuno and Thomas G. Weiss, Occasional Papers in Cultural Heritage Policy, no. 4 (Los Angeles: Getty Publications, 2020), 52, https://www.getty.edu/publications/occasional-papers-4.
+[^1]: Kavita Singh gives a memorable example of the Hazara inhabitants of the Bamiyan valley, who had attached a completely new meaning to the colossal Buddhas, transforming them into a legendary hero and his princess. See Kavita Singh, commentary in “Social and Cultural Costs,” *Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*, ed. James Cuno and Thomas G. Weiss, Occasional Papers in Cultural Heritage Policy no. 4 (Los Angeles: Getty Publications, 2020), 52, https://www.getty.edu/publications/occasional-papers-4.
 
 [^2]: For a full discussion of the disputes around the Colston statue, see International Bar Association, *Contested Histories in Public Spaces: Principles, Processes, Best Practices* (London: International Bar Association, February 2021), 19–50.
 
