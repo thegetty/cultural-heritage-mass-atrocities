@@ -126,9 +126,15 @@ Custom and general principles can thus be the wellspring of a progressive develo
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Suggested Readings
 
 {{< q-readings range="essay" >}}
+
+</div>
+<div class="backmatter">
 
 ## Notes
 

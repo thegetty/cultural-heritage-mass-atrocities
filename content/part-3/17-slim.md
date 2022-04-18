@@ -106,9 +106,15 @@ These two stories carry hope in the same way that all fleeing people carry hope 
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Suggested Readings
 
 {{< q-readings range="essay" >}}
+
+</div>
+<div class="backmatter">
 
 ## Notes
 

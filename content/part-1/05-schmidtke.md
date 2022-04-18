@@ -114,9 +114,15 @@ There are many reasons why a certain book has come down to us while others fall 
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Suggested Readings
 
 {{< q-readings range="essay" >}}
+
+</div>
+<div class="backmatter">
 
 ## Notes
 

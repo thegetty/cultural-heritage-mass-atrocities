@@ -124,13 +124,22 @@ From these different examples, a few conclusions may be drawn. There is no doubt
 
 Epigraphs: Joan Didion, *The White Album* (New York: Farrar, Straus and Giroux, 1979), 11; Amanda Gorman, “The Hill We Climb,” read at the inauguration of US president Joseph R. Biden, Washington, DC, 20 January 2021.
 
+</div>
+<div class="backmatter">
+
 ## Biography
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Suggested Readings
 
 {{< q-readings range="essay" >}}
+
+</div>
+<div class="backmatter">
 
 ## Notes
 

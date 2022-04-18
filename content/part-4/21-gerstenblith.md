@@ -108,9 +108,15 @@ As Fatou Bensouda, the ICC chief prosecutor at the time, stated in the *Al Mahdi
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Suggested Readings
 
 {{< q-readings range="essay" >}}
+
+</div>
+<div class="backmatter">
 
 ## Notes
 

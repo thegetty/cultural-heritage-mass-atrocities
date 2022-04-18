@@ -108,17 +108,21 @@ The primary conclusion of this discussion is that the humanitarian justification
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Suggested Readings
 
 {{< q-readings range="essay" >}}
+
+</div>
+<div class="backmatter">
 
 ## Notes
 
 </div>
 
-[^1]: Michael Barnett, *Empire of Humanity: A History of Humanitarianism* (Ithaca, NY: Cornell
-
-    University Press, 2011).
+[^1]: Michael Barnett, *Empire of Humanity: A History of Humanitarianism* (Ithaca, NY: Cornell University Press, 2011).
 
 [^2]: Jean Pictet, “The Fundamental Principles of the Red Cross: Commentary,” International Committee of the Red Cross, 1 January 1979, https://www.icrc.org/en/doc/resources/documents/misc/fundamental-principles-commentary-010179.htm.
 

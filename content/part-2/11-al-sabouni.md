@@ -148,11 +148,19 @@ Today, Homs has been transformed from a dull city to a dead city. The piecemeal 
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Suggested Readings
 
 {{< q-readings range="essay" >}}
 
+</div>
+<div class="backmatter">
+
 ## Notes
+
+</div>
 
 [^1]: Sol Camacho, “Retrospective: Lina Bo Bardi,” *Architectural Review*, December 2019–January 2020, 30.
 

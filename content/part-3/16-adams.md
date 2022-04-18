@@ -128,9 +128,15 @@ That, after all, was the whole point of Bokova’s “cultural cleansing” argu
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Suggested Readings
 
 {{< q-readings range="essay" >}}
+
+</div>
+<div class="backmatter">
 
 ## Notes
 

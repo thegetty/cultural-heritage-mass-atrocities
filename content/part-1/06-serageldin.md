@@ -140,11 +140,17 @@ It is important to remind ourselves just how valuable these elements of our cult
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Suggested Readings
 
 {{< q-readings range="essay" >}}
 
-## notes
+</div>
+<div class="backmatter">
+
+## Notes
 
 </div>
 

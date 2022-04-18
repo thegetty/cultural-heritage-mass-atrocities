@@ -101,19 +101,26 @@ Fourth, the intention of the combatant matters. Constraint is most likely in con
 
 The fifth and final lesson is that opponents will take advantage of that hesitation. Thus, any reluctance to target sacred heritage sites in wartime will provoke a moral hazard. At the very least, the enemy will use sacred sites as sanctuaries from violence, hiding their wounded, weapons, supplies, and even combatants there. At worst, they will try to provoke attacks on sacred heritage sites by using them as bases of operation, placing sniper nests in church towers or minarets, or seeking refuge from hot pursuit in temples and mosques.[^42] As often in war, acting with restraint imposes costs on one’s own units and provides some advantage to opponents. The challenge for decisionmakers is to strike a balance between those tactical considerations and the broader strategic costs of damaging holy places.
 
-<div class="backmatter pdf-page-break-before">
+<div class="backmatter">
 
 ## Biography
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Suggested Readings
 
 {{< q-readings range="essay" >}}
 
+</div>
+<div class="backmatter">
+
 ## Notes
 
 </div>
+
 
 [^1]: Robert M. Edsel, *Saving Italy: The Race to Rescue a Nation’s Treasures from the Nazis* (New York: W. W. Norton, 2013), 97; John North, ed., *The Memoirs of Field-Marshal Earl Alexander of Tunis: 1940–1945* (London: Cassell, 2000), 90.
 

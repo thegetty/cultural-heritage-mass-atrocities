@@ -82,9 +82,15 @@ Late antiquity serves to teach us this painful lesson. It is scarcely comforting
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Suggested Readings
 
 {{< q-readings range="essay" >}}
+
+</div>
+<div class="backmatter">
 
 ## Notes
 

@@ -98,9 +98,15 @@ After the occupation of Timbuktu it was possible to demonstrate that cultural he
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Selected Readings
 
 {{< q-readings range="essay" >}}
+
+</div>
+<div class="backmatter">
 
 ## Notes
 

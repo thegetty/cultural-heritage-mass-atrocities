@@ -174,9 +174,15 @@ In 1917, the year of Edward Burnett Tylor’s death, what we’ve been taught to
 
 {{< q-contributor range="page" format="bio" >}}
 
+</div>
+<div class="backmatter">
+
 ## Suggested Readings
 
 {{< q-readings range="essay" >}}
+
+</div>
+<div class="backmatter">
 
 ## Notes
 
