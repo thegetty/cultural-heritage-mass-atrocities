@@ -3,7 +3,7 @@ title: "Conclusion: Toward Research, Policy, and Action Agendas"
 short_title: "Conclusion"
 weight: 60
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - id: jcuno
   - id: tweiss

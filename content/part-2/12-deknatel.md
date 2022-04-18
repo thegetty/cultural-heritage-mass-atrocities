@@ -4,7 +4,7 @@ short_title:
 label: "12"
 weight: 27
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Frederick
     last_name: Deknatel

@@ -5,7 +5,7 @@ short_title: "Transitional Justice Strategies"
 label: "20"
 weight: 37
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Philippe
     last_name: Sands

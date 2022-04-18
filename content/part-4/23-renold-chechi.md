@@ -4,7 +4,7 @@ short_title: "International Human Rights Law"
 label: "23"
 weight: 44
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Marc-André
     last_name: Renold

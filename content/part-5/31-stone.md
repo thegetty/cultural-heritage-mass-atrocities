@@ -5,7 +5,7 @@ short_title: "Cultural Property in Armed Conflict"
 label: "31"
 weight: 56
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Peter G.
     last_name: Stone

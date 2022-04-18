@@ -4,7 +4,7 @@ short_title: "Engaging Nonstate Armed Groups"
 label: "19"
 weight: 36
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Jennifer M.
     last_name: Welsh

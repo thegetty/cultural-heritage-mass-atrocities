@@ -4,7 +4,7 @@ short_title: "Terrorist Attacks on World Heritage"
 label: "26"
 weight: 47
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Sabine
     last_name: von Schorlemer

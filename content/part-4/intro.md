@@ -4,7 +4,7 @@ subtitle: "Part 4"
 weight: 41
 type: essay
 pdf_download: false
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - id: jcuno
   - id: tweiss

@@ -4,7 +4,7 @@ subtitle: "The Impact of the Syrian War on a World Heritage City"
 label: "11"
 weight: 26
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Marwa
     last_name: al-Sabouni

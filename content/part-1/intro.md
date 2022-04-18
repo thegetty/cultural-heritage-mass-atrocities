@@ -4,7 +4,7 @@ subtitle: "Part 1"
 weight: 11
 type: essay
 pdf_download: false
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - id: jcuno
   - id: tweiss

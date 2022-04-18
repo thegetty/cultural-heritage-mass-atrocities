@@ -4,7 +4,7 @@ subtitle: "The Destruction of Timbuktu’s Mausoleums of Saints"
 label: "14"
 weight: 29
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Lazare Eloundou
     last_name: Assomo

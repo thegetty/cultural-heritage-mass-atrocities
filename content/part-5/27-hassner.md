@@ -5,7 +5,7 @@ short_title: "War and Religious Heritage"
 label: "27"
 weight: 52
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Ron E.
     last_name: Hassner

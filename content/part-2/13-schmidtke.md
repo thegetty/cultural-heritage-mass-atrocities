@@ -4,7 +4,7 @@ short_title: "Yemen’s Manuscript Culture"
 label: "13"
 weight: 28
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Sabine
     last_name: Schmidtke

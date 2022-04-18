@@ -4,7 +4,7 @@ short_title: "International Humanitarian Law"
 label: "22"
 weight: 43
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Benjamin
     last_name: Charlier

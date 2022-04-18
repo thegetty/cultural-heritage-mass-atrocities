@@ -4,7 +4,7 @@ short_title: "Peace Operations"
 label: "30"
 weight: 55
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Richard
     last_name: Gowan

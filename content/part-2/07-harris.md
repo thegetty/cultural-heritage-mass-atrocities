@@ -4,7 +4,7 @@ short_title: "Uyghur Heritage"
 label: "7"
 weight: 22
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Rachel
     last_name: Harris

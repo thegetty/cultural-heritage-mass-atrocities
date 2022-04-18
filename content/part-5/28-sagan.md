@@ -4,7 +4,7 @@ subtitle: "Leadership, Law, and the Protection of Cultural Heritage"
 label: "28"
 weight: 53
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Scott D.
     last_name: Sagan

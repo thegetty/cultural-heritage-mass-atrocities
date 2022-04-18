@@ -4,7 +4,7 @@ short_title: "Human Life and Cultural Heritage in War"
 label: "17"
 weight: 34
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Hugo
     last_name: Slim

@@ -4,7 +4,8 @@ short_title: "Identity and Cultural Heritage"
 label: "1"
 weight: 12
 type: essay
-copyright: "© 2018 Kwame Anthony Appiah."
+pdf_page: 26
+copyright: "© 2018 Kwame Anthony Appiah"
 contributor:
   - first_name: Kwame Anthony
     last_name: Appiah

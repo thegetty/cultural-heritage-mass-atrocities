@@ -5,7 +5,7 @@ short_title: "Cultural Heritage in Wartime"
 label: "29"
 weight: 54
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Ruth Margolies
     last_name: Beitler

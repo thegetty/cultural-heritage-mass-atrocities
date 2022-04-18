@@ -3,7 +3,7 @@ title: Preface and Acknowledgments
 weight: 5
 type: page
 pdf_download: false
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - id: jcuno
   - id: tweiss

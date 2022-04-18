@@ -4,7 +4,7 @@ short_title:
 label: "25"
 weight: 46
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Joseph
     last_name: Powderly

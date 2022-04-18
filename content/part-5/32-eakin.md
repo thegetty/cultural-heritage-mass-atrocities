@@ -4,7 +4,7 @@ subtitle: "The Peril and Promise of “Afterwar”"
 label: "32"
 weight: 57
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Hugh
     last_name: Eakin

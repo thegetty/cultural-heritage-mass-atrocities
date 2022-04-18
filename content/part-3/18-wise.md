@@ -4,7 +4,7 @@ subtitle: "A Humanitarian Perspective on Protecting Cultural Heritage in War"
 label: "18"
 weight: 35
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Paul H.
     last_name: Wise

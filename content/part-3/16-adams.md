@@ -4,7 +4,7 @@ short_title: "Cultural Cleansing and Mass Atrocities"
 label: "16"
 weight: 33
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Simon
     last_name: Adams

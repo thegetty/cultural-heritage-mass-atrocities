@@ -4,7 +4,7 @@ short_title: "Cultural Heritage of Late Antiquity"
 label: "4"
 weight: 15
 type: essay
-copyright: "© 2022 J. Paul Getty Trust."
+copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Glen W.
     last_name: Bowersock
