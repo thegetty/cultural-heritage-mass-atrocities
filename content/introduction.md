@@ -199,7 +199,7 @@ The attempt to annihilate history, Raphael Lemkin argued, proceeds with “the d
 
 [^12]: Philip E. Tetlock and Aaron Belkin, eds., *Counterfactual Thought Experiments in World Politics: Logical, Methodological, and Psychological Perspectives* (Princeton, NJ: Princeton University Press, 1996).
 
-[^13]: Helen Frowe and Derek Matravers, *Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection* (Los Angeles: J. Paul Getty Trust, 2019), Occasional Papers in Cultural Heritage Policy no. 3.
+[^13]: Helen Frowe and Derek Matravers, *Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection*, Occasional Papers in Cultural Heritage Policy no. 3 (Los Angeles: Getty Publications, 2019), https://www.getty.edu/publications/occasional-papers-3/.
 
 [^14]: Kwame Anthony Appiah, *Cosmopolitanism: Ethics in a World of Strangers* (New York: W. W. Norton), xiv.
 

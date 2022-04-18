@@ -32,7 +32,7 @@ The Polish lawyer Raphael Lemkin later used the term “vandalism” to describe
 
 Cultural genocide was included in the first draft of what became the 1948 Convention on the Prevention and Punishment of the Crime of Genocide. Its elements included systematic destruction of historical or religious monuments or their diversion to alien uses and destruction or dispersion of documents and objects of historical, artistic, or religious value, and of objects used in religious worship.[^6] Cultural genocide was ultimately omitted from the convention due to the objections of former colonial powers and settler states, which were concerned that the granting of cultural rights would undermine their sovereignty.[^7]
 
-Nonetheless, the concept has seen a resurgence, particularly where cultural sites are targeted because of their identification with a religious or ethnic minority group. For example, the International Criminal Tribunal for the former Yugoslavia (ICTY) used the intentional targeting of mosques and other structures devoted to religious uses as a basis for establishing the genocidal intent of the Bosnian Serb leadership against the Bosnian Muslim population during the Balkan civil war of the 1990s.[^8] In 2016, former US secretary of state John Kerry linked commission of genocide by ISIS with its destruction of religious sites of minority religious and ethnic groups, including Christians, Yezidis, and Shi’ite Muslims in northern Iraq and Syria, and its attempt “to erase thousands of years of cultural heritage by destroying churches, monasteries and ancient monuments.”[^9]
+Nonetheless, the concept has seen a resurgence, particularly where cultural sites are targeted because of their identification with a religious or ethnic minority group. For example, the International Criminal Tribunal for the former Yugoslavia (ICTY) used the intentional targeting of mosques and other structures devoted to religious uses as a basis for establishing the genocidal intent of the Bosnian Serb leadership against the Bosnian Muslim population during the Balkan civil war of the 1990s.[^8] In 2016, former US secretary of state John Kerry linked commission of genocide by ISIS with its destruction of religious sites of minority religious and ethnic groups, including Christians, Yezidis, and Shiite Muslims in northern Iraq and Syria, and its attempt “to erase thousands of years of cultural heritage by destroying churches, monasteries and ancient monuments.”[^9]
 
 ## Human Rights and the Destruction of Cultural Heritage
 
@@ -122,7 +122,7 @@ As Fatou Bensouda, the ICC chief prosecutor at the time, stated in the *Al Mahdi
 
 [^3]: Joseph L. Sax, “Heritage Preservation as a Public Duty: The Abbé Grégoire and the Origins of an Idea,” *Michigan Law Review* 88, no. 5 (1989–90): 1161.
 
-[^4]:  David Nersessian, “Rethinking Cultural Genocide under International Law,” Human Rights Dialogue: Cultural Rights, Carnegie Council for Ethics in International Affairs, 22 April 2005, [https://www.carnegiecouncil.org/publications/archive/dialogue/2_12/section_1/5139](https://www.carnegiecouncil.org/publications/archive/dialogue/2_12/section_1/5139); and Elisa Novic, *The Concept of Cultural Genocide* (Oxford: Oxford University Press, 2016), 18–22. See also Edward C. Luck, *Cultural Genocide and the Protection of Cultural Heritage*, Occasional Papers in Cultural Heritage Policy, no. 2 (Los Angeles: Getty Publications, 2018), 17–22, https://www.getty.edu/publications/pdfs/CulturalGenocide_Luck.pdf.
+[^4]:  David Nersessian, “Rethinking Cultural Genocide under International Law,” Human Rights Dialogue: Cultural Rights, Carnegie Council for Ethics in International Affairs, 22 April 2005, [https://www.carnegiecouncil.org/publications/archive/dialogue/2_12/section_1/5139](https://www.carnegiecouncil.org/publications/archive/dialogue/2_12/section_1/5139); and Elisa Novic, *The Concept of Cultural Genocide* (Oxford: Oxford University Press, 2016), 18–22. See also Edward C. Luck, *Cultural Genocide and the Protection of Cultural Heritage*, Occasional Papers in Cultural Heritage Policy no. 2 (Los Angeles: Getty Publications, 2018), 17–22, https://www.getty.edu/publications/pdfs/CulturalGenocide_Luck.pdf.
 
 [^5]:  Raphael Lemkin, “Acts Constituting a General (Transnational) Danger Considered as Offences against the Law of Nations,” Additional Explications to the Special Report Presented to the 5th Conference for the Unification of Penal Law in Madrid, 14–20 October 1933, www.preventgenocide.org/lemkin/madrid1933-english.htm.
 
@@ -166,7 +166,7 @@ As Fatou Bensouda, the ICC chief prosecutor at the time, stated in the *Al Mahdi
 
 [^25]: UN, *Framework of Analysis for Atrocity Crimes*, 2.
 
-[^26]: Thomas G. Weiss and Nina Connelly, eds., *Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones*, Occasional Papers in Cultural Heritage Policy, no. 1 (Los Angeles: Getty Publications, 2017), 13–14, https://www.getty.edu/publications/occasional-papers-1/.
+[^26]: Thomas G. Weiss and Nina Connelly, eds., *Cultural Cleansing and Mass Atrocities: Protecting Cultural Heritage in Armed Conflict Zones*, Occasional Papers in Cultural Heritage Policy no. 1 (Los Angeles: Getty Publications, 2017), 13–14, https://www.getty.edu/publications/occasional-papers-1/.
 
 [^27]: Kevin Chamberlain, *War and Cultural Heritage: A Commentary on the Hague Convention 1954 and Its Two Protocols*, 2nd ed. (Builth Wells, UK: Institute of Art and Law, 2013), 52–55.
 
@@ -202,7 +202,7 @@ As Fatou Bensouda, the ICC chief prosecutor at the time, stated in the *Al Mahdi
 
 [^43]: Weiss and Connelly, *Cultural Cleansing and Mass Atrocities*, 38.
 
-[^44]: Helen Frowe and Derek Matravers, *Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection*, Occasional Papers in Cultural Heritage Policy, no. 3 (Los Angeles: Getty Publications, 2019), https://www.getty.edu/publications/occasional-papers-3/.
+[^44]: Helen Frowe and Derek Matravers, *Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection*, Occasional Papers in Cultural Heritage Policy no. 3 (Los Angeles: Getty Publications, 2019), https://www.getty.edu/publications/occasional-papers-3/.
 
 [^45]: James Cuno, “The Responsibility to Protect the World’s Cultural Heritage,” *Brown Journal of World Affairs* 23, no. 1 (2016): 106.
 

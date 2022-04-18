@@ -24,7 +24,7 @@ The 1993 destruction of the Old Bridge in Mostar during the Yugoslav wars and th
 
 What happened later was unthinkable. In 2012, extremists took control of the northern part of Mali and destroyed many of Timbuktu’s ancient mausoleums and mosques. About 4,200 manuscripts of the Institut des Hautes Études et de Recherches Islamiques Ahmed Baba (IHERI-AB) were also burned by the armed groups. This was in a city considered the center of Islamic learning from the thirteenth to seventeenth centuries, and that at one time counted nearly two hundred schools and universities attracting thousands of students from across the Muslim world. It is thanks to this history of enlightenment that the entire city of Timbuktu was inscribed on the World Heritage List in 1988.
 
-In addition, all six World Heritage Sites in Syria have been damaged by fighting or performative actions over the last ten years, including the Old Cities of Aleppo and Damascus. Aleppo’s al-Madina Souk, the world’s largest covered historical market and part of the Old City, was burned and partly destroyed in fighting that began in 2012, and the following year the Great Umayyad Mosque became a battlefield, leading to the decision of the World Heritage Committee already in 2013 to place them both on the List of World Heritage in Danger so as to draw attention to the risks they were facing. Nonetheless, in 2015, the Arch of Triumph and the Temple of Bel, both part of the World Heritage Site of Palmyra, were blown up. On 18 August that year extremists from the Islamic State of Iraq and Syria (ISIS, also known as ISIL or Da’esh) also publicly beheaded Dr. Khaled al-Asaad, the renowned guardian of Palmyra, who had helped evacuate the city museum before the takeover. He was tortured in an unsuccessful attempt to get him to reveal the location of hidden artefacts and then brutally murdered.[^3]
+In addition, all six World Heritage Sites in Syria have been damaged by fighting or performative actions over the last ten years, including the Old Cities of Aleppo and Damascus. Aleppo’s al-Madina Souk, the world’s largest covered historical market and part of the Old City, was burned and partly destroyed in fighting that began in 2012, and the following year the Great Umayyad Mosque became a battlefield, leading to the decision of the World Heritage Committee already in 2013 to place them both on the List of World Heritage in Danger so as to draw attention to the risks they were facing. Nonetheless, in 2015, the Arch of Triumph and the Temple of Bel, both part of the World Heritage Site of Palmyra, were blown up. On 18 August that year extremists from the Islamic State of Iraq and Syria (ISIS, also known as ISIL or Da’esh) also publicly beheaded Dr. Khaled al-Asaad, the renowned guardian of Palmyra, who had helped evacuate the city museum before the takeover. He was tortured in an unsuccessful attempt to get him to reveal the location of hidden artifacts and then brutally murdered.[^3]
 
 In autumn 2014, I decided to go to Iraq, which was then largely occupied by Da’esh, to see the destruction for myself and explore with the authorities how UNESCO could help to prevent further damage and looting of unique cultural sites. I chose the symbolic date of 2 November, on which the United Nations marked for the first time the International Day to End Impunity for Crimes against Journalists. In addition, I wanted to send a message that extremists not only destroy heritage but also persecute people and stifle freethinking and speech.
 
@@ -66,7 +66,7 @@ In pursuit of the third line of action, raising public awareness of the scale of
 
 My tenure at UNESCO demonstrated the power of culture and heritage to mobilize, rebuild, reconcile, renew, and heal. Accompanying then French president François Hollande to Timbuktu in February 2013,[^19] I witnessed the pain, suffering, and devastating effect of the destruction of ancient heritage on local communities. Two years later I returned to inaugurate fourteen mausoleums which had been reconstructed by local masters with traditional materials under UNESCO’s guidance. The local communities had recovered their identities. The destruction and reconstruction of the mausoleums is a most compelling example of how attacks against culture are attacks against the very identity of communities and peoples, and the very notion of sharing common histories, narratives, and values: without reconstruction, reconciliation becomes all the more difficult. A decade earlier, in Bosnia and Herzegovina, we learned the same lesson when former enemies joined forces in 2004 to rebuild the Mostar Bridge. While there are over a thousand sites on the World Heritage List, only two were inscribed following their reconstruction: the Mostar Bridge and the Historic Centre of Warsaw, the latter almost totally destroyed during World War II.
 
-The link between culture and heritage, on the one hand, with humanitarian and security concerns, on the other, has been enshrined in several Security Council resolutions linking heritage protection and mass atrocities. Resolution 2347 of March 2017, promoted by UNESCO and sponsored by France and Italy, is a milestone in the efforts to preserve heritage amidst armed conflict. The first resolution to recognize that attacks on cultural heritage are a threat to international peace and security—the basis for council action—it not only deplored the unlawful destruction of cultural heritage, religious sites, and artefacts, as well as the smuggling of cultural property by terrorist groups during armed conflict, but also affirmed that such attacks might constitute a war crime. Also important is resolution 2379, in September the same year, related to Da’esh accountability, which similarly underscored the link between attacks on heritage and on human lives.
+The link between culture and heritage, on the one hand, with humanitarian and security concerns, on the other, has been enshrined in several Security Council resolutions linking heritage protection and mass atrocities. Resolution 2347 of March 2017, promoted by UNESCO and sponsored by France and Italy, is a milestone in the efforts to preserve heritage amidst armed conflict. The first resolution to recognize that attacks on cultural heritage are a threat to international peace and security—the basis for council action—it not only deplored the unlawful destruction of cultural heritage, religious sites, and artifacts, as well as the smuggling of cultural property by terrorist groups during armed conflict, but also affirmed that such attacks might constitute a war crime. Also important is resolution 2379, in September the same year, related to Da’esh accountability, which similarly underscored the link between attacks on heritage and on human lives.
 
 All of this strengthened the understanding that heritage is not just marvelous sites in tourist brochures; it entails a vision for peace and mutual respect, carved in stone and cultural landscapes, with the power to change the minds of women and men, and to shape a different future for all. Heritage preservation shows us that cultures have always influenced each other and are irresistibly intertwined. The result is a formidable and unprecedented diversity.
 
@@ -88,23 +88,17 @@ In short, when cultural heritage is destroyed anywhere in the world, we are all 
 
 </div>
 
-[^1]: Franceinfo, “Les mausolées de la plus grande mosquée de Tombouctou ont été détruits,” 6 December 2016,
+[^1]: Franceinfo, “Les mausolées de la plus grande mosquée de Tombouctou ont été détruits,” 6 December 2016, https://www.francetvinfo.fr/culture/patrimoine/les-mausolees-de-la-plus-grande-mosquee-de-tombouctou-ont-ete-detruits_3330445.html.
 
-    https://www.francetvinfo.fr/culture/patrimoine/les-mausolees-de-la-plus-grande-mosquee-de-tombouctou-ont-ete-detruits_3330445.html.
+[^2]: Irina Bokova, *UNESCO’s Response to the Rise of Violent Extremism: A Decade of Building International Momentum in the Struggle to Protect Cultural Heritage*, Occasional Papers in Cultural Heritage Policy no. 5 (Los Angeles: Getty Publications, 2021), https://www.getty.edu/publications/occasional-papers-5/.
 
-[^2]: Irina Bokova, *UNESCO’s Response to the Rise of Violent Extremism: A Decade of Building International Momentum in the Struggle to Protect Cultural Heritage* (Los Angeles: J. Paul Getty Trust, 2021), Occasional Papers in Cultural Heritage Policy no. 5.
-
-[^3]: Kareem Shaheen and Ian Black, “Beheaded Syrian Scholar Refused to Lead Isis to Hidden Palmyra Antiquities,” *Guardian*, 19 August 2015,
-
-    https://www.theguardian.com/world/2015/aug/18/isis-beheads-archaeologist-syria.
+[^3]: Kareem Shaheen and Ian Black, “Beheaded Syrian Scholar Refused to Lead Isis to Hidden Palmyra Antiquities,” *Guardian*, 19 August 2015, https://www.theguardian.com/world/2015/aug/18/isis-beheads-archaeologist-syria.
 
 [^4]: MINUSMA, “Cultural Heritage,” https://minusma.unmissions.org/en/cultural-heritage.
 
 [^5]: Blue Shield International, “Who We Are,” https://theblueshield.org/about-us/what-is-blue-shield.
 
-[^6]: UN News, “Destruction of Cultural Heritage Is an Attack on People and Their Fundamental Rights—UN Expert,” 27 October 2016,
-
-    https://news.un.org/en/story/2016/10/543912-destruction-cultural-heritage-attack-people-and-their-fundamental-rights-un.
+[^6]: UN News, “Destruction of Cultural Heritage Is an Attack on People and Their Fundamental Rights—UN Expert,” 27 October 2016, https://news.un.org/en/story/2016/10/543912-destruction-cultural-heritage-attack-people-and-their-fundamental-rights-un.
 
 [^7]: UNESCO, “Expert Meeting on the ‘Responsibility to Protect’ and the Protection of Cultural Heritage: Recommendations,” 27 November 2015, http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/CLT/pdf/R2P-Recommendations-EN.pdf.
 
@@ -112,13 +106,9 @@ In short, when cultural heritage is destroyed anywhere in the world, we are all 
 
 [^9]: UNESCO, “Second Meeting of States Parties to the 1970 Convention,” http://www.unesco.org/new/en/culture/themes/illicit-trafficking-of-cultural-property/meeting-of-states-parties/2nd-msp-2012/.
 
-[^10]: UNESCO, “End of 36th Session of the World Heritage Committee Marked by Concern for World Heritage Sites in Mali,” 6 July 2012,
+[^10]: UNESCO, “End of 36th Session of the World Heritage Committee Marked by Concern for World Heritage Sites in Mali,” 6 July 2012, http://www.unesco.org/new/en/media-services/single-view/news/end_of_36th_session_of_the_world_heritage_committee_marked_b/.
 
-    http://www.unesco.org/new/en/media-services/single-view/news/end_of_36th_session_of_the_world_heritage_committee_marked_b/.
-
-[^11]: UNESCO, “Syria’s Six World Heritage Sites Placed on List of World Heritage in Danger,” 20 June 2013,
-
-    [https://en.unesco.org/news/syria’s-six-world-heritage-sites-placed-list-world-heritage-danger](https://en.unesco.org/news/syria’s-six-world-heritage-sites-placed-list-world-heritage-danger).
+[^11]: UNESCO, “Syria’s Six World Heritage Sites Placed on List of World Heritage in Danger,” 20 June 2013, [https://en.unesco.org/news/syria’s-six-world-heritage-sites-placed-list-world-heritage-danger](https://en.unesco.org/news/syria’s-six-world-heritage-sites-placed-list-world-heritage-danger).
 
 [^12]: UNESCO, “Reinforcement of UNESCO’s Action for the Protection of Culture and the Promotion of Cultural Pluralism in the Event of Armed Conflict,” UN doc. 38/C/49, 2 November 2015, https://en.unesco.org/system/files/235186e1.pdf.
 

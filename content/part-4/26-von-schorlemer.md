@@ -174,7 +174,7 @@ The author wishes to express her gratitude to Jessica Nagamichi for her research
 
 [^4]: UN Human Rights Council, *Report of the Special Rapporteur in the Field of Cultural Rights*, UN doc. A/HRC/34/56, 16 January 2017, para. 5.
 
-[^5]: Irina Bokova, *UNESCO’s Response to the Rise of Violent Extremism: A Decade of Building International Momentum in the Struggle to Protect Cultural Heritage*, Occasional Papers in Cultural Heritage Policy, no. 5 (Los Angeles: Getty Publications, 2021), 16–20, https://www.getty.edu/publications/occasional-papers-5/.
+[^5]: Irina Bokova, *UNESCO’s Response to the Rise of Violent Extremism: A Decade of Building International Momentum in the Struggle to Protect Cultural Heritage*, Occasional Papers in Cultural Heritage Policy no. 5 (Los Angeles: Getty Publications, 2021), 16–20, https://www.getty.edu/publications/occasional-papers-5/.
 
 [^6]: See Security Council, United Nations Security Council Consolidated List, https://www.un.org/securitycouncil/content/un-sc-consolidated-list.
 
@@ -184,7 +184,7 @@ The author wishes to express her gratitude to Jessica Nagamichi for her research
 
 [^9]: UN Office on Drugs and Crime, *Module 1: Introduction to International Terrorism*, Education for Justice University Module Series on Counter-Terrorism, August 2018, https://www.unodc.org/documents/e4j/18-04932_CT_Mod_01_ebook_FINALpdf.pdf. See also Sabine von Schorlemer, “Cultural Heritage Protection as a Security Issue in the 21st Century: Recent Developments,” *Indonesian Journal of International Law* 16, no. 1 (2018): 30–33.
 
-[^10]: James Cuno and Thomas G. Weiss, “Introduction,” in *Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*, Occasional Papers in Cultural Heritage Policy, no. 4 (Los Angeles: Getty Publications, 2020), 6.
+[^10]: James Cuno and Thomas G. Weiss, “Introduction,” in *Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*, Occasional Papers in Cultural Heritage Policy no. 4 (Los Angeles: Getty Publications, 2020), 6, https://www.getty.edu/publications/occasional-papers-4/.
 
 [^11]: UNESCO, “Director-General Denounces Cultural Cleansing during Visit to Iraq,” 4 November 2014, https://en.unesco.org/news/director-general-denounces-cultural-cleansing-during-visit-iraq.
 
