@@ -1,0 +1,9 @@
+<a href="{{ .Page.Permalink | relURL }}">
+
+{{- with .Page.Params.label }}{{ . }}{{ $.Site.Params.pageLabelDivider }}{{ end -}}
+
+{{- partial "page-title.html" . | markdownify -}}
+
+{{- if .Page.Params.contributor }}<span class="contributor"> — {{ partial "contributor-list.html" (dict "range" .Page.Params.contributor "contributorType" "all" "listType" "string" "Site" .Site) }}</span>{{ end -}}
+
+{{ if and (ne .Site.Params.pdf true) (ne .Site.Params.epub true) }}<span class="arrow">&nbsp;{{- partial "icon.html" (dict "type" "arrow-forward" "description" "") -}}</span>{{ end }}</a>

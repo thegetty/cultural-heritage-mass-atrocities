@@ -7,6 +7,7 @@ copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Herit
 contributor:
   - id: jcuno
   - id: tweiss
+contributor_byline: false
 ---
 
 In December 2016, the American Academy of Arts and Sciences and the J. Paul Getty Trust convened a meeting at the British Academy, London, to discuss an international framework for the protection of cultural heritage in zones of armed conflict. Our timing was compelled by the purposeful destruction of cultural heritage in Syria and Iraq, and by the recent conviction of Ahmad al-Faqi al-Mahdi by the International Criminal Court for the war crime of attacking historic and religious buildings in Timbuktu.
@@ -33,8 +34,12 @@ When we set out to edit this volume, our initial task was to find a diverse grou
 
 Sadly, there is one voice missing. Edward C. Luck, who had provided both of us with clear-headed guidance and advice from the outset, was working on his chapter about major powers in February 2021 when he died after a brave battle with lung cancer. Ed’s premature death deprives our intellectual and policy communities, and especially his family and friends, of his warmth, insights, and humor.
 
+<div class="bottom-signature">
+
 J.C. and T.G.W.
 
 Los Angeles and Chicago
 
 December 2021
+
+</div>

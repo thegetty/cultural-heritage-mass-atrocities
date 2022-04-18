@@ -5,6 +5,7 @@
   {{ $page = printf "%s%s" .Page.File.Dir .Page.File.BaseFileName }}
 {{ end }}
 
+{{- if ne .Site.Params.pdf true -}}
 <div class="backmatter tabbed">
 
   <ul>
@@ -39,3 +40,4 @@
   {{ end }}
 
 </div>
+{{- end -}}
