@@ -4,7 +4,7 @@ short_title: "Identity and Cultural Heritage"
 label: "1"
 weight: 12
 type: essay
-copyright: "© 2018 Kwame Anthony Appiah. Originally published in *Cultural Heritage and Mass Atrocities* © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))"
+copyright: "© 2018 Kwame Anthony Appiah."
 contributor:
   - first_name: Kwame Anthony
     last_name: Appiah

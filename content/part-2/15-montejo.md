@@ -4,7 +4,7 @@ short_title: "Indigenous Guatemalan Heritage"
 label: "15"
 weight: 30
 type: essay
-copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Heritage and Mass Atrocities* © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))"
+copyright: "© 2022 J. Paul Getty Trust."
 contributor:
   - first_name: Victor
     last_name: Montejo

@@ -4,7 +4,7 @@ short_title: "International Humanitarian Law"
 label: "22"
 weight: 43
 type: essay
-copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Heritage and Mass Atrocities* © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))"
+copyright: "© 2022 J. Paul Getty Trust."
 contributor:
   - first_name: Benjamin
     last_name: Charlier

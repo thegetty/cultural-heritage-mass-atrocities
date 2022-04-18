@@ -5,7 +5,7 @@ short_title: "Transitional Justice Strategies"
 label: "20"
 weight: 37
 type: essay
-copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Heritage and Mass Atrocities* © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))"
+copyright: "© 2022 J. Paul Getty Trust."
 contributor:
   - first_name: Philippe
     last_name: Sands

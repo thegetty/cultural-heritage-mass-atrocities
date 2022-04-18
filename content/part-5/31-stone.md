@@ -5,7 +5,7 @@ short_title: "Cultural Property in Armed Conflict"
 label: "31"
 weight: 56
 type: essay
-copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Heritage and Mass Atrocities* © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))"
+copyright: "© 2022 J. Paul Getty Trust."
 contributor:
   - first_name: Peter G.
     last_name: Stone

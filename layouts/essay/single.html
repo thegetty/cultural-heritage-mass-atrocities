@@ -72,11 +72,6 @@
       <div class="content">
         {{ .Content }}
         {{ partial "page-bibliography.html" . }}
-        {{ if .Params.copyright }}
-        <div class="backmatter page-copyright-notice">
-        {{ markdownify .Params.copyright }}
-        </div>
-        {{ end }}
       </div>
       {{ partial "footer-buttons.html" . }}
     </div>

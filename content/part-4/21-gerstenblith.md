@@ -4,7 +4,7 @@ subtitle: "The Ties between People and Places"
 label: "21"
 weight: 42
 type: essay
-copyright: "© 2022 Patty Gerstenblith. Originally published in *Cultural Heritage and Mass Atrocities* © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))"
+copyright: "© 2022 Patty Gerstenblith."
 contributor:
   - first_name: Patty
     last_name: Gerstenblith

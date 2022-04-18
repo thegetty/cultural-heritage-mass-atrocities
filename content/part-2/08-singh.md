@@ -5,7 +5,7 @@ short_title: "Post-Conflict Sri Lanka and Afghanistan"
 label: "8"
 weight: 23
 type: essay
-copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Heritage and Mass Atrocities* © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))"
+copyright: "© 2022 J. Paul Getty Trust."
 contributor:
   - first_name: Kavita
     last_name: Singh
@@ -134,7 +134,7 @@ The truth, unfortunately, is often more complex. In Sri Lanka and Afghanistan, e
 
 </div>
 <div class="backmatter">
-  
+
 ## Notes
 
 </div>

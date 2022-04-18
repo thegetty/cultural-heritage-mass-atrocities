@@ -3,7 +3,7 @@ title: "Conclusion: Toward Research, Policy, and Action Agendas"
 short_title: "Conclusion"
 weight: 60
 type: essay
-copyright: "© 2022 J. Paul Getty Trust. Originally published in *Cultural Heritage and Mass Atrocities* © 2022 J. Paul Getty Trust, www.getty.edu/publications/cultural-heritage-mass-atrocities (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))"
+copyright: "© 2022 J. Paul Getty Trust."
 contributor:
   - id: jcuno
   - id: tweiss
