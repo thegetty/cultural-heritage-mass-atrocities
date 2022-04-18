@@ -9,27 +9,43 @@
   bleed: 0 !important;
   prince-trim: 0 !important;
   marks: none !important;
-  margin-left: 1in !important;
-  margin-right: 1in !important;
   color: #000 !important;
-
-  @bottom-right {
-    content: "" !important;
-  }
-
-  @bottom-left {
-    content: "" !important;
-  }
 }
 
-/* Display bios on the individual page downloads since they are otherwise only displayed in the end of the book in the full PDF */
-@media print {
-  .quire-essay h2#biography,
-  .quire-essay ul.quire-contributors-list.bio {
-    display: inherit !important;
-  }
-  .quire-essay ul.quire-contributors-list.bio,
-  .quire-essay ul.quire-contributors-list.bio li {
-    margin-left: 0 !important;
-  }
+/* Add ornament to blank pages */
+@page:blank {
+  /* background-image: url("../img/blank-page.svg"); */
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='.25in' width='4in'><text x='0' y='15' fill='black' font-size='18' font-style='italic'>This page intentionally blank</text></svg>");
+  background-repeat: no-repeat ;
+  background-position: center 28%;
+  background-color: #e8dabc;
+  /* content: "This page intentionally blank"; */
+}
+
+@page no-footer {
+  background-color: #e8dabc;
+}
+
+.quire-cover-page {
+  display: inherit !important;
+  page: no-footer;
+}
+.quire-cover-page p {
+  margin-bottom: 1rem !important;
+}
+.quire-cover-page p .quire-cover-page_label {
+  font-size: .75em;
+  text-transform: uppercase;
+  letter-spacing: .5pt;
+}
+.quire-cover-page p.quire-cover-page_date {
+  font-style: italic;
+  font-size: .875em;
+}
+.quire-cover-page img.quire-cover-page_logo {
+  width: 1in;
+  max-width: 1in;
+  /* position: fixed;
+  bottom: 1.25in;
+  left: 1in; */
 }

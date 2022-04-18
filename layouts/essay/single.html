@@ -9,7 +9,59 @@
 */}}
 
 {{ define "main" }}
-<article class="{{ partial "page-class.html" . }} quire-essay" id="main" role="main">
+
+{{ $imgDir := "img" }}
+
+{{ $pageNumber := "" }}
+{{ $pageStart := "" }}
+{{ with .Params.pdf_page }}
+  {{ $pageNumber = int . }}
+  {{ if eq (modBool $pageNumber 2) true }}
+  {{ $pageStart = "left" }}
+  {{ else }}
+  {{ $pageStart = "right" }}
+  {{ end }}
+{{ end }}
+
+{{- $endPunctuation := findRE "[!|?]$" .Site.Data.publication.title -}}
+
+{{- if eq .Site.Params.pdf true -}}
+<div class="quire-cover-page">
+
+<p><strong>{{- partial "page-title.html" . | markdownify }}</strong></p>
+
+<p><span class="quire-cover-page_label">Author(s):</span> {{ partial "contributor-list.html" (dict "range" .Params.contributor "contributorType" "all" "listType" "string" "Site" .Site) }}</p>
+
+<p><span class="quire-cover-page_label">Source:</span> Cuno, James, and Thomas G. Weiss, eds. <em>{{ .Site.Data.publication.title }}{{ with .Site.Data.publication.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}{{ . }}{{ end }}</em>. Los Angeles: Getty Publications, 2022, pp. xxx–xx</p>
+
+<p><span class="quire-cover-page_label">Published by:</span> Getty Publications</p>
+
+<p><span class="quire-cover-page_label">URL:</span> <span class="url-string">{{ if .Site.Data.publication.identifier.url }}{{ .Site.Data.publication.identifier.url }}{{ .Page.RelPermalink }}{{ else }}{{ .Page.Permalink }}{{ end }}</span></p>
+
+<p><span class="quire-cover-page_label">About the author(s):</span></p>
+
+{{- range .Page.Params.contributor -}}
+{{- if .bio -}}
+<p>{{ .bio | markdownify }}</p>
+{{- else if .id -}}
+{{- range where $.Site.Data.publication.contributor "Id" .id -}}
+<p>{{ .bio | markdownify }}</p>
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+<p class="quire-cover-page_date">PDF generated on {{ now.Format "January 2, 2006"}}</p>
+
+{{ range .Site.Data.publication.publisher }}
+  {{- if .logo -}}
+  <img src="{{ $imgDir | relURL }}/{{ .logo }}" class="quire-cover-page_logo" alt="logo" />
+  {{- end -}}
+{{ end }}
+
+</div>
+{{- end -}}
+
+<article class="{{ partial "page-class.html" . }} quire-essay" id="main" role="main"{{ with .Params.pdf_page }} style="counter-reset: page {{ $pageNumber }}; page-break-before: {{ $pageStart }};"{{ end }}>
   {{ partial "page-header.html" . }}
 
   <section id="content" class="section quire-page__content">

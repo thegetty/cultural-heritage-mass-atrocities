@@ -27,7 +27,7 @@ pub_type: book # book | journal-periodical | other
 
 identifier:
   isbn:
-  url:
+  url: https://www.getty.edu/publications/cultural-heritage-mass-attrocities
 
 publisher:
   - name: Getty Publications
