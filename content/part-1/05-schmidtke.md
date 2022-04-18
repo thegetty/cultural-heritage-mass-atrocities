@@ -4,6 +4,7 @@ short_title: "Written Heritage of the Muslim World"
 label: "5"
 weight: 16
 type: essay
+pdf_page: 86
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Sabine

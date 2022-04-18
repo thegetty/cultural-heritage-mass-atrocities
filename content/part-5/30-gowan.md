@@ -4,6 +4,7 @@ short_title: "Peace Operations"
 label: "30"
 weight: 55
 type: essay
+pdf_page: 517
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Richard

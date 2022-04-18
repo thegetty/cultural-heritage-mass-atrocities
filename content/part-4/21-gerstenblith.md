@@ -4,6 +4,7 @@ subtitle: "The Ties between People and Places"
 label: "21"
 weight: 42
 type: essay
+pdf_page: 363
 copyright: "© 2022 Patty Gerstenblith"
 contributor:
   - first_name: Patty

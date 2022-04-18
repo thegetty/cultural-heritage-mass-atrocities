@@ -5,6 +5,7 @@ short_title: "War and Religious Heritage"
 label: "27"
 weight: 52
 type: essay
+pdf_page: 471
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Ron E.

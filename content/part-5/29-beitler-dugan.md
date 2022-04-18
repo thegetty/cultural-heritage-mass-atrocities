@@ -5,6 +5,7 @@ short_title: "Cultural Heritage in Wartime"
 label: "29"
 weight: 54
 type: essay
+pdf_page: 500
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Ruth Margolies

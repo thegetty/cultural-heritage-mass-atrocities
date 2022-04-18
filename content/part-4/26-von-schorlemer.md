@@ -4,6 +4,7 @@ short_title: "Terrorist Attacks on World Heritage"
 label: "26"
 weight: 47
 type: essay
+pdf_page: 448
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Sabine

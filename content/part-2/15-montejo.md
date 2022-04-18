@@ -4,6 +4,7 @@ short_title: "Indigenous Guatemalan Heritage"
 label: "15"
 weight: 30
 type: essay
+pdf_page: 264
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Victor

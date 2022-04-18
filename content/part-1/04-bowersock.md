@@ -4,6 +4,7 @@ short_title: "Cultural Heritage of Late Antiquity"
 label: "4"
 weight: 15
 type: essay
+pdf_page: 78
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Glen W.

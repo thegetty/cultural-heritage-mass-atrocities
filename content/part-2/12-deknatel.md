@@ -4,6 +4,7 @@ short_title:
 label: "12"
 weight: 27
 type: essay
+pdf_page: 220
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Frederick

@@ -4,6 +4,7 @@ short_title: "The Value of Cultural Heritage"
 label: "6"
 weight: 17
 type: essay
+pdf_page: 110
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Ismail

@@ -5,6 +5,7 @@ short_title: "Transitional Justice Strategies"
 label: "20"
 weight: 37
 type: essay
+pdf_page: 343
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Philippe

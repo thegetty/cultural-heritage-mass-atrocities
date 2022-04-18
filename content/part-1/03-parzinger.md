@@ -5,6 +5,7 @@ short_title: "Learning from History"
 label: "3"
 weight: 14
 type: essay
+pdf_page: 59
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Hermann

@@ -32,11 +32,9 @@
 
 <p><span class="quire-cover-page_label">Author(s):</span> {{ partial "contributor-list.html" (dict "range" .Params.contributor "contributorType" "all" "listType" "string" "Site" .Site) }}</p>
 
-<p><span class="quire-cover-page_label">Source:</span> Cuno, James, and Thomas G. Weiss, eds. <em>{{ .Site.Data.publication.title }}{{ with .Site.Data.publication.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}{{ . }}{{ end }}</em>. Los Angeles: Getty Publications, 2022, pp. xxx–xx</p>
-
-<p><span class="quire-cover-page_label">Published by:</span> Getty Publications</p>
-
 <p><span class="quire-cover-page_label">URL:</span> <span class="url-string">{{ if .Site.Data.publication.identifier.url }}{{ .Site.Data.publication.identifier.url }}{{ .Page.RelPermalink }}{{ else }}{{ .Page.Permalink }}{{ end }}</span></p>
+
+<p><span class="quire-cover-page_label">Source:</span> Cuno, James, and Thomas G. Weiss, eds. <em>{{ .Site.Data.publication.title }}{{ with .Site.Data.publication.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}{{ . }}{{ end }}</em>. Los Angeles: Getty Publications, 2022. {{ with .Site.Data.publication.identifier.url }}{{ . }}.{{ end }}</p>
 
 <p><span class="quire-cover-page_label">About the author(s):</span></p>
 
@@ -44,13 +42,17 @@
 {{- if .bio -}}
 <p>{{ .bio | markdownify }}</p>
 {{- else if .id -}}
-{{- range where $.Site.Data.publication.contributor "Id" .id -}}
+{{- range where $.Site.Data.publication.contributor "id" .id -}}
 <p>{{ .bio | markdownify }}</p>
 {{- end -}}
 {{- end -}}
 {{- end -}}
 
-<p class="quire-cover-page_date">PDF generated on {{ now.Format "January 2, 2006"}}</p>
+<p><span class="quire-cover-page_label">Copyright:</span> {{ .Page.Params.copyright }}</p>
+
+<p><span class="quire-cover-page_label">License:</span> The text of this work is licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>. All images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.</p>
+
+<p><span class="quire-cover-page_label">PDF generated:</span> {{ now.Format "January 2, 2006"}}</p>
 
 {{ range .Site.Data.publication.publisher }}
   {{- if .logo -}}

@@ -4,6 +4,7 @@ short_title: "Customs and General Principles"
 label: "24"
 weight: 45
 type: essay
+pdf_page: 411
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Francesco

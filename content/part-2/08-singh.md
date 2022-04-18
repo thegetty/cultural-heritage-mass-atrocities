@@ -5,6 +5,7 @@ short_title: "Post-Conflict Sri Lanka and Afghanistan"
 label: "8"
 weight: 23
 type: essay
+pdf_page: 151
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Kavita

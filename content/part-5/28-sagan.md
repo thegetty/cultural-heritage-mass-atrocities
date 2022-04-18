@@ -4,6 +4,7 @@ subtitle: "Leadership, Law, and the Protection of Cultural Heritage"
 label: "28"
 weight: 53
 type: essay
+pdf_page: 485
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Scott D.

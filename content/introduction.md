@@ -2,6 +2,7 @@
 title: Introduction
 weight: 7
 type: essay
+pdf_page: 1
 class: page-one
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:

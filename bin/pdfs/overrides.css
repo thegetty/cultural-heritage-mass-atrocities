@@ -14,21 +14,32 @@
 
 /* Add ornament to blank pages */
 @page:blank {
-  /* background-image: url("../img/blank-page.svg"); */
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='.25in' width='4in'><text x='0' y='15' fill='black' font-size='18' font-style='italic'>This page intentionally blank</text></svg>");
-  background-repeat: no-repeat ;
-  background-position: center 28%;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='.25in' width='1.875in'><text x='0' y='15' fill='black' font-size='12' font-family='sans-serif' font-style='italic'>This page intentionally left blank</text></svg>");
+  background-repeat: no-repeat;
+  background-position: center 1.5in;
   background-color: #e8dabc;
-  /* content: "This page intentionally blank"; */
 }
 
-@page no-footer {
+@page download-page {
   background-color: #e8dabc;
+  @top-right {
+    content: none;
+  }
+  @top-right-corner {
+    content: none;
+  }
+  @top-left {
+    content: none;
+  }
+  @top-left-corner {
+    content: none;
+  }
 }
 
 .quire-cover-page {
   display: inherit !important;
-  page: no-footer;
+  page: download-page;
+  padding-top: .625in;
 }
 .quire-cover-page p {
   margin-bottom: 1rem !important;
@@ -38,14 +49,8 @@
   text-transform: uppercase;
   letter-spacing: .5pt;
 }
-.quire-cover-page p.quire-cover-page_date {
-  font-style: italic;
-  font-size: .875em;
-}
 .quire-cover-page img.quire-cover-page_logo {
   width: 1in;
   max-width: 1in;
-  /* position: fixed;
-  bottom: 1.25in;
-  left: 1in; */
+  margin-top: .5in;
 }

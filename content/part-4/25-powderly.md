@@ -4,6 +4,7 @@ short_title:
 label: "25"
 weight: 46
 type: essay
+pdf_page: 430
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Joseph

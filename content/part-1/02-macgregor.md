@@ -3,6 +3,7 @@ title: "Why Do We Value Cultural Heritage?"
 label: "2"
 weight: 13
 type: essay
+pdf_page: 49
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Neil

@@ -5,6 +5,7 @@ short_title: "The War on Heritage in Iraq"
 label: "9"
 weight: 24
 type: essay
+pdf_page: 168
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Gil

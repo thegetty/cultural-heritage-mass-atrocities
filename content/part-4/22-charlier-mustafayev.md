@@ -4,6 +4,7 @@ short_title: "International Humanitarian Law"
 label: "22"
 weight: 43
 type: essay
+pdf_page: 381
 copyright: "© 2022 J. Paul Getty Trust"
 contributor:
   - first_name: Benjamin
