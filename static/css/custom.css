@@ -1124,3 +1124,21 @@ strong {
     page: no-footer;
   }
 }
+
+/* STYLES FOR BOOK INDEX, ADDED IN MARKDOWN AS AN UNORDERED LIST */
+.quire-page--book-index .quire-page__content .container .content {
+  font-size: .875em;
+}
+.quire-page--book-index .quire-page__content .container .content ul {
+  column-count: 2;
+  column-gap: .1875in;
+  margin-left: 0;
+}
+.quire-page--book-index .quire-page__content .container .content ul li {
+  margin-left: 1em;
+  text-indent: -1em;
+  margin-bottom: 0;
+}
+.quire-page--book-index .quire-page__content .container .content ul li:before {
+  content: none;
+}
