@@ -23,16 +23,16 @@
 @page download-page {
   background-color: #e8dabc;
   @top-right {
-    content: none;
+    content: none !important;
   }
   @top-right-corner {
-    content: none;
+    content: none !important;
   }
   @top-left {
-    content: none;
+    content: none !important;
   }
   @top-left-corner {
-    content: none;
+    content: none !important;
   }
 }
 
