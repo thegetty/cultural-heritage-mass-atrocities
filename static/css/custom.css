@@ -39,18 +39,108 @@
   under the cover type when specified in cover.md with the
   .with-shading class */
 
-  --color-mid-dark: #6a4525;
+  --color-mid-dark: #886D30;
 
-  --color-mid-light: #966336;
+  --color-mid-light: #C5A459;
 
-  --accent-color: #bc7c44; /* Getty Terracotta */
+  --accent-color: #e21a22; /* Getty Terracotta */
   /* --accent-color should be the same value as $accent-color in
    themes/quire-starter-theme/source/css/variables.scss */
 
-  --white: #f5f5f5;
+  --white: #F2F1F0;
   --print-white: #ffff;
 
 }
+
+/* THE COVER */
+.quire-cover__hero,
+.quire-cover__overlay {
+  min-height: calc(95vh - 3rem - 6px) !important;
+}
+.quire-cover__hero {
+  background-color: #e8dbbd;
+  background-image: none;
+}
+
+.quire-cover__hero .title,
+.quire-cover__hero .contributor {
+  text-align: center;
+  color: #e21a22;
+  margin-top: 0;
+  font-size: 1.25rem;
+}
+.quire-cover__hero .title {
+  font-family: "Noto Serif", serif;
+  font-size: 3.5rem;
+}
+.hero.is-halfheight .hero-body,
+.hero.is-fullheight .hero-body,
+.hero.is-fullheight-with-navbar .hero-body {
+  padding: 0;
+  align-items: flex-start;
+}
+.hero-body .container.is-fluid {
+  bottom: 0;
+  margin: 0;
+  width: 100%;
+  background: #e8dbbd;
+  background-color: rgb(232,219,189,.7);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background: linear-gradient(180deg, rgb(232,219,189,0), rgb(232,219,189,.9), rgb(232,219,189,.8), rgb(232,219,189,1));
+}
+@media screen and (max-width:1175px) {
+  .hero-body .container.is-fluid {
+    padding-top: 3rem;
+  }
+  .quire-cover__hero .title .sm {
+    font-size: 2.5rem;
+  }
+}
+@media screen and (max-width:599px) {
+  .quire-cover__hero .title {
+    font-size: 2.25rem;
+  }
+  .quire-cover__hero .title .sm {
+    font-size: 1.75rem;
+  }
+}
+@media screen and (max-width:406px) {
+  .quire-cover__hero .title {
+    font-size: 1.75rem;
+  }
+  .quire-cover__hero .title .sm {
+    font-size: 1.25rem;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1rem;
+  }
+}
+
+/* BACKGROUND IMAGES */
+.quire-cover__hero-body__image {
+  width: 50vw;
+  overflow: hidden;
+  height: calc(75vh - 3rem - 6px);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.quire-cover__hero-body__image.cover-1 {
+  background-image: url('../img/figures/cover-1.jpg');
+}
+.quire-cover__hero-body__image.cover-2 {
+  background-image: url('../img/figures/cover-2.jpg');
+  background-position: center right;
+}
+
+.quire-cover__more .hero-more {
+  background-color: #e8dbbd;
+}
+.quire-cover__more .hero-more svg {
+  margin-left: .18rem;
+}
+
 
 /* STANDARD OCCASIONAL PAPERS SERIES DESIGN (EXCEPT FOR COVER)
 ============================================================================= */
@@ -69,7 +159,7 @@
 }
 .quire-progress-bar div {
   height: 6px;
-  background-color: var(--accent-color);
+  background-color: var(--color-mid-light);
 }
 .quire-menu__formats h6 {
   color: var(--accent-color);
