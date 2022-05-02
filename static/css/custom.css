@@ -210,6 +210,11 @@
   color: var(--color-mid-dark);
   margin-top: 2.5rem;
 }
+@media print {
+  .quire-page__header__contributor {
+    color: #000;
+  }
+}
 
 @media screen {
   .quire-page__header .hero-body {
@@ -251,10 +256,13 @@
 
 /* Matching page headings */
 .quire-page:not(.quire-cover) h1, .quire-page__header__title {
-  text-transform: uppercase;
-  letter-spacing: .5px;
   font-size: 2.5rem;
   font-weight: 700;
+  font-family: "Noto Serif", sans-serif;
+}
+.quire-page:not(.quire-cover) h1 .label, .quire-page__header__title .label {
+  text-transform: uppercase;
+  letter-spacing: .5px;
 }
 @media screen {
   .quire-page:not(.quire-cover) h1, .quire-page__header__title {
