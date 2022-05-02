@@ -694,6 +694,17 @@ strong {
 .quire-menu__header {
   padding-right: 1rem;
 }
+.quire-menu__header h4 {
+  font-family: "Noto Serif", serif;
+}
+.quire-menu__header h4.quire-menu__header__title {
+  font-family: "Noto Serif", serif;
+  font-size: 1.5rem;
+  width: 90%;
+}
+.quire-menu__header h4.quire-menu__header__title .sm {
+  font-size: 1.125rem;
+}
 .quire-menu__header__contributors,
 .quire-menu .cite-this,
 .quire-menu .quire-copyright + .menu-list {
@@ -701,6 +712,7 @@ strong {
 }
 .quire-menu__header__contributors {
   font-size: 1.15rem;
+  width: 80%;
 }
 .quire-menu .quire-copyright {
   padding-left: 0;
