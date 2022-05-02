@@ -1,5 +1,5 @@
 /* TEMP "UNCORRECTED PROOF" BANNER */
-@media screen {
+/* @media screen {
   #container::before,
   #container::after {
     color: white;
@@ -23,7 +23,7 @@
     bottom: -130px;
     right: -130px;
   }
-}
+} */
 
 :root {
 
@@ -83,11 +83,12 @@
   bottom: 0;
   margin: 0;
   width: 100%;
+  min-height: 20vh;
   background: #e8dbbd;
   background-color: rgb(232,219,189,.7);
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: space-around;
   background: linear-gradient(180deg, rgb(232,219,189,0), rgb(232,219,189,.9), rgb(232,219,189,.8), rgb(232,219,189,1));
 }
 
@@ -114,6 +115,14 @@
   margin-left: .18rem;
 }
 
+@media screen and (min-width:1800px) {
+  .quire-cover__hero .title {
+    font-size: 4rem;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1.5rem;
+  }
+}
 @media screen and (max-width:1175px) {
   .hero-body .container.is-fluid {
     padding-top: 3rem;
