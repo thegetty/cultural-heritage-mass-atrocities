@@ -178,6 +178,17 @@
   color: var(--accent-color);
   border-color: var(--accent-color);
 }
+.quire-navbar-controls__left a:hover,
+.quire-navbar-controls__left button:hover,
+.quire-navbar-controls__left .button:hover,
+.quire-navbar-controls__right a:hover,
+.quire-navbar-controls__right button:hover,
+.quire-navbar-controls__right .button:hover,
+.quire-navbar-controls .quire-navbar-page-controls__item a:hover,
+.quire-navbar-controls .quire-navbar-page-controls__item button:hover,
+.quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
+  background-color: var(--white);
+}
 
 /* Using Source Sans for better font-weight match */
 .quire-page__header .hero-body .label {
