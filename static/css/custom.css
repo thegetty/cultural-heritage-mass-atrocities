@@ -1040,15 +1040,26 @@ strong {
 .quire-page__content .content .tabbed [role="tablist"] a:hover {
   text-decoration: none;
   padding: 0.5rem 1em;
-  color: inherit !important;
   border-bottom-width: 0 !important;
 }
+.quire-page__content .content .tabbed [role="tablist"] a {
+  color: inherit;
+}
+.quire-page__content .content .tabbed [role="tablist"] a:hover {
+  color: var(--accent-color);
+}
 [role="tablist"] [aria-selected] {
-  border: 2px solid;
+  border: 2px solid var(--color-dark);
   background: var(--white);
   border-bottom: 0;
   position: relative;
   top: 2px;
+}
+.quire-page__content .content a:focus {
+  background-color: var(--white);
+}
+.quire-page__content .content [role="tablist"] a[aria-selected]:focus {
+  background-color: var(--white);
 }
 [role="tabpanel"] {
   border: 2px solid;
@@ -1156,6 +1167,12 @@ strong {
   height: .75rem;
   width:  .75rem;
   fill: var(--color-dark);
+}
+.quire-page__header .download-link a:hover {
+  color: var(--accent-color);
+}
+.quire-page__header .download-link a:hover svg {
+  fill: var(--accent-color);
 }
 
 /* STYLE SECTION BREAK PAGES IN PDF */
