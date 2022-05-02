@@ -347,7 +347,9 @@
     margin-left: .75in;
   }
   .quire-page h2,
-  .quire-page__content .content h2 {
+  .quire-page__content .content h2,
+  .quire-page h3,
+  .quire-page__content .content h3 {
     font-size: 1em;
     margin-bottom: 0;
     line-height: 1.7;
