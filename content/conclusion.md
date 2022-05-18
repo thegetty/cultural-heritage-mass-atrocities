@@ -172,7 +172,7 @@ The proverbial bottom line: all people share a common human heritage—as intric
 
 [^15]: Joseph H. Felter and Jacob N. Shapiro, “Limiting Civilian Casualties as Part of a Winning Strategy: The Case of Courageous Restraint,” *Daedalus* 146, no. 1 (2017): 45.
 
-[^16]: General Stanley McChrystal, International Security Assistance Force, “Tactical Directive,” 6 July 2009, Kabul, https://www.nato.int/isaf/docu/official_texts/Tactical_Directive_090706.pdf.
+[^16]: General Stanley McChrystal, International Security Assistance Force, “Tactical Directive,” 6 July 2009, Kabul, https://upload.wikimedia.org/wikipedia/commons/2/2f/ISAF_Tactical_Directive_Unclass_2009JUL06.pdf.
 
 [^17]: International Security Assistance Force, “General Petraeus Issues Updated Tactical Directive, Emphasizes ‘Disciplined Use of Force,’” news release, 4 August 2008, https://www.dvidshub.net/news/53931/gen-petraeus-issues-updated-tactical-directive-emphasizes-disciplined-use-force.
 
