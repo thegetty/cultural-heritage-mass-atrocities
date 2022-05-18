@@ -63,7 +63,7 @@ The second perspective on the archaeological evidence argues that the hill has b
 
 {{< q-figure id="fig-11-4a-al-sabouni" >}}
 
-{{< q-figure id="fig-11-4a-al-sabouni" >}}
+{{< q-figure id="fig-11-4b-al-sabouni" >}}
 
 The controversy surrounding the historical significance of Homs stems from data collected from aerial photography and geographical scans, along with comparisons of archaeological findings collected between 1957 and 1959. According to al-Sufi, the basis of the dispute is that, despite the detection of a Hellenistic plan underlying the city and the existence of engraved Greek writings that use the Seleucid dating system, there are no remnants of monuments or buildings that can be attributed to the Seleucid era, and that fact makes any historical judgment of an ancient Homs urban settlement inconclusive.
 
@@ -77,7 +77,7 @@ Julia Domna, a Homsi princess and youngest daughter of the high priest of the t
 
 {{< q-figure id="fig-11-6a-al-sabouni" class="pdf-no-snap" >}}
 
-{{< q-figure-group grid="2" id="fig-11-6b-al-sabouni, fig-11-6c-al-sabouni" label="Figure 11.6a–b" caption="The war inflicted great structural damages to the mosque, revealing older pillars from a previous structure buried within its walls. These remnants might be seen as indicative a unique preservation approach that opted not to tear down, but rather to build on." credit="Image: Marwa al-Sabouni" class="pdf-no-snap" >}}
+{{< q-figure-group grid="2" id="fig-11-6b-al-sabouni, fig-11-6c-al-sabouni" label="Figure 11.6b–c" caption="The war inflicted great structural damages to the mosque, revealing older pillars from a previous structure buried within its walls. These remnants might be seen as indicative of a unique preservation approach that opted not to tear down, but rather to build on." credit="Image: Marwa al-Sabouni" class="pdf-no-snap" >}}
 
 When I visited the mosque in the aftermath of fighting and first saw the half-exposed pillars, I was overwhelmed by the building’s sense of continuity in its development. The basalt slabs of its courtyard surface, its vaults, and its walls were brightened by strips of white limestone around the mosque’s doors and windows. In this building, the idea of historical present was so perfectly practiced over millennia: each picking up from where the other had left off, leaving no gaps in time through which meaning might slip. The word *heritage* in such places acquires another layer, belonging to no single past. It becomes an accumulation of experiences, expertise, and expressions.
 
