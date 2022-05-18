@@ -1,5 +1,5 @@
 ---
-title: "Uyghur Heritage under China’s “Anti-Religious Extremism” Campaigns"
+title: "Uyghur Heritage under China’s “Antireligious Extremism” Campaigns"
 short_title: "Uyghur Heritage"
 label: "7"
 weight: 22
