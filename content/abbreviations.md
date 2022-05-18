@@ -75,6 +75,7 @@ pdf_download: false
 | RASHID  | Research, Assessment and Safeguarding of the Heritage of Iraq in Danger |
 | SAA     | Society for American Archaeology |
 | SCPR    | Syrian Center for Policy Research |
+| SHOSI   | Safeguarding of the Heritage of Syria and Iraq Project |
 | SOAS    | School of Oriental and African Studies, University of London |
 | SPLM/A  | Sudan People’s Liberation Movement/Army |
 | TCCH    | Technical Committee on Cultural Heritage in Cyprus |
