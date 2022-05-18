@@ -201,7 +201,7 @@ The author wishes to express her gratitude to Jessica Nagamichi for her research
 
 [^14]: UNESCO, “UNESCO Declaration Concerning the Intentional Destruction of Cultural Heritage,” doc. no. 32 C/Resolution 33, 17 October 2003.
 
-[^15]: For details see Andrzej Jakubowski, “Resolution 2347: Mainstreaming the Protection of Cultural Heritage at the Global Level,” *Questions of International Law:* *Zoom-in* 48 (2018): 21–44.
+[^15]: For details, see Andrzej Jakubowski, “Resolution 2347: Mainstreaming the Protection of Cultural Heritage at the Global Level,” *Questions of International Law:* *Zoom-in* 48 (2018): 21–44.
 
 [^16]: Dieter Fleck, *The Handbook of International Humanitarian Law* (Oxford: Oxford University Press, 2021), 650–51.
 
