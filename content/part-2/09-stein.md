@@ -46,7 +46,7 @@ The declaration echoes the well-known precedent for this kind of widely publiciz
 
 It is important to emphasize that Da’esh’s and the Taliban’s focus on destroying pre-Islamic statues or other monuments as “idolatry” has no real historical grounding in the practices of the earliest Muslim “rightly guided” caliphs and does not represent mainstream Sunni Muslim belief or practice. In 2001, after the Taliban announced their edict, Sheikh Yusuf al-Qaradawi, an Egyptian cleric regarded as one of the most respected religious scholars in the modern Arab Muslim world, stated: “The statues made by the elders who came before Islam are part of a historic patrimony. When the Muslims penetrated Afghanistan, in the first century of Hijra, these statues were already there, and they were not destroyed. I advised our brothers of the Taliban movement to reconsider their decision in light of the danger of its negative impact.”[^10] Similarly, Sabri Abdel Raouf, chief of the Division of Islamic Studies at al-Azhar University in Cairo, stated that “statues intended for worship can be forbidden as contrary to Islam but statues that are not worshipped are not forbidden.”[^11] The views of these scholars were incorporated into the 2001 Doha Declaration on Islam and Cultural Heritage:
 
->The ulama participating in the Symposium affirmed that the position of Islam with regard to the preservation of the human cultural heritage derives from its appreciation of innate human values and from respect for peoples’ beliefs. They explained that the position of Islam regarding the preservation of the cultural heritage is a firm position of principle which expresses the very essence of the Islamic religion. Any individual or collective behaviour which is at variance with that position in no way reflects the Islamic position as expressed by the ulama and fuqaha (Islamic jurists) of the umma (nation of Islam).[^12]
+>The *‘ulamâ* participating in the Symposium affirmed that the position of Islam with regard to the preservation of the human cultural heritage derives from its appreciation of innate human values and from respect for peoples’ beliefs. They explained that the position of Islam regarding the preservation of the cultural heritage is a firm position of principle which expresses the very essence of the Islamic religion. Any individual or collective behaviour which is at variance with that position in no way reflects the Islamic position as expressed by the *‘ulamâ* and *fuqahâ* (Islamic jurists) of the umma (nation of Islam).[^12]
 
 Clearly, Da’esh’s commitment to the destruction of pre-Islamic and non-Islamic statues, monuments, and art—regardless of whether they were actually being worshipped—represents an extreme fundamentalist view at variance with the formally declared beliefs of mainstream Sunni Islam.
 
@@ -176,7 +176,7 @@ The flexibility and potential power of the performative destruction paradigm is 
 
 [^11]: Bouchenaki, “Safeguarding the Buddha Statues,” 24.
 
-[^12]: UNESCO, *Proceedings of the Doha Conference of Ulamâ on Islam and Cultural Heritage*, Doha, Qatar, 30–31 December 2001, 2005, 8, https://unesdoc.unesco.org/ark:/48223/pf0000140834.
+[^12]: UNESCO, *Proceedings of the Doha Conference of ‘Ulamâ on Islam and Cultural Heritage*, Doha, Qatar, 30–31 December 2001, 2005, 8, https://unesdoc.unesco.org/ark:/48223/pf0000140834.
 
 [^13]: Michael D. Danti, “Ground-Based Observations of Cultural Heritage Incidents in Syria and Iraq,” *Near Eastern Archaeology* 78, no. 3 (2015): 138.
 
