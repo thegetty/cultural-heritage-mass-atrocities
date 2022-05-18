@@ -29,7 +29,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-10-4-bandarin/info.json"
     alt: ""
     label: "Figure 10.4"
-    caption: "Aleppo damage analysis, September 2016. UNITAR, “Percentage Damage in Residential Area of Aleppo City,” https://unitar.org/unosat/node/44/2510)."
+    caption: "Aleppo damage analysis, September 2016. UNITAR, “Percentage Damage in Residential Area of Aleppo City,” https://unitar.org/unosat/node/44/2510."
     credit: "Image: UN Satellite Centre – UNOSAT / UNITAR"
 
   - id: "fig-10-5-bandarin"
@@ -63,7 +63,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-10a-al-sabouni/info.json"
     alt: ""
     label: "Figure 11.10a"
-    caption: "An historic photo of the Naourah (noria), or waterwheel, after which the city quarter Souk al-Naourah is named. The only remnant of the waterwheel today is the name of the neighborhood."
+    caption: "An historic photo of the Naourah (*noria*), or waterwheel, after which the city quarter Souk al-Naourah is named. The only remnant of the waterwheel today is the name of the neighborhood."
     credit: "Image: Wassermühle / dpa Picture Alliance / Alamy Stock Photo"
 
   - id: "fig-11-10b-al-sabouni"
@@ -82,7 +82,7 @@ figure_list:
     alt: ""
     label: "Figure 11.10c"
     caption: "Another section of Souk al-Naourah, showing the French-style buildings that used to serve as offices and shops before being destroyed by the recent war."
-    credit: "Image: Marwa Al Sabouni"
+    credit: "Image: Marwa al-Sabouni"
 
   - id: "fig-11-2-al-sabouni"
     src: "figures/fig-11-2-al-sabouni.jpg"
@@ -97,14 +97,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-3-al-sabouni/info.json"
     alt: ""
     label: "Figure 11.3"
-    caption: "Map of Homs showing the city’s location near the River Orontes. The orchards separate the city from Al-Wa’er neighborhood, a newer development built in the 1970s and 80s."
+    caption: "Map of Homs showing the city’s location near the Orontes River. The orchards separate the city from the Al-Wa’er neighborhood, a newer development built in the 1970s and 1980s."
     credit: "Image: © 2001 Homsonline.com"
 
   - id: "fig-11-4a-al-sabouni"
     src: "figures/fig-11-4a-al-sabouni.jpg"
     alt: ""
     label: "Figure 11.4a"
-    caption: "The Hill of Homs where the ancient city was originally built."
+    caption: "The Hill of Homs, where the ancient city was originally built."
     credit: "Image: CC BY-SA 4.0 / Dick Osseman"
 
   - id: "fig-11-4b-al-sabouni"
@@ -118,7 +118,7 @@ figure_list:
     src: "figures/fig-11-5-al-sabouni.jpg"
     alt: ""
     label: "Figure 11.5"
-    caption: "Julia Domna, the famous ancient queen born in Emesa (present-day Homs) and wife of Roman emperor Septimius Severus, who ruled from Rome in the third century AD."
+    caption: "Julia Domna, the famous ancient queen born in Emesa (present-day Homs) and wife of Roman emperor Septimius Severus, who ruled from Rome in the third century CE."
     credit: "Image: Adam Eastland Rome / Alamy Stock Photo"
 
   - id: "fig-11-6a-al-sabouni"
@@ -136,7 +136,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-6b-al-sabouni/info.json"
     alt: ""
     label: "Figure 11.6b"
-    caption: "The war inflicted great structural damages to the mosque, revealing older pillars from a previous structure buried within its walls. These remnants might be seen as indicative a unique preservation approach that opted not to tear down, but rather to build on."
+    caption: "The war inflicted great structural damages to the mosque, revealing older pillars from a previous structure buried within its walls. These remnants might be seen as indicative of a unique preservation approach that opted not to tear down, but rather to build on."
     credit: "Image: Marwa al-Sabouni"
 
   - id: "fig-11-6c-al-sabouni"
@@ -161,7 +161,7 @@ figure_list:
     src: "figures/fig-11-8-al-sabouni.jpg"
     alt: ""
     label: "Figure 11.8"
-    caption: "The Necropolis of Tel abu Saboun, now the site of the city’s main stadium built in 1960."
+    caption: "The necropolis of Tel Abu Sabun, now the site of the city’s main stadium, built in 1960."
     credit: "Image: Marwa al-Sabouni"
 
   - id: "fig-11-9a-al-sabouni"
@@ -191,7 +191,7 @@ figure_list:
     src: "figures/fig-12-2-deknatel.jpg"
     alt: ""
     label: "Figure 12.2"
-    caption: "Restoration work underway at the Great Umayyad Mosque in the Old City of Aleppo, 14 August 2018. A crane stands over the rubble of the toppled thirteenth-century minaret, whose stones have been catalogued and organized in the mosque’s courtyard."
+    caption: "Restoration work underway at the Great Umayyad Mosque in the Old City of Aleppo, 14 August 2018. A crane stands over the rubble of the toppled eleventh-century minaret, whose stones have been catalogued and organized in the mosque’s courtyard."
     credit: "Image: George Ourfalian/AFP/Getty Images"
 
   - id: "fig-12-3-deknatel"
@@ -207,7 +207,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-1-schmidtke/info.json"
     alt: ""
     label: "Figure 13.1"
-    caption: "Ms. Ṣanʿāʾ, Maktabat al-Awqāf 2318, page 2, transfer note (upper two lines and margin) for the codex from Ẓafār to Sana’a in Rabīʿ I 1348 (August–September 1929)"
+    caption: "Ms. Ṣanʿāʾ, Maktabat al-Awqāf 2318, pages 1–2, transfer note (upper two lines and margin) for the codex from Ẓafār to Sana’a in Rabīʿ I 1348 (August–September 1929)."
     credit: "Image: Courtesy of private collector"
 
   - id: "fig-13-2-schmidtke"
@@ -225,7 +225,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-3a-schmidtke/info.json"
     alt: ""
     label: "Figure 13.3a"
-    caption: "Title page and final page of Or. 8409, Leiden University Libraries, Special Collections. The title page had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the imam."
+    caption: "Example of a codice originally belonging to the library of Imam al-Mansūr bi-llah. Title page and final page of Or. 8409, Leiden University Libraries, Special Collections. The title page (13.3a) had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page (13.3b) has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the imam."
     credit: "Image: Leiden University Libraries, Special Collections, Or. 8409 / CC BY 4.0"
 
   - id: "fig-13-3b-schmidtke"
@@ -234,7 +234,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-3b-schmidtke/info.json"
     alt: ""
     label: "Figure 13.3b"
-    caption: "Title page and final page of Or. 8409, Leiden University Libraries, Special Collections. The title page had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the imam."
+    caption: "Example of a codice originally belonging to the library of Imam al-Mansūr bi-llah. Title page and final page of Or. 8409, Leiden University Libraries, Special Collections. The title page (13.3a) had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page (13.3b) has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the imam."
     credit: "Image: Leiden University Libraries, Special Collections, Or. 8409 / CC BY 4.0"
 
   - id: "fig-13-4-schmidtke"
@@ -259,7 +259,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-6-schmidtke/info.json"
     alt: ""
     label: "Figure 13.6"
-    caption: "Inside the Dār al-Makhṭūṭāt, 2009"
+    caption: "Inside the Dār al-Makhṭūṭāt, 2009."
     credit: "Image: Photograph by the author"
 
   - id: "fig-13-7-schmidtke"
@@ -268,7 +268,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-7-schmidtke/info.json"
     alt: ""
     label: "Figure 13.7"
-    caption: "Personnel of the Imam Zayd b. Ali Cultural Foundation, Ṣanʿāʾ, digitizing manuscripts, 2009"
+    caption: "Personnel of the Imam Zayd b. Ali Cultural Foundation, Ṣanʿāʾ, digitizing manuscripts, 2009."
     credit: "Image: Photograph by the author"
 
   - id: "fig-13-8-schmidtke"
@@ -277,7 +277,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-8-schmidtke/info.json"
     alt: ""
     label: "Figure 13.8"
-    caption: "Stack of manuscripts in a private library in Yemen, 2019"
+    caption: "Stack of manuscripts in a private library in Yemen, 2019."
     credit: "Image: Photograph by the Imam Zayd b. Ali Cultural Foundation, Sana’a, reproduced with kind permission"
 
   - id: "fig-13-9-schmidtke"
@@ -291,7 +291,7 @@ figure_list:
     src: "figures/fig-14-1-eloundou-assomo.jpg"
     label: "Figure 14.1"
     alt: ""
-    caption: "Aerial photo of Timbuktu"
+    caption: "Aerial photo of Timbuktu."
     credit: "Image: © UNESCO / Serge Negre"
 
   - id: "fig-14-2-eloundou-assomo"
@@ -300,7 +300,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-14-2-eloundou-assomo/info.json"
     alt: ""
     label: "Figure 14.2"
-    caption: "Djingareyber Mosque, built in 1325"
+    caption: "Djingareyber Mosque, built in 1325."
     credit: "Image: © UNESCO"
 
   - id: "fig-14-3-eloundou-assomo"
@@ -309,7 +309,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-14-3-eloundou-assomo/info.json"
     alt: ""
     label: "Figure 14.3"
-    caption: "Destroyed Alpha Moya mausoleum"
+    caption: "Destroyed Alpha Moya mausoleum."
     credit: "Image: © UNESCO"
 
   - id: "fig-14-4-eloundou-assomo"
@@ -318,7 +318,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-14-4-eloundou-assomo/info.json"
     alt: ""
     label: "Figure 14.4"
-    caption: "Reconstructed Sidi Ben Amar mausoleum"
+    caption: "Reconstructed Sidi Ben Amar mausoleum."
     credit: "Image: © UNESCO"
 
   - id: "fig-15-1-montejo"
@@ -382,8 +382,8 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-3-2-parzinger/info.json"
     alt: ""
     label: "Figure 3.2"
-    caption: "The gutted inside of the Nuremberg synagogue after burning and looting by an organized Nazi mob on 9 November 1938."
-    credit: "Image: Granger  Historical Picture Archive."
+    caption: "The gutted interior of the Nuremberg synagogue after burning and looting by an organized Nazi mob on 9 November 1938."
+    credit: "Image: Granger  Historical Picture Archive"
 
   - id: "fig-3-3-parzinger"
     src: "figures/fig-3-3-parzinger.jpg"
@@ -391,8 +391,8 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-3-3-parzinger/info.json"
     alt: ""
     label: "Figure 3.3"
-    caption: "The destroyed main mosque in Banja Luka, Bosnia-Herzegovina (this occurred during the war in the former Yugoslavia)."
-    credit: "Image: INTERFOTO / Wolfgang Maria Weber"
+    caption: "The main mosque in Banja Luka, Bosnia-Herzegovina, destroyed during the war in the former Yugoslavia."
+    credit: "Image: Interfoto / Wolfgang Maria Weber"
 
   - id: "fig-3-4-parzinger"
     src: "figures/fig-3-4-parzinger.jpg"
@@ -400,7 +400,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-3-4-parzinger/info.json"
     alt: ""
     label: "Figure 3.4"
-    caption: "Demolition of the temple of Bel in Palmyra by ISIS in 2015."
+    caption: "Demolition of the Temple of Bel in Palmyra by ISIS in 2015."
     credit: "Image: akg-images"
 
   - id: "fig-31-1-stone"
@@ -421,21 +421,21 @@ figure_list:
     src: "figures/fig-31-3-stone.jpg"
     alt: ""
     label: "Figure 31.3"
-    caption: "The extensive damage to the al-Askari Shrine in Samarra, Iraq in 2006 has been regarded by many as the tipping point that turned general unease with the coalition presence in Iraq into a full scale, sectarian civil war. The minarets were destroyed in 2007."
+    caption: "The extensive damage to the al-Askari Shrine in Samarra, Iraq in 2006 has been regarded by many as the tipping point that turned general unease with the coalition presence in Iraq into a full-scale, sectarian civil war. The minarets were destroyed in 2007."
     credit: "Image: PJF Military Collection / Alamy Stock Photo"
 
   - id: "fig-31-4-stone"
     src: "figures/fig-31-4-stone.jpg"
     alt: ""
     label: "Figure 31.4"
-    caption: "Ras Almargeb, Libya, where forces loyal to the government of Muammar Gaddafi stationed six vehicles of a mobile radar/communications unit in the hope they would not be targeted because of the proximity to the Roman fort. All six were destroyed by precision weapons leaving the Roman building intact."
+    caption: "Ras Almargeb, Libya, where forces loyal to the government of Muammar Gaddafi stationed six vehicles of a mobile radar/communications unit in the hope they would not be targeted because of the proximity to the Roman fort. All six were destroyed by precision weapons, leaving the Roman building intact."
     credit: "Image: Photo © Karl Habsburg"
 
   - id: "fig-5-1-schmidtke"
     src: "figures/fig-5-1-schmidtke.jpg"
     alt: ""
     label: "Figure 5.1"
-    caption: "Page from a lithograph print, Tabriz 1877, of Jaʿfar b. al-Hasan al-Muhaqqiq al-Hilli’s (d. 1205–6) *Sharāʾiʿ al-Islām*, with several layers of commentaries in the margin."
+    caption: "Page from a lithograph print, Tabriz 1877, of Jaʿfar b. al-Hasan al-Muhaqqiq al-Hilli’s (d. 1205–6) *Sharāʾiʿ al-Islām*, with several layers of commentary in the margin."
     credit: "Image: Hathitrust.org"
 
   - id: "fig-5-10-schmidtke"
@@ -444,14 +444,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-10-schmidtke/info.json"
     alt: ""
     label: "Figure 5.10"
-    caption: "Title page of Ms. San Lorenzo, El Escorial, arabe 1485, fol. 7r, containing another copy of al-Murtada’s *K. al-Ghurar*, transmitted through Fadl Allah al-Rawandi"
+    caption: "Title page of Ms. San Lorenzo, El Escorial, arabe 1485, fol. 7r, containing another copy of al-Murtada’s *K. al-Ghurar*, transmitted through Fadl Allah al-Rawandi."
     credit: "Image: Patrimonio Nacional, Biblioteca del Real Monasterio de San Lorenzo de El Escorial, arabe 1485"
 
   - id: "fig-5-11-schmidtke"
     src: "figures/fig-5-11-schmidtke.jpg"
     alt: ""
     label: "Figure 5.11"
-    caption: "Bayt al-ḥikma, Baghdad, view of the burned second floor"
+    caption: "Bayt al-ḥikma, Baghdad, view of the burned second floor."
     credit: "Image: Photograph courtesy of Nabil al-Tikriti"
 
   - id: "fig-5-12-schmidtke"
@@ -459,13 +459,13 @@ figure_list:
     alt: ""
     label: "Figure 5.12"
     caption: "A man tries to salvage burned manuscripts at the Ahmed Baba Institute in Timbuktu, Mali."
-    credit: "Image: Reuters/Alamy Stock Photos"
+    credit: "Image: Reuters / Alamy Stock Photos"
 
   - id: "fig-5-13-schmidtke"
     src: "figures/fig-5-13-schmidtke.jpg"
     alt: ""
     label: "Figure 5.13"
-    caption: "Burned books in the National Library, Baghdad, April 2003"
+    caption: "Burned books in the National Library, Baghdad, April 2003."
     credit: "Image: Reuters / Alamy Stock Photo"
 
   - id: "fig-5-14-schmidtke"
@@ -488,7 +488,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-3-schmidtke/info.json"
     alt: ""
     label: "Figure 5.3"
-    caption: "Worldwide distribution of Islamic manuscripts."
+    caption: "“Worldwide distribution of Islamic manuscripts."
     credit: "Image: María Mercedes Tuya, with kind permission"
 
   - id: "fig-5-4-schmidtke"
@@ -497,7 +497,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-4-schmidtke/info.json"
     alt: ""
     label: "Figure 5.4"
-    caption: "Michael Izady, “Primary Languages of [the] Islamic World”."
+    caption: "Michael Izady, “Primary Languages of [the] Islamic World.”"
     credit: "Image: Dr. Michael Izady (https://gulf2000.columbia.edu/images/maps/Languages_Islam_lg.png)"
 
   - id: "fig-5-5-schmidtke"
@@ -506,7 +506,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-5-schmidtke/info.json"
     alt: ""
     label: "Figure 5.5"
-    caption: "Fuat Sezgin’s copy of Brockelmann’s GAL with notes."
+    caption: "Fuat Sezgin’s copy of Brockelmann’s GAL, with notes."
     credit: "Image: CC BY-SA 4.0 / Photograph: Hilal Sezgin"
 
   - id: "fig-5-6-schmidtke"
@@ -515,14 +515,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-6-schmidtke/info.json"
     alt: ""
     label: "Figure 5.6"
-    caption: "Title page of a manuscript in the Chester Chester Beatty Library in Dublin, Ar 3315. One of the oldest extant copies of Ibn al-Nadim’s *Catalog*, which was purchased in 1421 by the prominent Egyptian scholar Taqi l-Din Ahmad b. ʿAli al-Maqrizi (d. 1442)"
+    caption: "Title page of a manuscript in the Chester Beatty Library in Dublin, Ar 3315. One of the oldest extant copies of Ibn al-Nadim’s *Catalog*, which was purchased in 1421 by the prominent Egyptian scholar Taqi l-Din Ahmad b. ʿAli al-Maqrizi (d. 1442)."
     credit: "Image: © The Trustees of the Chester Beatty Library, Dublin"
 
   - id: "fig-5-7-schmidtke"
     src: "figures/fig-5-7-schmidtke.jpg"
     alt: ""
     label: "Figure 5.7"
-    caption: "Illustration of a library in al-Haʾiri’s *Maqāmat* dated 1237, Ms. Paris, Bibliothèque nationale de France, Ms. arabe 5847, fol. 5v."
+    caption: "Illustration of a library in al-Haʾiri’s *Maqāmat*, dated 1237, Ms. Paris, Bibliothèque nationale de France, Ms. arabe 5847, fol. 5v."
     credit: "Image: The History Collection / Alamy Stock Photo"
 
   - id: "fig-5-8-schmidtke"
@@ -531,7 +531,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-8-schmidtke/info.json"
     alt: ""
     label: "Figure 5.8"
-    caption: "Page from a Mamluk Qurʾan, in Marcus Fraser, *Geometry in Gold: An Illuminated Mamlūk Qurʾān Section* (London: Sam Fogg, 2005)"
+    caption: "Page from a Mamluk Qurʾan, in Marcus Fraser, *Geometry in Gold: An Illuminated Mamlūk Qurʾān Section* (London: Sam Fogg, 2005)."
     credit: "Image: Courtesy of Sam Fogg"
 
   - id: "fig-5-9-schmidtke"
