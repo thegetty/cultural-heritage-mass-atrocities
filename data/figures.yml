@@ -13,7 +13,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-10-2-bandarin/info.json"
     alt: ""
     label: "Figure 10.2"
-    caption: "Destruction in Aleppo: The area near the citadel."
+    caption: "Destruction in Aleppo in the area near the citadel."
     credit: "Image: Francesco Bandarin"
 
   - id: "fig-10-3-bandarin"
@@ -145,7 +145,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-6c-al-sabouni/info.json"
     alt: ""
     label: "Figure 11.6c"
-    caption: "The war inflicted great structural damages to the mosque, revealing older pillars from a previous structure buried within its walls. These remnants might be seen as indicative a unique preservation approach that opted not to tear down, but rather to build on."
+    caption: "The war inflicted great structural damages to the mosque, revealing older pillars from a previous structure buried within its walls. These remnants might be seen as indicative of a unique preservation approach that opted not to tear down, but rather to build on."
     credit: "Image: Marwa al-Sabouni"
 
   - id: "fig-11-7-al-sabouni"
@@ -155,7 +155,7 @@ figure_list:
     alt: ""
     label: "Figure 11.7"
     caption: "The mausoleum of Emesa. Its destruction by the city government in 1911, part of a systematic demolition of the city's identity, resulted in a great loss to the history of Homs."
-    credit: ""
+    credit: "Image: Public domain / Photo by C. Watzinger "
 
   - id: "fig-11-8-al-sabouni"
     src: "figures/fig-11-8-al-sabouni.jpg"
@@ -178,28 +178,28 @@ figure_list:
     alt: ""
     label: "Figure 11.9b"
     caption: "An historic photo of the irrigation canal of al-Mujahediya, a beloved part of the picturesque cityscape that was largely covered by roadways as part of so-called modern planning."
-    credit: ""
+    credit: "Image: Courtesy of Homsstory.com"
 
   - id: "fig-12-1-deknatel"
     src: "figures/fig-12-1-deknatel.jpg"
     alt: ""
     label: "Figure 12.1"
     caption: "The rebuilt Khalid Ibn al-Walid Mosque amid the ruins of the Khaldiyeh neighborhood in Homs’s Old City, 15 August 2018."
-    credit: "Image: Andrei Borodulin/AFP/Getty Images"
+    credit: "Image: Andrei Borodulin / AFP / Getty Images"
 
   - id: "fig-12-2-deknatel"
     src: "figures/fig-12-2-deknatel.jpg"
     alt: ""
     label: "Figure 12.2"
     caption: "Restoration work underway at the Great Umayyad Mosque in the Old City of Aleppo, 14 August 2018. A crane stands over the rubble of the toppled eleventh-century minaret, whose stones have been catalogued and organized in the mosque’s courtyard."
-    credit: "Image: George Ourfalian/AFP/Getty Images"
+    credit: "Image: George Ourfalian / AFP / Getty Images"
 
   - id: "fig-12-3-deknatel"
     src: "figures/fig-12-3-deknatel.jpg"
     alt: ""
     label: "Figure 12.3"
     caption: "Rue Weygand in devastated downtown Beirut after the end of Lebanon’s fifteen-year civil war, 23 December 1990."
-    credit: "Image: Marc Deville/Gamma Rapho/Getty Images"
+    credit: "Image: Marc Deville / Gamma Rapho / Getty Images"
 
   - id: "fig-13-1-schmidtke"
     src: "figures/fig-13-1-schmidtke.jpg"
@@ -217,7 +217,7 @@ figure_list:
     alt: ""
     label: "Figure 13.2"
     caption: "Inside the Maktabat al-Awqāf, ca. 2020"
-    credit: ""
+    credit: "Image: Sabine Schmidtke"
 
   - id: "fig-13-3a-schmidtke"
     src: "figures/fig-13-3a-schmidtke.jpg"
@@ -225,8 +225,8 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-3a-schmidtke/info.json"
     alt: ""
     label: "Figure 13.3a"
-    caption: "Example of a codice originally belonging to the library of Imam al-Mansūr bi-llah. Title page and final page of Or. 8409, Leiden University Libraries, Special Collections. The title page (13.3a) had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page (13.3b) has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the imam."
-    credit: "Image: Leiden University Libraries, Special Collections, Or. 8409 / CC BY 4.0"
+    caption: "Title page and final page of a codice originally in the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The title page (13.3a) had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page (13.3b) has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the imam."
+    credit: "Image: Leiden University Libraries, Special Collections, Ms. Or. 8409 / CC BY 4.0"
 
   - id: "fig-13-3b-schmidtke"
     src: "figures/fig-13-3b-schmidtke.jpg"
@@ -234,8 +234,9 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-3b-schmidtke/info.json"
     alt: ""
     label: "Figure 13.3b"
-    caption: "Example of a codice originally belonging to the library of Imam al-Mansūr bi-llah. Title page and final page of Or. 8409, Leiden University Libraries, Special Collections. The title page (13.3a) had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page (13.3b) has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the imam."
-    credit: "Image: Leiden University Libraries, Special Collections, Or. 8409 / CC BY 4.0"
+    caption: Title page and final page of a codice originally in the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The title page (13.3a) had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page (13.3b) has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi
+    al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the imam."
+    credit: "Image: Leiden University Libraries, Special Collections, Ms. Or. 8409 / CC BY 4.0"
 
   - id: "fig-13-4-schmidtke"
     src: "figures/fig-13-4-schmidtke.jpg"
@@ -260,7 +261,7 @@ figure_list:
     alt: ""
     label: "Figure 13.6"
     caption: "Inside the Dār al-Makhṭūṭāt, 2009."
-    credit: "Image: Photograph by the author"
+    credit: "Image: Sabine Schmidtke"
 
   - id: "fig-13-7-schmidtke"
     src: "figures/fig-13-7-schmidtke.jpg"
@@ -269,7 +270,7 @@ figure_list:
     alt: ""
     label: "Figure 13.7"
     caption: "Personnel of the Imam Zayd b. Ali Cultural Foundation, Ṣanʿāʾ, digitizing manuscripts, 2009."
-    credit: "Image: Photograph by the author"
+    credit: "Image: Sabine Schmidtke"
 
   - id: "fig-13-8-schmidtke"
     src: "figures/fig-13-8-schmidtke.jpg"
@@ -278,7 +279,7 @@ figure_list:
     alt: ""
     label: "Figure 13.8"
     caption: "Stack of manuscripts in a private library in Yemen, 2019."
-    credit: "Image: Photograph by the Imam Zayd b. Ali Cultural Foundation, Sana’a, reproduced with kind permission"
+    credit: "Image: Imam Zayd bin Ali Cultural Foundation, Sana’a, reproduced with kind permission"
 
   - id: "fig-13-9-schmidtke"
     src: "figures/fig-13-9-schmidtke.jpg"
@@ -325,7 +326,7 @@ figure_list:
     src: "figures/fig-15-1-montejo.jpg"
     alt: ""
     label: "Figure 15.1"
-    caption: "Polychrome Maya Vase; Christie’s, Live Auction 17456, Lot 129, Closed 8 April 2019, https://www.christies.com/en/lot/lot-6196575."
+    caption: "Polychrome Maya Vase sold at Christie’s, Live Auction 17456, Lot 129, closed 8 April 2019, https://www.christies.com/en/lot/lot-6196575."
     credit: "Image: Private Collection Photo © Christie's Images / Bridgeman Images"
 
   - id: "fig-27-1-hassner"
@@ -334,7 +335,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-27-1-hassner/info.json"
     alt: ""
     label: "Figure 27.1"
-    caption: "The Abbey of Monte Cassino destroyed by Allied bombing in 1944."
+    caption: "The Abbey of Monte Cassino, destroyed by Allied bombing in 1944."
     credit: "Image: Sueddeutsche Zeitung Photo / Alamy Stock Photo"
 
   - id: "fig-27-2-hassner"
@@ -342,14 +343,14 @@ figure_list:
     alt: ""
     label: "Figure 27.2"
     caption: "Private Paul Oglesby of the US 30th Infantry Regiment stands amid the bomb-blasted remains of the roof of Santa Maria degli Angeli in the southern Apennine town of Acerno, Italy, September 1943."
-    credit: "Image: Courtesy National Archives, photo no. 531181 "
+    credit: "Image: Courtesy National Archives, photo no. 531181 (NWDNS-111-SC-188691) "
 
   - id: "fig-27-3-hassner"
     src: "figures/fig-27-3-hassner.jpg"
     alt: ""
     label: "Figure 27.3"
     caption: "US Marines take up position on the perimeter of a mosque while patrolling in the central Iraqi city of Yusufiyah, December 2004."
-    credit: "Image: Odd Andersen/AFP via Getty Images"
+    credit: "Image: Odd Andersen / AFP via Getty Images"
 
   - id: "fig-28-1-sagan"
     src: "figures/fig-28-1-sagan.jpg"
@@ -357,15 +358,15 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-28-1-sagan/info.json"
     alt: ""
     label: "Figure 28.1"
-    caption: "Target map of Kyoto, June 1945. Alex Wellerstein, “The Kyoto Misconception,” *Restricted Data: The Nuclear Secrecy Blog*, 8 August 2014, http://blog.nuclearsecrecy.com/2014/08/08/kyoto-misconception/."
-    credit: ""
+    caption: "Target map of Kyoto, June 1945."
+    credit: "Image: Alex Wellerstein, “The Kyoto Misconception,” *Restricted Data: The Nuclear Secrecy Blog*, 8 August 2014, http://blog.nuclearsecrecy.com/2014/08/08/kyoto-misconception/."
 
   - id: "fig-28-2-sagan"
     src: "figures/fig-28-2-sagan.jpg"
     alt: ""
     label: "Figure 28.2"
-    caption: "Iraqi military aircraft stationed near the Temple of Ur. (US Department of Defense, *Conduct of the Persian Gulf War: Final Report to Congress––Chapters I through VII* (Washington, DC: Department of Defense, April 1992), https://apps.dtic.mil/dtic/tr/fulltext/u2/a249270.pdf, 133)"
-    credit: ""
+    caption: "Iraqi military aircraft stationed near the Temple of Ur."
+    credit: "Image: US Department of Defense, *Conduct of the Persian Gulf War: Final Report to Congress* (April 1992), https://apps.dtic.mil/dtic/tr/fulltext/u2/a249270.pdf, 133."
 
   - id: "fig-3-1-parzinger"
     src: "figures/fig-3-1-parzinger.jpg"
@@ -373,7 +374,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-3-1-parzinger/info.json"
     alt: ""
     label: "Figure 3.1"
-    caption: "Burning of the idols. Spanish missionaries burning paraphernalia of Indigenous cults."
+    caption: "Folio 242r from Diego Muñoz Camargo's *Historia de Tlaxcala* (1585) depicting the burning of Aztec ritual objects by Spanish missionaries."
     credit: "Image: University of Glasgow, Archives & Special Collections, MS Hunter 242"
 
   - id: "fig-3-2-parzinger"
@@ -383,7 +384,7 @@ figure_list:
     alt: ""
     label: "Figure 3.2"
     caption: "The gutted interior of the Nuremberg synagogue after burning and looting by an organized Nazi mob on 9 November 1938."
-    credit: "Image: Granger  Historical Picture Archive"
+    credit: "Image: Granger Historical Picture Archive"
 
   - id: "fig-3-3-parzinger"
     src: "figures/fig-3-3-parzinger.jpg"
@@ -401,7 +402,7 @@ figure_list:
     alt: ""
     label: "Figure 3.4"
     caption: "Demolition of the Temple of Bel in Palmyra by ISIS in 2015."
-    credit: "Image: akg-images"
+    credit: "Image: akg-images / Pictures from History"
 
   - id: "fig-31-1-stone"
     src: "figures/fig-31-1-stone.jpg"
@@ -429,7 +430,7 @@ figure_list:
     alt: ""
     label: "Figure 31.4"
     caption: "Ras Almargeb, Libya, where forces loyal to the government of Muammar Gaddafi stationed six vehicles of a mobile radar/communications unit in the hope they would not be targeted because of the proximity to the Roman fort. All six were destroyed by precision weapons, leaving the Roman building intact."
-    credit: "Image: Photo © Karl Habsburg"
+    credit: "Image: © Karl Habsburg"
 
   - id: "fig-5-1-schmidtke"
     src: "figures/fig-5-1-schmidtke.jpg"
@@ -587,14 +588,14 @@ figure_list:
     alt: ""
     label: "Figure 7.5"
     caption: "A local graveyard in southern Xinjiang in 2012."
-    credit: "Image: Photograph by the author"
+    credit: "Image: Rachel Harris"
 
   - id: "fig-8-1-singh"
     src: "figures/fig-8-1-singh.jpg"
     alt: ""
     label: "Figure 8.1"
     caption: "Ethnic map of Sri Lanka"
-    credit: ""
+    credit: "Image: Obi2canibe / CC0 1.0 Universal Public Domain Dedication "
 
   - id: "fig-8-2-singh"
     src: "figures/fig-8-2-singh.jpg"
