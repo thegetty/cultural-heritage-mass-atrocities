@@ -234,8 +234,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-3b-schmidtke/info.json"
     alt: ""
     label: "Figure 13.3b"
-    caption: Title page and final page of a codice originally in the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The title page (13.3a) had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page (13.3b) has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi
-    al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the imam."
+    caption: "Title page and final page of a codice originally in the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The title page (13.3a) had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page (13.3b) has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the imam."
     credit: "Image: Leiden University Libraries, Special Collections, Ms. Or. 8409 / CC BY 4.0"
 
   - id: "fig-13-4-schmidtke"
@@ -508,7 +507,7 @@ figure_list:
     alt: ""
     label: "Figure 5.5"
     caption: "Fuat Sezgin’s copy of Brockelmann’s GAL, with notes."
-    credit: "Image: Hilal Sezgin / CC BY-SA 4.0 ""
+    credit: "Image: Hilal Sezgin / CC BY-SA 4.0"
 
   - id: "fig-5-6-schmidtke"
     src: "figures/fig-5-6-schmidtke.jpg"
