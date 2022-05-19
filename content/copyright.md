@@ -16,7 +16,7 @@ The free online edition of this publication is available at [getty.edu/publicati
 
 ![cc-by-nc](/img/cc-by-nc--black.png)
 
-The text of this work, unless otherwise indicated, and figs. TK are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+The text of this work, unless otherwise indicated, is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 "Who Are We? Identity and Cultural Heritage" is reproduced from *The Lies That Bind: Rethinking Identity* by Kwame Anthony Appiah. Copyright © 2008 by Kwame Anthony Appiah. Used by permission of Liveright Publishing Company.
 
@@ -36,7 +36,7 @@ Victoria Gallina, *Production*<br />
 Jeffrey Cohen, *Cover Designer*<br />
 Nancy Rivera, *Image and Rights Acquisition*<br />
 
-Getty Publications gratefully acknowledges Morgan Conger, senior project manager in the Office of the President and CEO, J. Paul Getty Trust, for her work on this publication
+Getty Publications gratefully acknowledges Morgan Conger, senior project manager in the Office of the President and CEO, J. Paul Getty Trust, for her work on this publication.
 
 Distributed in the United States and Canada by the University of Chicago Press
 
