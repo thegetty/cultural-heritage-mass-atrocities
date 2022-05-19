@@ -105,7 +105,7 @@ figure_list:
     alt: ""
     label: "Figure 11.4a"
     caption: "The Hill of Homs, where the ancient city was originally built."
-    credit: "Image: CC BY-SA 4.0 / Dick Osseman"
+    credit: "Image:  Dick Osseman / CC BY-SA 4.0 "
 
   - id: "fig-11-4b-al-sabouni"
     src: "figures/fig-11-4b-al-sabouni.jpg"
@@ -155,7 +155,7 @@ figure_list:
     alt: ""
     label: "Figure 11.7"
     caption: "The mausoleum of Emesa. Its destruction by the city government in 1911, part of a systematic demolition of the city's identity, resulted in a great loss to the history of Homs."
-    credit: "Image: Public domain / Photo by C. Watzinger "
+    credit: "Image: C. Watzinger / Public domain "
 
   - id: "fig-11-8-al-sabouni"
     src: "figures/fig-11-8-al-sabouni.jpg"
@@ -293,7 +293,7 @@ figure_list:
     label: "Figure 14.1"
     alt: ""
     caption: "Aerial photo of Timbuktu."
-    credit: "Image: © UNESCO / Serge Negre"
+    credit: "Image: Serge Negre / © UNESCO"
 
   - id: "fig-14-2-eloundou-assomo"
     src: "figures/fig-14-2-eloundou-assomo.jpg"
@@ -393,7 +393,7 @@ figure_list:
     alt: ""
     label: "Figure 3.3"
     caption: "The main mosque in Banja Luka, Bosnia-Herzegovina, destroyed during the war in the former Yugoslavia."
-    credit: "Image: Interfoto / Wolfgang Maria Weber"
+    credit: "Image: Wolfgang Maria Weber / Interfoto"
 
   - id: "fig-3-4-parzinger"
     src: "figures/fig-3-4-parzinger.jpg"
@@ -445,15 +445,15 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-10-schmidtke/info.json"
     alt: ""
     label: "Figure 5.10"
-    caption: "Title page of Ms. San Lorenzo, El Escorial, arabe 1485, fol. 7r, containing another copy of al-Murtada’s *K. al-Ghurar*, transmitted through Fadl Allah al-Rawandi."
-    credit: "Image: Patrimonio Nacional, Biblioteca del Real Monasterio de San Lorenzo de El Escorial, arabe 1485"
+    caption: "Title page of Ms. San Lorenzo, El Escorial, códice árabe 1485, fol. 7r, containing another copy of al-Murtada’s *K. al-Ghurar*, transmitted through Fadl Allah al-Rawandi."
+    credit: "Image: Patrimonio Nacional, Biblioteca del Real Monasterio de San Lorenzo de El Escorial, códice árabe 1485"
 
   - id: "fig-5-11-schmidtke"
     src: "figures/fig-5-11-schmidtke.jpg"
     alt: ""
     label: "Figure 5.11"
     caption: "Bayt al-ḥikma, Baghdad, view of the burned second floor."
-    credit: "Image: Photograph courtesy of Nabil al-Tikriti"
+    credit: "Image: Photograph courtesy of Prof. Nabil al-Tikriti"
 
   - id: "fig-5-12-schmidtke"
     src: "figures/fig-5-12-schmidtke.jpg"
@@ -508,7 +508,7 @@ figure_list:
     alt: ""
     label: "Figure 5.5"
     caption: "Fuat Sezgin’s copy of Brockelmann’s GAL, with notes."
-    credit: "Image: CC BY-SA 4.0 / Photograph: Hilal Sezgin"
+    credit: "Image: Hilal Sezgin / CC BY-SA 4.0 ""
 
   - id: "fig-5-6-schmidtke"
     src: "figures/fig-5-6-schmidtke.jpg"
@@ -540,7 +540,7 @@ figure_list:
     alt: ""
     label: "Figure 5.9"
     caption: "Sheikh Baye looking at an illuminated Qurʾan dating back to the fourteenth century, in his library, Bouj Beha, Mali, in April 2003."
-    credit: "Image: Xavier Rossi / Getty Images"
+    credit: "Image: Xavier Rossi / Gamma-Rapho via Getty Images"
 
   - id: "fig-6-1-serageldin"
     src: "figures/fig-6-1-serageldin.jpg"
