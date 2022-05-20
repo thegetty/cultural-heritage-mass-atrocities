@@ -32,11 +32,11 @@ pdf_download: false
 | GAL     | *Geschichte der arabischen Litteratur* |
 | GDP     | gross domestic product |
 | HRC     | Human Rights Committee |
-| IAC     | International armed conflict |
+| IAC     | international armed conflict |
 | ICC     | International Criminal Court |
-| ICCPR   | International Covenant on Civil and Political Rights, 1966 |
+| ICCPR   | International Covenant on Civil and Political Rights |
 | ICCROM  | International Centre for the Study of the Preservation and Restoration of Cultural Property |
-| ICESCR  | International Covenant on Economic, Social and Cultural Rights, 1966 |
+| ICESCR  | International Covenant on Economic, Social and Cultural Rights |
 | ICG     | International Crisis Group |
 | ICISS   | International Commission on Intervention and State Sovereignty |
 | ICJ     | International Court of Justice |
@@ -69,12 +69,13 @@ pdf_download: false
 | NPV     | net present value |
 | NSAG    | nonstate armed group |
 | OHCHR   | Office of the UN High Commissioner for Human Rights |
-| QIP     | Quick Impact Projects |
-| R2P     | Responsibility to Protect |
+| QIP     | quick impact projects |
+| R2P     | responsibility to protect |
 | RAC     | Records of the American Commission for the Protection and Salvage of Artistic and Historical Monuments in War Areas |
 | RASHID  | Research, Assessment and Safeguarding of the Heritage of Iraq in Danger |
 | SAA     | Society for American Archaeology |
 | SCPR    | Syrian Center for Policy Research |
+| SHOSI   | Safeguarding of the Heritage of Syria and Iraq Project |
 | SOAS    | School of Oriental and African Studies, University of London |
 | SPLM/A  | Sudan People’s Liberation Movement/Army |
 | TCCH    | Technical Committee on Cultural Heritage in Cyprus |
@@ -82,7 +83,7 @@ pdf_download: false
 | UN      | United Nations |
 | UNAMI   | UN Assistance Mission for Iraq |
 | UNDP    | UN Development Programme |
-| UNDRIP  | UN Declaration on the Rights of Indigenous Peoples, 2007 |
+| UNDRIP  | UN Declaration on the Rights of Indigenous Peoples |
 | UNESCO  | UN Educational, Scientific and Cultural Organization |
 | UNFICYP | UN Peacekeeping Force in Cyprus |
 | UNHCR   | UN High Commissioner for Refugees [Office of the] |
@@ -96,6 +97,6 @@ pdf_download: false
 | UNTSO   | UN Truce Supervision Organization |
 | UNWCC   | United Nations War Crimes Commission |
 | USAID   | US Agency for International Development |
-| WHC     | Convention Concerning the Protection of the World Cultural and Natural Heritage, 1972 |
+| WHC     | Convention Concerning the Protection of the World Cultural and Natural Heritage |
 | WTP     | willingness to pay |
 | XUAR    | Xinjiang Uyghur Autonomous Region |
