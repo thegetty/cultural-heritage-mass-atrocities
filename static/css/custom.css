@@ -196,7 +196,8 @@
 }
 
 @media screen {
-  .quire-contents-list a {
+  .quire-contents-list a,
+  .quire-contents-list .contributor {
     font-family: 'Noto Serif', serif;
     font-size: 1em !important;
   }
