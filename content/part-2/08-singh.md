@@ -1,6 +1,6 @@
 ---
-title: "When Peace is Defeat, Reconstruction is Damage"
-subtitle: "“Rebuilding” Heritage in Post-Conflict Sri Lanka and Afghanistan"
+title: "When Peace Is Defeat, Reconstruction Is Damage"
+subtitle: "“Rebuilding” Heritage in Post-conflict Sri Lanka and Afghanistan"
 short_title: "Post-Conflict Sri Lanka and Afghanistan"
 label: "8"
 weight: 23

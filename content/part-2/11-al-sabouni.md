@@ -1,6 +1,6 @@
 ---
 title: "The Lost Heritage of Homs"
-subtitle: "The Impact of the Syrian War on a World Heritage City"
+subtitle: "From the Destruction of Monuments to the Destruction of Meaning"
 label: "11"
 weight: 26
 type: essay
