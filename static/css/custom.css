@@ -547,6 +547,9 @@ strong {
 .quire-page__content .content blockquote {
   font-style: normal;
 }
+.quire-page__content .content blockquote em {
+  font-style: italic;
+}
 @media screen {
   .quire-page__content .content blockquote {
     padding: 0;
