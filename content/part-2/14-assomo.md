@@ -10,7 +10,7 @@ contributor:
   - first_name: Lazare Eloundou
     last_name: Assomo
     type: secondary
-    bio: "**Lazare Eloundou Assomo** is director of Culture and Emergencies in the Culture Sector of UNESCO."
+    bio: "**Lazare Eloundou Assomo** is director of the UNESCO World Heritage Centre and was previously director of Culture and Emergencies in the Culture Sector of UNESCO and UNESCO's head representative in Mali. He joined UNESCO in 2003, and from 2008 to 2013 was head of the Africa Unit of the World Heritage Centre. Together with Ishanlosen Odiaua, he is coauthor of *African World Heritage: A Remarkable Diversity* (2012). He holds degrees in architecture and urban planning."
 ---
 
 {{< q-translations >}}
