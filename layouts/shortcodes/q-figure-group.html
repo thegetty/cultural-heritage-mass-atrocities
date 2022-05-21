@@ -43,8 +43,12 @@
     {{ $credit = ($.Get "credit") }}{{ else if .credit }}{{ $credit = .credit }}{{ end -}}
   {{- with .download }}{{ $download = . }}{{ end -}}
   {{- with .id }}{{ $id = . }}{{ end -}}
+  {{ if or (eq .Site.Data.params.pdf true) (eq .Site.Data.params.epub true) }}
   {{- if ($.Get "label") }}
-    {{ $label = "" }}{{ else if .label }}{{ $label = .label }}{{ end -}}
+    {{ $label = ($.Get "label") }}{{ else if .label }}{{ $label = .label }}{{ end -}}
+  {{ else }}
+    {{ with .label }}{{ $label = . }}{{ end -}}
+  {{ end }}
   {{- with .media_id }}{{ $mediaId = . }}{{ end -}}
   {{- with .media_type }}{{ $mediaType = . }}{{ end -}}
   {{- with .src }}{{ $src = . }}{{ end -}}

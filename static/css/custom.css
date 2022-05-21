@@ -743,6 +743,10 @@ strong {
   .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
     margin-left: 1.5rem;
   }
+  /* Hide duplicate label in PDF */
+  .content .quire-figure--group .q-figure__wrapper .quire-figure__label {
+    display: none;
+  }
 }
 
 /* CREATE GRID OF ONE WIDE IMAGE OVER TWO NARROWER ONES */
