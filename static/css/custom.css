@@ -832,6 +832,24 @@ strong {
   color: var(--white);
 }
 
+/* ADJUST ESSAY 9 TABLE ALIGNMENT */
+table#table-9-1 span.num {
+  text-align: right;
+  width: 3rem;
+  display: inline-block;
+}
+table#table-9-2 tr th {
+  width: 25%;
+}
+table#table-9-2 tr th,
+table#table-9-2 tr td {
+  text-align: right;
+}
+table#table-9-2 tr th:first-child,
+table#table-9-2 tr td:first-child {
+  text-align: left;
+}
+
 /* ADD COPYRIGHT NOTICES AT THE BOTTOM OF ESSAYS */
 .quire-page__content .container .content .backmatter.page-copyright-notice {
   margin-top: 3rem;
