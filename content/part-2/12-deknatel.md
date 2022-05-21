@@ -157,7 +157,7 @@ So far, the fate of some prominent cultural heritage sites in Syria has taken a 
 
 [^4]: Gareth Browne, “An Eerie Silence Prevails in Assad’s ‘Reconstructed’ Homs,” *National*, 17 April 2018, https://www.thenational.ae/world/mena/an-eerie-silence-prevails-in-assad-s-reconstructed-homs-1.722506.
 
-[^5]: Syrian Ministry of Tourism, “Homs … Portrait of Life,” 13 February 2018, YouTube video, 1 min., https://www.youtube.com/watch?v=qA2rAI2XeA0.
+[^5]: Syrian Ministry of Tourism, “Homs . . . Portrait of Life,” 13 February 2018, YouTube video, 1 min., https://www.youtube.com/watch?v=qA2rAI2XeA0.
 
 [^6]: Sawsan Abou Zainedin and Hani Fakhani, “Syria’s Reconstruction between Discriminatory Implementation and Circumscribed Resistance,” in *Contentious Politics in the Syrian Conflict: Opposition, Representation, and Resistance*, ed. Maha Yahya (Beirut: Carnegie Middle East Center, 2020), https://carnegie-mec.org/2020/05/15/syria-s-reconstruction-between-discriminatory-implementation-and-circumscribed-resistance-pub-81803.
 
