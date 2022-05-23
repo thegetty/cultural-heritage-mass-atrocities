@@ -12,10 +12,12 @@
 {{- $credit := "" -}}
 {{- $download := "" -}}
 {{- $id := "" -}}
+{{- $iiif := "" -}}
 {{- $label := "" -}}
 {{- $mediaId := "" -}}
 {{- $mediaType := "" -}}
 {{- $src := "" -}}
+{{- $zoom_max := "" -}}
 
 {{- $grid := "" -}}
 {{- if and (.Get "grid") ( gt (.Get "grid") 0 ) }}
@@ -43,6 +45,7 @@
     {{ $credit = ($.Get "credit") }}{{ else if .credit }}{{ $credit = .credit }}{{ end -}}
   {{- with .download }}{{ $download = . }}{{ end -}}
   {{- with .id }}{{ $id = . }}{{ end -}}
+  {{- with .iiif }}{{ $iiif = . }}{{ end -}}
   {{ if or (eq .Site.Data.params.pdf true) (eq .Site.Data.params.epub true) }}
   {{- if ($.Get "label") }}
     {{ $label = ($.Get "label") }}{{ else if .label }}{{ $label = .label }}{{ end -}}
@@ -52,10 +55,11 @@
   {{- with .media_id }}{{ $mediaId = . }}{{ end -}}
   {{- with .media_type }}{{ $mediaType = . }}{{ end -}}
   {{- with .src }}{{ $src = . }}{{ end -}}
+  {{- with .zoom_max }}{{ $zoom_max = . }}{{ end -}}
 
 {{- end -}}
 
-{{- $dict := dict "Site" $.Site "alt" $alt "aspectRatio" $aspectRatio "caption" $caption "credit" $credit "download" $download "id" $id "label" $label "mediaId" $mediaId "mediaType" $mediaType "src" $src -}}
+{{- $dict := dict "Site" $.Site "alt" $alt "aspectRatio" $aspectRatio "caption" $caption "credit" $credit "download" $download "id" $id "iiif" $iiif "label" $label "mediaId" $mediaId "mediaType" $mediaType "src" $src "zoom_max" $zoom_max -}}
 
 <figure
   data="q-figure"
