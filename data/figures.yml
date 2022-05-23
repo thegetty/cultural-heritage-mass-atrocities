@@ -71,7 +71,7 @@ figure_list:
   - id: "fig-11-10b-al-sabouni"
     src: "figures/fig-11-10b-al-sabouni.jpg"
     media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-10b-al-sabouni/info.json"
+    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-10b-al-sabouni-new/info.json"
     zoom_max: 4
     alt: ""
     label: "Figure 11.10b"
@@ -81,7 +81,7 @@ figure_list:
   - id: "fig-11-10c-al-sabouni"
     src: "figures/fig-11-10c-al-sabouni.jpg"
     media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-10c-al-sabouni/info.json"
+    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-10c-al-sabouni-new/info.json"
     zoom_max: 4
     alt: ""
     label: "Figure 11.10c"
