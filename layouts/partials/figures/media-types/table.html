@@ -19,12 +19,12 @@
 
 {{- if eq .Site.Params.figureModal true -}}
   <figure
-    id="deepzoomtable-{{ $ now }}"
+    id="deepzoomtable-{{ $now }}"
     title="{{ .caption | markdownify | safeHTML }}"
     class="quire-figure leaflet-outer-wrapper mfp-hide notGet"
   >
     <div
-      id="js-deepzoomtable-{{ $ now }}"
+      id="js-deepzoomtable-{{ $now }}"
       class="quire-deepzoom inset leaflet-inner-wrapper"
       aria-label="Zoomable table"
       aria-live="polite"
