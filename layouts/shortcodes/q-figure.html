@@ -70,14 +70,12 @@
 
 {{- $dict := dict "Site" .Site "alt" $alt "aspectRatio" $aspectRatio "caption" $caption "credit" $credit "download" $download "id" $id "iiif" $iiif "label" $label "mediaId" $mediaId "mediaType" $mediaType "src" $src "zoom_max" $zoom_max -}}
 
-{{- if and (in $class "is-print-only") (ne .Site.Data.params.pdf true) -}}
-{{- else if and (in $class "remove-from-epub") (ne .Site.Data.params.epub true) -}}
-{{- else if and (in $class "is-screen-only") (or (eq .Site.Data.params.epub true) (.Site.Data.params.pdf true)) -}}
+{{- if and (in $class "is-print-only") (ne .Site.Params.pdf true) -}}
 {{- else -}}
 
 <figure
   data="q-figure"
-  class="quire-figure{{ with .Get "class" }} {{ . }}{{ end }}"
+  class="quire-figure {{ $class }}"
   id="{{ $id }}"
 >
   <div class="q-figure__wrapper">
