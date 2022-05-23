@@ -11,6 +11,7 @@ figure_list:
     src: "figures/fig-10-2-bandarin.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-10-2-bandarin/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 10.2"
     caption: "Destruction in Aleppo in the area near the citadel."
@@ -27,6 +28,7 @@ figure_list:
     src: "figures/fig-10-4-bandarin.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-10-4-bandarin/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 10.4"
     caption: "Aleppo damage analysis, September 2016. UNITAR, “Percentage Damage in Residential Area of Aleppo City,” https://unitar.org/unosat/node/44/2510."
@@ -36,6 +38,7 @@ figure_list:
     src: "figures/fig-10-5-bandarin.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-10-5-bandarin/info.json"
+    zoom_max: 4
     alt:
     label: "Figure 10.5"
     caption: "The destroyed New Saray."
@@ -45,6 +48,7 @@ figure_list:
     src: "figures/fig-10-6-bandarin.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-10-6-bandarin/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 10.6"
     caption: "Damage to the Great Umayyad Mosque of Aleppo, including damage to the minaret."
@@ -59,8 +63,6 @@ figure_list:
 
   - id: "fig-11-10a-al-sabouni"
     src: "figures/fig-11-10a-al-sabouni.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-10a-al-sabouni/info.json"
     alt: ""
     label: "Figure 11.10a"
     caption: "An historic photo of the Naourah (*noria*), or waterwheel, after which the city quarter Souk al-Naourah is named. The only remnant of the waterwheel today is the name of the neighborhood."
@@ -70,6 +72,7 @@ figure_list:
     src: "figures/fig-11-10b-al-sabouni.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-10b-al-sabouni/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 11.10b"
     caption: "The Insurance Building in Souk al-Naourah. Construction of this complex required the demolition of parts of the historic quarter."
@@ -79,6 +82,7 @@ figure_list:
     src: "figures/fig-11-10c-al-sabouni.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-10c-al-sabouni/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 11.10c"
     caption: "Another section of Souk al-Naourah, showing the French-style buildings that used to serve as offices and shops before being destroyed by the recent war."
@@ -125,6 +129,7 @@ figure_list:
     src: "figures/fig-11-6a-al-sabouni.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-6a-al-sabouni/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 11.6a"
     caption: "The main courtyard of the Al-Nuri Mosque. The structure is built of black basalt, the local building material of Homs."
@@ -134,6 +139,7 @@ figure_list:
     src: "figures/fig-11-6b-al-sabouni.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-6b-al-sabouni/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 11.6b"
     caption: "The war inflicted great structural damages to the mosque, revealing older pillars from a previous structure buried within its walls. These remnants might be seen as indicative of a unique preservation approach that opted not to tear down, but rather to build on."
@@ -143,6 +149,7 @@ figure_list:
     src: "figures/fig-11-6c-al-sabouni.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-6c-al-sabouni/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 11.6c"
     caption: "The war inflicted great structural damages to the mosque, revealing older pillars from a previous structure buried within its walls. These remnants might be seen as indicative of a unique preservation approach that opted not to tear down, but rather to build on."
@@ -150,8 +157,6 @@ figure_list:
 
   - id: "fig-11-7-al-sabouni"
     src: "figures/fig-11-7-al-sabouni.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-7-al-sabouni/info.json"
     alt: ""
     label: "Figure 11.7"
     caption: "The mausoleum of Emesa. Its destruction by the city government in 1911, part of a systematic demolition of the city's identity, resulted in a great loss to the history of Homs."
@@ -159,6 +164,9 @@ figure_list:
 
   - id: "fig-11-8-al-sabouni"
     src: "figures/fig-11-8-al-sabouni.jpg"
+    media_type: iiif
+    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-8-al-sabouni/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 11.8"
     caption: "The necropolis of Tel Abu Sabun, now the site of the city’s main stadium, built in 1960."
@@ -168,6 +176,7 @@ figure_list:
     src: "figures/fig-11-9a-al-sabouni.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-9a-al-sabouni/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 11.9a"
     caption: "A 2021 photo of the irrigation network running through the city. Municipal decisions to let the water flow are followed by others to restrict it, an on-and-off approach not explained to the public."
@@ -205,6 +214,7 @@ figure_list:
     src: "figures/fig-13-1-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-1-schmidtke/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 13.1"
     caption: "Ms. Ṣanʿāʾ, Maktabat al-Awqāf 2318, pages 1–2, transfer note (upper two lines and margin) for the codex from Ẓafār to Sana’a in Rabīʿ I 1348 (August–September 1929)."
@@ -214,6 +224,7 @@ figure_list:
     src: "figures/fig-13-2-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-2-schmidtke/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 13.2"
     caption: "Inside the Maktabat al-Awqāf, ca. 2020"
@@ -223,6 +234,7 @@ figure_list:
     src: "figures/fig-13-3a-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-3a-schmidtke/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 13.3a"
     caption: "Title page and final page of a codice originally in the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The title page (13.3a) had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page (13.3b) has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the imam."
@@ -232,6 +244,7 @@ figure_list:
     src: "figures/fig-13-3b-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-3b-schmidtke/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 13.3b"
     caption: "Title page and final page of a codice originally in the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The title page (13.3a) had been glued over, hiding both the title of the book and a note recording that it had been transcribed for the library of Imam al-Mansur bi-llah ʿAbd Allah b. Hamza. The final page (13.3b) has the scribe’s colophon, dated Shaʿban 605 (February–March 1209), followed by a note signed by Muḥyi al-Dīn Muhammad b. Ahmad b. ʿAli b. al-Walid al-Qurashi al-Anf (d. 1226) relating that he collated the transcription with a witness of the work from “ʿIraq” (meaning ʿIraq al-ʿajam, i.e., Iran) and that he finished doing so at the beginning of Shawwal 605 (April–May 1209). Ibn al-Walid, a scholar in his own right, had studied together with ʿAbd Allah b. Hamza and led a project of transcription of manuscripts brought from Iran to Yemen at the request of the imam."
@@ -241,6 +254,7 @@ figure_list:
     src: "figures/fig-13-4-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-4-schmidtke/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 13.4"
     caption: "Bookshop at Sana’a, Yemen, ca. 1912."
@@ -257,6 +271,7 @@ figure_list:
     src: "figures/fig-13-6-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-6-schmidtke/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 13.6"
     caption: "Inside the Dār al-Makhṭūṭāt, 2009."
@@ -266,6 +281,7 @@ figure_list:
     src: "figures/fig-13-7-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-13-7-schmidtke/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 13.7"
     caption: "Personnel of the Imam Zayd b. Ali Cultural Foundation, Ṣanʿāʾ, digitizing manuscripts, 2009."
@@ -289,8 +305,11 @@ figure_list:
 
   - id: "fig-14-1-eloundou-assomo"
     src: "figures/fig-14-1-eloundou-assomo.jpg"
-    label: "Figure 14.1"
+    media_type: iiif
+    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-14-1-eloundou-assomo/info.json"
+    zoom_max: 4
     alt: ""
+    label: "Figure 14.1"
     caption: "Aerial photo of Timbuktu."
     credit: "Image: Serge Negre / © UNESCO"
 
@@ -298,6 +317,7 @@ figure_list:
     src: "figures/fig-14-2-eloundou-assomo.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-14-2-eloundou-assomo/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 14.2"
     caption: "Djingareyber Mosque, built in 1325."
@@ -307,6 +327,7 @@ figure_list:
     src: "figures/fig-14-3-eloundou-assomo.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-14-3-eloundou-assomo/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 14.3"
     caption: "Destroyed Alpha Moya mausoleum."
@@ -316,6 +337,7 @@ figure_list:
     src: "figures/fig-14-4-eloundou-assomo.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-14-4-eloundou-assomo/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 14.4"
     caption: "Reconstructed Sidi Ben Amar mausoleum."
@@ -330,8 +352,6 @@ figure_list:
 
   - id: "fig-27-1-hassner"
     src: "figures/fig-27-1-hassner.jpg"
-    media_type: iiif
-    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-27-1-hassner/info.json"
     alt: ""
     label: "Figure 27.1"
     caption: "The Abbey of Monte Cassino, destroyed by Allied bombing in 1944."
@@ -339,6 +359,9 @@ figure_list:
 
   - id: "fig-27-2-hassner"
     src: "figures/fig-27-2-hassner.jpg"
+    media_type: iiif
+    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-27-2-hassner/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 27.2"
     caption: "Private Paul Oglesby of the US 30th Infantry Regiment stands amid the bomb-blasted remains of the roof of Santa Maria degli Angeli in the southern Apennine town of Acerno, Italy, September 1943."
@@ -355,6 +378,7 @@ figure_list:
     src: "figures/fig-28-1-sagan.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-28-1-sagan/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 28.1"
     caption: "Target map of Kyoto, June 1945."
@@ -371,6 +395,7 @@ figure_list:
     src: "figures/fig-3-1-parzinger.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-3-1-parzinger/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 3.1"
     caption: "Folio 242r from Diego Muñoz Camargo's *Historia de Tlaxcala* (1585) depicting the burning of Aztec ritual objects by Spanish missionaries."
@@ -380,6 +405,7 @@ figure_list:
     src: "figures/fig-3-2-parzinger.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-3-2-parzinger/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 3.2"
     caption: "The gutted interior of the Nuremberg synagogue after burning and looting by an organized Nazi mob on 9 November 1938."
@@ -389,6 +415,7 @@ figure_list:
     src: "figures/fig-3-3-parzinger.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-3-3-parzinger/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 3.3"
     caption: "The main mosque in Banja Luka, Bosnia-Herzegovina, destroyed during the war in the former Yugoslavia."
@@ -398,6 +425,7 @@ figure_list:
     src: "figures/fig-3-4-parzinger.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-3-4-parzinger/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 3.4"
     caption: "Demolition of the Temple of Bel in Palmyra by ISIS in 2015."
@@ -433,6 +461,9 @@ figure_list:
 
   - id: "fig-5-1-schmidtke"
     src: "figures/fig-5-1-schmidtke.jpg"
+    media_type: iiif
+    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-1-schmidtke/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 5.1"
     caption: "Page from a lithograph print, Tabriz 1877, of Jaʿfar b. al-Hasan al-Muhaqqiq al-Hilli’s (d. 1205–6) *Sharāʾiʿ al-Islām*, with several layers of commentary in the margin."
@@ -442,6 +473,7 @@ figure_list:
     src: "figures/fig-5-10-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-10-schmidtke/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 5.10"
     caption: "Title page of Ms. San Lorenzo, El Escorial, códice árabe 1485, fol. 7r, containing another copy of al-Murtada’s *K. al-Ghurar*, transmitted through Fadl Allah al-Rawandi."
@@ -470,6 +502,9 @@ figure_list:
 
   - id: "fig-5-14-schmidtke"
     src: "figures/fig-5-14-schmidtke.jpg"
+    media_type: iiif
+    iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-14-schmidtke/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 5.14"
     caption: "Evidence of ongoing illicit trafficking of manuscripts from Yemen."
@@ -486,6 +521,7 @@ figure_list:
     src: "figures/fig-5-3-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-3-schmidtke/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 5.3"
     caption: "“Worldwide distribution of Islamic manuscripts."
@@ -495,6 +531,7 @@ figure_list:
     src: "figures/fig-5-4-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-4-schmidtke/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 5.4"
     caption: "Michael Izady, “Primary Languages of [the] Islamic World.”"
@@ -504,6 +541,7 @@ figure_list:
     src: "figures/fig-5-5-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-5-schmidtke/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 5.5"
     caption: "Fuat Sezgin’s copy of Brockelmann’s GAL, with notes."
@@ -513,6 +551,7 @@ figure_list:
     src: "figures/fig-5-6-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-6-schmidtke/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 5.6"
     caption: "Title page of a manuscript in the Chester Beatty Library in Dublin, Ar 3315. One of the oldest extant copies of Ibn al-Nadim’s *Catalog*, which was purchased in 1421 by the prominent Egyptian scholar Taqi l-Din Ahmad b. ʿAli al-Maqrizi (d. 1442)."
@@ -529,6 +568,7 @@ figure_list:
     src: "figures/fig-5-8-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-8-schmidtke/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 5.8"
     caption: "Page from a Mamluk Qurʾan, in Marcus Fraser, *Geometry in Gold: An Illuminated Mamlūk Qurʾān Section* (London: Sam Fogg, 2005)."
@@ -559,6 +599,7 @@ figure_list:
     src: "figures/fig-7-2-harris.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-7-2-harris/info.json"
+    zoom_max: 5
     alt: ""
     label: "Figure 7.2"
     caption: "Pilgrims at the shrine of Imam Aptah."
@@ -575,6 +616,7 @@ figure_list:
     src: "figures/fig-7-4-harris.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-7-4-harris/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 7.4"
     caption: "Friday prayer at a local mosque in southern Xinjiang in 2012."
@@ -584,6 +626,7 @@ figure_list:
     src: "figures/fig-7-5-harris.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-7-5-harris/info.json"
+    zoom_max: 4
     alt: ""
     label: "Figure 7.5"
     caption: "A local graveyard in southern Xinjiang in 2012."
