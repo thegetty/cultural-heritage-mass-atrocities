@@ -65,7 +65,15 @@
 {{- else -}}
 {{- end -}}
 
+{{ $class := "" }}
+{{ with .Get "class" }}{{ $class = . }}{{ end }}
+
 {{- $dict := dict "Site" .Site "alt" $alt "aspectRatio" $aspectRatio "caption" $caption "credit" $credit "download" $download "id" $id "iiif" $iiif "label" $label "mediaId" $mediaId "mediaType" $mediaType "src" $src "zoom_max" $zoom_max -}}
+
+{{- if and (in $class "is-print-only") (ne .Site.Data.params.pdf true) -}}
+{{- else if and (in $class "remove-from-epub") (ne .Site.Data.params.epub true) -}}
+{{- else if and (in $class "is-screen-only") (or (eq .Site.Data.params.epub true) (.Site.Data.params.pdf true)) -}}
+{{- else -}}
 
 <figure
   data="q-figure"
@@ -88,3 +96,5 @@
     {{- end -}}
   </div>
 </figure>
+
+{{- end -}}
