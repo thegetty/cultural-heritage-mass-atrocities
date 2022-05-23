@@ -1357,11 +1357,11 @@ texts:
       - lang_code: ar
         title: المساهمون
       - lang_code: zh
-        title:
+        title: 投稿人
       - lang_code: fr
         title: Contributeurs
       - lang_code: ru
-        title:
+        title: Авторы
       - lang_code: es
         title: Colaboradores
 
