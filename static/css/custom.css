@@ -911,6 +911,29 @@ table#table-9-2 tr td:first-child {
 .quire-page__content .container .content .tabbed {
   margin-bottom: 4rem;
 }
+.quire-page__content .container .content .tabbed .download-link {
+  text-align: right;
+  display: block;
+  font-weight: bold;
+}
+.quire-page__content .container .content .tabbed [lang="ar"] .download-link {
+  text-align: left;
+}
+.quire-page__content .container .content .tabbed .download-link a {
+  border-bottom-width: 0;
+}
+.quire-page__content .container .content .tabbed .download-link a svg {
+  margin-left: .2rem;
+  height: .75rem;
+  width: .75rem;
+  fill: var(--color-dark);
+}
+.quire-page__content .container .content .tabbed .download-link a:hover {
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .container .content .tabbed .download-link a:hover svg {
+  fill: var(--accent-color);
+}
 .quire-page__content .container .content .tabbed .essay-title {
   font-size: 1.15rem;
   font-weight: 700;
@@ -923,6 +946,19 @@ table#table-9-2 tr td:first-child {
 }
 .quire-page__content .container .content .tabbed .keynote-text {
   font-size: 1.15rem;
+}
+.quire-page__content .container .content .tabbed .description p,
+.quire-page__content .container .content .tabbed .editors p {
+  font-size: 1rem;
+}
+.quire-page__content .container .content .tabbed hr {
+  margin-top: 2rem;
+}
+.quire-page__content .container .content .tabbed .book-info p {
+  margin: 0;
+}
+.quire-page__content .container .content .tabbed .book-info p:first-child {
+  margin-bottom: 1rem;
 }
 .quire-page__content .container .content .tabbed ul,
 .quire-page__content .container .content .tabbed ul li {
@@ -1001,6 +1037,31 @@ table#table-9-2 tr td:first-child {
 
 /* PDFs OF TRANSLATED TOCs */
 @media print {
+  .quire-page--translated-contents .quire-contents-list .page-item,
+  .quire-page--translated-contents .quire-contents-list .section-item {
+    max-width: 100%;
+    width: 100%;
+  }
+  .quire-page--translated-contents .quire-contents-list .section-item.level-0 > ul {
+    margin-top: 1rem;
+  }
+  .quire-contents.quire-page--translated-contents .quire-page__content .quire-contents-list:not(.grid) {
+    max-width: inherit;
+  }
+  .quire-page--translated-contents .quire-page__content .content .about-text p {
+    text-indent: 0;
+    margin-top: 1rem;
+  }
+  .quire-page--translated-contents .quire-page__content .content .about-text .book-info p {
+    margin: 0;
+  }
+  .quire-page--translated-contents .quire-page__content .content .about-text .book-info p:first-child {
+    margin-bottom: 1rem;
+  }
+  .quire-page--translated-contents .quire-contents-list .section-item a,
+  .quire-page--translated-contents .quire-contents-list .page-item a {
+    display: inline;
+  }
   .quire-page--translated-contents .quire-contents-list li li {
     padding-left: 2rem;
   }
@@ -1014,12 +1075,10 @@ table#table-9-2 tr td:first-child {
     margin-top: .25em;
     font-family: 'Noto Serif', serif;
     font-size: 1em !important;
-    margin-left: 1rem;
   }
   .quire-page--translated-contents .quire-contents-list li .abstract-text {
     font-family: 'Noto Serif', serif;
     font-size: .875em !important;
-    margin-left: 1rem;
   }
   .quire-page--translated-contents .quire-contents-list li li .keynote-text,
   .quire-page--translated-contents .quire-contents-list li li .abstract-text {

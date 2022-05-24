@@ -12,3 +12,5 @@ menu: false
 pdf: false
 epub: false
 ---
+
+{{< q-translated-book-info >}}

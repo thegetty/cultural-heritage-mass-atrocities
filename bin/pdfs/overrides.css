@@ -54,3 +54,30 @@
   max-width: 1in;
   margin-top: .5in;
 }
+
+@page translated-contents {
+  margin-left: 0.875in !important;
+  margin-right: 0.875in !important;
+  @top-right {
+    content: none !important;
+  }
+  @top-right-corner {
+    content: none !important;
+  }
+  @top-left {
+    content: none !important;
+  }
+  @top-left-corner {
+    content: none !important;
+  }
+}
+/* @page translated-contents:left {
+  margin: 0.875in !important;
+  background-color: plum;
+}
+@page translated-contents:right {
+  margin: 0.875in !important;
+} */
+.quire-page.quire-contents.quire-page--translated-contents {
+  page: translated-contents !important;
+}
