@@ -33,5 +33,11 @@ Props:
     {{- if .credit -}}
       <span class="quire-figure__credit">{{ if .caption }} {{ end }}{{ markdownify .credit }}</span>
     {{- end -}}
+
+    {{- if or (eq .Site.Params.epub true) (eq .Site.Params.pdf true) -}}
+      {{- if .mapLink -}}
+        <a href="{{ $.Site.Data.publication.identifier.url }}/{{ .mapLink }}" target="_blank" class="quire-figure__map-link">www.getty.edu/publications/cultural-heritage-mass-atrocities/{{ .mapLink }}</a>
+      {{- end -}}
+    {{- end -}}
   </figcaption>
 {{- end -}}

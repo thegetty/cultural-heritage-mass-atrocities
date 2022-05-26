@@ -71,7 +71,7 @@
     alt="{{ .alt }}"
   />
 
-{{- $dict := dict "Site" .Site "caption" .caption "credit" .credit "label" .label "modalLink" $modalLink -}}
+{{- $dict := dict "Site" .Site "caption" .caption "credit" .credit "label" .label "mapLink" .mapLink "modalLink" $modalLink -}}
 
 {{- if and (ne .Site.Params.epub true) (ne .Site.Params.pdf true) -}}
 {{- if or .label (eq .Site.Params.figureModal true ) }}
@@ -82,5 +82,7 @@
 {{- if eq .Site.Params.figureModal true -}}
   </a>
 {{- end -}}
+
+
 
 {{- partial "figures/caption.html" $dict -}}

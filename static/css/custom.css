@@ -1170,6 +1170,12 @@ table#table-9-2 tr td:first-child {
   display: none;
 }
 
+/* ADD MAP LINKS TO PDF */
+.quire-figure__map-link {
+  display: block;
+  margin-top: .25rem;
+}
+
 /* MAKE EPIGRAPHS ITALIC */
 .quire-page__content .content .epigraph blockquote em {
   font-style: italic;

@@ -6,6 +6,7 @@ figure_list:
     label: "Figure 10.1"
     caption: "The situation in Syria in 2020. Congressional Research Service (CRS), *Armed Conflict in Syria: Overview and US Response* (Washington, DC: CRS, updated 27 May 2020), 4."
     credit: "Image: Foresight Intelligence by IHS Markit"
+    map: part-2/10-bandarin/#fig-10-1-map
 
   - id: "fig-10-2-bandarin"
     src: "figures/fig-10-2-bandarin.jpg"
@@ -23,6 +24,7 @@ figure_list:
     label: "Figure 10.3"
     caption: "The siege of Aleppo, July 2016. Armenak Tokmajyan, *Aleppo Conflict Timeline* (Budapest: Central European University, 2016), 3."
     credit: "Image: Reproduced with kind permission from CEU, The Aleppo Project"
+    map: part-2/10-bandarin/#fig-10-3-map
 
   - id: "fig-10-4-bandarin"
     src: "figures/fig-10-4-bandarin.jpg"
@@ -33,6 +35,7 @@ figure_list:
     label: "Figure 10.4"
     caption: "Aleppo damage analysis, September 2016. UNITAR, “Percentage Damage in Residential Area of Aleppo City,” https://unitar.org/unosat/node/44/2510."
     credit: "Image: UN Satellite Centre – UNOSAT / UNITAR"
+    map: part-2/10-bandarin/#fig-10-4-map
 
   - id: "fig-10-5-bandarin"
     src: "figures/fig-10-5-bandarin.jpg"
@@ -103,6 +106,7 @@ figure_list:
     label: "Figure 11.3"
     caption: "Map of Homs showing the city’s location near the Orontes River. The orchards separate the city from the Al-Wa’er neighborhood, a newer development built in the 1970s and 1980s."
     credit: "Image: © 2001 Homsonline.com"
+    map: part-2/11-al-sabouni/#fig-11-3-map
 
   - id: "fig-11-4a-al-sabouni"
     src: "figures/fig-11-4a-al-sabouni.jpg"
@@ -266,6 +270,7 @@ figure_list:
     label: "Figure 13.5"
     caption: "Map of Yemen during the seventeenth century, in Tomislav Klarić, “Untersuchungen zur politischen Geschichte der qāsimidischen Dynastie [11./17. Jh.],” PhD diss., University of Göttingen, 2007, fig. 4"
     credit: ""
+    map: part-2/13-schmidtke/#fig-13-5-map
 
   - id: "fig-13-6-schmidtke"
     src: "figures/fig-13-6-schmidtke.jpg"
@@ -383,6 +388,7 @@ figure_list:
     label: "Figure 28.1"
     caption: "Target map of Kyoto, June 1945."
     credit: "Image: Alex Wellerstein, “The Kyoto Misconception,” *Restricted Data: The Nuclear Secrecy Blog*, 8 August 2014, http://blog.nuclearsecrecy.com/2014/08/08/kyoto-misconception/."
+    map: part-5/28-sagan/#fig-28-1-map
 
   - id: "fig-28-2-sagan"
     src: "figures/fig-28-2-sagan.jpg"
@@ -526,6 +532,7 @@ figure_list:
     label: "Figure 5.3"
     caption: "Worldwide distribution of Islamic manuscripts."
     credit: "Image: María Mercedes Tuya, with kind permission"
+    map: part-1/05-schmidtke/#fig-5-3-map
 
   - id: "fig-5-4-schmidtke"
     src: "figures/fig-5-4-schmidtke.jpg"
@@ -536,6 +543,7 @@ figure_list:
     label: "Figure 5.4"
     caption: "Michael Izady, “Primary Languages of [the] Islamic World.”"
     credit: "Image: Dr. Michael Izady (https://gulf2000.columbia.edu/images/maps/Languages_Islam_lg.png)"
+    map: part-1/05-schmidtke/#fig-5-4-map
 
   - id: "fig-5-5-schmidtke"
     src: "figures/fig-5-5-schmidtke.jpg"
@@ -638,6 +646,7 @@ figure_list:
     label: "Figure 8.1"
     caption: "Ethnic map of Sri Lanka"
     credit: "Image: Obi2canibe / CC0 1.0 Universal Public Domain Dedication"
+    map: part-2/08-singh/#fig-8-2-map
 
   - id: "fig-8-2-singh"
     src: "figures/fig-8-2-singh.jpg"
