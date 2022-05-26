@@ -109,7 +109,7 @@ figure_list:
     alt: ""
     label: "Figure 11.4a"
     caption: "The Hill of Homs, where the ancient city was originally built."
-    credit: "Image:  Dick Osseman / CC BY-SA 4.0 "
+    credit: "Image:  Dick Osseman / CC BY-SA 4.0"
 
   - id: "fig-11-4b-al-sabouni"
     src: "figures/fig-11-4b-al-sabouni.jpg"
@@ -160,7 +160,7 @@ figure_list:
     alt: ""
     label: "Figure 11.7"
     caption: "The mausoleum of Emesa. Its destruction by the city government in 1911, part of a systematic demolition of the city's identity, resulted in a great loss to the history of Homs."
-    credit: "Image: C. Watzinger / Public domain "
+    credit: "Image: C. Watzinger / Public domain"
 
   - id: "fig-11-8-al-sabouni"
     src: "figures/fig-11-8-al-sabouni.jpg"
@@ -365,7 +365,7 @@ figure_list:
     alt: ""
     label: "Figure 27.2"
     caption: "Private Paul Oglesby of the US 30th Infantry Regiment stands amid the bomb-blasted remains of the roof of Santa Maria degli Angeli in the southern Apennine town of Acerno, Italy, September 1943."
-    credit: "Image: Courtesy National Archives, photo no. 531181 (NWDNS-111-SC-188691) "
+    credit: "Image: Courtesy National Archives, photo no. 531181 (NWDNS-111-SC-188691)"
 
   - id: "fig-27-3-hassner"
     src: "figures/fig-27-3-hassner.jpg"
@@ -524,7 +524,7 @@ figure_list:
     zoom_max: 5
     alt: ""
     label: "Figure 5.3"
-    caption: "“Worldwide distribution of Islamic manuscripts."
+    caption: "Worldwide distribution of Islamic manuscripts."
     credit: "Image: María Mercedes Tuya, with kind permission"
 
   - id: "fig-5-4-schmidtke"
@@ -637,7 +637,7 @@ figure_list:
     alt: ""
     label: "Figure 8.1"
     caption: "Ethnic map of Sri Lanka"
-    credit: "Image: Obi2canibe / CC0 1.0 Universal Public Domain Dedication "
+    credit: "Image: Obi2canibe / CC0 1.0 Universal Public Domain Dedication"
 
   - id: "fig-8-2-singh"
     src: "figures/fig-8-2-singh.jpg"
