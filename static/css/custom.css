@@ -221,7 +221,7 @@
 }
 @media print {
   .quire-page__header__contributor {
-    color: #000;
+    opacity: 1;
   }
 }
 
@@ -327,7 +327,8 @@
 }
 
 @media screen {
-  .quire-contents-list a {
+  .quire-contents-list a,
+  .quire-contents-list .contributor {
     font-family: 'Noto Serif', serif;
     font-size: 1em !important;
   }
@@ -679,6 +680,9 @@ strong {
 .quire-page__content .content blockquote {
   font-style: normal;
 }
+.quire-page__content .content blockquote em {
+  font-style: italic;
+}
 @media screen {
   .quire-page__content .content blockquote {
     padding: 0;
@@ -884,6 +888,10 @@ strong {
   .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
     margin-left: 1.5rem;
   }
+  /* Hide duplicate label in PDF */
+  .content .quire-figure--group .q-figure__wrapper .quire-figure__label {
+    display: none;
+  }
 }
 
 /* CREATE GRID OF ONE WIDE IMAGE OVER TWO NARROWER ONES */
@@ -973,6 +981,24 @@ strong {
   color: var(--white);
 }
 
+/* ADJUST ESSAY 9 TABLE ALIGNMENT */
+table#table-9-1 span.num {
+  text-align: right;
+  width: 3rem;
+  display: inline-block;
+}
+table#table-9-2 tr th {
+  width: 25%;
+}
+table#table-9-2 tr th,
+table#table-9-2 tr td {
+  text-align: right;
+}
+table#table-9-2 tr th:first-child,
+table#table-9-2 tr td:first-child {
+  text-align: left;
+}
+
 /* ADD COPYRIGHT NOTICES AT THE BOTTOM OF ESSAYS */
 .quire-page__content .container .content .backmatter.page-copyright-notice {
   margin-top: 3rem;
@@ -1030,6 +1056,29 @@ strong {
 .quire-page__content .container .content .tabbed {
   margin-bottom: 4rem;
 }
+.quire-page__content .container .content .tabbed .download-link {
+  text-align: right;
+  display: block;
+  font-weight: bold;
+}
+.quire-page__content .container .content .tabbed [lang="ar"] .download-link {
+  text-align: left;
+}
+.quire-page__content .container .content .tabbed .download-link a {
+  border-bottom-width: 0;
+}
+.quire-page__content .container .content .tabbed .download-link a svg {
+  margin-left: .2rem;
+  height: .75rem;
+  width: .75rem;
+  fill: var(--color-dark);
+}
+.quire-page__content .container .content .tabbed .download-link a:hover {
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .container .content .tabbed .download-link a:hover svg {
+  fill: var(--accent-color);
+}
 .quire-page__content .container .content .tabbed .essay-title {
   font-size: 1.15rem;
   font-weight: 700;
@@ -1042,6 +1091,19 @@ strong {
 }
 .quire-page__content .container .content .tabbed .keynote-text {
   font-size: 1.15rem;
+}
+.quire-page__content .container .content .tabbed .description p,
+.quire-page__content .container .content .tabbed .editors p {
+  font-size: 1rem;
+}
+.quire-page__content .container .content .tabbed hr {
+  margin-top: 2rem;
+}
+.quire-page__content .container .content .tabbed .book-info p {
+  margin: 0;
+}
+.quire-page__content .container .content .tabbed .book-info p:first-child {
+  margin-bottom: 1rem;
 }
 .quire-page__content .container .content .tabbed ul,
 .quire-page__content .container .content .tabbed ul li {
@@ -1131,6 +1193,31 @@ strong {
 
 /* PDFs OF TRANSLATED TOCs */
 @media print {
+  .quire-page--translated-contents .quire-contents-list .page-item,
+  .quire-page--translated-contents .quire-contents-list .section-item {
+    max-width: 100%;
+    width: 100%;
+  }
+  .quire-page--translated-contents .quire-contents-list .section-item.level-0 > ul {
+    margin-top: 1rem;
+  }
+  .quire-contents.quire-page--translated-contents .quire-page__content .quire-contents-list:not(.grid) {
+    max-width: inherit;
+  }
+  .quire-page--translated-contents .quire-page__content .content .about-text p {
+    text-indent: 0;
+    margin-top: 1rem;
+  }
+  .quire-page--translated-contents .quire-page__content .content .about-text .book-info p {
+    margin: 0;
+  }
+  .quire-page--translated-contents .quire-page__content .content .about-text .book-info p:first-child {
+    margin-bottom: 1rem;
+  }
+  .quire-page--translated-contents .quire-contents-list .section-item a,
+  .quire-page--translated-contents .quire-contents-list .page-item a {
+    display: inline;
+  }
   .quire-page--translated-contents .quire-contents-list li li {
     padding-left: 2rem;
   }
@@ -1144,12 +1231,10 @@ strong {
     margin-top: .25em;
     font-family: 'Noto Serif', serif;
     font-size: 1em !important;
-    margin-left: 1rem;
   }
   .quire-page--translated-contents .quire-contents-list li .abstract-text {
     font-family: 'Noto Serif', serif;
     font-size: .875em !important;
-    margin-left: 1rem;
   }
   .quire-page--translated-contents .quire-contents-list li li .keynote-text,
   .quire-page--translated-contents .quire-contents-list li li .abstract-text {
@@ -1240,6 +1325,12 @@ strong {
 /* HIDE PDF COVER PAGES */
 .quire-cover-page {
   display: none;
+}
+
+/* ADD MAP LINKS TO PDF */
+.quire-figure__map-link {
+  display: block;
+  margin-top: .25rem;
 }
 
 /* MAKE EPIGRAPHS ITALIC */

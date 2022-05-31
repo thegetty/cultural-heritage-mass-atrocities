@@ -1,5 +1,7 @@
 {{- $page := "" -}}
-{{ if eq .Page.File.Dir "/" }}
+{{ if eq .Page.Params.about true }}
+  {{ $page = "about" }}
+{{ else if eq .Page.File.Dir "/" }}
   {{ $page = .Page.File.BaseFileName }}
 {{ else }}
   {{ $page = printf "%s%s" .Page.File.Dir .Page.File.BaseFileName }}
@@ -24,16 +26,27 @@
   {{ $keynoteHead := "" }}
   {{ $abstractHead := "" }}
   {{ range where $.Site.Data.translations.languages "lang_code" .lang_code }}
-  {{ $keynoteHead = .keynote }}
-  {{ $abstractHead = .abstract }}
+    {{ $keynoteHead = .keynote }}
+    {{ $abstractHead = .abstract }}
   {{ end }}
 
-  <section id="lang-{{ .lang_code }}" lang="{{ .lang_code }}" >
-    <p class="essay-title">{{ .title | markdownify }}<br /><span class="essay-contributor">{{ .contributor | markdownify }}</span></p>
-    <p class="keynote-text">{{ .keynote | markdownify }}</p>
-    <h2>{{ $abstractHead }}</h2>
-    <p>{{ .abstract | markdownify }}</p>
-  </section>
+  {{ if eq $.Page.Params.about true }}
+    <section id="lang-{{ .lang_code }}" lang="{{ .lang_code }}" >
+      {{- $link := printf "%s-%s.%s" "/downloads/pages/cultural-heritage-mass-atrocities--contents" $language "pdf" -}}
+      <span class="download-link is-screen-only remove-from-epub"><a href="{{ $link }}">PDF {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a></span>
+      <div class="description">{{ .description | markdownify }}</div>
+      <div class="editors">{{ .editors | markdownify }}</div>
+      <hr />
+      <div class="book-info">{{ .book_info | markdownify }}</div>
+    </section>
+  {{ else }}
+    <section id="lang-{{ .lang_code }}" lang="{{ .lang_code }}" >
+      <p class="essay-title">{{ .title | markdownify }}<br /><span class="essay-contributor">{{ .contributor | markdownify }}</span></p>
+      <p class="keynote-text">{{ .keynote | markdownify }}</p>
+      <h2>{{ $abstractHead }}</h2>
+      <p>{{ .abstract | markdownify }}</p>
+    </section>
+  {{ end }}
   {{ end }}
   {{ end }}
 

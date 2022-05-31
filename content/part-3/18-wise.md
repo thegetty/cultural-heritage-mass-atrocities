@@ -75,7 +75,7 @@ Wars require financing. Prolonged conflict will extend the need for resources an
 
 ### Propaganda
 
-The destruction of cultural heritage can target norms as well as communities of people. Humanitarian protections have depended on an infrastructure of international norms and legal frameworks that were largely constructed after World War II and backed by Western power.[^29] While attacks on cultural heritage have most often targeted specific ethnicities or other selected groups, some can be directed at the broad global conventions and institutions that support this humanitarian infrastructure. These types of attacks are directed at a global audience and are usually staged as a kind of perverse political theater. They often exploit new forms of dissemination technologies, including social media.[^30] The intentional destruction of the two monumental Buddha statues at Bamiyan, Afghanistan, in 2001, while part of a larger Taliban campaign of heritage destruction, was videotaped and displayed globally. The destruction of heritage sites in Palmyra by ISIL was purposefully portrayed in social media over several months in 2015.[^31]
+The destruction of cultural heritage can target norms as well as communities of people. Humanitarian protections have depended on an infrastructure of international norms and legal frameworks that were largely constructed after World War II and backed by Western power.[^29] While attacks on cultural heritage have most often targeted specific ethnicities or other selected groups, some can be directed at the broad global conventions and institutions that support this humanitarian infrastructure. These types of attacks are directed at a global audience and are usually staged as a kind of perverse political theater. They often exploit new forms of dissemination technologies, including social media.[^30] The intentional destruction of the two monumental Buddha statues at Bamiyan, Afghanistan, in 2001, while part of a larger Taliban campaign of heritage destruction, was videotaped and displayed globally. The destruction of heritage sites in Palmyra by ISIS was purposefully portrayed in social media over several months in 2015.[^31]
 
 These highly public acts of “symbolic terrorism” or “iconoclastic” propaganda are generally strategic in nature and intended to breach long-held international humanitarian norms. These norms have been essential to the construction of a global framework for protecting noncombatants since World War II, rooted in an array of legal conventions and multilateral institutions.[^32] The implementation of international humanitarian law and the safe provision of humanitarian services in areas of conflict have relied on these norms and collective global order, and any assault on them can undermine essential protections for populations under threat.
 
@@ -99,7 +99,7 @@ There is an urgent need to strengthen the justifications for heritage protection
 
 These considerations must be addressed by sufficiently comprehensive datasets or combinations of datasets to permit intensely cross-disciplinary analysis. There exist datasets with information on the destruction of cultural heritage in certain conflict areas, as well as ones that track violent assaults on groups of people. The task is to technically integrate them in a manner that respects the distinct disciplinary assumptions and variable limitations that always shape empirical data collection. At a more fundamental level, this task requires intense transdisciplinary engagement, a requirement that has never come easily to the examination of cultural heritage protections in war.
 
-Any empirical analysis of the relationship between the destruction of cultural heritage and war’s effects on people must overcome the longstanding disciplinary boundaries between those who study heritage and those who study humanitarian effects. This implies an integrative task that requires the development of a community of collaborators from diverse fields, a community committed to crafting new, shared methodologies and a common, creole, analytic language. This integrative challenge will also require the engagement of those responsible for the pragmatic implementation of both heritage and humanitarian protections in real conflict environments.
+Any empirical analysis of the relationship between the destruction of cultural heritage and war’s effects on people must overcome the long-standing disciplinary boundaries between those who study heritage and those who study humanitarian effects. This implies an integrative task that requires the development of a community of collaborators from diverse fields, a community committed to crafting new, shared methodologies and a common, creole, analytic language. This integrative challenge will also require the engagement of those responsible for the pragmatic implementation of both heritage and humanitarian protections in real conflict environments.
 
 The primary conclusion of this discussion is that the humanitarian justifications for protecting cultural heritage in war are real but complicated. Some complications can alter the legitimacy of humanitarian claims for heritage protection in areas of violent conflict. Consequently, traditional advocacy for heritage protection must evolve in two ways. First, far greater empirical detail is needed to identify under what political and security conditions heritage protection would actually reduce humanitarian need. This analytic challenge will not easily be met by a traditional reliance on heritage expertise alone. Rather, it will require new forms of transdisciplinary collaboration involving security, political, health, and humanitarian disciplines. Second, a strong transdisciplinary approach would also lay a more coherent foundation for engaging the heritage protection and humanitarian communities in a unified public advocacy dedicated to saving both stones and lives.
 
@@ -137,7 +137,7 @@ The primary conclusion of this discussion is that the humanitarian justification
 
 [^7]: Francis Lieber, Instructions for the Government of Armies of the United States in the Field, General Orders No. 100, Adjutant General’s Office, 24 April 1863. For text, see Yale Law School, “General Orders No. 100: The Lieber Code,” The Avalon Project, https://avalon.law.yale.edu/19th_century/lieber.asp.
 
-[^8]: Patty Gerstenblith, “The Destruction of Cultural Heritage: A Crime against Property or a Crime against People?” *John Marshall Review of Intellectual Property Law* 15, no. 3 (2016): 337–89.
+[^8]: Patty Gerstenblith, “The Destruction of Cultural Heritage: A Crime against Property or a Crime against People?,” *John Marshall Review of Intellectual Property Law* 15, no. 3 (2016): 337–89.
 
 [^9]: Weiss and Connelly, “Protecting Cultural Heritage in War Zones,” 2; and James Cuno and Thomas G. Weiss, eds., *Cultural Heritage under Siege: Laying the Foundation for a Legal and Political Framework to Protect Cultural Heritage at Risk in Zones of Armed Conflict*, Occasional Papers in Cultural Heritage Policy no. 4 (Los Angeles: Getty Publications, 2020), https://www.getty.edu/publications/occasional-papers-4/.
 
@@ -153,7 +153,7 @@ The primary conclusion of this discussion is that the humanitarian justification
 
 [^15]: Edward C. Luck, *Cultural Genocide and the Protection of Cultural Heritage*, Occasional Papers in Cultural Heritage Policy no. 2 (Los Angeles: Getty Publications, 2018), https://www.getty.edu/publications/occasional-papers-2/.
 
-[^16]: Stephen J. Whitfield, “Where They Burn Books …” *Modern Judaism* 22, no. 3 (2002): 213–33.
+[^16]: Stephen J. Whitfield, “Where They Burn Books . . .” *Modern Judaism* 22, no. 3 (2002): 213–33.
 
 [^17]: Helen Frowe and Derek Matravers, *Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection*, Occasional Papers in Cultural Heritage Policy no. 3 (Los Angeles: Getty Publications, 2019), https://www.getty.edu/publications/occasional-papers-3/.
 
@@ -161,7 +161,7 @@ The primary conclusion of this discussion is that the humanitarian justification
 
 [^19]: Benjamin Isakhan, “Heritage Destruction and Spikes in Violence: The Case of Iraq,” in *Cultural Heritage in the Crosshairs*, ed. Joris D. Kila and James A. Zeidler (Boston: Brill, 2013).
 
-[^20]: Amaria Atta et al., “Is Bharat (India) a Secular or a Religious State?” *Journal of the Research Society of Pakistan* 56, no. 2 (2019): 353–61.
+[^20]: Amaria Atta et al., “Is Bharat (India) a Secular or a Religious State?,” *Journal of the Research Society of Pakistan* 56, no. 2 (2019): 353–61.
 
 [^21]: Christopher Merrill, *The Old Bridge: The Third Balkan War and the Age of the Refugee* (Minneapolis: Milkweed Editions, 1995); and Helen Walasek, *Bosnia and the Destruction of Cultural Heritage* (Oxford: Routledge, 2018).
 

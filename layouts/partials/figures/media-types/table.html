@@ -15,17 +15,16 @@
 {{- $tableSrc := printf "%s/%s/%s" "static" $imageDir .src -}}
 
 {{- $now := now.UnixNano -}}
-{{ $figureId := printf "%s-%d" "deepzoomtable" $now }}
-{{ $modalLink := printf "%s%s" "#" $figureId }}
+{{ $modalLink := printf "%s-%d" "#deepzoomtable" $now }}
 
 {{- if eq .Site.Params.figureModal true -}}
   <figure
-    id="{{ $figureId }}"
+    id="deepzoomtable-{{ $now }}"
     title="{{ .caption | markdownify | safeHTML }}"
     class="quire-figure leaflet-outer-wrapper mfp-hide notGet"
   >
     <div
-      id="js-{{ $figureId }}"
+      id="js-deepzoomtable-{{ $now }}"
       class="quire-deepzoom inset leaflet-inner-wrapper"
       aria-label="Zoomable table"
       aria-live="polite"

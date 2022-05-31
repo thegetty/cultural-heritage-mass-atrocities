@@ -16,8 +16,11 @@ short_title:
 cover_title: "Cultural Heritage <span class='sm'>and</span> Mass&nbsp;Atrocities"
 
 description:
-  one_line:
-  full:
+  one_line: A pathbreaking call to halt the intertwined crises of cultural heritage attacks and mass atrocities and mobilize international efforts to protect people and cultures.
+  full: |
+    Intentional destruction of cultural heritage has a long history. Contemporary examples include the Bamiyan Buddhas in Afghanistan, mosques in Xinjiang, China, mausoleums in Timbuktu, Mali, and Greco-Roman remains in Syria. Cultural heritage destruction invariably accompanies assaults on civilians, making heritage attacks impossible to disentangle from the mass atrocities of genocide, war crimes, crimes against humanity, and ethnic cleansing. Both seek to eliminate people and the heritage with which they identify.
+
+    *Cultural Heritage and Mass Atrocities* assembles thirty-eight experts from the heritage, social science, humanitarian, legal, and military communities. Focusing on immovable cultural heritage vulnerable to attack, the volume’s guiding framework is the Responsibility to Protect (R2P), a United Nations resolution adopted unanimously in 2005 to permit international intervention against crimes of war or genocide. Based on the three pillars of prevent, react, and rebuild, R2P offers today’s policymakers a set of existing laws and international norms that can and—as this book argues—must be extended to the protection of cultural heritage. Essays consider the global value of cultural heritage and document recent attacks on people and sites in China, Guatemala, Iraq, Mali, Sri Lanka and Afghanistan, Syria, and Yemen. Comprehensive sections on vulnerable populations as well as the role of international law and the military offer readers critical insights and point toward research, policy, and action agendas to protect both people and cultural heritage. The table of contents along with a concise abstract of each chapter is offered online in Arabic, Chinese, French, Russian, and Spanish to facilitate robust, global dissemination of the strategies and tactics offered in this pathbreaking call to action.
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
@@ -27,13 +30,13 @@ language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
-  url: https://www.getty.edu/publications/cultural-heritage-mass-attrocities
+  isbn: 9781606068106
+  url: https://www.getty.edu/publications/cultural-heritage-mass-atrocities
 
 publisher:
   - name: Getty Publications
     location: Los Angeles
-    url:
+    url: https://www.getty.edu/publications
     logo: logo-getty.png
 
 # ------------------------------------------------------------------------------
@@ -49,7 +52,7 @@ contributor:
     last_name: Cuno
     title: President and CEO
     affiliation: J. Paul Getty Trust
-    bio: "**James Cuno** is president emeritus of the J. Paul Getty Trust and co-chair of its Cultural Heritage at Risk Project. His recent single- and coauthored books include *Museums Matter: In Praise of the Encyclopedic Museum* (2011), *Whose Culture? The Promise of Museums and the Debate over Antiquities* (2009), and *Who Owns Antiquity: Museums and the Battle Over Our Ancient Heritage* (2008)."
+    bio: "**James Cuno** is president emeritus of the J. Paul Getty Trust and cochair of its Cultural Heritage at Risk Project. His recent single- and coauthored books include *Museums Matter: In Praise of the Encyclopedic Museum* (2011), *Whose Culture? The Promise of Museums and the Debate over Antiquities* (2009), and *Who Owns Antiquity: Museums and the Battle Over Our Ancient Heritage* (2008)."
     pic:
   - id: tweiss
     type: primary
@@ -57,7 +60,7 @@ contributor:
     last_name: Weiss
     title: Presidential Professor of Political Science
     affiliation: CUNY Graduate Center
-    bio: "**Thomas G. Weiss** is co-chair of the Cultural Heritage at Risk Project of the J. Paul Getty Trust and Presidential Professor of Political Science at the CUNY Graduate Center; he is also Distinguished Fellow, Global Governance, at the Chicago Council on Global Affairs, and Global Eminence Scholar, Kyung Hee University, Korea. His recent single- and coauthored books include *The “Third” United Nations: How a Knowledge Ecology Helps the UN Think* (2021), *Rethinking Global Governance* (2019), *The United Nations and Changing World Politics* (2019), *Would the World Be Better without the UN?* (2018), and *Humanitarianism, War, and Politics: Solferino to Syria and Beyond* (2018)."
+    bio: "**Thomas G. Weiss** is cochair of the Cultural Heritage at Risk Project of the J. Paul Getty Trust and Presidential Professor of Political Science at the CUNY Graduate Center; he is also Distinguished Fellow, Global Governance, at the Chicago Council on Global Affairs, and Global Eminence Scholar, Kyung Hee University, Korea. His recent single- and coauthored books include *The “Third” United Nations: How a Knowledge Ecology Helps the UN Think* (2021), *Rethinking Global Governance* (2019), *The United Nations and Changing World Politics* (2019), *Would the World Be Better without the UN?* (2018), and *Humanitarianism, War, and Politics: Solferino to Syria and Beyond* (2018)."
     url:
     pic:
 
@@ -72,7 +75,10 @@ license:
   abbreviation: CC BY-NC
   url: https://creativecommons.org/licenses/by-nc/4.0/
   scope: some-exceptions # full | text-only | some-exceptions
-  online_text: "Unless otherwise indicated, the text of this work and figs. TK are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). All other images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights."
+  online_text: |
+    The text of this work, unless otherwise indicated, is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+
+    "Who Are We? Identity and Cultural Heritage" is reproduced from *The Lies That Bind: Rethinking Identity* by Kwame Anthony Appiah. Copyright © 2008 by Kwame Anthony Appiah. Used by permission of Liveright Publishing Company.
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -112,23 +118,15 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type:
-    name:
-    identifer:
-  - type:
-    name:
-    identifier:
-  - type:
-    name:
-  - type:
-    name:
-    identifier:
-  - type:
-    name:
-    identifier:
-  - type:
-    name:
-    identifier:
+  - type: bisac
+    name: POLITICAL SCIENCE / Public Policy / Cultural Policy
+    identifer: POL038000
+  - type: bisac
+    name: POLITICAL SCIENCE / Genocide & War Crimes
+    identifier: POL061000
+  - type: bisac
+    name: ART / Conservation & Preservation
+    identifier: ART056000
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -144,4 +142,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: cover.png
+promo_image: cover.jpg
