@@ -1357,11 +1357,11 @@ texts:
       - lang_code: ar
         title: المساهمون
       - lang_code: zh
-        title:
+        title: 投稿人
       - lang_code: fr
         title: Contributeurs
       - lang_code: ru
-        title:
+        title: Авторы
       - lang_code: es
         title: Colaboradores
 
@@ -1377,3 +1377,156 @@ texts:
         title: Указатель
       - lang_code: es
         title: Índice
+
+  - page: about
+    translations:
+      - lang_code: en
+        description: |
+          ## About this Book
+
+          Intentional destruction of cultural heritage has a long history. Contemporary examples include the Bamiyan Buddhas in Afghanistan, mosques in Xinjiang, China, mausoleums in Timbuktu, Mali, and Greco-Roman remains in Syria. Cultural heritage destruction invariably accompanies assaults on civilians, making heritage attacks impossible to disentangle from the mass atrocities of genocide, war crimes, crimes against humanity, and ethnic cleansing. Both seek to eliminate people and the heritage with which they identify.
+
+          *Cultural Heritage and Mass Atrocities* assembles thirty-eight experts from the heritage, social science, humanitarian, legal, and military communities. Focusing on immovable cultural heritage vulnerable to attack, the volume’s guiding framework is the Responsibility to Protect (R2P), a United Nations resolution adopted unanimously in 2005 to permit international intervention against crimes of war or genocide. Based on the three pillars of prevent, react, and rebuild, R2P offers today’s policymakers a set of existing laws and international norms that can and—as this book argues—must be extended to the protection of cultural heritage. Essays consider the global value of cultural heritage and document recent attacks on people and sites in China, Guatemala, Iraq, Mali, Sri Lanka and Afghanistan, Syria, and Yemen. Comprehensive sections on vulnerable populations as well as the role of international law and the military offer readers critical insights and point toward research, policy, and action agendas to protect both people and cultural heritage. The table of contents along with a concise abstract of each chapter is offered online in Arabic, Chinese, French, Russian, and Spanish to facilitate robust, global dissemination of the strategies and tactics offered in this pathbreaking call to action.
+        editors: |
+          ## About the Editors
+
+          James Cuno is president emeritus of the J. Paul Getty Trust.
+
+          Thomas G. Weiss is Presidential Professor of Political Science and director emeritus of the Ralph Bunche Institute for International Studies at the City University of New York Graduate Center.
+        book_info: |
+          Reflecting Getty’s commitment to open content, *Cultural Heritage and Mass Atrocities* is available online at [www.getty.edu/publications/cultural-heritage-mass-atrocities](https://www.getty.edu/publications/cultural-heritage-mass-atrocities) and may be downloaded free of charge in multiple formats. For readers who wish to have a bound reference copy, a paperback edition is available for purchase.
+
+          636 pages
+
+          7 x 10 inches
+
+          61 color and 14 b/w illustrations, 7 maps, 2 tables
+
+          ISBN 978-1-60606-807-6
+
+          paperback
+      - lang_code: ar
+        description: |
+          ## نبذة عن الكتاب
+
+          التدمير المتعمّد للتراث الثقافي هو ظاهرة قديمة تاريخيًا. وتشمل حالات ذلك في العصر الحديث تدمير تمثالي بوذا في باميان في أفغانستان، ومساجد في مقاطعة شينجيانغ في الصين، وأضرحة في تمبكتو، وآثار يونانية/رومانية في سوريا. دائمًا ما يترافق تدمير التراث الثقافي مع اعتداءات على المدنيين، وهو ما يجعل من المستحيل فصل الهجمات على التراث عن الفظاعات الجماعية من إبادة جماعية وجرائم حرب وجرائم ضد الإنسانية والتطهير العرقي. فكل تلك الأعمال تسعى إلى القضاء على السكان ومحو التراث الذي يمثل هويتهم.
+
+          يجمع كتاب "التراث الثقافي والجرائم الوحشية" إجمالي 38 خبيرًا في مجالات التراث والعلوم الاجتماعية والإنسانية والقانونية والسلك العسكري. من خلال التركيز على التراث الثقافي غير المنقول والمعرّض للهجمات، يمثّل الكتاب إطارًا مرشدًا لمفهوم "المسؤولية عن الحماية" (R2P)، وهو قرار تبنّته الأمم المتحدة بالإجماع عام 2005 ويسمح بالتدخل الدولي في وجه جرائم الحرب أو الإبادة الجماعية. وبناءً على الركائز الثلاثة – وهي المنع والتدخل وإعادة البناء – يمنح مفهوم "المسؤولية عن الحماية" لصناع القرار في العصر الراهن مجموعة من القوانين والأنظمة الدولية التي يجب توسيع نطاق عملها – وهو ما يُحاجج به هذه الكتاب – لتشمل حماية التراث الثقافي. تأخذ الأبحاث بعين الاعتبار القيمة العالمية للتراث الثقافي وتوثّق الهجمات الأخيرة على سكان ومواقع في الصين وغواتيمالا والعراق ومالي وسريلانكا وأفغانستان وسوريا واليمن. يضمّ الكتاب أبحاثًا شاملة تتعلّق بمجموعات السكان الأكثر عرضة للخطر، بالإضافة إلى دور القانون الدولي والجيش، بحيث يزوّد القراء بنظرة نقدية ويُقدم إضاءات على الأبحاث والسياسات وخطط العمل المتعلقة بحماية الناس والتراث الثقافي. يتوافر عبر الإنترنت جدول محتويات الكتاب ونبذة عن كل فصل، باللغات العربية والصينية والفرنسية والروسية والإسبانية، وذلك لتسهيل انتشار عالمي وفعّال للاستراتيجيات والتكتيكات في هذا النداء الرائد للتحرّك.
+        editors: |
+          ## نبذة عن المحرِّريْن
+
+          جيمس كونو هو الرئيس الفخري لصندوق ج. بول غيني.
+
+          توماس ج. ويس هو أستاذ جامعي مرموق في العلوم السياسية والمدير الفخري لمعهد رالف بنش للدراسات الدولية ومركز الدراسات العليا التابع لجامعة مدينة نيويورك.
+        book_info: |
+          وتماشيًا مع التزام "غيتي" في مجال المحتوى المتاح للعموم، يتوافر كتاب "التراث الثقافي والجرائم الوحشية" عبر الإنترنت من خلال الرابط التالي [www.getty.edu/publications/cultural-heritage-mass-atrocities](https://www.getty.edu/publications/cultural-heritage-mass-atrocities)، ويمكن تحميله مجانًا بأشكال رقمية متعددة. وبالنسبة للقراء الذين يرغبون بالحصول على نسخة ورقية، فذلك متاح من خلال شراء الكتاب مطبوعًا.
+
+          636 صفحة
+
+          7 × 10 إنش
+
+          61 رسمًا توضيحيًا ملونًا، و14 بالأبيض والأسود، و7 خرائط، وجدولين اثنين 
+
+          (الرقم المرجعي لترقيم الكتاب/ISBN ) 978-1-60606-807-6
+
+          غلاف عادي
+      - lang_code: zh
+        description: |
+          ## 本书简介
+
+          从古至今，文化遗产时常遭到蓄意摧毁。当代不乏此例，如阿富汗的巴米扬大佛、中国新疆的寺庙、廷巴克图的陵墓以及叙利亚的古希腊罗马遗址，文化遗产的摧毁往往伴随着对平民的袭击，从而使遗产遭到的攻击与大规模的种族灭绝、战争犯罪、危害人类的罪行及种族清洗的行径密不可分。它们均以彻底摧毁目标人群及遗产为目的。
+
+          *《文化遗产及大规模暴行* 集结了 38 名来自文化遗产、社会科学、人道主义、法律及军事领域的专家。本辑重点讨论易受攻击、不可移动的文化遗产，以“保护的责任” (R2P) 为指导框架。“保护的责任”是联合国在 2005 年为对战争犯罪或种族灭绝行径进行国际干预而一致通过的一项议案。R2P 秉承“预防、反应和重建”三大支柱，为如今的决策人提供了一套已有的法律和国际规范。而本书认为，这些法律和规范必须适用于文化遗产的保护。书中的各篇文章思考了文化遗产的全球价值，记录了近期在中国、危地马拉、伊拉克、马里、斯里兰卡、阿富汗、叙利亚和也门人民与遗址遭到的袭击。本书用大量的篇幅记录了弱势群体及国际和军事法的作用，以批判性的视角和观点探讨了保护人类与文化遗产的研究、政策与行动纲领。线上提供阿拉伯文、中文、法文、俄文及西班牙文的目录及每章的简明摘要，以帮助在全球范围内大力宣传这一开创性行动号召中的策略和战术。
+        editors: |
+          ## 编辑简介
+
+          James Cuno 任吉·保罗·盖提信托基金 (J. Paul Getty Trust) 的名誉主席。
+
+          Thomas G. Weiss 是政治学首席教授，兼纽约城市大学研究中心拉尔夫·本奇国际研究所名誉所长。
+        book_info: |
+          *《文化遗产与大规模暴行》* 为致敬盖蒂对公开内容的贡献，在[www.getty.edu/publications/cultural-heritage-mass-atrocities](https://www.getty.edu/publications/cultural-heritage-mass-atrocities) 线上可获得，并可免费下载多种格式。希望获得约束关联副本的读者可购买平装版。
+
+          636 页
+
+          7 x 10 英寸
+
+          61 张彩色插图与 14 张黑白插图、7 张地图、2 个表格 
+
+          ISBN 978-1-60606-807-6
+
+          平装版
+      - lang_code: fr
+        description: |
+          ## À propos de cet ouvrage
+
+          La destruction intentionnelle du patrimoine culturel existe de longue date. On peut citer à titre d'exemples contemporains les Bouddhas de Bâmiyân en Afghanistan, les mosquées de Xinjiang en Chine, les mausolées de Tombouctou et les ruines gréco-romaines en Syrie. La destruction du patrimoine culturel s'accompagne invariablement d'agressions à l'encontre des populations civiles, de telle manière qu'il devient impossible de distinguer ces attaques contre le patrimoine des atrocités de masse telles que le génocide, les crimes de guerre, les crimes contre l'humanité et le nettoyage ethnique. Leur objectif commun est d'éliminer des peuples et le patrimoine culturel auquel ils s'identifient.
+
+          *Patrimoine culturel et atrocités de masse* rassemble trente-huit experts issus des secteurs du patrimoine, des sciences sociales, de l'action humanitaire, de la pratique juridique et de l'armée. L'ouvrage qui s'attache en particulier au patrimoine culturel immobilier vulnérable aux attaques, a pour cadre directeur la Responsabilité de protéger (R2P - Responsibility to Protect), une résolution des Nations Unies ayant été adoptée à l'unanimité en 2005 pour permettre une intervention internationale en cas de crimes de guerre ou de génocide. La résolution R2P qui est fondée sur les trois piliers de la prévention, de la réaction et de la reconstruction, dote les décideurs politiques actuels d'un ensemble de lois et normes internationales existantes qui peut et - ainsi que le postule cet ouvrage - doit être élargi à la protection du patrimoine culturel. Les essais examinent la valeur mondiale du patrimoine culturel et rendent compte des attaques récentes perpétrées à l'encontre de populations et de sites en Chine, au Guatemala, en Irak, au Mali, au Sri Lanka et en Afghanistan, en Syrie et au Yémen. Des chapitres exhaustifs sur des populations vulnérables ainsi que le rôle du droit international et de l'armée proposent aux lecteurs des points de vue critiques et suggèrent des programmes politiques, de recherche et d'action afin d'assurer la protection tant des peuples que du patrimoine culturel. La table des matières ainsi qu'un bref résumé de chaque chapitre sont proposés en ligne en arabe, chinois, français, russe et espagnol afin de faciliter une diffusion virale et mondiale des stratégies et tactiques postulées dans cet appel à l'action innovant.
+        editors: |
+          ## À propos des rédacteurs
+
+          James Cuno est président émérite du J.Paul Getty Trust.
+
+          Thomas G. Weiss est Professeur présidentiel de science politique et administrateur émérite de l’Institut Ralph Bunche d’études internationales de la City University of New York Graduate Center.
+        book_info: |
+          Illustrant l'engagement de Getty en faveur du contenu ouvert, *Patrimoine culturel et atrocités de masse* est disponible en ligne à l'adresse [www.getty.edu/publications/cultural-heritage-mass-atrocities](https://www.getty.edu/publications/cultural-heritage-mass-atrocities) et il peut être téléchargé gratuitement sous des formats multiples. Pour les lecteurs souhaitant disposer d'un exemplaire relié de référence, une édition en livre de poche est proposée à l'achat.
+
+          636 pages
+
+          18 x 25 cm
+
+          61 illustrations couleur et 14 illustrations noir et blanc, 7 cartes, 2 tableaux
+
+          ISBN 978-1-60606-807-6
+
+          livre de poche
+      - lang_code: ru
+        description: |
+          ## Информация об этой книге
+
+          Культурное наследие подвергалось намеренному уничтожению на протяжении долгой истории человечества. Недавними примерами тому служат бамианские статуи Будды в Афганистане, мечети в Синьцзяне (Китай), мавзолеи в Тимбукту и греко-римские памятники в Сирии. Разрушения культурного наследия неизбежно сопровождают атаки на гражданское население, поэтому их невозможно отделить от массового геноцида, военных преступлений, преступлений против человечности и этнических чисток. Все это имеет целью уничтожить и народ, и наследие, которое является основой самосознания этого народа.
+
+          Книга «*Культурное наследие и массовые злодеяния»* написана 38 экспертами по культурному наследию, обществознанию, гуманитарным наукам, праву и военному делу. В основе этого труда, посвященного недвижимому культурному наследию, уязвимому для атак, лежит «Обязанность защищать» (R2P) — резолюция ООН, единогласно принятая в 2005 году и разрешающая гуманитарные интервенции для борьбы с военными преступлениями или геноцидом. Резолюция R2P, основанная на трех принципах, — предотвращение, реагирование и восстановление, — дает современным законодателям набор существующих законов и международных норм, которые могут и, по мнению авторов книги, должны распространяться на защиту культурного наследия. В очерках рассматривается глобальная ценность культурного наследия и перечисляются недавние атаки на людей и культурные объекты в Китае, Гватемале, Ираке, Мали, Шри-Ланке и Афганистане, Сирии и Йемене. В объемных разделах, посвященных уязвимым группам населения, а также роли международного права и армии, читателям предлагаются критические точки зрения и ссылки на исследования, политики и планы действий по защите людей и культурного наследия. Содержание, а также краткое описание каждой главы можно прочесть онлайн на арабском, китайском, французском, русском и испанском языках в целях широкого международного распространения стратегий и тактик, изложенных в этом революционном призыве к действию.
+        editors: |
+          ## Информация о редакторах
+
+          Джеймс Куно является почетным президентом J. Paul Getty Trust.
+
+          Томас Дж. Уэйс — почетный профессор политологии и почетный директор Института международных исследований им. Ральфа Банча при Центре выпускников Городского университета Нью-Йорка.
+        book_info: |
+          В связи с приверженностью Getty принципу свободного доступа к информации книга *«Культурное наследие и массовые злодеяния» *доступна онлайн на странице [www.getty.edu/publications/cultural-heritage-mass-atrocities](https://www.getty.edu/publications/cultural-heritage-mass-atrocities) и может быть загружена бесплатно в разных форматах. Читатели, которым нужна печатная копия, могут приобрести бумажное издание.
+
+          636 стр.
+
+          7 x 10 дюймов
+
+          61 цветная и 14 черно-белых иллюстраций, 7 карт, 2 таблицы 
+
+          ISBN 978-1-60606-807-6
+
+          мягкая обложка
+      - lang_code: es
+        description: |
+          ## Acerca de este libro
+
+          La destrucción intencionada del patrimonio cultural es algo que viene de lejos. Algunos ejemplos contemporáneos son los Budas de Bamiyán, en Afganistán, las mezquitas de Xinjiang, en China, los mausoleos de Tombuctú y vestigios grecorromanos en Siria. La destrucción de patrimonio cultural acompaña siempre a las agresiones contra la población civil, por lo que es imposible disociar los ataques al patrimonio de las atrocidades masivas del genocidio, los crímenes de guerra, los crímenes contra la humanidad y la limpieza étnica. Ambos buscan eliminar al pueblo y el patrimonio cultural con el que se identifica.
+
+          *Patrimonio cultural y atrocidades en masa* reúne a treinta y ocho expertos de los ámbitos del patrimonio, las ciencias sociales, la ayuda humanitaria, el derecho y las fuerzas armadas. Esta obra, centrada en el patrimonio cultural inamovible y susceptible de sufrir ataques, tiene como marco de referencia la Responsabilidad de Proteger (R2P), resolución de las Naciones Unidas adoptada por unanimidad en 2005, por la que se permite la intervención internacional contra crímenes de guerra o genocidio. El concepto de la responsabilidad de proteger, R2P, se basa en los tres pilares de prevención, reacción y reconstrucción, y ofrece a quienes elaboran actualmente políticas la existencia de un conjunto de leyes y normas internacionales que pueden, y según argumenta este libro, deben extenderse a la protección del patrimonio cultural. Diversos estudios analizan el valor global del patrimonio cultural y documentan los recientes ataques a personas y bienes culturales en China, Guatemala, Irak, Mali, Sri Lanka, Afganistán, Siria y Yemen. Los amplios apartados dedicados a las poblaciones vulnerables, así como a la función del derecho internacional y los ejércitos, ofrecen a los lectores una visión crítica y remiten a programas de investigación, políticas y actuaciones para proteger tanto a las personas como al patrimonio cultural. El índice y un resumen conciso de cada capítulo pueden consultarse en línea y en los idiomas árabe, chino, español, francés y ruso para facilitar la difusión mundial de las estrategias y tácticas ofrecidas en esta innovadora llamada a la acción.
+        editors: |
+          ## Acerca de los editores
+
+          James Cuno es presidente emérito del J. Paul Getty Trust.
+
+          Thomas G. Weiss es profesor presidencial de Ciencias Políticas y director emérito del Ralph Bunche Institute for International Studies de la City University of New York Graduate Center.
+        book_info: |
+          Reflejando el compromiso del Getty de ofrecer contenidos de libre acceso, *Patrimonio cultural y atrocidades en masa* está disponible en línea en [www.getty.edu/publications/cultural-heritage-mass-atrocities](https://www.getty.edu/publications/cultural-heritage-mass-atrocities) y se puede descargar de forma gratuita en varios formatos. Los lectores que deseen disponer de un ejemplar encuadernado de referencia pueden adquirir una edición en tapa blanda.
+
+          636 páginas
+
+          7 x 10 pulgadas (17,78 x 25,4 cm)
+
+          61 ilustraciones a color y 14 en blanco y negro, 7 mapas, 2 tablas
+
+          ISBN 978-1-60606-807-6
+
+          tapa blanda

@@ -16,12 +16,11 @@
 
 {{- $now := now.UnixNano -}}
 
-{{ $figureId := printf "%s-%d" "deepzoom" $now }}
-{{ $modalLink := printf "%s%s" "#" $figureId }}
+{{ $modalLink := printf "%s-%d" "#deepzoom" $now }}
 
 {{- if eq .Site.Params.figureModal true -}}
   <figure
-    id="{{ $figureId }}"
+    id="deepzoom-{{ $now }}"
     title="{{ .caption | markdownify | safeHTML }}"
     class="quire-figure leaflet-outer-wrapper mfp-hide notGet"
   >
@@ -48,7 +47,7 @@
     </figure>
   {{ else }}
       <div
-        id="js-{{ $figureId }}"
+        id="js-deepzoom-{{ $now }}"
         class="quire-deepzoom inset leaflet-inner-wrapper "
         aria-label="Zoomable image"
         aria-live="polite"
@@ -72,7 +71,7 @@
     alt="{{ .alt }}"
   />
 
-{{- $dict := dict "Site" .Site "caption" .caption "credit" .credit "label" .label "modalLink" $modalLink -}}
+{{- $dict := dict "Site" .Site "caption" .caption "credit" .credit "label" .label "mapLink" .mapLink "modalLink" $modalLink -}}
 
 {{- if and (ne .Site.Params.epub true) (ne .Site.Params.pdf true) -}}
 {{- if or .label (eq .Site.Params.figureModal true ) }}
@@ -83,5 +82,7 @@
 {{- if eq .Site.Params.figureModal true -}}
   </a>
 {{- end -}}
+
+
 
 {{- partial "figures/caption.html" $dict -}}

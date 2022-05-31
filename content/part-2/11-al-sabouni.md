@@ -25,7 +25,7 @@ But the question of protection is as wide and vague as the very concept of herit
 
 When asked, during a lecture in 1989 at the University of São Paulo, about her ideas on preservation and how she reconciled the old and the new, she answered:
 
-> This is what I was talking about when I spoke of the historical present. In architectural practice, there is no such thing as the past. Whatever still exists today, and has not died, is the historical present. What you have to save—or rather not save, but preserve—are the typical features and characteristics of a time that is part of our human heritage. … If people thought that everything old hat had to be preserved, the city would soon turn into a museum of junk. On an architectural restoration project, you have to be creative and rigorous in choosing what to preserve. The result is what we call the historical present.[^1]
+> This is what I was talking about when I spoke of the historical present. In architectural practice, there is no such thing as the past. Whatever still exists today, and has not died, is the historical present. What you have to save—or rather not save, but preserve—are the typical features and characteristics of a time that is part of our human heritage. . . . If people thought that everything old hat had to be preserved, the city would soon turn into a museum of junk. On an architectural restoration project, you have to be creative and rigorous in choosing what to preserve. The result is what we call the historical present.[^1]
 
 Bo Bardi seems to have rejected the word “heritage” as something only from the past, calling it instead the “historical present.” She also summarized the concept within two frameworks encapsulating the values she thought mattered most: survival through time (“what has not died”) and exhibiting features related to collective identity (“of a time that is part of our human heritage”). Perhaps examining the products of the past only through the lens of time is what creates a disconnect between what we call “heritage” and the products of our day. This conceptual divide requires creative means of reconciliation.
 
@@ -77,7 +77,7 @@ Julia Domna, a Homsi princess and youngest daughter of the high priest of the t
 
 {{< q-figure id="fig-11-6a-al-sabouni" class="pdf-no-snap" >}}
 
-{{< q-figure-group grid="2" id="fig-11-6b-al-sabouni, fig-11-6c-al-sabouni" label="Figure 11.6b–c" caption="The war inflicted great structural damages to the mosque, revealing older pillars from a previous structure buried within its walls. These remnants might be seen as indicative of a unique preservation approach that opted not to tear down, but rather to build on." credit="Image: Marwa al-Sabouni" class="pdf-no-snap" >}}
+{{< q-figure-group grid="2" id="fig-11-6b-al-sabouni, fig-11-6c-al-sabouni" label="Figures 11.6b–c" caption="The war inflicted great structural damages to the mosque, revealing older pillars from a previous structure buried within its walls. These remnants might be seen as indicative of a unique preservation approach that opted not to tear down, but rather to build on." credit="Image: Marwa al-Sabouni" class="pdf-no-snap" >}}
 
 When I visited the mosque in the aftermath of fighting and first saw the half-exposed pillars, I was overwhelmed by the building’s sense of continuity in its development. The basalt slabs of its courtyard surface, its vaults, and its walls were brightened by strips of white limestone around the mosque’s doors and windows. In this building, the idea of historical present was so perfectly practiced over millennia: each picking up from where the other had left off, leaving no gaps in time through which meaning might slip. The word *heritage* in such places acquires another layer, belonging to no single past. It becomes an accumulation of experiences, expertise, and expressions.
 
@@ -95,7 +95,9 @@ The mausoleum of Emesa was part of Homs (and its necropolis) for nearly eighte
 
 One of the milestones in the making of the city was the creation of the al-Mujahediya irrigation canal by Asad al-Din Shirkuh in the twelfth century, which connected to the Qattinah dam. It irrigated the arable land between the west side of Homs and the river. But, more importantly, it brought water right to the heart of the city for the first time, supplying mosques, hammams (public baths), mills, and all the city’s neighborhoods. The canal also protected Homs from the impact of floods that used to wreak havoc on the city ([figs. 11.9a](#fig-11-9a-al-sabouni), [11.9b](#fig-11-9b-al-sabouni)).
 
-{{< q-figure-group id="fig-11-9a-al-sabouni, fig-11-9b-al-sabouni" >}}
+{{< q-figure id="fig-11-9a-al-sabouni" >}}
+
+{{< q-figure id="fig-11-9b-al-sabouni" >}}
 
 Waterwheels were built on the canal to raise the level of water where needed. A landmark waterwheel was built in 1712 near what is now considered the city center, in a neighborhood adjacent to the main souk, with numerous mosques and hammams that required water to be lifted to their level. All that remains of the great waterwheel is the name it has given to its locality: al-Naourah (after *noria*, or waterwheel). In its place, French colonial buildings were erected, occupied by clinics and offices on the upper floors and clothing shops at the ground level. Souk al-Naourah, as the neighborhood is called today, has no water anymore, nor a great *noria* ([figs. 11.10a](#fig-11-10a-al-sabouni), [11.10b](#fig-11-10b-al-sabouni), [11.10c](#fig-11-10c-al-sabouni)).
 

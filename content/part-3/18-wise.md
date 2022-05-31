@@ -153,7 +153,7 @@ The primary conclusion of this discussion is that the humanitarian justification
 
 [^15]: Edward C. Luck, *Cultural Genocide and the Protection of Cultural Heritage*, Occasional Papers in Cultural Heritage Policy no. 2 (Los Angeles: Getty Publications, 2018), https://www.getty.edu/publications/occasional-papers-2/.
 
-[^16]: Stephen J. Whitfield, “Where They Burn Books …” *Modern Judaism* 22, no. 3 (2002): 213–33.
+[^16]: Stephen J. Whitfield, “Where They Burn Books . . .” *Modern Judaism* 22, no. 3 (2002): 213–33.
 
 [^17]: Helen Frowe and Derek Matravers, *Conflict and Cultural Heritage: A Moral Analysis of the Challenges of Heritage Protection*, Occasional Papers in Cultural Heritage Policy no. 3 (Los Angeles: Getty Publications, 2019), https://www.getty.edu/publications/occasional-papers-3/.
 

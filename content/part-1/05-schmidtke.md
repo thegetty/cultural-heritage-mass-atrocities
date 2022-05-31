@@ -147,7 +147,7 @@ There are many reasons why a certain book has come down to us while others fall 
 
 [^9]: Jan Just Witkam, “Introduction by Jan Just Witkam,” in *Brockelmann Online*, https://referenceworks.brillonline.com/entries/brockelmann/introduction-by-jan-just-witkam-COM_001.
 
-[^10]: Carl Brockelmann, *Geschichte der arabischen Litteratur*, vol. 1 (1898), 1 (“alle Erzeugnisse des menschlichen Geistes … die in sprachliche Form gekleidet sind”). The English translation of the phrase is taken from Witkam, “Introduction by Jan Just Witkam.”
+[^10]: Carl Brockelmann, *Geschichte der arabischen Litteratur*, vol. 1 (1898), 1 (“alle Erzeugnisse des menschlichen Geistes . . . die in sprachliche Form gekleidet sind”). The English translation of the phrase is taken from Witkam, “Introduction by Jan Just Witkam.”
 
 [^11]: See *Encyclopaedia Iranica*, s.v. “Storey, Charles Ambrose,” by Yuri Bregel, https://www.iranicaonline.org/articles/storey-charles-ambrose.
 

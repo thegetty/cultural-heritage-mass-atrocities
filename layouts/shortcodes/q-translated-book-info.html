@@ -1,0 +1,22 @@
+{{- $language := .Page.Params.language -}}
+{{- $description := "" -}}
+{{- $editors := "" -}}
+{{- $bookInfo := "" -}}
+
+{{- range where .Site.Data.translations.texts "page" "about" -}}
+{{- range where .translations "lang_code" $language -}}
+  {{- $description = .description -}}
+  {{- $editors = .editors -}}
+  {{- $bookInfo = .book_info -}}
+{{- end -}}
+{{- end -}}
+
+<div class="about-text" lang="{{ $language }}">  
+{{ $description | markdownify }}
+{{ $editors | markdownify }}
+<hr />
+<div class="book-info">{{ $bookInfo | markdownify  }}</div>
+<hr />
+</div>
+
+

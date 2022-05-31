@@ -21,7 +21,7 @@ contributor:
 > *We tell ourselves stories in order to live.*<br/>
 > <span class="attribution">—Joan Didion</span>
 
-> *… because being American is more than a pride we inherit.* <br/>
+> *. . . because being American is more than a pride we inherit.* <br/>
 > *It’s the past we step into, and how we repair it.*<br/>
 > <span class="attribution">—Amanda Gorman</span>
 
