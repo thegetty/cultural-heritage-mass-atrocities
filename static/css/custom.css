@@ -71,8 +71,8 @@
   background-repeat: no-repeat; */
 }
 .quire-cover__hero-body__image-pane img {
-  max-height: calc(95vh - 3rem - 6px);
-  min-height: calc(95vh - 3rem - 6px);
+  max-height: calc(95vh - 3rem);
+  min-height: calc(95vh - 3rem);
 }
 .quire-cover__hero .title,
 .quire-cover__hero .contributor {
@@ -595,9 +595,9 @@
     max-width: 65%;
     margin-left: 0;
   }
-  .content figure.quire-figure.pdf-85-percent-width .q-figure__wrapper img,
-  .content figure.quire-figure.pdf-85-percent-width .q-figure__wrapper figcaption {
-    max-width: 85%;
+  .content figure.quire-figure.pdf-95-percent-width .q-figure__wrapper img,
+  .content figure.quire-figure.pdf-95-percent-width .q-figure__wrapper figcaption {
+    max-width: 90%;
     margin-left: 0;
   }
   .content figure.quire-figure.pdf-padding-top {
@@ -859,6 +859,9 @@ strong {
   }
 }
 @media print {
+  .quire-figure.quire-figure--shared-caption figcaption {
+    page-break-inside: avoid;
+  }
   .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__caption-content,
   .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__credit {
     display: none;
@@ -956,13 +959,13 @@ strong {
 .quire-figure__table {
   font-size: 1rem;
 }
+.content table th,
 .content table td {
-  /* semi-transparent --accent-color */
-  border-color: rgba(188, 124, 68, .3);
+  border-color: var(--color-mid-light);
 }
 
 .quire-figure__table thead th {
-  background-color: var(--accent-color);
+  background-color: var(--color-mid-light);
   color: var(--white) !important;
   border-width: 0;
 }
@@ -1432,6 +1435,16 @@ table#table-9-2 tr td:first-child {
   .quire-page.quire-page--abstract.quire-contents {
     page: no-footer;
   }
+}
+
+/* ADD PADDING TO SHORTEN PAGES AND MATCH SECOND-PAGES PDF */
+#introduction .quire-page--page-one .quire-page__content .container {
+  padding-bottom: .25rem;
+}
+
+/* TIGHTEN SPACING TO SAVE LINE BREAK IN CAPTION */
+#fig-3-1-parzinger .quire-figure__caption {
+  letter-spacing: -.09pt;
 }
 
 /* STYLES FOR BOOK INDEX, ADDED IN MARKDOWN AS AN UNORDERED LIST */
