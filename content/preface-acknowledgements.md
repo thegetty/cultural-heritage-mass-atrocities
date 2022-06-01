@@ -20,7 +20,10 @@ Over three days at the Getty Center in May 2019, as volume editors we convened n
 
 The development of this volume occurred via Zoom in June 2020 and February 2021, when abstracts and then final drafts were discussed by the authors and by other contributors. Due to the international COVID-19 pandemic, we missed the camaraderie and intellectual sparks that would have animated our discussions, but the commitment of our team of authors was still very much in evidence and contributed to the quality of the final drafts that now comprise the body of this text.
 
-- - -
+<div class="insert">
+
+---
+
 We had just put the finishing touches on this three-year-long research project when Russia invaded Ukraine and thereby upset the (admittedly weak) basic principles of a rules-based international order that had been evolving since 1945. The tragic events in Ukraine have reminded us yet again why we initiated this effort to explore the links between mass atrocities and the destruction of cultural heritage.
 
 Early on, the most publicized and horrific reports emerged from Bucha, where bodies lay piled in the streets and more than one hundred people were buried in a communal grave at the city’s cemetery. The numbers grew more tragic in the weeks immediately following: at least four thousand civilians killed, more than fourteen thousand deaths total, over five million refugees, and perhaps twice as many internally displaced Ukrainians.
@@ -43,11 +46,16 @@ The international entity for the protection of cultural heritage and museum prof
 
 It is worth repeating a quote found in our introduction from the nineteenth-century German poet Heinrich Heine, words also employed by Raphael Lemkin, the proponent of the term “cultural genocide”: “First they burn the books, then they burn the bodies.” The war crime of destroying cultural heritage is yet another reason to oppose Russian recolonization. It is also the reason why the analyses and recommendations in the pages that follow make for even more essential reading now than when we finalized them.
 
-J.C. and T.G.W.
+<div class="insert__signature">
 
+J.C. and T.G.W.<br />
 May 2022
-- - -
 
+</div>
+
+---
+
+</div>
 
 The design of this collection of essays reflects our own interpretations of the most pressing issues and necessary perspectives required to frame changes in policy- and decision-making about the protection of cultural heritage amid atrocities. In putting together this collection, we sought to better understand the origins, history, contributions, problems, and prospects of international efforts to protect the world’s immovable cultural heritage. This endeavor, we hope, will result in improved strategies and tactics in the coming decades. A better comprehension of the deficiencies of existing laws, norms, and organizations should lead to the identification of appropriate remedies.
 

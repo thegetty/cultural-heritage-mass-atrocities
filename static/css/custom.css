@@ -1365,6 +1365,36 @@ table#table-9-2 tr td:first-child {
   margin-right: 1rem;
 }
 
+/* STYLE INSERT FOR TEXT ON UKRAINE 🇺🇦 */
+.quire-page__content .content .insert {
+  background-color: white;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+.quire-page__content .content .insert .insert__signature {
+  text-align: right;
+  margin-right: 1.5rem;
+}
+.quire-page__content .content .insert .insert__signature p {
+  font-style: italic;
+  margin-top: 1rem;
+  text-indent: 0;
+  margin-left: 1.5rem;
+}
+.quire-page__content .content .insert hr {
+  margin-top: .75rem;
+  margin-bottom: 1.5rem
+}
+.quire-page__content .content .insert hr:last-child {
+  margin-top: 1.5rem;
+  margin-bottom: .75rem
+}
+@media print {
+  .quire-page__content .content .insert {
+    background-color: #faf7f0;
+  }
+}
+
 /* TIGHTEN SPACING TO REDUCE PAGE COUNT */
 #abbreviations .content table td,
 #abbreviations .content table th {
