@@ -36,7 +36,7 @@ Props:
 
     {{- if or (eq .Site.Params.epub true) (eq .Site.Params.pdf true) -}}
       {{- if .mapLink -}}
-        <a href="{{ $.Site.Data.publication.identifier.url }}/{{ .mapLink }}" target="_blank" class="quire-figure__map-link">www.getty.edu/publications/cultural-heritage-mass-atrocities/{{ .mapLink }}</a>
+        <span class="quire-figure__map-link"> View map at <a href="{{ $.Site.Data.publication.identifier.url }}/{{ .mapLink }}" target="_blank">www.getty.edu/publications/cultural-heritage-mass-atrocities/{{ .mapLink }}</a>.</span>
       {{- end -}}
     {{- end -}}
   </figcaption>

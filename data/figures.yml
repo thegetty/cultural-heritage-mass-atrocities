@@ -5,7 +5,7 @@ figure_list:
     alt: ""
     label: "Figure 10.1"
     caption: "The situation in Syria in 2020. Congressional Research Service (CRS), *Armed Conflict in Syria: Overview and US Response* (Washington, DC: CRS, updated 27 May 2020), 4."
-    credit: "Image: Foresight Intelligence by IHS Markit"
+    credit: "Image: Foresight Intelligence by IHS Markit."
     map: part-2/10-bandarin/#fig-10-1-map
 
   - id: "fig-10-2-bandarin"
@@ -23,7 +23,7 @@ figure_list:
     alt: ""
     label: "Figure 10.3"
     caption: "The siege of Aleppo, July 2016. Armenak Tokmajyan, *Aleppo Conflict Timeline* (Budapest: Central European University, 2016), 3."
-    credit: "Image: Reproduced with kind permission from CEU, The Aleppo Project"
+    credit: "Image: Reproduced with kind permission from CEU, The Aleppo Project."
     map: part-2/10-bandarin/#fig-10-3-map
 
   - id: "fig-10-4-bandarin"
@@ -34,7 +34,7 @@ figure_list:
     alt: ""
     label: "Figure 10.4"
     caption: "Aleppo damage analysis, September 2016. UNITAR, “Percentage Damage in Residential Area of Aleppo City,” https://unitar.org/unosat/node/44/2510."
-    credit: "Image: UN Satellite Centre – UNOSAT / UNITAR"
+    credit: "Image: UN Satellite Centre – UNOSAT / UNITAR."
     map: part-2/10-bandarin/#fig-10-4-map
 
   - id: "fig-10-5-bandarin"
@@ -105,7 +105,7 @@ figure_list:
     alt: ""
     label: "Figure 11.3"
     caption: "Map of Homs showing the city’s location near the Orontes River. The orchards separate the city from the Al-Wa’er neighborhood, a newer development built in the 1970s and 1980s."
-    credit: "Image: © 2001 Homsonline.com"
+    credit: "Image: © 2001 Homsonline.com."
     map: part-2/11-al-sabouni/#fig-11-3-map
 
   - id: "fig-11-4a-al-sabouni"
@@ -268,7 +268,7 @@ figure_list:
     src: "figures/fig-13-5-schmidtke.jpg"
     alt: ""
     label: "Figure 13.5"
-    caption: "Map of Yemen during the seventeenth century, in Tomislav Klarić, “Untersuchungen zur politischen Geschichte der qāsimidischen Dynastie [11./17. Jh.],” PhD diss., University of Göttingen, 2007, fig. 4"
+    caption: "Map of Yemen during the seventeenth century, in Tomislav Klarić, “Untersuchungen zur politischen Geschichte der qāsimidischen Dynastie [11./17. Jh.],” PhD diss., University of Göttingen, 2007, fig. 4."
     credit: ""
     map: part-2/13-schmidtke/#fig-13-5-map
 
@@ -531,7 +531,7 @@ figure_list:
     alt: ""
     label: "Figure 5.3"
     caption: "Worldwide distribution of Islamic manuscripts."
-    credit: "Image: María Mercedes Tuya, with kind permission"
+    credit: "Image: María Mercedes Tuya, with kind permission."
     map: part-1/05-schmidtke/#fig-5-3-map
 
   - id: "fig-5-4-schmidtke"
@@ -542,7 +542,7 @@ figure_list:
     alt: ""
     label: "Figure 5.4"
     caption: "Michael Izady, “Primary Languages of [the] Islamic World.”"
-    credit: "Image: Dr. Michael Izady (https://gulf2000.columbia.edu/images/maps/Languages_Islam_lg.png)"
+    credit: "Image: Dr. Michael Izady (https://gulf2000.columbia.edu/images/maps/Languages_Islam_lg.png)."
     map: part-1/05-schmidtke/#fig-5-4-map
 
   - id: "fig-5-5-schmidtke"
@@ -645,7 +645,7 @@ figure_list:
     alt: ""
     label: "Figure 8.1"
     caption: "Ethnic map of Sri Lanka"
-    credit: "Image: Obi2canibe / CC0 1.0 Universal Public Domain Dedication"
+    credit: "Image: Obi2canibe / CC0 1.0 Universal Public Domain Dedication."
     map: part-2/08-singh/#fig-8-2-map
 
   - id: "fig-8-2-singh"
