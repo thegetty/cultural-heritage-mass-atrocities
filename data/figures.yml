@@ -1,6 +1,6 @@
 figure_list:
 
-  - id: "fig-10-1-bandarin"
+  - id: "fig-10-1-map"
     src: "figures/fig-10-1-bandarin.jpg"
     alt: ""
     label: "Figure 10.1"
@@ -18,7 +18,7 @@ figure_list:
     caption: "Destruction in Aleppo in the area near the citadel."
     credit: "Image: Francesco Bandarin"
 
-  - id: "fig-10-3-bandarin"
+  - id: "fig-10-3-map"
     src: "figures/fig-10-3-bandarin.jpg"
     alt: ""
     label: "Figure 10.3"
@@ -26,7 +26,7 @@ figure_list:
     credit: "Image: Reproduced with kind permission from CEU, The Aleppo Project."
     map: part-2/10-bandarin/#fig-10-3-map
 
-  - id: "fig-10-4-bandarin"
+  - id: "fig-10-4-map"
     src: "figures/fig-10-4-bandarin.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-10-4-bandarin/info.json"
@@ -98,7 +98,7 @@ figure_list:
     caption: "Remains of the Great Colonnade at Palmyra. The ruins of ancient Palmyra were one of the prime tourist destinations in Syria before the war and provided a source of employment for those who lived in the area."
     credit: "Image: Luis Dafos / Alamy Stock Photo"
 
-  - id: "fig-11-3-al-sabouni"
+  - id: "fig-11-3-map"
     src: "figures/fig-11-3-al-sabouni.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-11-3-al-sabouni/info.json"
@@ -264,7 +264,7 @@ figure_list:
     caption: "Bookshop at Sana’a, Yemen, ca. 1912."
     credit: "Image: Royal Geographic Society / Getty Images"
 
-  - id: "fig-13-5-schmidtke"
+  - id: "fig-13-5-map"
     src: "figures/fig-13-5-schmidtke.jpg"
     alt: ""
     label: "Figure 13.5"
@@ -379,7 +379,7 @@ figure_list:
     caption: "US Marines take up position on the perimeter of a mosque while patrolling in the central Iraqi city of Yusufiyah, December 2004."
     credit: "Image: Odd Andersen / AFP via Getty Images"
 
-  - id: "fig-28-1-sagan"
+  - id: "fig-28-1-map"
     src: "figures/fig-28-1-sagan.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-28-1-sagan/info.json"
@@ -523,7 +523,7 @@ figure_list:
     caption: "Entrance to the Süleymaniye Library, Istanbul."
     credit: "Image: Rebecca Erol / Alamy Stock Photo"
 
-  - id: "fig-5-3-schmidtke"
+  - id: "fig-5-3-map"
     src: "figures/fig-5-3-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-3-schmidtke/info.json"
@@ -534,7 +534,7 @@ figure_list:
     credit: "Image: María Mercedes Tuya, with kind permission."
     map: part-1/05-schmidtke/#fig-5-3-map
 
-  - id: "fig-5-4-schmidtke"
+  - id: "fig-5-4-map"
     src: "figures/fig-5-4-schmidtke.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/cultural-heritage-mass-atrocities/fig-5-4-schmidtke/info.json"
@@ -640,7 +640,7 @@ figure_list:
     caption: "A local graveyard in southern Xinjiang in 2012."
     credit: "Image: Rachel Harris"
 
-  - id: "fig-8-1-singh"
+  - id: "fig-8-1-map"
     src: "figures/fig-8-1-singh.jpg"
     alt: ""
     label: "Figure 8.1"

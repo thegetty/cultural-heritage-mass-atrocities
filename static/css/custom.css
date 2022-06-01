@@ -52,8 +52,40 @@
 
 }
 
+.quire-cover__hero.hero.is-fullheight {
+  display: flex;
+  flex-direction: initial;
+  justify-content: space-around;
+  padding: 0;
+  background-color: #e8dbbd;
+  background-image: none;
+}
+.quire-cover__hero-body__text-pane,
+.quire-cover__hero-body__image-pane {
+  min-height: calc(95vh - 3rem - 6px);
+  border: 1px solid blue;
+}
+.quire-cover__hero-body__image-pane {
+  /* background-image: url('../img/figures/cover-combined.jpg');
+  background-size: cover;
+  background-repeat: no-repeat; */
+}
+.quire-cover__hero-body__image-pane img {
+  max-height: calc(95vh - 3rem - 6px);
+  min-height: calc(95vh - 3rem - 6px);
+}
+.quire-cover__hero .title,
+.quire-cover__hero .contributor {
+  color: var(--accent-color);
+  margin-top: 0;
+  font-size: 1.25rem;
+}
+.quire-cover__hero .title {
+  font-family: "Noto Serif", serif;
+  font-size: 3.5rem;
+}
 /* THE COVER */
-.quire-cover__hero,
+/* .quire-cover__hero,
 .quire-cover__overlay {
   min-height: calc(95vh - 3rem - 6px) !important;
 }
@@ -90,10 +122,10 @@
   flex-direction: column;
   justify-content: space-around;
   background: linear-gradient(180deg, rgb(232,219,189,0), rgb(232,219,189,.9), rgb(232,219,189,.8), rgb(232,219,189,1));
-}
+} */
 
 /* BACKGROUND IMAGES */
-.quire-cover__hero-body__image {
+/* .quire-cover__hero-body__image {
   width: 50vw;
   overflow: hidden;
   height: calc(75vh - 3rem - 6px);
@@ -161,7 +193,7 @@
   .quire-cover__hero .contributor {
     font-size: 1rem;
   }
-}
+} */
 
 
 /* STANDARD OCCASIONAL PAPERS SERIES DESIGN (EXCEPT FOR COVER)
