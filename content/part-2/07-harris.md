@@ -71,7 +71,11 @@ The major shrine festivals were on a much larger scale. Until its closure in 199
 
 Until its closure in 2013, the other major shrine festival of the region was the annual pilgrimage to the shrine of Imam Asim. Situated deep in the desert, north of the village of Jiya in Lop County, it is a long and dusty walk through sand dunes to reach the shrine. From Wednesdays to Fridays throughout May each year, the shrine was surrounded by bazaar booths and food stalls, and a wide range of activities occurred, including camel riding, wrestling, tightrope walking, and magic shows.[^16] Pilgrims arrived at a series of burial mounds topped with spirit flags, thickly tied with women’s headscarves and other offerings such as rams’ horns and tiny knitted dolls. They knelt before the wooden fence that surrounded the tombs, reciting prayers and reading the Quran. Inside the *khaniqa* (Sufi lodge), groups of *ashiq* (mystics) gathered to sing poetry by the Central Asian mystic poets Yasawi, Mashrab, and Nawa’i.[^17] In the shade of the mosque, pilgrims listened to the sheikh telling the story of Imam Asim’s heroic role in the defeat of the Buddhist kingdom of Khotan in 1006.
 
+<div class="pdf-page-break-after">
+
 The early twentieth-century archaeologist Aurel Stein identified several shrines that overlaid former Buddhist sites in Xinjiang. The shrine of Imam Shakir, for example, which lies in the desert near Khotan, was built on the site of a Buddhist temple mentioned by the seventh-century Chinese pilgrim Xuan Zang. It is important to note that while such shrines are frequently held up as examples of syncretism by scholars outside the tradition, within the local traditions of worship the shrines are considered wholly Islamic, and the histories they tell are those of the Islamic conversion and subsequent thousand years of history that tie the region into the wider Muslim world.[^18]
+
+</div>
 
 ## Staging Uyghur Heritage
 

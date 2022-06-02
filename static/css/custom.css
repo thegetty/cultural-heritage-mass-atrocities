@@ -1,5 +1,5 @@
 /* TEMP "UNCORRECTED PROOF" BANNER */
-@media screen {
+/* @media screen {
   #container::before,
   #container::after {
     color: white;
@@ -23,7 +23,7 @@
     bottom: -130px;
     right: -130px;
   }
-}
+} */
 
 :root {
 
@@ -39,17 +39,123 @@
   under the cover type when specified in cover.md with the
   .with-shading class */
 
-  --color-mid-dark: #6a4525;
+  --color-mid-dark: #886D30;
 
-  --color-mid-light: #966336;
+  --color-mid-light: #C5A459;
 
-  --accent-color: #bc7c44; /* Getty Terracotta */
+  --accent-color: #e21a22; /* Getty Terracotta */
   /* --accent-color should be the same value as $accent-color in
    themes/quire-starter-theme/source/css/variables.scss */
 
-  --white: #f5f5f5;
+  --white: #F2F1F0;
   --print-white: #ffff;
 
+}
+
+/* COVER */
+.quire-cover__hero.hero.is-fullheight {
+  padding: 0;
+  background-color: #e8dbbd;
+  background-image: none;
+  display: block;
+}
+.quire-cover__hero-body__text-pane,
+.quire-cover__hero-body__image-pane {
+  max-height: calc(95vh - 3rem);
+  overflow: hidden;
+}
+.quire-cover__hero-body__image-pane {
+  float: left;
+  margin-left: 5vw;
+}
+.quire-cover__hero-body__image-pane img {
+  height: calc(95vh - 3rem);
+}
+.quire-cover__hero .title,
+.quire-cover__hero .contributor {
+  color: var(--accent-color);
+  margin: 0 5vw;
+}
+.quire-cover__hero .title {
+  font-family: "Noto Serif", serif;
+  font-size: 4.5vw;
+  margin-top: 10vw;
+  margin-bottom: 2.5vw;
+  max-width: 45vw;
+}
+.quire-cover__hero .title .sm {
+  font-size: 3.5vw;
+}
+.quire-cover__hero .contributor {
+  font-size: 2vw;
+}
+@media screen and (max-width:1560px) {
+  .quire-cover__hero .title {
+    font-size: 4.05vw;
+    max-width: 40vw;
+  }
+  .quire-cover__hero .title .sm {
+    font-size: 3.15vw;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1.8vw;
+  }
+}
+@media screen and (max-width:1370px) {
+  .quire-cover__hero .title,
+  .quire-cover__hero .contributor,
+  .quire-cover__hero-body__image-pane {
+    margin-left: 8vw;
+  }
+  .quire-cover__hero .title {
+    max-width: 25vw;
+  }
+}
+@media screen and (max-width:1000px) {
+  .quire-cover__hero.hero.is-fullheight {
+    position: relative;
+    display: flex;
+    justify-content: center;
+  }
+  .quire-cover__hero-body__text-pane,
+  .quire-cover__hero-body__image-pane {
+    position: absolute;
+    margin: 0;
+  }
+  .quire-cover__hero-body__text-pane {
+    background-color: rgb(232, 219, 189, .8);
+  }
+  .quire-cover__hero .title {
+    margin-top: 0;
+  }
+  .quire-cover__hero .title,
+  .quire-cover__hero .contributor {
+    text-align: center;
+    width: 100vw;
+    max-width: 100vw;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .quire-cover__hero .title {
+    font-size: 2.925rem;
+  }
+  .quire-cover__hero .title .sm {
+    font-size: 2.275rem;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1.3rem;
+  }
+}
+.quire-cover__more {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
+.quire-cover__more .hero-more {
+  background-color: var(--accent-color);
+}
+.quire-cover__more .hero-more svg {
+  margin-left: .18rem;
 }
 
 /* STANDARD OCCASIONAL PAPERS SERIES DESIGN (EXCEPT FOR COVER)
@@ -69,11 +175,22 @@
 }
 .quire-progress-bar div {
   height: 6px;
-  background-color: var(--accent-color);
+  background-color: var(--color-mid-light);
 }
 .quire-menu__formats h6 {
   color: var(--accent-color);
   border-color: var(--accent-color);
+}
+.quire-navbar-controls__left a:hover,
+.quire-navbar-controls__left button:hover,
+.quire-navbar-controls__left .button:hover,
+.quire-navbar-controls__right a:hover,
+.quire-navbar-controls__right button:hover,
+.quire-navbar-controls__right .button:hover,
+.quire-navbar-controls .quire-navbar-page-controls__item a:hover,
+.quire-navbar-controls .quire-navbar-page-controls__item button:hover,
+.quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
+  background-color: var(--white);
 }
 
 /* Using Source Sans for better font-weight match */
@@ -142,10 +259,13 @@
 
 /* Matching page headings */
 .quire-page:not(.quire-cover) h1, .quire-page__header__title {
-  text-transform: uppercase;
-  letter-spacing: .5px;
   font-size: 2.5rem;
   font-weight: 700;
+  font-family: "Noto Serif", sans-serif;
+}
+.quire-page:not(.quire-cover) h1 .label, .quire-page__header__title .label {
+  text-transform: uppercase;
+  letter-spacing: .5px;
 }
 @media screen {
   .quire-page:not(.quire-cover) h1, .quire-page__header__title {
@@ -231,7 +351,9 @@
     margin-left: .75in;
   }
   .quire-page h2,
-  .quire-page__content .content h2 {
+  .quire-page__content .content h2,
+  .quire-page h3,
+  .quire-page__content .content h3 {
     font-size: 1em;
     margin-bottom: 0;
     line-height: 1.7;
@@ -435,9 +557,9 @@
     max-width: 65%;
     margin-left: 0;
   }
-  .content figure.quire-figure.pdf-85-percent-width .q-figure__wrapper img,
-  .content figure.quire-figure.pdf-85-percent-width .q-figure__wrapper figcaption {
-    max-width: 85%;
+  .content figure.quire-figure.pdf-95-percent-width .q-figure__wrapper img,
+  .content figure.quire-figure.pdf-95-percent-width .q-figure__wrapper figcaption {
+    max-width: 90%;
     margin-left: 0;
   }
   .content figure.quire-figure.pdf-padding-top {
@@ -579,6 +701,17 @@ strong {
 .quire-menu__header {
   padding-right: 1rem;
 }
+.quire-menu__header h4 {
+  font-family: "Noto Serif", serif;
+}
+.quire-menu__header h4.quire-menu__header__title {
+  font-family: "Noto Serif", serif;
+  font-size: 1.5rem;
+  width: 90%;
+}
+.quire-menu__header h4.quire-menu__header__title .sm {
+  font-size: 1.125rem;
+}
 .quire-menu__header__contributors,
 .quire-menu .cite-this,
 .quire-menu .quire-copyright + .menu-list {
@@ -586,6 +719,7 @@ strong {
 }
 .quire-menu__header__contributors {
   font-size: 1.15rem;
+  width: 80%;
 }
 .quire-menu .quire-copyright {
   padding-left: 0;
@@ -687,6 +821,9 @@ strong {
   }
 }
 @media print {
+  .quire-figure.quire-figure--shared-caption figcaption {
+    page-break-inside: avoid;
+  }
   .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__caption-content,
   .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__credit {
     display: none;
@@ -784,13 +921,13 @@ strong {
 .quire-figure__table {
   font-size: 1rem;
 }
+.content table th,
 .content table td {
-  /* semi-transparent --accent-color */
-  border-color: rgba(188, 124, 68, .3);
+  border-color: var(--color-mid-light);
 }
 
 .quire-figure__table thead th {
-  background-color: var(--accent-color);
+  background-color: var(--color-mid-light);
   color: var(--white) !important;
   border-width: 0;
 }
@@ -983,15 +1120,26 @@ table#table-9-2 tr td:first-child {
 .quire-page__content .content .tabbed [role="tablist"] a:hover {
   text-decoration: none;
   padding: 0.5rem 1em;
-  color: inherit !important;
   border-bottom-width: 0 !important;
 }
+.quire-page__content .content .tabbed [role="tablist"] a {
+  color: inherit;
+}
+.quire-page__content .content .tabbed [role="tablist"] a:hover {
+  color: var(--accent-color);
+}
 [role="tablist"] [aria-selected] {
-  border: 2px solid;
+  border: 2px solid var(--color-dark);
   background: var(--white);
   border-bottom: 0;
   position: relative;
   top: 2px;
+}
+.quire-page__content .content a:focus {
+  background-color: var(--white);
+}
+.quire-page__content .content [role="tablist"] a[aria-selected]:focus {
+  background-color: var(--white);
 }
 [role="tabpanel"] {
   border: 2px solid;
@@ -1123,6 +1271,12 @@ table#table-9-2 tr td:first-child {
   width:  .75rem;
   fill: var(--color-dark);
 }
+.quire-page__header .download-link a:hover {
+  color: var(--accent-color);
+}
+.quire-page__header .download-link a:hover svg {
+  fill: var(--accent-color);
+}
 
 /* STYLE SECTION BREAK PAGES IN PDF */
 @media print {
@@ -1170,12 +1324,6 @@ table#table-9-2 tr td:first-child {
   display: none;
 }
 
-/* ADD MAP LINKS TO PDF */
-.quire-figure__map-link {
-  display: block;
-  margin-top: .25rem;
-}
-
 /* MAKE EPIGRAPHS ITALIC */
 .quire-page__content .content .epigraph blockquote em {
   font-style: italic;
@@ -1208,6 +1356,36 @@ table#table-9-2 tr td:first-child {
   margin-right: 1rem;
 }
 
+/* STYLE INSERT FOR TEXT ON UKRAINE 🇺🇦 */
+.quire-page__content .content .insert {
+  background-color: white;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+.quire-page__content .content .insert .insert__signature {
+  text-align: right;
+  margin-right: 1.5rem;
+}
+.quire-page__content .content .insert .insert__signature p {
+  font-style: italic;
+  margin-top: 1rem;
+  text-indent: 0;
+  margin-left: 1.5rem;
+}
+.quire-page__content .content .insert hr {
+  margin-top: .75rem;
+  margin-bottom: 1.5rem
+}
+.quire-page__content .content .insert hr:last-child {
+  margin-top: 1.5rem;
+  margin-bottom: .75rem
+}
+@media print {
+  .quire-page__content .content .insert {
+    background-color: #faf7f0;
+  }
+}
+
 /* TIGHTEN SPACING TO REDUCE PAGE COUNT */
 #abbreviations .content table td,
 #abbreviations .content table th {
@@ -1219,6 +1397,16 @@ table#table-9-2 tr td:first-child {
   .quire-page.quire-page--abstract.quire-contents {
     page: no-footer;
   }
+}
+
+/* ADD PADDING TO SHORTEN PAGES AND MATCH SECOND-PAGES PDF */
+#introduction .quire-page--page-one .quire-page__content .container {
+  padding-bottom: .25rem;
+}
+
+/* TIGHTEN SPACING TO SAVE LINE BREAK IN CAPTION */
+#fig-3-1-parzinger .quire-figure__caption {
+  letter-spacing: -.09pt;
 }
 
 /* STYLES FOR BOOK INDEX, ADDED IN MARKDOWN AS AN UNORDERED LIST */

@@ -5,7 +5,7 @@ menu: false
 type: cover
 slug: .
 toc: false
-image:
+image: figures/cover-combined.jpg
 pdf_download: false
 about: true
 ---

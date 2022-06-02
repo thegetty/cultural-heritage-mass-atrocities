@@ -57,7 +57,6 @@ Library of Congress Cataloging-in-Publication Data
 
 {{< /q-class >}}
 
+Front cover: Two views of the courtyard and ablutions fountains, Great Umayyad Mosque of Aleppo, Aleppo, Syria, with structural damage, as of December 2013, documented in the bottom photograph. Images: Joel Carillet / Getty Images (top); Molhem Barakat / Reuters / Alamy Stock Photo (bottom)
 
 {{< /q-class >}}
-
-Front cover: Two views of the courtyard and ablutions fountains, Great Umayyad Mosque of Aleppo, Aleppo, Syria, with structural damage, as of December 2013, documented in the bottom photograph. Images: Joel Carillet / Getty Images (top); Molhem Barakat / Reuters / Alamy Stock Photo (bottom) 

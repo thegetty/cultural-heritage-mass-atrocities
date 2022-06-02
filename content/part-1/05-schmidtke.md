@@ -23,11 +23,11 @@ We do not possess reliable data that would allow us to quantify the overall lite
 
 {{< q-figure id="fig-5-2-schmidtke" >}}
 
-{{< q-figure id="fig-5-3-schmidtke" >}}
+{{< q-figure id="fig-5-3-map" >}}
 
 Further, while Jan Just Witkam rightly remarks that “Arabic traditional literature is probably the largest body of literature in the world,”[^9] it should be kept in mind that Arabic is only one of many Islamic languages. The geographical expansion of the Islamic world to reach from West Africa and Islamic Spain to Central and South and East Asia, sub-Saharan Africa, the Indonesian archipelago, and the Volga region and other parts of Eastern Europe, as well as the linguistic variety that this spread implies, gave rise to a highly variegated literary production of enormous dimensions. And although one might distinguish geographically between core and periphery (the historical heartlands of Islam versus regions that became part of the Islamic world in later periods) and of philology (Arabic as the language of the Qurʾan and of the Prophet Muhammad versus any other Islamic languages), the resulting conventional hierarchy is unjustified and illusory, as is any attempt to define orthodoxy versus heresy ([fig. 5.4](#fig-5-4-schmidtke)). Moreover, starting in the second half of the twentieth century there has been a Muslim diaspora in Western Europe, the United States, and Australia, stimulating its own cultural production in languages that until recently had not been considered Islamic languages.
 
-{{< q-figure id="fig-5-4-schmidtke" >}}
+{{< q-figure id="fig-5-4-map" >}}
 
 ## Modern Attempts to Account for the Arabic/Islamic Written Heritage
 
