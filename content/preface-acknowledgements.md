@@ -20,6 +20,30 @@ Over three days at the Getty Center in May 2019, as volume editors we convened n
 
 The development of this volume occurred via Zoom in June 2020 and February 2021, when abstracts and then final drafts were discussed by the authors and by other contributors. Due to the international COVID-19 pandemic, we missed the camaraderie and intellectual sparks that would have animated our discussions, but the commitment of our team of authors was still very much in evidence and contributed to the quality of the final drafts that now comprise the body of this text.
 
+The design of this collection of essays reflects our own interpretations of the most pressing issues and necessary perspectives required to frame changes in policy- and decision-making about the protection of cultural heritage amid atrocities. In putting together this collection, we sought to better understand the origins, history, contributions, problems, and prospects of international efforts to protect the world’s immovable cultural heritage. This endeavor, we hope, will result in improved strategies and tactics in the coming decades. A better comprehension of the deficiencies of existing laws, norms, and organizations should lead to the identification of appropriate remedies.
+
+At the outset, readers will find a lengthy list of abbreviations. Contemporary international problem-solving and conversations are bedeviled with acronyms and abbreviations. Institutions and parts of them, along with individual operations, treaties, and conferences, are almost always referred to by their initials. This may be off-putting to some readers, but it is a contemporary reality. To save space, contributors as well as public documents and media treatments use these short-cuts extensively, and so readers may need to consult the list with some frequency.
+
+"Suggested Readings" follow each essay and are compiled at the end of the book, providing readers with our contributors' recommendations for the most authoritative and recent published sources on the subject matter of their essays.
+
+A pleasant assignment after putting a book into production is to acknowledge significant contributions from many individuals. Kara Kirk and Karen Levine, respectively Getty Publications publisher and editor in chief, never once doubted the importance of our project and fully supported it from the beginning. Our editor at Getty Publications, Laura diZerega, worked most closely with us, our authors, manuscript editor Martin J. Burke, and designers to make this handsome and user-friendly text available to readers. Additional thanks are due to Greg Albers and Erin Dunigan for their expert management of our digital publication, Victoria Gallina, our production coordinator, and Jeffrey Cohen, our designer. But it is to Morgan Conger, senior project manager in the Office of the Getty President, and Lizzie Udwin, former executive assistant to the Getty president, that we owe our greatest debt. For over the years we worked on this project, they dealt tirelessly with the incorrigible habits and quirkiness of its coeditors, planning numerous meetings and making sure all of our Zoom trains ran on time. Morgan Conger managed the transmittal of our publication's many components to our authors, editor, and copyeditor, and diligently ensured that all revisions were captured during the various stages of the editing process. It is no exaggeration to say that we could not have successfully completed a complex project of this type without their able helping hands.
+
+This “Cultural Heritage at Risk” project is one of several related efforts by the J. Paul Getty Trust to address threats to the world’s cultural heritage. The Getty Conservation Institute’s work on the wall paintings at the Mogao Grottos, Dunhuang, China, for example, dates back to 1997. This was followed by the GCI’s Iraq Cultural Heritage Conservation Initiative, 2004–2011, and, in partnership with the Getty Foundation, the scientific analysis and conservation treatment of Roman-era mosaics in the Middle East and North Africa beginning in 2012. Most recently, the Getty Conservation Institute has developed an open-source software platform for cultural heritage management, and in 2017 the Getty Trust began publishing an ongoing series of occasional papers in cultural heritage policy, which has formed the foundation of this book.
+
+When we set out to edit this volume, our initial task was to find a diverse group of authors to write about the vast range of topics, cases, and perspectives in the thirty-two chapters that follow this preface and our introduction and precede our conclusion. Brief biographies are found in the list of contributors at the end of this book. All authors have researched and written extensively about the subject of their chapters or worked in a related field; many have done both. All are acknowledged experts working on the problems and prospects of protecting human beings and their cultural heritage. We will not be bashful: these pages reflect the distinctive products of a world-class team with expertise on the historical, legal, and humanitarian consequences of cultural heritage at risk from Asia to South America to the Mediterranean basin. For this we are grateful to all of our colleagues.
+
+Sadly, there is one voice missing. Edward C. Luck, who had provided both of us with clear-headed guidance and advice from the outset, was working on his chapter about major powers in February 2021 when he died after a brave battle with lung cancer. Ed’s premature death deprives our intellectual and policy communities, and especially his family and friends, of his warmth, insights, and humor.
+
+<div class="bottom-signature">
+
+J.C. and T.G.W.
+
+Los Angeles and Chicago
+
+December 2021
+
+</div>
+
 <div class="insert">
 
 ---
@@ -52,31 +76,5 @@ J.C. and T.G.W.<br />
 May 2022
 
 </div>
-
----
-
-</div>
-
-The design of this collection of essays reflects our own interpretations of the most pressing issues and necessary perspectives required to frame changes in policy- and decision-making about the protection of cultural heritage amid atrocities. In putting together this collection, we sought to better understand the origins, history, contributions, problems, and prospects of international efforts to protect the world’s immovable cultural heritage. This endeavor, we hope, will result in improved strategies and tactics in the coming decades. A better comprehension of the deficiencies of existing laws, norms, and organizations should lead to the identification of appropriate remedies.
-
-At the outset, readers will find a lengthy list of abbreviations. Contemporary international problem-solving and conversations are bedeviled with acronyms and abbreviations. Institutions and parts of them, along with individual operations, treaties, and conferences, are almost always referred to by their initials. This may be off-putting to some readers, but it is a contemporary reality. To save space, contributors as well as public documents and media treatments use these short-cuts extensively, and so readers may need to consult the list with some frequency.
-
-"Suggested Readings" follow each essay and are compiled at the end of the book, providing readers with our contributors' recommendations for the most authoritative and recent published sources on the subject matter of their essays.
-
-A pleasant assignment after putting a book into production is to acknowledge significant contributions from many individuals. Kara Kirk and Karen Levine, respectively Getty Publications publisher and editor in chief, never once doubted the importance of our project and fully supported it from the beginning. Our editor at Getty Publications, Laura diZerega, worked most closely with us, our authors, manuscript editor Martin J. Burke, and designers to make this handsome and user-friendly text available to readers. Additional thanks are due to Greg Albers and Erin Dunigan for their expert management of our digital publication, Victoria Gallina, our production coordinator, and Jeffrey Cohen, our designer. But it is to Morgan Conger, senior project manager in the Office of the Getty President, and Lizzie Udwin, former executive assistant to the Getty president, that we owe our greatest debt. For over the years we worked on this project, they dealt tirelessly with the incorrigible habits and quirkiness of its coeditors, planning numerous meetings and making sure all of our Zoom trains ran on time. Morgan Conger managed the transmittal of our publication's many components to our authors, editor, and copyeditor, and diligently ensured that all revisions were captured during the various stages of the editing process. It is no exaggeration to say that we could not have successfully completed a complex project of this type without their able helping hands.
-
-This “Cultural Heritage at Risk” project is one of several related efforts by the J. Paul Getty Trust to address threats to the world’s cultural heritage. The Getty Conservation Institute’s work on the wall paintings at the Mogao Grottos, Dunhuang, China, for example, dates back to 1997. This was followed by the GCI’s Iraq Cultural Heritage Conservation Initiative, 2004–2011, and, in partnership with the Getty Foundation, the scientific analysis and conservation treatment of Roman-era mosaics in the Middle East and North Africa beginning in 2012. Most recently, the Getty Conservation Institute has developed an open-source software platform for cultural heritage management, and in 2017 the Getty Trust began publishing an ongoing series of occasional papers in cultural heritage policy, which has formed the foundation of this book.
-
-When we set out to edit this volume, our initial task was to find a diverse group of authors to write about the vast range of topics, cases, and perspectives in the thirty-two chapters that follow this preface and our introduction and precede our conclusion. Brief biographies are found in the list of contributors at the end of this book. All authors have researched and written extensively about the subject of their chapters or worked in a related field; many have done both. All are acknowledged experts working on the problems and prospects of protecting human beings and their cultural heritage. We will not be bashful: these pages reflect the distinctive products of a world-class team with expertise on the historical, legal, and humanitarian consequences of cultural heritage at risk from Asia to South America to the Mediterranean basin. For this we are grateful to all of our colleagues.
-
-Sadly, there is one voice missing. Edward C. Luck, who had provided both of us with clear-headed guidance and advice from the outset, was working on his chapter about major powers in February 2021 when he died after a brave battle with lung cancer. Ed’s premature death deprives our intellectual and policy communities, and especially his family and friends, of his warmth, insights, and humor.
-
-<div class="bottom-signature">
-
-J.C. and T.G.W.
-
-Los Angeles and Chicago
-
-December 2021
 
 </div>
