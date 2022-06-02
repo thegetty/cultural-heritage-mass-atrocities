@@ -4,26 +4,32 @@ languages:
     display: العربية
     keynote: الفكرة الرئيسية
     abstract: ملخص
+    chapter_abstracts: ملخصات الفصول
   - lang_code: zh
     display: 中文
     keynote: 主旨
     abstract: 摘要
+    chapter_abstracts: 章节摘要
   - lang_code: en
     display: English
     keynote: Keynote
     abstract: Abstract
+    chapter_abstracts: Chapter Abstracts
   - lang_code: fr
     display: Français
     keynote: Thème principal
     abstract: Résumé
+    chapter_abstracts: Résumés des chapitres
   - lang_code: ru
     display: Русский
     keynote: Основная идея
     abstract: Краткое содержание
+    chapter_abstracts: Краткое описание главы
   - lang_code: es
     display: Español
     keynote: Presentación
     abstract: Resumen
+    chapter_abstracts: Resúmenes de los capítulos
 
 texts:
 

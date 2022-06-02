@@ -7,6 +7,11 @@
   {{ $page = printf "%s%s" .Page.File.Dir .Page.File.BaseFileName }}
 {{ end }}
 
+{{- $fullPDF := "" -}}
+{{- range where .Site.Data.publication.resource_link "name" "PDF" }}
+  {{- $fullPDF = .url -}}
+{{- end -}}
+
 {{- if ne .Site.Params.pdf true -}}
 <div class="backmatter tabbed">
 
@@ -25,15 +30,17 @@
 
   {{ $keynoteHead := "" }}
   {{ $abstractHead := "" }}
+  {{ $downloadLinkLabel := "" }}
   {{ range where $.Site.Data.translations.languages "lang_code" .lang_code }}
     {{ $keynoteHead = .keynote }}
     {{ $abstractHead = .abstract }}
+    {{ $downloadLinkLabel = .chapter_abstracts }}
   {{ end }}
 
   {{ if eq $.Page.Params.about true }}
     <section id="lang-{{ .lang_code }}" lang="{{ .lang_code }}" >
       {{- $link := printf "%s-%s.%s" "/downloads/pages/cultural-heritage-mass-atrocities--contents" $language "pdf" -}}
-      <span class="download-link is-screen-only remove-from-epub"><a href="{{ $link }}">PDF {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a></span>
+      <span class="download-link is-screen-only remove-from-epub"><a href="{{ $link }}">{{ $downloadLinkLabel }} {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a>{{ if eq .lang_code "en"}} | <a href="{{ $fullPDF }}">Full Text {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a>{{ end }}</span>
       <div class="description">{{ .description | markdownify }}</div>
       <div class="editors">{{ .editors | markdownify }}</div>
       <hr />
