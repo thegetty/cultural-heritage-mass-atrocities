@@ -52,149 +52,111 @@
 
 }
 
+/* COVER */
 .quire-cover__hero.hero.is-fullheight {
-  display: flex;
-  flex-direction: initial;
-  justify-content: space-around;
   padding: 0;
   background-color: #e8dbbd;
   background-image: none;
+  display: block;
 }
 .quire-cover__hero-body__text-pane,
 .quire-cover__hero-body__image-pane {
-  min-height: calc(95vh - 3rem - 6px);
-  border: 1px solid blue;
+  max-height: calc(95vh - 3rem);
+  overflow: hidden;
 }
 .quire-cover__hero-body__image-pane {
-  /* background-image: url('../img/figures/cover-combined.jpg');
-  background-size: cover;
-  background-repeat: no-repeat; */
+  float: left;
+  margin-left: 5vw;
 }
 .quire-cover__hero-body__image-pane img {
-  max-height: calc(95vh - 3rem);
-  min-height: calc(95vh - 3rem);
+  height: calc(95vh - 3rem);
 }
 .quire-cover__hero .title,
 .quire-cover__hero .contributor {
   color: var(--accent-color);
-  margin-top: 0;
-  font-size: 1.25rem;
+  margin: 0 5vw;
 }
 .quire-cover__hero .title {
   font-family: "Noto Serif", serif;
-  font-size: 3.5rem;
+  font-size: 4.5vw;
+  margin-top: 10vw;
+  margin-bottom: 2.5vw;
+  max-width: 45vw;
 }
-/* THE COVER */
-/* .quire-cover__hero,
-.quire-cover__overlay {
-  min-height: calc(95vh - 3rem - 6px) !important;
+.quire-cover__hero .title .sm {
+  font-size: 3.5vw;
 }
-.quire-cover__hero {
-  background-color: #e8dbbd;
-  background-image: none;
-}
-
-.quire-cover__hero .title,
 .quire-cover__hero .contributor {
-  text-align: center;
-  color: #e21a22;
-  margin-top: 0;
-  font-size: 1.25rem;
+  font-size: 2vw;
 }
-.quire-cover__hero .title {
-  font-family: "Noto Serif", serif;
-  font-size: 3.5rem;
+@media screen and (max-width:1560px) {
+  .quire-cover__hero .title {
+    font-size: 4.05vw;
+    max-width: 40vw;
+  }
+  .quire-cover__hero .title .sm {
+    font-size: 3.15vw;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1.8vw;
+  }
 }
-.hero.is-halfheight .hero-body,
-.hero.is-fullheight .hero-body,
-.hero.is-fullheight-with-navbar .hero-body {
-  padding: 0;
-  align-items: flex-start;
+@media screen and (max-width:1370px) {
+  .quire-cover__hero .title,
+  .quire-cover__hero .contributor,
+  .quire-cover__hero-body__image-pane {
+    margin-left: 8vw;
+  }
+  .quire-cover__hero .title {
+    max-width: 25vw;
+  }
 }
-.hero-body .container.is-fluid {
-  bottom: 0;
-  margin: 0;
-  width: 100%;
-  min-height: 20vh;
-  background: #e8dbbd;
-  background-color: rgb(232,219,189,.7);
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  background: linear-gradient(180deg, rgb(232,219,189,0), rgb(232,219,189,.9), rgb(232,219,189,.8), rgb(232,219,189,1));
-} */
-
-/* BACKGROUND IMAGES */
-/* .quire-cover__hero-body__image {
-  width: 50vw;
-  overflow: hidden;
-  height: calc(75vh - 3rem - 6px);
-  background-size: cover;
-  background-repeat: no-repeat;
+@media screen and (max-width:1000px) {
+  .quire-cover__hero.hero.is-fullheight {
+    position: relative;
+    display: flex;
+    justify-content: center;
+  }
+  .quire-cover__hero-body__text-pane,
+  .quire-cover__hero-body__image-pane {
+    position: absolute;
+    margin: 0;
+  }
+  .quire-cover__hero-body__text-pane {
+    background-color: rgb(232, 219, 189, .8);
+  }
+  .quire-cover__hero .title {
+    margin-top: 0;
+  }
+  .quire-cover__hero .title,
+  .quire-cover__hero .contributor {
+    text-align: center;
+    width: 100vw;
+    max-width: 100vw;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .quire-cover__hero .title {
+    font-size: 2.925rem;
+  }
+  .quire-cover__hero .title .sm {
+    font-size: 2.275rem;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1.3rem;
+  }
 }
-.quire-cover__hero-body__image.cover-1 {
-  background-image: url('../img/figures/cover-1.jpg');
+.quire-cover__more {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
 }
-.quire-cover__hero-body__image.cover-2 {
-  background-image: url('../img/figures/cover-2.jpg');
-  background-position: center right;
-}
-
 .quire-cover__more .hero-more {
-  background-color: #e8dbbd;
+  background-color: var(--accent-color);
 }
 .quire-cover__more .hero-more svg {
   margin-left: .18rem;
 }
-
-@media screen and (min-width:1800px) {
-  .quire-cover__hero .title {
-    font-size: 4rem;
-  }
-  .quire-cover__hero .contributor {
-    font-size: 1.5rem;
-  }
-}
-@media screen and (max-width:1175px) {
-  .hero-body .container.is-fluid {
-    padding-top: 3rem;
-  }
-  .quire-cover__hero .title .sm {
-    font-size: 2.5rem;
-  }
-}
-@media screen and (max-width:810px) {
-  .quire-cover__hero-body__image {
-    width: 100vw;
-  }
-  .quire-cover__hero-body__image.cover-1 {
-    background-image: url('../img/figures/cover-splice.jpg');
-    background-position: center;
-  }
-  .quire-cover__hero-body__image.cover-2 {
-    display: none;
-  }
-}
-@media screen and (max-width:599px) {
-  .quire-cover__hero .title {
-    font-size: 2.25rem;
-  }
-  .quire-cover__hero .title .sm {
-    font-size: 1.75rem;
-  }
-}
-@media screen and (max-width:406px) {
-  .quire-cover__hero .title {
-    font-size: 1.75rem;
-  }
-  .quire-cover__hero .title .sm {
-    font-size: 1.25rem;
-  }
-  .quire-cover__hero .contributor {
-    font-size: 1rem;
-  }
-} */
-
 
 /* STANDARD OCCASIONAL PAPERS SERIES DESIGN (EXCEPT FOR COVER)
 ============================================================================= */

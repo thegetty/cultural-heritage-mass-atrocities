@@ -26,17 +26,18 @@ Cover page layout. This controls the home page of the publication.
   {{/* PDF full cover image */}}
   {{ else }}
 
+  {{- $imgPath := "" -}}
   {{/* Begin full-page cover section */}}
   {{- if .Params.image -}}
-  {{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") .Params.image -}}
-    <section class="quire-cover__hero hero is-fullheight">
-      <div class="quire-cover__overlay" style="background-image: url('{{ $imgPath }}');"></div>
-  {{- else -}}
-    <section class="quire-cover__hero hero is-fullheight">
-      <div class="quire-cover__overlay"></div>
+    {{- $imgPath = printf "%s/%s" ($.Scratch.Get "imageDir") .Params.image -}}
   {{- end -}}
-    <div class="quire-cover__hero-body hero-body">
-      <div class="container is-fluid">
+    <section class="quire-cover__hero hero is-fullheight">
+
+      <div class="quire-cover__hero-body__image-pane">
+      <img src="{{ $imgPath }}" />
+      </div>
+
+      <div class="quire-cover__hero-body__text-pane">
         {{/* Use .Site.Data.publication info if available */}}
         {{ if .Site.Data.publication }}
 
@@ -85,12 +86,7 @@ Cover page layout. This controls the home page of the publication.
         {{ end }}
       </div>
 
-      <div class="quire-cover__hero-body__image cover-1"></div>
-
-      <div class="quire-cover__hero-body__image cover-2"></div>
-
-    </div>
-  </section>
+    </section>
   {{/* End full-page cover section */}}
 
   {{/* Begin "below-the-fold" section */}}
