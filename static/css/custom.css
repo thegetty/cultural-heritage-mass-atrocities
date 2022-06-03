@@ -157,6 +157,11 @@
 .quire-cover__more .hero-more svg {
   margin-left: .18rem;
 }
+@media print {
+  .quire-cover__hero-body__text-pane {
+    display: none;
+  }
+}
 
 /* STANDARD OCCASIONAL PAPERS SERIES DESIGN (EXCEPT FOR COVER)
 ============================================================================= */
