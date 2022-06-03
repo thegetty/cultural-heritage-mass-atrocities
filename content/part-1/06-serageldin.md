@@ -1,5 +1,5 @@
 ---
-title: "Valuing the Legacy of our Cultural Heritage"
+title: "Valuing the Legacy of Our Cultural Heritage"
 short_title: "The Value of Cultural Heritage"
 label: "6"
 weight: 17
