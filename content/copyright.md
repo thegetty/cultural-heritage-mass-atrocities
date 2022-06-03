@@ -46,14 +46,14 @@ Distributed outside the United States and Canada by Yale University Press, Londo
 
 Library of Congress Cataloging-in-Publication Data
 
-- Names:
-- Title:
-- Description:
-- Identifiers:
-- Subjects: LCSH:
-- Classification:
-- LC record available at
-- LC ebook record available at
+- Names: Cuno, James B., editor. | Weiss, Thomas G. (Thomas George), 1946– editor.
+- Title: Cultural heritage and mass atrocities / edited by James Cuno and Thomas G. Weiss.
+- Description: First edition. | Los Angeles : Getty Publications, 2022. | Includes bibliographical references. | Summary: “This volume focuses on protecting vulnerable, immovable cultural heritage using the framework provided by the Responsibility to Protect (R2P), a 2005 United Nations resolution permitting international intervention against war crimes. Essays offer critical insights from the political, humanitarian, and cultural heritage sectors, emphasizing strategies for safeguarding both culture and people” — Provided by publisher.
+- Identifiers: LCCN 2022013796 (print) | LCCN 2022013797 (ebook) | ISBN 9781606068076 (paperback) | ISBN 9781606068106 | ISBN 9781606068090 (mobi) | ISBN 9781606068083 (epub)
+- Subjects: LCSH: Cultural property—Protection. | Cultural property—Protection—International cooperation. | Cultural property—Destruction and pillage. | Historic preservation—International cooperation. | War and civilization.
+- Classification: LCC CC135 .C823 2022  (print) | LCC CC135  (ebook) | DDC 363.6/9--dc23/eng/20220528
+- LC record available at https://lccn.loc.gov/2022013796
+- LC ebook record available at https://lccn.loc.gov/2022013797
 
 {{< /q-class >}}
 

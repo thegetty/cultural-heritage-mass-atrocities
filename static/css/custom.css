@@ -418,7 +418,7 @@
   }
   #copyright .quire-page__content {
     text-align: left;
-    margin-left: .75in;
+    /* margin-left: .75in; */
     column-count: 2;
     column-gap: .1875in;
     font-size: .625rem;
@@ -580,25 +580,25 @@
     margin: 1.5rem 0;
     -prince-margin-alt: 0;
   }
+}
 
-  /* LOC Cataloguing in Publication format */
-  .quire-page__content .container .content .cip-data p {
-    margin-bottom: 0;
-  }
-  .quire-page__content .container .content .cip-data ul {
-    margin-left: 0;
-    margin-top: 0;
-    margin-bottom: 1rem;
-  }
-  .quire-page__content .container .content .cip-data ul li {
-    line-height: 1.6;
-    margin: 0;
-    padding-left: 1.5em;
-    text-indent: -1.5em;
-  }
-  .quire-page__content .container .content .cip-data ul li::before {
-    display: none;
-  }
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
 }
 
 /* Making button text read better */
@@ -660,7 +660,7 @@ strong {
 /* Styling copyright and about pages */
 .quire-page__content .content .backmatter p {
   text-indent: 0;
-  margin-bottom: 1rem;
+  margin-bottom: .5rem;
 }
 
 /* Make sure print is black only */
