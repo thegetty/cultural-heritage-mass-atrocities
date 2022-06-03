@@ -157,7 +157,7 @@ Custom and general principles can thus be the wellspring of a progressive develo
 
 [^8]: See International Law Commission, Draft Conclusions on Identification of Customary International Law, *Yearbook of the International Law Commission 2018*, vol. 2, part 2, Conclusion 2. For a general overview, see Sean Murphy, “The Identification of Customary International Law and Other Topics: The Sixty-Seventh Session of the International Law Commission,” *American Journal of International Law* 109, no. 4 (2015): 822; and “Anniversary Commemoration and Work of the International Law Commission’s Seventieth Session,” *American Journal of International Law* 113, no. 1 (2019): 94.
 
-[^9]: ICJ, “Request for Interpretation of the Judgment of 15 June 1962 in the Case Concerning the *Temple of Preah Vihear (Cambodia v. Thailand)*, Judgment, 11 November 2013,” para. 106, https://www.icj-cij.org/en/case/151.
+[^9]: ICJ, “Request for Interpretation of the Judgment of 15 June 1962 in the Case Concerning the *Temple of Preah Vihear (Cambodia v. Thailand)*," Judgment, 11 November 2013, para. 106, https://www.icj-cij.org/en/case/151.
 
 [^10]: ICJ, *Certain Property (Liechtenstein v. Germany)*, Preliminary Objections, Judgment, 10 February 2005, https://www.icj-cij.org/public/files/case-related/123/123-20050210-JUD-01-00-EN.pdf.
 
