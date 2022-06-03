@@ -12,7 +12,7 @@
 
 previewURL=http://localhost:1313/
 outputDirectory=static/downloads/pages/
-baseName=cultural-heritage-mass-atrocities
+baseName=CunoWeiss_CHMA
 
 # FIRST DO A SPECIAL SET OF TRANSLATED TOCs
 
@@ -29,7 +29,7 @@ for page in "${TRANSLATIONS[@]}"
 do
 
 url=$previewURL$page"/"
-file=$outputDirectory$baseName"--"$page".pdf"
+file=$outputDirectory$baseName"_"$page".pdf"
 
 prince $url --style=bin/pdfs/overrides.css --no-warn-css -o $file
 
@@ -45,7 +45,7 @@ for page in "${PAGES[@]}"
 do
 
 url=$previewURL$page"/"
-file=$outputDirectory$baseName"--"${page//\//-}".pdf"
+file=$outputDirectory$baseName"_"${page//\//-}".pdf"
 
 prince $url --style=bin/pdfs/overrides.css --no-warn-css -o $file
 

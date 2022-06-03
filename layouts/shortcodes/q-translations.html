@@ -8,7 +8,7 @@
 {{ end }}
 
 {{- $fullPDF := "" -}}
-{{- range where .Site.Data.publication.resource_link "name" "PDF" }}
+{{- range where .Site.Data.publication.resource_link "media_type" "application/pdf" }}
   {{- $fullPDF = .url -}}
 {{- end -}}
 
@@ -39,7 +39,7 @@
 
   {{ if eq $.Page.Params.about true }}
     <section id="lang-{{ .lang_code }}" lang="{{ .lang_code }}" >
-      {{- $link := printf "%s-%s.%s" "/downloads/pages/cultural-heritage-mass-atrocities--contents" $language "pdf" -}}
+      {{- $link := printf "%s-%s.%s" "/downloads/pages/CunoWeiss_CHMA_contents" $language "pdf" -}}
       <span class="download-link screen-only remove-from-epub"><a href="{{ $link }}">{{ $downloadLinkLabel }} {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a>{{ if eq .lang_code "en"}} | <a href="{{ $fullPDF }}">Full Text {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a>{{ end }}</span>
       <div class="description">{{ .description | markdownify }}</div>
       <div class="editors">{{ .editors | markdownify }}</div>
