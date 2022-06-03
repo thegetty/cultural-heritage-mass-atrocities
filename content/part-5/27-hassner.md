@@ -139,7 +139,7 @@ The fifth and final lesson is that opponents will take advantage of that hesitat
 
 [^8]: Parker, *Monte Cassino*, 163.
 
-[^9]: Hapgood and Richardson, *Monte Cassino*, 30, 53, 63–64, citing F. Jones, “Report on the Events Leading to the Bombing of the Abbey of Monte Cassino on 15 February 1944,” Public Record Office, London (now the National Archives, Kew) 1949, 49.
+[^9]: Hapgood and Richardson, *Monte Cassino*, 30, 53, 63–64, citing F. Jones, “Report on the Events Leading to the Bombing of the Abbey of Monte Cassino on 15 February 1944,” Public Record Office, London (now The National Archives, Kew) 1949, 49.
 
 [^10]: In those five weeks, the British Corps lost four thousand men among their three divisions. The French Corps suffered 2,500 casualties. The US 36th Infantry Division lost two thousand and the 34th Infantry Division lost around 2,200 men. See Majdalany, *The Battle of Cassino*, 103–4; and North, ed., *The Memoirs of Field-Marshal Earl Alexander of Tunis*, 90.
 
