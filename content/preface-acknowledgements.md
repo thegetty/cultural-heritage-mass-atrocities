@@ -36,7 +36,7 @@ Sadly, there is one voice missing. Edward C. Luck, who had provided both of us w
 
 <div class="bottom-signature">
 
-J. C. and T. G. W.
+JC and TGW
 
 Los Angeles and Chicago
 
@@ -72,7 +72,7 @@ It is worth repeating a quote found in our introduction from the nineteenth-cent
 
 <div class="insert__signature">
 
-J. C. and T. G. W.<br />
+JC and TGW<br />
 May 2022
 
 </div>
