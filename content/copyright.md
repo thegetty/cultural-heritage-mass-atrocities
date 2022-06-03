@@ -10,7 +10,7 @@ toc: false
 
 This publication was created using [Quire](https://quire.getty.edu/)™, a multiformat publishing tool from Getty.
 
-The free online edition of this publication is available at [getty.edu/publications/cultural-heritage-mass-atrocities/](https://getty.edu/publications/cultural-heritage-mass-atrocities/) and includes zoomable illustrations. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book.
+The free online edition of this open-access publication is available at [getty.edu/publications/cultural-heritage-mass-atrocities/](https://getty.edu/publications/cultural-heritage-mass-atrocities/) and includes zoomable illustrations. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book.
 
 © 2022 J. Paul Getty Trust
 
