@@ -248,7 +248,7 @@ The flexibility and potential power of the performative destruction paradigm is 
 
 [^47]: Sigal Samuel, Sara Farhan, and Atoor Lawandow, “ISIS Destroyed Jonah’s Tomb, but Not Its Message,” *Atlantic*, 24 July 2017, https://www.theatlantic.com/international/archive/2017/07/tomb-of-jonah-mosul-isis/534414/.
 
-[^48]: Michael Danti, Scott Branting, and Susan Penacho, “The American Schools of Oriental Research Cultural Heritage Initiatives: Monitoring Cultural Heritage in Syria and Northern Iraq by Geospatial Imagery,” *Geosciences* 7, no. 4 (2017); and RASHID International, *Intentional Destruction of Cultural Heritage*.
+[^48]: Michael Danti, Scott Branting, and Susan Penacho, “The American Schools of Oriental Research Cultural Heritage Initiatives: Monitoring Cultural Heritage in Syria and Northern Iraq by Geospatial Imagery,” *Geosciences* 7, no. 4 (2017), 95; and RASHID International, *Intentional Destruction of Cultural Heritage*.
 
 [^49]: Raphael Lemkin, *Axis Rule in Occupied Europe: Laws of Occupation, Analysis of Government, Proposals for Redress* (Washington, DC: Carnegie Endowment for International Peace, 1944), 79.
 
