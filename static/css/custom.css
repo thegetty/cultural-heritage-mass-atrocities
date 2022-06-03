@@ -1418,16 +1418,24 @@ table#table-9-2 tr td:first-child {
 .quire-page--book-index .quire-page__content .container .content {
   font-size: .875em;
 }
-.quire-page--book-index .quire-page__content .container .content ul {
+.quire-page--book-index .quire-page__content .container .content {
   column-count: 2;
   column-gap: .1875in;
+}
+.quire-page--book-index .quire-page__content .container .content p {
+  line-height: 1.6;
+}
+.quire-page--book-index .quire-page__content .container .content ul {
   margin-left: 0;
 }
 .quire-page--book-index .quire-page__content .container .content ul li {
-  margin-left: 1em;
-  text-indent: -1em;
+  margin-left: 1rem;
+  text-indent: -1rem;
   margin-bottom: 0;
 }
 .quire-page--book-index .quire-page__content .container .content ul li:before {
   content: none;
+}
+.quire-page--book-index .quire-page__content .container .content hr {
+  display: none;
 }
