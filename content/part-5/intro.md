@@ -1,6 +1,5 @@
 ---
-title: "Introduction"
-subtitle: "Part 5"
+title: "Introduction: Part 5"
 weight: 51
 type: essay
 pdf_download: false
