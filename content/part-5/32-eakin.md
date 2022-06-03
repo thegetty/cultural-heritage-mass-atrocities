@@ -195,6 +195,6 @@ As the Israeli example illustrates, even in the aftermath of a violent conflict 
 
 [^27]: Jonah Fisher, “Nagorno-Karabakh: The Mystery of the Missing Church,” BBC, 25 March 2021, https://www.bbc.com/news/av/world-europe-56517835.
 
-[^28]: Amos Chapple, “‘Forgeries’: The Armenian Art That Azerbaijan May ‘Erase’ From Churches,” Radio Free Europe/RadioLiberty, 9 February 2022.
+[^28]: Amos Chapple, “‘Forgeries’: The Armenian Art That Azerbaijan May ‘Erase’ From Churches,” Radio Free Europe/Radio Liberty, 9 February 2022.
 
 [^29]: Ron E. Hassner, *War on Sacred Grounds* (Ithaca, NY: Cornell University Press, 2009), 117–23.
