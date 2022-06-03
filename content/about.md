@@ -36,10 +36,10 @@ Any revisions or corrections made to this publication after the first edition da
 
 ## Other Formats
 
-  - [PDF (X MB)](/downloads/output.pdf)
-  - [EPUB (X MB)](/downloads/output.epub)
-  - [Kindle/MOBI (X MB)](/downloads/oputput.mobi)
-  - [Paperback](#)
+  - [PDF (7.4 MB)](/downloads/CunoWeiss_CHMA.pdf)
+  - [EPUB (39.7 MB)](/downloads/CunoWeiss_CHMA.epub)
+  - [Kindle/MOBI (86.4 MB)](/downloads/CunoWeiss_CHMA.mobi)
+  - [Paperback](https://shop.getty.edu/products/cultural-heritage-and-mass-atrocities-978-1606068076)
 
 ## Copyright
 

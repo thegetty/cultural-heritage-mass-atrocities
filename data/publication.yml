@@ -86,20 +86,25 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (7.4 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /downloads/CunoWeiss_CHMA.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (39.7 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
+    url: /downloads/CunoWeiss_CHMA.epub
   - type: other-format
-    name: Kindle/MOBI
+    name: Kindle/MOBI (86.4 MB)
     media_type: vnd.amazon.mobi8-ebook
     link_relation: alternate
-    url: /downloads/output.mobi
+    url: /downloads/CunoWeiss_CHMA.mobi
+  - type: other-format
+    name: Paperback
+    media_type: print
+    link_relation: alternate
+    url: https://shop.getty.edu/products/cultural-heritage-and-mass-atrocities-978-1606068076
   - type: footer-link
     name: About
     link_relation: about
