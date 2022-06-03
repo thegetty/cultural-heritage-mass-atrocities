@@ -1,5 +1,5 @@
 /* TEMP "UNCORRECTED PROOF" BANNER */
-/* @media screen {
+@media screen {
   #container::before,
   #container::after {
     color: white;
@@ -23,7 +23,7 @@
     bottom: -130px;
     right: -130px;
   }
-} */
+}
 
 :root {
 
