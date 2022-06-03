@@ -156,7 +156,7 @@ The US military has recently made positive strides in expanding the strategic co
 
 [^8]: Smith, “Social Media,” 37.
 
-[^9]: Michael Danti, “Ground-Based Observations of Cultural Heritage Incidents in Syria and Iraq,” *Near Eastern Archaeology* 78, no. 3 (2015): 138.
+[^9]: Michael D. Danti, “Ground-Based Observations of Cultural Heritage Incidents in Syria and Iraq,” *Near Eastern Archaeology* 78, no. 3 (2015): 138.
 
 [^10]: Knopf and Ziegelmayer, “Fourth Generation Warfare,” 14.
 

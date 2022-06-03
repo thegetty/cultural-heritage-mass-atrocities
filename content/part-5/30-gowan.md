@@ -89,7 +89,7 @@ As yet, intercommunal discussions of challenges such as the preservation of Fama
 
 Jaramillo admits that this is not yet a reality in Cyprus, and that political dialogue and compromise may offer a more sustainable approach to securing the future of cultural heritage sites than does physical protection. This is a promising area for policy development. The EU’s External Action Service (its foreign ministry) noted in 2021 that “the EU should seek to include cultural heritage as an important aspect in dialogue and mediation efforts, as a direct or a cross-cutting issue, considering its strong symbolic importance for both the State and its local communities.”[^29]
 
-## People-Centered Peacekeeping and Protecting Cultural Heritage
+## People-centered Peacekeeping and Protecting Cultural Heritage
 
 While the cases of Kosovo and Cyprus may illustrate the advantages of a political approach to heritage protection through peace operations, some international officials and peacekeeping experts might argue that they are not relevant to many current conflicts. In both cases, peacekeepers have aimed to reconcile distinct ethnic communities: Serb/Albanian and Turkish/Greek. They have also been able to negotiate with reasonably coherent political actors and institutions based on European models. These conditions do not apply in cases such as Mali, where state institutions are weak and conflict involves multiple and often incoherent factions.
 
