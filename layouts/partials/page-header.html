@@ -12,7 +12,7 @@
 {{ else }}
 {{ $.Scratch.Set "imageDir" "" }}
 {{ end -}}
-<section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero">
+<section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} screen-only {{ end }} quire-page__header hero">
   <div class="hero-body">
     {{/* Page Title */}}
     <h1 class="quire-page__header__title" id="{{ .Title | urlize }}">
@@ -35,14 +35,14 @@
 
       {{- $link := "/downloads/pages/cultural-heritage-mass-atrocities" -}}
       {{- $link = printf "%s--%s.%s" $link $page "pdf" -}}
-      <span class="download-link is-screen-only remove-from-epub"><a href="{{ $link }}">PDF {{- partial "icon.html" (dict "type" "download" "description" "download") -}}</a></span>
+      <span class="download-link screen-only remove-from-epub"><a href="{{ $link }}">PDF {{- partial "icon.html" (dict "type" "download" "description" "download") -}}</a></span>
     {{- end -}}
 
     {{ if eq .Title "Contents" }}
     {{ range .Site.Data.translations.languages }}
       {{- $link := "/downloads/pages/cultural-heritage-mass-atrocities--contents" -}}
       {{- $link = printf "%s-%s.%s" $link .lang_code "pdf" -}}
-      <span class="download-link is-screen-only remove-from-epub"><a href="{{ $link }}">{{ .display }} {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a></span>
+      <span class="download-link screen-only remove-from-epub"><a href="{{ $link }}">{{ .display }} {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a></span>
     {{ end }}
     {{ end }}
 
@@ -51,6 +51,6 @@
 
 {{- if .Params.image -}}
 {{- $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") .Params.image -}}
-  <section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} is-screen-only {{ end }} quire-page__header hero__image" style="background-image: url('{{ $imgPath | relURL }}');">
+  <section class="{{ if or (eq .Title "title page") (eq .Title "half title page") }} screen-only {{ end }} quire-page__header hero__image" style="background-image: url('{{ $imgPath | relURL }}');">
   </section>
 {{- end -}}

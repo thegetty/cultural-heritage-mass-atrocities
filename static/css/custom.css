@@ -576,7 +576,7 @@
   html body .remove-from-epub {
     display: inherit;
   }
-  html body .is-screen-only {
+  html body .screen-only {
     display: none;
   }
   /* https://www.princexml.com/howcome/2021/guides/float/index.html */

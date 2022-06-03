@@ -261,7 +261,7 @@ As Fatou Bensouda, the ICC chief prosecutor at the time, stated in the *Al Mahdi
 
 [^69]: US Congress, National Defense Authorization Act for Fiscal Year 2021, Public Law No. 116–283, Section 1216, https://www.congress.gov/bill/116th-congress/house-bill/6395.
 
-[^70]: Government of France, Code du Patrimoine, Art. L111–11, 7 July 2016, [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032857167/](https://www&#8203;.legifrance&#8203;.gouv&#8203;.fr&#8203;/codes&#8203;/article&#8203;_lc&#8203;/LEGIARTI000032857167/). A *décret d’application*, which details the specific procedures, still needs to be issued.
+[^70]: Government of France, Code du Patrimoine, Art. L111–11, 7 July 2016, [https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032857167/](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032857167/). A *décret d’application*, which details the specific procedures, still needs to be issued.
 
 [^71]: Paumgartner and Zingg, “The Rise of Safe Havens,” 327–29.
 

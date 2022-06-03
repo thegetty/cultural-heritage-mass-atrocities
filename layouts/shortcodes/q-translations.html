@@ -12,7 +12,7 @@
   {{- $fullPDF = .url -}}
 {{- end -}}
 
-{{- if ne .Site.Params.pdf true -}}
+{{- if and (ne .Site.Params.pdf true) (ne .Site.Params.epub true) -}}
 <div class="backmatter tabbed">
 
   <ul>
@@ -40,7 +40,7 @@
   {{ if eq $.Page.Params.about true }}
     <section id="lang-{{ .lang_code }}" lang="{{ .lang_code }}" >
       {{- $link := printf "%s-%s.%s" "/downloads/pages/cultural-heritage-mass-atrocities--contents" $language "pdf" -}}
-      <span class="download-link is-screen-only remove-from-epub"><a href="{{ $link }}">{{ $downloadLinkLabel }} {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a>{{ if eq .lang_code "en"}} | <a href="{{ $fullPDF }}">Full Text {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a>{{ end }}</span>
+      <span class="download-link screen-only remove-from-epub"><a href="{{ $link }}">{{ $downloadLinkLabel }} {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a>{{ if eq .lang_code "en"}} | <a href="{{ $fullPDF }}">Full Text {{ partial "icon.html" (dict "type" "download" "description" "download") -}}</a>{{ end }}</span>
       <div class="description">{{ .description | markdownify }}</div>
       <div class="editors">{{ .editors | markdownify }}</div>
       <hr />

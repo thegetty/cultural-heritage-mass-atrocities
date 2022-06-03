@@ -73,6 +73,14 @@
 {{- $dict := dict "Site" .Site "alt" $alt "aspectRatio" $aspectRatio "caption" $caption "credit" $credit "download" $download "id" $id "iiif" $iiif "label" $label "mapLink" $mapLink "mediaId" $mediaId "mediaType" $mediaType "src" $src "zoom_max" $zoom_max -}}
 
 {{- if and (in $class "is-print-only") (ne .Site.Params.pdf true) -}}
+
+{{- else if and (eq $mediaType "table") (eq .Site.Params.epub true) -}}
+
+  {{- $tableSrc := printf "%s/%s" "static/img" $src -}}
+  <span id="{{ $id }}"></span>
+  {{- readFile $tableSrc | safeHTML -}}
+  {{- partial "figures/caption.html" $dict -}}
+
 {{- else -}}
 
 <figure

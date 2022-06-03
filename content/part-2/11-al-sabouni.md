@@ -70,11 +70,11 @@ The controversy surrounding the historical significance of Homs stems from data 
 
 However, it is agreed that while the city’s ancient name of Emesa is pre-Roman, it continued to be used when Homs became a religious center in the first century. The solar deity Elagabalus (in Arabic, al-Gabal, the Mountain) was worshipped there in a great temple of the sun; the ancient city’s coinage displayed an image of the temple with a holy basalt stone at the center. It was built by the ruling Sampsigeramids (or Emesene dynasty), an Arab family of priests who ruled after the Seleucid Empire. They made marital relationships with the Romans and ruled the city as a client kingdom.
 
-{{< q-figure id="fig-11-5-al-sabouni" class="pdf-no-snap is-pulled-left pdf-padding-top remove-from-epub is-print-only" >}}
+{{< q-figure id="fig-11-5-al-sabouni" class="pdf-no-snap is-pulled-left pdf-padding-top is-print-only" >}}
 
 Julia Domna, a Homsi princess and youngest daughter of the high priest of the temple, married the Libyan-born Septimius Severus, and the two ruled from Rome ([fig. 11.5](#fig-11-5-al-sabouni)). Meanwhile, Homs gained prominence as a religious center with its great temple and expanded well beyond the original hill. The temple long outlived its creators by adopting new religions with new rulers over the centuries, becoming a church and later a mosque. Its remains are incorporated within the walls of the Great Mosque of al-Nuri, which was built (or rather rebuilt) by Nour al-Din al-Zenki in the Mamluk Islamic era, during which it was adjacent to the city wall at one end and the souk, or market, at the other. During the Syrian Civil War, pillars believed to be remnants of the temple became exposed by arms fire ([figs. 11.6a](#fig-11-6a-al-sabouni), [11.6b](#fig-11-6b-al-sabouni), [11.6c](#fig-11-6c-al-sabouni)).
 
-{{< q-figure id="fig-11-5-al-sabouni" class="is-screen-only" >}}
+{{< q-figure id="fig-11-5-al-sabouni" class="screen-only" >}}
 
 {{< q-figure id="fig-11-6a-al-sabouni" class="pdf-no-snap" >}}
 
@@ -84,11 +84,11 @@ When I visited the mosque in the aftermath of fighting and first saw the half-ex
 
 But Homsis have had little chance to learn about this. “Emesa” and “Julia Domna” were no more than names of local cafés. Today, not much happens in the city. Its economic activity is slow in comparison to that of Damascus and Aleppo, its features are not interesting, and its history is little in evidence. Yet, none of this made sense: the city’s location is central, its weather is mild and refreshing, its fields are wide and fertile, and its crops are abundant, as is its history. So why does the city seem to be in constant decline? The answer is multilayered, but the way in which the local government has administered the city’s heritage may provide a clue.
 
-{{< q-figure id="fig-11-7-al-sabouni" class="pdf-no-snap is-pulled-left pdf-padding-top pdf-4rem-margin-bottom remove-from-epub is-print-only" >}}
+{{< q-figure id="fig-11-7-al-sabouni" class="pdf-no-snap is-pulled-left pdf-padding-top pdf-4rem-margin-bottom is-print-only" >}}
 
 The mausoleum of Emesa, a monument built by the Sampsigeramids in 78–79, was formerly part of the necropolis of Tel Abu Sabun ([fig. 11.7](#fig-11-7-al-sabouni)). Excavations in the *tel*, or hill, uncovered a total of twenty-two tombs, beginning in August 1936 with the discovery of the Emesa helmet, one of the most exquisite artifacts found at the site. The helmet has sustained much damage since its discovery, first during its initial looting and later by the controversial restoration processes conducted by the French and British. The helmet, along with all other artifacts from the site, including jewelry and statues, has to this day not been returned to Syria: the only remaining aspect of the site is the built structure itself.
 
-{{< q-figure id="fig-11-7-al-sabouni" class="is-screen-only" >}}
+{{< q-figure id="fig-11-7-al-sabouni" class="screen-only" >}}
 
 The mausoleum of Emesa was part of Homs (and its necropolis) for nearly eighteen centuries, until 1911 when the city government dynamited it to make room for an oil depot. The mausoleum, as documented in the drawings and photographs of nineteenth- and twentieth-century orientalists, was a two-story structure, the square base topped with an obelisk whose shape resembled the pyramidical tombs of Palmyra. Each facade was decorated with a row of five columns at the base and another row on the second floor. The building materials––the local black basalt and white limestone mentioned earlier––are a unique feature of Homs’s architecture. The greater part of the necropolis had been excavated by 1952 and was reburied to build a municipal stadium ([fig. 11.8](#fig-11-8-al-sabouni)).
 

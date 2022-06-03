@@ -69,6 +69,7 @@
     class="quire-figure__image"
     src="{{ printf "%s/%s" $imageDir .src | relURL }}"
     alt="{{ .alt }}"
+    {{ if eq .Site.Params.epub true }}id="{{ .id }}"{{ end }}
   />
 
 {{- $dict := dict "Site" .Site "caption" .caption "credit" .credit "label" .label "mapLink" .mapLink "modalLink" $modalLink -}}
