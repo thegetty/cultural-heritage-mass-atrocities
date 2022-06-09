@@ -10,7 +10,7 @@ contributor:
   - first_name: Sabine
     last_name: Schmidtke
     type: secondary
-    bio: "**Sabine Schmidtke** is professor of Islamic Intellectual History in the School of Historical Studies at the Institute for Advanced Study, Princeton. Her research interests include Shiʿism (Zaydism and Twelver Shiʿism), intersections of Jewish and Muslim intellectual history, the Arabic Bible, the history of Orientalism and the Science of Judaism, and the history of the book and libraries in the Islamicate world. Her recent publications include *Muslim Perceptions and Receptions of the Bible: Texts and Studies* (2019), with Camilla Adang; *Traditional Yemeni Scholarship amidst Political Turmoil and War: Muḥammad b. Muḥammad b. Ismāʿīl b. al-Muṭahhar al-Manṣūr (1915–2016) and His Personal Library* (2018); and *The Oxford Handbook of Islamic Philosophy* (2017), coedited with Khaled el-Rouayheb."
+    bio: "**Sabine Schmidtke** is professor of Islamic intellectual history in the School of Historical Studies at the Institute for Advanced Study, Princeton. Her research interests include Shiʿism (Zaydism and Twelver Shiʿism), intersections of Jewish and Muslim intellectual history, the Arabic Bible, the history of Orientalism and the Science of Judaism, and the history of the book and libraries in the Islamicate world. Her recent publications include *Muslim Perceptions and Receptions of the Bible: Texts and Studies* (2019), with Camilla Adang; *Traditional Yemeni Scholarship amidst Political Turmoil and War: Muḥammad b. Muḥammad b. Ismāʿīl b. al-Muṭahhar al-Manṣūr (1915–2016) and His Personal Library* (2018); and *The Oxford Handbook of Islamic Philosophy* (2017), coedited with Khaled el-Rouayheb."
 ---
 
 {{< q-translations >}}

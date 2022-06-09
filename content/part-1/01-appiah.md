@@ -10,7 +10,7 @@ contributor:
   - first_name: Kwame Anthony
     last_name: Appiah
     type: secondary
-    bio: "**Kwame Anthony Appiah** is professor of Philosophy and Law at New York University. He has taught philosophy in Ghana, France, Britain, and the United States. He has written the *New York Times* column “The Ethicist” since 2015. His most recent book is *The Lies That Bind: Rethinking Identity* (2018)."
+    bio: "**Kwame Anthony Appiah** is professor of philosophy and law at New York University. He has taught philosophy in Ghana, France, Britain, and the United States. He has written the *New York Times* column “The Ethicist” since 2015. His most recent book is *The Lies That Bind: Rethinking Identity* (2018)."
 ---
 
 {{< q-translations >}}
@@ -47,7 +47,7 @@ And so an important form of struggle over identity occurs when people challenge 
 
 Once identities exist, people tend to form a picture of a typical member of the group. Stereotypes develop. They may have more or less foundation in reality, but they are almost always critically wrong about something. *Kothis*, some Indians think, really want to be women: they are, many people suppose, what Europeans and Americans would now often call “transgender.” But that’s not necessarily so. Ewes, other Ghanaians fear, are particularly likely to use “juju”—witchcraft or “black magic”—against their enemies. But witchcraft is traditional all over Ghana, so this isn’t, actually, much of a distinction. (I once wrote an account of my father’s funeral, in the course of which I discussed how we had to deal with the threat of witchcraft in our family. We, as you know, were Asante, not Ewe.)[^3] People believe that Jains are so obsessed with nonviolence that they insist on covering their faces with white cloth to avoid killing insects by ingesting them. In fact, most Jains don’t wear the *muhapatti*, as the white cloth is called, and its use has a variety of rationales that have nothing to do with saving the lives of insects.
 
-In sum, identities come, first, with labels and ideas about why and to whom they should be applied. Second, your identity shapes your thoughts about how you should behave; and, third, it affects the way other people treat you. Finally, all these dimensions of identity are contestable, always up for dispute: who’s in, what they’re like, how they should behave and be treated. 
+In sum, identities come, first, with labels and ideas about why and to whom they should be applied. Second, your identity shapes your thoughts about how you should behave; and, third, it affects the way other people treat you. Finally, all these dimensions of identity are contestable, always up for dispute: who’s in, what they’re like, how they should behave and be treated.
 
 - - -
 
@@ -191,7 +191,7 @@ In 1917, the year of Edward Burnett Tylor’s death, what we’ve been taught to
 
 </div>
 
-[^1]: Publisher’s note: this material originally appeared in Kwame Anthony Appiah, *The Lies That Bind: Rethinking Identity* (New York: Liveright, 2018), 6–12 and 189–211, and is reproduced by permission of Liveright Publishing Corporation.
+[^1]: Publisher’s note: this material originally appeared in Kwame Anthony Appiah, *The Lies That Bind: Rethinking Identity* (New York: Liveright, 2018), 6–12 and 189–211, and is reproduced by permission of Liveright Publishing Corporation and Profile Books Ltd.
 
 [^2]: Paul Dundas, *The Jains*, 2nd ed. (New York: Routledge & Kegan Paul, 2002), 158–59.
 

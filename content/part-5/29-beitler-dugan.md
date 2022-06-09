@@ -11,7 +11,7 @@ contributor:
   - first_name: Ruth Margolies
     last_name: Beitler
     type: secondary
-    bio: "**Ruth Margolies Beitler**, PhD, is professor of comparative politics at the United States Military Academy at West Point. She is the director of the Conflict and Human Security Studies Program and author or coauthor of four books and numerous book chapters and journal articles."
+    bio: "**Ruth Margolies Beitler** is professor of comparative politics at the United States Military Academy at West Point. She is the director of the Conflict and Human Security Studies Program and author or coauthor of four books and numerous book chapters and journal articles."
   - first_name: Dexter W.
     last_name: Dugan
     type: secondary
