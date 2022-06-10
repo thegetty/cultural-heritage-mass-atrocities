@@ -147,7 +147,7 @@ Overall, the international system of protection of cultural property in time of 
 
 [^3]: The constitutive elements of the concept of “armed conflict,” which is technically not defined in treaty law, have essentially been defined by the jurisprudence of the ICTY in *Dusko Tadić*, case no. IT-94-1-T, Judgment, 7 May 1997. For an explanation of how this notion should be understood, see, among many other sources, the following opinion paper: International Committee of the Red Cross, “How Is the Term ‘Armed Conflict’ Defined in International Humanitarian Law?,” March 2008, https://www.icrc.org/en/doc/assets/files/other/opinion-paper-armed-conflict.pdf.
 
-[^4]: The Third Additional Protocol to the Geneva Conventions (8 December 2005) exclusively relates to the adoption and recognition of an additional distinctive emblem, the Red Crystal. It may be used for the same purposes and has the same legal status as the Red Cross and the Red Crescent emblems.
+[^4]: The Third Additional Protocol to the Geneva Conventions (8 December 2005) exclusively relates to the adoption and recognition of an additional distinctive emblem, the Red Crystal; it may be used for the same purposes and has the same legal status as the Red Cross and the Red Crescent emblems.
 
 [^5]: This is the case for many treaties and other legal instruments that regulate the use of weapons, that apply to naval warfare or to the regulation of the use of mercenaries, and, as explained in this chapter, for treaties related to the protection of cultural property in the event of armed conflict.
 

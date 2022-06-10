@@ -31,7 +31,7 @@ The Polish lawyer Raphael Lemkin later used the term “vandalism” to describe
 
 >Thus, the destruction of a work of art of any nation must be regarded as acts of vandalism directed against world culture. The author [of the crime] causes not only the immediate irrevocable losses of the destroyed work as property and as the culture of the collectivity directly concerned (whose unique genius contributed to the creation of this work); it is also all humanity which experiences a loss by this act of vandalism.[^5]
 
-Cultural genocide was included in the first draft of what became the 1948 Convention on the Prevention and Punishment of the Crime of Genocide. Its elements included systematic destruction of historical or religious monuments or their diversion to alien uses and destruction or dispersion of documents and objects of historical, artistic, or religious value, and of objects used in religious worship.[^6] Cultural genocide was ultimately omitted from the convention due to the objections of former colonial powers and settler states, which were concerned that the granting of cultural rights would undermine their sovereignty.[^7]
+Cultural genocide was included in the first draft of what became the 1948 Convention on the Prevention and Punishment of the Crime of Genocide. Its elements included systematic destruction of historical or religious monuments or their diversion to alien uses and destruction or dispersion of documents and objects of historical, artistic, or religious value, and of objects used in religious worship.[^6] Cultural genocide was ultimately omitted from the convention due to the objections of settler states, which were concerned that the granting of cultural rights would undermine their sovereignty.[^7]
 
 Nonetheless, the concept has seen a resurgence, particularly where cultural sites are targeted because of their identification with a religious or ethnic minority group. For example, the International Criminal Tribunal for the former Yugoslavia (ICTY) used the intentional targeting of mosques and other structures devoted to religious uses as a basis for establishing the genocidal intent of the Bosnian Serb leadership against the Bosnian Muslim population during the Balkan civil war of the 1990s.[^8] In 2016, former US secretary of state John Kerry linked commission of genocide by ISIS with its destruction of religious sites of minority religious and ethnic groups, including Christians, Yezidis, and Shiite Muslims in northern Iraq and Syria, and its attempt “to erase thousands of years of cultural heritage by destroying churches, monasteries and ancient monuments.”[^9]
 
@@ -203,7 +203,7 @@ As Fatou Bensouda, the ICC chief prosecutor at the time, stated in the *Al Mahdi
 
 [^40]: Dörmann and Serralvo, “Common Article 1 to the Geneva Conventions,” 721.
 
-[^41]: Different motivations have been attributed to ISIS for the destruction of cultural heritage. See Cristopher W. Jones, “Understanding ISIS’s Destruction of Antiquities as a Rejection of Nationalism,” *Journal of Eastern Mediterranean Archaeology and Heritage Studies* 6 (2018): 31; Shaw, “In Situ: The Contraindications of World Heritage,” 339; and Miroslav Melcak and Ondrej Beránek, “ISIS’s Destruction of Mosul’s Historical Monuments: Between Media Spectacle and Religious Doctrine,” *International Journal Islamic Architecture* 6, no. 2 (2017): 389.
+[^41]: Different motivations have been attributed to ISIS for the destruction of cultural heritage. See Cristopher W. Jones, “Understanding ISIS’s Destruction of Antiquities as a Rejection of Nationalism,” *Journal of Eastern Mediterranean Archaeology and Heritage Studies* 6 (2018): 31; Shaw, “In Situ: The Contraindications of World Heritage,” 339; and Miroslav Melcak and Ondrej Beránek, “ISIS’s Destruction of Mosul’s Historical Monuments: Between Media Spectacle and Religious Doctrine,” *International Journal of Islamic Architecture* 6, no. 2 (2017): 389.
 
 [^42]: Mahnad, “Protecting Cultural Property in Syria,” 1048.
 
@@ -235,7 +235,7 @@ As Fatou Bensouda, the ICC chief prosecutor at the time, stated in the *Al Mahdi
 
 [^56]: Caroline Ehlert, *Prosecuting the Destruction of Cultural Property in International Criminal Law* (Leiden, the Netherlands: Brill Nijhoff, 2013), 180–85, 200; and Jirí Toman, *Cultural Property in War: Improvement in Protection* (Paris: UNESCO, 2009), 795.
 
-[^57]: ICC, *Prosecutor v. Ahmad Al Faqi Al Mahdi*, Judgment and Sentence, doc. no. ICC-01/12-01/15-171, 27 September 2016; and ICC, *Prosecutor v. Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud*, case no. ICC-01/12-01/18.
+[^57]: ICC, *Prosecutor v. Ahmad Al Faqi Al Mahdi*, Judgment and Sentence, doc. no. ICC-01/12-01/15-171, 27 September 2016; and ICC, *Prosecutor v. Al Hassan Ag Abdoul Aziz Ag Mohamed Ag Mahmoud*, case no. ICC-01/12-01/18.
 
 [^58]: See ICC, *Prosecutor v. Bosco Ntaganda*, Judgment, case no. ICC-01/04-02/06, 8 July 2019, paras. 1145–68. The defendant was acquitted on this charge because the destruction was not part of an attack carried out during the “actual conduct of hostilities” (para. 1142), a required element of the crime under the Rome Statute. His conviction was confirmed on appeal on 30 March 2021.
 
