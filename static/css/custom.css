@@ -454,6 +454,10 @@
     font-weight: 600;
     text-align: left;
   }
+  #contents .quire-contents-list .page-item a .quire-contributor {
+    font-weight: 400;
+  }
+
   #contents .quire-contents-list .section-item .page-item a {
     font-weight: 400;
     margin-right: -.25rem;
