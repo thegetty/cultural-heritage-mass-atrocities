@@ -5,7 +5,7 @@ label: "1"
 weight: 12
 type: essay
 pdf_page: 27
-copyright: "© 2018 Kwame Anthony Appiah"
+copyright: "Reproduced from *The Lies That Bind: Rethinking Identity* by Kwame Anthony Appiah. Copyright © 2018 by Kwame Anthony Appiah. Used by permission of Liveright Publishing Company and Profile Books Ltd."
 contributor:
   - first_name: Kwame Anthony
     last_name: Appiah
