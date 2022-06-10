@@ -490,6 +490,9 @@
     font-style: normal;
     margin-right: calc((13% + .5rem) * -1);
   }
+  .quire-contents-list .section-item > a::after {
+    content: none;
+  }
   #abbreviations .quire-page__content table {
     margin-left: .75in;
     width: calc(100% - .75in);
