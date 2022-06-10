@@ -18,7 +18,7 @@ The free online edition of this open-access publication is available at [getty.e
 
 The text of this work, unless otherwise indicated, is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
-"Who Are We? Identity and Cultural Heritage" is reproduced from *The Lies That Bind: Rethinking Identity* by Kwame Anthony Appiah. Copyright © 2008 by Kwame Anthony Appiah. Used by permission of Liveright Publishing Company.
+"Who Are We? Identity and Cultural Heritage" is reproduced from *The Lies That Bind: Rethinking Identity* by Kwame Anthony Appiah. Copyright © 2018 by Kwame Anthony Appiah. Used by permission of Liveright Publishing Corporation and Profile Books Ltd.
 
 First edition, 2022<br />
 [github.com/thegetty/cultural-heritage-mass-atrocities/](https://ggithub.com/thegetty/cultural-heritage-mass-atrocities/)
@@ -35,6 +35,7 @@ Erin Cecele Dunigan and Dina Murokh, *Assistant Digital Editors*<br />
 Victoria Gallina, *Production*<br />
 Jeffrey Cohen, *Cover Designer*<br />
 Nancy Rivera, *Image and Rights Acquisition*<br />
+Eriksen Translations, *Translation Services*<br />
 
 Getty Publications gratefully acknowledges Morgan Conger, senior project manager in the Office of the President and CEO, J. Paul Getty Trust, for her work on this publication.
 

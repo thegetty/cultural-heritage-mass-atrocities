@@ -232,7 +232,7 @@ figure_list:
     alt: ""
     label: "Figure 13.2"
     caption: "Inside the Maktabat al-Awqāf, ca. 2020"
-    credit: "Image: Sabine Schmidtke"
+    credit: ""
 
   - id: "fig-13-3a-schmidtke"
     src: "figures/fig-13-3a-schmidtke.jpg"
@@ -352,7 +352,7 @@ figure_list:
     src: "figures/fig-15-1-montejo.jpg"
     alt: ""
     label: "Figure 15.1"
-    caption: "Polychrome Maya Vase sold at Christie’s, Live Auction 17456, Lot 129, closed 8 April 2019, https://www.christies.com/en/lot/lot-6196575."
+    caption: "Polychrome Maya vase sold at Christie’s, Live Auction 17456, Lot 129, closed 8 April 2019, https://www.christies.com/en/lot/lot-6196575."
     credit: "Image: Private Collection Photo © Christie's Images / Bridgeman Images"
 
   - id: "fig-27-1-hassner"

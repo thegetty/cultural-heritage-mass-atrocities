@@ -102,7 +102,7 @@ After the occupation of Timbuktu, it was possible to demonstrate that cultural h
 </div>
 <div class="backmatter">
 
-## Selected Readings
+## Suggested Readings
 
 {{< q-readings range="essay" >}}
 

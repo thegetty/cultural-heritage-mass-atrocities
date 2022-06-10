@@ -154,7 +154,7 @@ The truth, unfortunately, is often more complex. In Sri Lanka and Afghanistan, e
 
 [^7]: Fernando, “Heritage & Nationalism.”
 
-[^8]: The essay was written prior to the Taliban's return to power in 2021. Needless to say, the reinstallation of the Taliban does not augur well for the future of Afghanistan's Buddhist material heritage or for the cultural and human rights of its minorities, including the Shia Hazaras who are the focus of this section of the essay.
+[^8]: This essay was written prior to the Taliban's return to power in 2021. Needless to say, the reinstallation of the Taliban does not augur well for the future of Afghanistan's Buddhist material heritage or for the cultural and human rights of its minorities, including the Shia Hazaras who are the focus of this section of the essay.
 
 [^9]: Quoted in Finbarr Barry Flood, “Between Cult and Culture: Bamiyan, Islamic Iconoclasm, and the Museum,” *Art Bulletin* 84, no. 4 (2002): 655.
 
@@ -174,7 +174,7 @@ The truth, unfortunately, is often more complex. In Sri Lanka and Afghanistan, e
 
 [^17]: International Charter for the Conservation and Restoration of Monuments and Sites (The Venice Charter 1964), Art. 9.
 
-[^18]: Buddhistdoor, “The Case for Rebuilding the Bamiyan Buddhas to Their Original Glory,” 27 January 2017, https://www.buddhistdoor.net/features/buddhistdoor-view-the-case-for-restoring-the-bamiyan-buddhas-to-their-original-glory.
+[^18]: Quoted in Frédéric Bobin, “Disputes Damage Hopes of Rebuilding Afghanistan's Bamiyan Buddhas,” *Guardian*, 10 January 2015, https://www.theguardian.com/world/2015/jan/10/rebuild-bamiyan-buddhas-taliban-afghanistan.
 
 [^19]: Quoted in Rod Nordland, “Countries Divided on Future of Ancient Buddhas,” *New York Times*, 22 March 2014, https://www.nytimes.com/2014/03/23/world/asia/countries-divided-on-future-of-ancient-buddhas.html.
 

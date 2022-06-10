@@ -210,7 +210,7 @@ The challenge for the independent but connected trajectories is that privileging
 
 [^45]: ICC, *Prosecutor v. Al Mahdi*.
 
-[^46]: BBC, “The Day I Blew Up the Bamiyan Buddhas,” 16 March 2016, https://www.bbc.com/news/av/magazine-35673213/the-day-i-blew-up-the-bamiyan-buddhas.
+[^46]: BBC, “The Day I Blew Up the Bamiyan Buddhas,” 16 March 2016.
 
 [^47]: Michael D. Danti et al., *ASOR Cultural Heritage Initiatives:* *Planning for Safeguarding Heritage Sites in Syria and Iraq—Weekly Report 87–88, March 30–April 12, 2016)*, 2.
 

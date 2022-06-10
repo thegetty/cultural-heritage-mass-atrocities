@@ -289,7 +289,7 @@ The author wishes to express her gratitude to Jessica Nagamichi for her research
 
 [^58]: ICOMOS, International Charter for the Conservation and Restoration of Monuments and Sites (The Venice Charter 1964), adopted 1965, https://www.icomos.org/charters/venice_e.pdf.
 
-[^59]: UNESCO, “Intergovernmental Committee for the Protection of the World Cultural and Natural Heritage, Operational Guidelines for the Implementation of the World Heritage Convention,” doc. no. WHC.21/01, 31 July 2021, para. 86. See also the so-called Nara Document on Authenticity of 1994, which is annexed to the operational guidelines.
+[^59]: UNESCO (Intergovernmental Committee for the Protection of the World Cultural and Natural Heritage), "Operational Guidelines for the Implementation of the World Heritage Convention,” doc. no. WHC.21/01, 31 July 2021, para. 86. See also the so-called Nara Document on Authenticity of 1994, which is annexed to the operational guidelines.
 
 [^60]: Birgitta Ringbeck, *Management Plans for World Heritage Sites: A Practical Guide* (Bonn: German Commission for UNESCO, 2008), 17–18.
 
@@ -307,7 +307,7 @@ The author wishes to express her gratitude to Jessica Nagamichi for her research
 
 [^67]: Cameron, “Reconstruction: Changing Attitudes,” 58.
 
-[^68]: UNESCO, “Director-General Praises the People of Timbuktu for the Reconstruction of the City’s Mausoleums,” 19 July 2015, [http://whc.unesco.org/en/news/1324](http://whc.unesco.org/en/news/1324).
+[^68]: UNESCO, “Director-General Praises the People of Timbuktu for the Reconstruction of the City’s Mausoleums,” 19 July 2015, [https://whc.unesco.org/en/news/1324](https://whc.unesco.org/en/news/1324).
 
 [^69]: Cameron, “Reconstruction: Changing Attitudes,” 59.
 
@@ -315,7 +315,7 @@ The author wishes to express her gratitude to Jessica Nagamichi for her research
 
 [^71]: Thomas G. Weiss, “Military Perspectives and Costs: War, Occupation, and Intervention,” in *Cultural Heritage under Siege*, ed. Cuno and Weiss, 33.
 
-[^72]: European External Action Service (EEAS), Concept on Cultural Heritage in Conflict and Crises. A Component for Peace and Security in European Union's External Action, doc. no. 9962/21, 18 June 2021.
+[^72]: European External Action Service (EEAS), "Concept on Cultural Heritage in Conflict and Crises. A Component for Peace and Security in European Union's External Action," doc. no. 9962/21, 18 June 2021.
 
 [^73]: Irina Bokova, Global Governance for the 21st Century: The UNESCO Angle, doc. no. ERI.2011/WS/4, 11 April 2011, 13.
 

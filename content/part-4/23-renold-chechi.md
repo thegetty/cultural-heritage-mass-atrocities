@@ -197,7 +197,7 @@ The importance of promoting and developing human rights education is underlined 
 
 [^39]: Human Rights Committee, “General Comment No. 23,” paras. 3.2, 7.
 
-[^40]: Ana Filipa Vrdoljak, “Human Rights and Cultural Heritage in International Law”, in *International Law for Common Goods*, ed. Federico Lenzerini and Ana Filipa Vrdoljak (Oxford: Hart Publishing, 2014), 158.
+[^40]: Ana Filipa Vrdoljak, “Human Rights and Cultural Heritage in International Law,” in *International Law for Common Goods*, ed. Federico Lenzerini and Ana Filipa Vrdoljak (Oxford: Hart Publishing, 2014), 158.
 
 [^41]: Francioni, “Public and Private in the International Protection,” 722.
 
@@ -211,7 +211,7 @@ The importance of promoting and developing human rights education is underlined 
 
 [^46]: UNESCO, *Operational Guidelines for the Implementation of the Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property (UNESCO, Paris, 1970)* (Paris: UNESCO, May 2015).
 
-[^47]: Ana Filipa Vrdoljak, “Human Rights and Illicit Trade in Cultural Objects”, in *Cultural Heritage, Cultural Rights, Cultural Diversity. New Developments in International Law*, ed. Silvia Borelli and Federico Lenzerini (Leiden, the Netherlands: Martinus Nijhoff, 2012), 124.
+[^47]: Ana Filipa Vrdoljak, “Human Rights and Illicit Trade in Cultural Objects,” in *Cultural Heritage, Cultural Rights, Cultural Diversity. New Developments in International Law*, ed. Silvia Borelli and Federico Lenzerini (Leiden, the Netherlands: Martinus Nijhoff, 2012), 124.
 
 [^48]: Vrdoljak, “Human Rights and Cultural Heritage,” 140.
 
@@ -241,4 +241,4 @@ The importance of promoting and developing human rights education is underlined 
 
 [^61]: See the 1989 Convention on the Rights of the Child, Art. 28–29; the 1981 CEDAW, Art. 10; the 1998 Declaration on the Right and Responsibility of Individuals, Groups and Organs of Society to Promote and Protect Universally Recognized Human Rights and Fundamental Freedoms, Art. 15–16; and the 2011 UN Declaration on Human Rights Education and Training.
 
-[^62]: Ana Filipa Vrdoljak, “Cultural Heritage, Transitional Justice, and Rule of Law”, in *Oxford Handbook on International Cultural Heritage Law*, ed. Francesco Francioni and Ana Filipa Vrdoljak (Oxford: Oxford University Press, 2020), 173.
+[^62]: Ana Filipa Vrdoljak, “Cultural Heritage, Transitional Justice, and Rule of Law,” in *The Oxford Handbook of International Cultural Heritage Law*, ed. Francesco Francioni and Ana Filipa Vrdoljak (Oxford: Oxford University Press, 2020), 173.

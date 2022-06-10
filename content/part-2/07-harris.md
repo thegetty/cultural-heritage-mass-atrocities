@@ -10,7 +10,7 @@ contributor:
   - first_name: Rachel
     last_name: Harris
     type: secondary
-    bio: "**Rachel Harris** is professor of Ethnomusicology at SOAS, University of London. Her research focuses on expressive culture, religion, and the politics of heritage in China’s Muslim borderlands, and she has conducted long-term fieldwork with Uyghur communities in the Xinjiang Uyghur Autonomous Region, Kazakhstan, and Kyrgyzstan. She led the Leverhulme Research Project “Sounding Islam in China” (2014–17) and a British Academy Sustainable Development Project to revitalize Uyghur cultural heritage in the diaspora (2018–21). Her latest books are *Soundscapes of Uyghur Islam* (2020) and, coedited with Guangtian Ha and Maria Jaschok, *Ethnographies of Islam in China* (2021)."
+    bio: "**Rachel Harris** is professor of ethnomusicology at SOAS, University of London. Her research focuses on expressive culture, religion, and the politics of heritage in China’s Muslim borderlands, and she has conducted long-term fieldwork with Uyghur communities in the Xinjiang Uyghur Autonomous Region, Kazakhstan, and Kyrgyzstan. She led the Leverhulme Research Project “Sounding Islam in China” (2014–17) and a British Academy Sustainable Development Project to revitalize Uyghur cultural heritage in the diaspora (2018–21). Her latest books are *Soundscapes of Uyghur Islam* (2020) and, coedited with Guangtian Ha and Maria Jaschok, *Ethnographies of Islam in China* (2021)."
 ---
 
 {{< q-translations >}}
