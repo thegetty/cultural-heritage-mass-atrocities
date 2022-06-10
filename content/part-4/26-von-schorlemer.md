@@ -169,9 +169,9 @@ Still, although gains in global cultural heritage governance are neither to be a
 
 ## Notes
 
-</div>
-
 The author wishes to express her gratitude to Jessica Nagamichi for her research and valuable support in working on the manuscript.
+
+</div>
 
 [^1]: Kristin Hausler, “Culture under Attack: The Destruction of Cultural Heritage by Non-State Armed Groups,” *Santander Art and Culture Law Review* 2, no. 1 (2015): 117–46; and Andrew Clapham, “Focusing on Armed Non-State Actors,” in *The Oxford Handbook of International Law in Armed Conflict*, ed. Andrew Clapham and Paola Gaeta (Oxford: Oxford University Press, 2014), 766–810.
 

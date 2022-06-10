@@ -811,6 +811,11 @@ strong {
   display: none;
 }
 
+/* ADD SPACE FOR EPIGRAPH & ACKNOWLEDGEMENTS AT TOP OF NOTES SECTION */
+.quire-page__content .content .backmatter #notes + p {
+  margin-top: 1em;
+}
+
 /* ENSURE IMAGES ARE SEEN IN FULL WITHIN USER'S WINDOW WITHOUT SCROLLING */
 @media screen {
   .content figure .quire-figure__image {
