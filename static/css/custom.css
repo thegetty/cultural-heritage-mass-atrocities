@@ -423,13 +423,12 @@
   }
   #copyright .quire-page__content {
     text-align: left;
-    /* margin-left: .75in; */
     column-count: 2;
     column-gap: .1875in;
-    font-size: .625rem;
+    /* column-fill: auto; */
   }
   #copyright .quire-page__content .container .content .backmatter {
-    /* padding-top: 2.125in; */
+    font-size: .75rem;
   }
   #copyright .quire-page__header.hero {
     display: none;
@@ -445,6 +444,10 @@
     background-color: #000;
     width: 3in;
     height: .5pt;
+  }
+  #copyright .quire-page__content .container .content .book-team {
+    break-after: always;
+    break-inside: avoid;
   }
   #contents .quire-contents-list {
     margin-left: .75in;

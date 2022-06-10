@@ -28,6 +28,8 @@ First edition, 2022<br />
 Los Angeles, California 90049-1682<br />
 [getty.edu/publications](http://www.getty.edu/publications/)<br />
 
+<div class="book-team">
+
 Laura diZerega, *Project Editor*<br />
 Greg Albers, *Digital Manager*<br />
 Martin J. Burke, *Manuscript Editor*<br />
@@ -38,6 +40,8 @@ Nancy Rivera, *Image and Rights Acquisition*<br />
 Eriksen Translations, *Translation Services*<br />
 
 Getty Publications gratefully acknowledges Morgan Conger, senior project manager in the Office of the President and CEO, J. Paul Getty Trust, for her work on this publication.
+
+</div>
 
 Distributed in the United States and Canada by the University of Chicago Press
 
