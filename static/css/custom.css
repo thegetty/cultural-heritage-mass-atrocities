@@ -1454,3 +1454,9 @@ table#table-9-2 tr td:first-child {
 .quire-page--book-index .quire-page__content .container .content hr {
   display: none;
 }
+
+/* FIX DISPLAY OF ESSAY LINKS UNDER CONTIRBUTOR BIOS */
+.quire-page__content .content .quire-contributor__details .quire-contributor__page-link {
+  text-indent: 0;
+  margin-bottom: 0 !important;
+}
