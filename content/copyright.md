@@ -16,7 +16,7 @@ The free online edition of this open-access publication is available at [getty.e
 
 ![cc-by-nc](/img/cc-by-nc--black.png)
 
-The text of this work, unless otherwise indicated, is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit creativecommons.org/licenses/by-nc/4.0/. All images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+The text of this work, unless otherwise indicated, is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses&#8203;/&#65279;by-nc/4.0/](https://www.creativecommons.org/licenses/by-nc/4.0/). All images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 "Who Are We? Identity and Cultural Heritage" is reproduced from *The Lies That Bind: Rethinking Identity* by Kwame Anthony Appiah. Copyright © 2018 by Kwame Anthony Appiah. Used by permission of Liveright Publishing Corporation and Profile Books Ltd.
 
@@ -57,8 +57,8 @@ Library of Congress Cataloging-in-Publication Data
 - Identifiers: LCCN 2022013796 (print) | LCCN 2022013797 (ebook) | ISBN 9781606068076 (paperback) | ISBN 9781606068106 | ISBN 9781606068090 (mobi) | ISBN 9781606068083 (epub)
 - Subjects: LCSH: Cultural property—Protection. | Cultural property—Protection—International cooperation. | Cultural property—Destruction and pillage. | Historic preservation—International cooperation. | War and civilization.
 - Classification: LCC CC135 .C823 2022  (print) | LCC CC135  (ebook) | DDC 363.6/9--dc23/eng/20220528
-- LC record available at https://lccn.loc.gov/2022013796
-- LC ebook record available at https://lccn.loc.gov/2022013797
+- LC record available at [https://lccn.loc.gov/2022013796](https://lccn.loc.gov/2022013796)
+- LC ebook record available at [https://lccn.loc.gov&#8203;/&#65279;2022013797](https://lccn.loc.gov/2022013797)
 
 {{< /q-class >}}
 
