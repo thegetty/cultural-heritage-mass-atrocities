@@ -48,6 +48,7 @@ contributor_as_it_appears: Edited by James Cuno and Thomas&nbsp;G.&nbsp;Weiss
 contributor:
   - id: jcuno
     type: primary
+    role: editor
     first_name: James
     last_name: Cuno
     title: President and CEO
@@ -56,6 +57,7 @@ contributor:
     pic:
   - id: tweiss
     type: primary
+    role: editor
     first_name: Thomas G.
     last_name: Weiss
     title: Presidential Professor of Political Science
