@@ -423,13 +423,12 @@
   }
   #copyright .quire-page__content {
     text-align: left;
-    /* margin-left: .75in; */
     column-count: 2;
     column-gap: .1875in;
-    font-size: .625rem;
+    /* column-fill: auto; */
   }
   #copyright .quire-page__content .container .content .backmatter {
-    /* padding-top: 2.125in; */
+    font-size: .75rem;
   }
   #copyright .quire-page__header.hero {
     display: none;
@@ -446,6 +445,10 @@
     width: 3in;
     height: .5pt;
   }
+  #copyright .quire-page__content .container .content .book-team {
+    break-after: always;
+    break-inside: avoid;
+  }
   #contents .quire-contents-list {
     margin-left: .75in;
   }
@@ -454,6 +457,10 @@
     font-weight: 600;
     text-align: left;
   }
+  #contents .quire-contents-list .page-item a .quire-contributor {
+    font-weight: 400;
+  }
+
   #contents .quire-contents-list .section-item .page-item a {
     font-weight: 400;
     margin-right: -.25rem;
@@ -485,6 +492,9 @@
     content: leader(' ') ' ' target-counter(attr(href, url), page, lower-roman);
     font-style: normal;
     margin-right: calc((13% + .5rem) * -1);
+  }
+  .quire-contents-list .section-item > a::after {
+    content: none;
   }
   #abbreviations .quire-page__content table {
     margin-left: .75in;
@@ -802,6 +812,11 @@ strong {
 /* HIDE AUTHOR NAMES ABOVE BIOS ON ESSAY PAGES */
 .quire-page__content .content .backmatter .quire-contributors-list.bio .title {
   display: none;
+}
+
+/* ADD SPACE FOR EPIGRAPH & ACKNOWLEDGEMENTS AT TOP OF NOTES SECTION */
+.quire-page__content .content .backmatter #notes + p {
+  margin-top: 1em;
 }
 
 /* ENSURE IMAGES ARE SEEN IN FULL WITHIN USER'S WINDOW WITHOUT SCROLLING */

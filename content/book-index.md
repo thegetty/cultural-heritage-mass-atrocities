@@ -10,8 +10,8 @@ pdf_download: false
 Page numbers in *italics* indicate illustrations.
 
 - Abbas, Abide, 144
-- Abbasid Caliphate, 34, 36, 69, 92–93
-- abbreviations, xix, xxi–xxiv
+- Abbasid Caliphate, 34, 36, 69, 93
+- abbreviations, xx, xxv–xxviii
 - ‘Abd al-Haqq Ibn ‘Atiyya, Abu Muhammad, 97
 - ‘Abd al-Jabbar al-Hamadhani, 243
 - Abd al-Rahman III, 36
@@ -20,15 +20,15 @@ Page numbers in *italics* indicate illustrations.
 - Abu Tammam Habib b. Aws al-Ta‘i, 100
 - Accord on the Identity and Rights of Indigenous Peoples (AIDPI), 264, 270
 - Acerno, *479*
-- acronyms, xix, xxi–xxiv
-- action agendas, future, 577–81
+- acronyms, xx, xxv–xxviii
+- action agendas, future, xxiii–xxiv, 577–81
 - Adams, Simon, 274, 279–80, 284–95
 - adaptive techniques, 120–21
 - advisory bodies, in international humanitarian law, 387–88, 390–91
 - aesthetic value of heritage, 118, 121, 396
 - Afandi al-Isfahani, ‘Abd Allah al-, 95
 - Afghanistan: Buddhism in, 157–60, 163; cultural cleansing in, 286–88; destruction of pre-Islamic heritage in, 158, 171; Hazaras in, 151, 160–64, 287–88, 569; Islam in, rise of, 158; local community in heritage protection in, 556; post-conflict reconstruction in, 127–28, 162–64, 350–51. *See also* Bamiyan Buddhas
-- Afghanistan, US occupation of: end of, 568–69; heritage protection by military in, 481, 505–9, 572–73; looting in, 518; social media in, 504
+- Afghanistan, US occupation of: end of, 568–69; heritage protection by military in, 481, 505–9, 573; looting in, 518; social media in, 504
 - Africa. *See* *specific countries*
 - African Court of Human and Peoples’ Rights, 406
 - African culture, 40–41
@@ -47,8 +47,8 @@ Page numbers in *italics* indicate illustrations.
 - Air Force, US, 476, 488
 - Āl al-Wazīr, 240
 - Albanians. *See* Yugoslav wars
-- Aleppo, Great Umayyad Mosque in: al-Wakfya Library in, 187; costs of loss of, 6; destruction of, 189–90, 194, *196*, 314; in List of World Heritage in Danger, ix; reconstruction of, 14, 220, 222, 224–25, *227*, 572; responsibility for damage to, 222, 314, 571
-- Aleppo, Syrian war in, 128–29, 186–98; actors involved in, 188; around citadel, *189*, 189–90, 192–94; international law in, 195–97; lessons learned from, 195–98; local community in heritage protection during, 556; al-Madina Souk in, ix, 189, 194; phases of, 188–91; physical destruction in, 192–95, *194*–*96*, 200n33; population impacts of, 189–92, 194, 199n18, 200n37; post-conflict reconstruction in, 220, 224–29, *227*, 231, 233, 572; siege in, 190–92, *191*
+- Aleppo, Great Umayyad Mosque in: al-Wakfya Library in, 187; costs of loss of, 6; destruction of, 189–90, 194, *196*, 314; in List of World Heritage in Danger, x; reconstruction of, 15, 220, 222, 224–25, *227*, 572; responsibility for damage to, 222, 314, 571
+- Aleppo, Syrian war in, 128–29, 186–98; actors involved in, 188; around citadel, *189*, 189–90, 192–94; international law in, 195–97; lessons learned from, 195–98; local community in heritage protection during, 556; al-Madina Souk in, x, 189, 194; phases of, 188–91; physical destruction in, 192–95, *194*–*96*, 200n33; population impacts of, 189–92, 194, 199n18, 200n37; post-conflict reconstruction in, 220, 224–29, *227*, 231, 233, 572; siege in, 190–92, *191*
 - Aleppo Military Council (AMC), 199n13
 - Alexander, Harold, 471, 473–74
 - Alexander the Great, 59
@@ -91,17 +91,16 @@ Page numbers in *italics* indicate illustrations.
 - armed conflict, law of. *See* international humanitarian law
 - Armed Conflict Location and Event Data Project (ACLED), 570
 - armed groups. *See* nonstate armed groups
-- Armenia, 528, 550–52, 562–64, 566n4
-- Army, US: Civil Affairs of, 505–9; heritage protection by, 505–9, 512; Map Service of, 476; Monuments Men of, 433, 476–80, 501, 505, 537; Signal Corps of, 478. *See also* *specific conflicts*
+- Armenia, 527–28, 550–52, 562–64, 566n4
+- Army, US: Civil Affairs of, 505–9; heritage protection by, 505–9, 512; Map Service of, 476; Monuments Men of, xxiii, 433, 476–80, 501, 505, 537; Signal Corps of, 478. *See also* *specific conflicts*
 - Army Air Forces, US, 476, 488
 - Arnold, Matthew, 32, 42–45, 46n5
 - Aron, Raymond, 39, 48n22
-- Asaad, Khaled al-, 1, 71
+- Asaad, Khaled al-, x–xi, 1, 71, 349, 556–57, 573
 - Ashraf, al-, 94
 - Asim, 139, 145, 292, 570
 - Asquith, Herbert, 431
 - Assad, Bashar al-: in destruction of Great Umayyad Mosque, 222; international calls for end of rule of, 226; on outcome of Syrian war, 226, 233; personal network of, 227, 231. *See also* Syria
-- Assad, Khaled al-, ix–x, 349, 556–57, 573
 - Assad, Zenobia al-, 349
 - assimilation: of Maya, 266–67, 275; of Uyghurs, 135
 - Association for the Protection of Latino Cultural Patrimony (APLCP), 271
@@ -118,7 +117,7 @@ Page numbers in *italics* indicate illustrations.
 - Avicenna, 242
 - Ayer, Edward, 266
 - Ayodhya, 314
-- Azerbaijan, 528, 550–52, 562–64, 566n4
+- Azerbaijan, 527–28, 550–52, 562–64, 566n4
 - Azm, Amr al-, 224, 233
 - Aztecs, 63, 73
 
@@ -142,7 +141,7 @@ Page numbers in *italics* indicate illustrations.
 - Bass, Gary, 7
 - Bassil, Krystel, 230–31
 - Baxter, Richard, 426n6
-- Bayazid II, 94
+- Bayazid II, 94–95
 - Beijing, 63, 64
 - Beirut, 229–31, *230*, 233–34, 556
 - Beitler, Ruth Margolies, 467–68, 500–513
@@ -152,8 +151,8 @@ Page numbers in *italics* indicate illustrations.
 - benefits transfer, 121–22
 - Benin, 23, 64–65
 - Bennouna, Mohamed, 415, 426n16
-- Bennoune, Karima, x–xi, 366, 448
-- Bensouda, Fatou, xiii, 375, 430, 440–41, 443
+- Bennoune, Karima, xi–xii, 366, 448
+- Bensouda, Fatou, xiv, 375, 430, 440–41, 443
 - Berlin, 56–57, 66
 - Bibliotheca Arabica, 91
 - Biden, Joseph R., 55, 559, 581
@@ -162,10 +161,10 @@ Page numbers in *italics* indicate illustrations.
 - biology, humanity as, 301–3
 - Bioly, Tom, 177
 - Black Lives Matter, 52
-- Blue Shield, 532–34; areas of activity, 532–33, 539, 545–46; emblem of, 330, 384, 385; on key threats to cultural property, 542–45; lists of cultural property by, 544–45; structure of work of, *533*, 533–34; training by, x, 371
+- Blue Shield, 532–34; areas of activity, 532–33, 539, 545–46; emblem of, xxiii, 330, 384, 385; on key threats to cultural property, 542–45; lists of cultural property by, 544–45; structure of work of, *533*, 533–34; training by, xi, 371
 - Blue Shield International (BSI), 532
 - Boko Haram, 337
-- Bokova, Irina: on cultural cleansing, viii, 9, 279, 289, 295, 329, 449, 573; foreward by, viii–xvi; on global governance, 459–60; on link between heritage and human lives, ix, 294; on Syrian war, 199n14, 571, 573; on Timbuktu reconstruction, 259, 459
+- Bokova, Irina: on cultural cleansing, ix, xxii, 9, 279, 289, 295, 329, 449, 573; foreword by, ix–xvii; on global governance, 459–60; on link between heritage and human lives, x, 294; on Syrian war, 199n14, 572, 573; on Timbuktu reconstruction, 259, 459
 - Bolshevism, 66
 - Bolsonaro, Jair, 10
 - books: Islamic, 86, *87*; Jewish, 556; Maya hieroglyphic, 265–66; Nazi burning of, 66. *See also* Islamic manuscripts
@@ -176,12 +175,13 @@ Page numbers in *italics* indicate illustrations.
 - Brasseur de Bourbourg, Charles-Étienne, 266
 - Brazil, 10
 - Bristol, 51–53
-- Britain: colonial-era destruction by, 63–65; cultural renewal in, 307; Durham Ordinances in, 535; English identity in, 27–28, 37–38, 42, 48n26; Hague Convention ratified by, xii, 538; laws protecting cultural heritage in, 53; removal of slave trader’s statue in, 51–53; safe havens for heritage in, 373; on Uyghurs, 293, 294; in World War I, 536, *536,* 537; in World War II, 474–75, 478, 480, 483n10, 483n24. *See also* *specific locations*
+- Britain: colonial-era destruction by, 63–65; cultural renewal in, 307; Durham Ordinances in, 535; English identity in, 27–28, 37–38, 42, 48n26; Hague Convention ratified by, xiii, 538; laws protecting cultural heritage in, 53; removal of slave trader’s statue in, 51–53; safe havens for heritage in, 373; on Uyghurs, 293, 294; in World War I, 536, *536*, 537; in World War II, 474–75, 478, 480, 483n10, 483n24. *See also* *specific locations*
 - Brockelmann, Carl, 89–91, *91*
 - Brookes, Rudesind, 474
 - Brown, Gareth, 222
 - Brussels Declaration (1874), 431
 - bubonic plague, 82
+- Bucha, xxii
 - Buddhism: in Afghanistan, 157–60, 163; in Myanmar, 285; in Sri Lanka, 127, 152–57; in Tibet, 68; Uyghurs and, 137, 139
 - Burkina Faso, 414–15
 - Burns, Robert, 41
@@ -196,8 +196,8 @@ Page numbers in *italics* indicate illustrations.
 - *Cambodia v. Thailand*, 349, 367, 413
 - Cambridge University, 307
 - Cameron, Christina, 459
-- camps: detention, Uyghurs in, 133–34, 144–45, 292, 569–70; refugee, heritage sites as, 5–6
-- Canada, 294, 521
+- camps: detention, Uyghurs in, 133–34, 144–45, 292, 570; refugee, heritage sites as, 5–6
+- Canada, 16–17, 294, 521
 - Cançado Trindade, Antônio Augusto, 349–50, 415, 426n16
 - Caprotti collections, 250
 - Caravaggio, 420
@@ -215,6 +215,7 @@ Page numbers in *italics* indicate illustrations.
 - Chechi, Alessandro, 359–60, 373, 396–407
 - Chechnya, 222, 224
 - Chehab, Maurice, 556
+- Chernikhiv, xxii
 - Chiarelli, Peter, 511
 - chicken tikka masala, 42, 48n26
 - China: Belt and Road Initiative of, 134, 136; colonial, 63–65; communist, 68, 134–36; cultural cleansing in, 134, 291–94; cultural heritage policy in, 134–36; Cultural Revolution in, 68, 138, 141; Islam in, 137, 146, 291, 293; motivations for destruction in, 63–65, 68; physical genocide in, 294; political use of heritage in, 134–36; resistance to multilateralism in, 10; safe havens for heritage in, 373; Silk Road of, 136; staging of heritage in, 140–41. *See also* Uyghurs
@@ -229,7 +230,7 @@ Page numbers in *italics* indicate illustrations.
 - Churchill, Winston, 478
 - cities. *See* economic value of heritage in historic cities; *specific cities*
 - citizenship, 27–28, 285
-- civilians: choosing between heritage and, in war, 299–308; in definition of terrorism, 449; in peacekeeping missions, 520–21
+- civilians: choosing between heritage and, in war, 299–308; in definition of terrorism, 449; in peacekeeping missions, 520–21; in Russian invasion of Ukraine, xxii
 - civilization: vs. culture, 46n5; Western, 32, 35–36, 38, 41, 45
 - Clark, Mark, 473–74, 478
 - Clausewitz, Carl von, 535
@@ -258,13 +259,14 @@ Page numbers in *italics* indicate illustrations.
 - Confederate statues, 52
 - Congo, Democratic Republic of the, 372
 - Connelly, Nina, 373, 554
+- consortium, international, need for, xxiii–xxiv, 581
 - Constantine VII, 36–37
 - contingent valuation, 121
 - convention(s). *See* international law; *specific conventions*
 - Convention Concerning the Protection of the World Cultural and Natural Heritage (1972). *See* World Heritage Convention
 - Convention for the Safeguarding of the Intangible Cultural Heritage (2003), 398–99, 425n5
 - Convention on Stolen or Illegally Exported Cultural Objects (1995), 404, 426n5
-- Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property (1970): compared to other conventions, 7–8; definition of cultural property in, 7, 269; evidence of customary cultural heritage law in, 418; fiftieth anniversary of, 573–74; Guatemala under, 269; human rights approach in, 404; limitations of, xii, 8, 196; role in heritage protection, xi–xii, 7–8; states outside regime of, xi; states party to, 425n5; in Syrian war, 195–96
+- Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property (1970): compared to other conventions, 7–8; definition of cultural property in, 7, 269; evidence of customary cultural heritage law in, 418; fiftieth anniversary of, 574; Guatemala under, 269; human rights approach in, 404; limitations of, xiii, 8, 196; role in heritage protection, xii–xiii, 7–8; states outside regime of, xii; states party to, 425n5; in Syrian war, 195–96
 - Convention on the Prevention and Punishment of the Crime of Genocide (1948). *See* Genocide Convention
 - Convention on the Protection and Promotion of the Diversity of Cultural Expressions (2005), 398–99
 - Convention on the Protection of the Underwater Cultural Heritage (2001), 397, 425n5
@@ -281,8 +283,9 @@ Page numbers in *italics* indicate illustrations.
 - Council of the European Union, 453
 - counterinsurgency strategy, heritage protection as, 313, 572–73
 - counterterrorism, 361–62, 448–60; in China, 291–93; global governance in, 451–59; heritage protection as, 315; implementation gap in, 451; people-centered approach to, 456–57; state-centered approaches to, 450–51; UNESCO in, 448–50, 453–59. *See also* terrorism
-- COVID-19 pandemic, 9, 506
+- COVID-19 pandemic, 9–10, 506
 - creative destruction, 24, 53
+- Crimea, xxii
 - crimes against humanity. *See* humanity, crimes against
 - criminal law. *See* international criminal law; prosecution
 - criminal tribunals, 344
@@ -293,15 +296,16 @@ Page numbers in *italics* indicate illustrations.
 - Crusades, 35
 - cultural appropriation, 43–44
 - cultural awareness and heritage training, 501, 507–12
-- cultural cleansing, 279–80, 284–95; Bokova on, viii, 9, 279, 289, 295, 329, 449, 573; forms of, 294–95; international responses to, 285–95; meaning and use of term, viii, 9, 279, 289, 295, 311, 449; by rogue states, 286, 288, 295; strategic, 2, 134. *See also* *specific groups and locations*
+- cultural cleansing, 279–80, 284–95; Bokova on, ix, xxii, 9, 279, 289, 295, 329, 449, 573; forms of, 294–95; international responses to, 285–95; meaning and use of term, ix, 9, 279, 289, 295, 311, 449; by rogue states, 286, 288, 295; strategic, 2, 134. *See also* *specific groups and locations*
 - cultural diversity, international law on, 398–99
 - cultural exploitation, 44
 - cultural genocide: in colonial era, 63, 73; in draft Genocide Convention, 3, 284, 311, 364–65; international criminal law on, 438–39; link between physical genocide and, 73–74, 179–80, 312, 434; as vandalism, 364, 438, 538; in World War II, 67–68, 73. *See also* *specific groups and locations*
-- cultural heritage: in Arabic language, 218; vs. cultural property, 4–5, 347, 381–82, 397–98; definitions and use of term, 4–5, 202, 397–98, 501; future policy and action agendas for, 577–81; future research agenda for, 574–77; vs. historical present, 203; as human right, 365–67; as metaphor, 49; as objects, 365; ownership of, 49, 50, 343–44, 347, 575–76; rejection of concept of, viii
+- cultural heritage: in Arabic language, 218; vs. cultural property, 4–5, 347, 381–82, 397–98; definitions and use of term, 4–5, 202, 397–98, 501; future policy and action agendas for, xxiii–xxiv, 577–81; future research agenda for, 574–77; vs. historical present, 203; as human right, 365–67; as metaphor, 49; as objects, 365; ownership of, 49, 50, 343–44, 347, 575–76; rejection of concept of, ix
 - cultural heritage destruction. *See* destruction
 - Cultural Heritage Financial Alliance (CHiFA), 114
 - cultural heritage protection. *See* protection
 - cultural heritage value. *See* value
+- cultural heritage workers, xxiii–xxiv, 581
 - cultural identity: architecture in, 180; destruction of, 65, 68, 71, 317, 417; transitional justice and, 344, 347; UNESCO on, 398. *See also* *specific cultures*
 - cultural memory, 216–17, 346–48
 - cultural nationalism, 347
@@ -309,9 +313,8 @@ Page numbers in *italics* indicate illustrations.
 - cultural property protection (CPP). *See* protection of cultural heritage
 - cultural renewal, 307–8
 - Cultural Revolution in China, 68, 138, 141
-- cultural workers, 581
 - culture: appropriation of, 43–44; vs. civilization, 46n5; international human rights law on definitions of, 401, 402; as process, 44–45; Tylor’s vs. Arnold’s definitions of, 32, 35, 41–45
-- Cuno, James: comments on, 284–85, 370, 449; conclusion by, 568–82; introductions by, 1–18, 23–26, 126–32, 279–83, 358–62, 466–70
+- Cuno, James: comments on, 284–85, 370, 449; conclusion by, 568–82; introductions by, 1–18, 23–26, 126–32, 279–83, 358–62, 466–70; preface by, xix–xxiv
 - customary cultural heritage law, 360, 411–24; evidence of existence of, 412–20; general principles of law in, 420–24; in International Court of Justice, 413–15, 420–22; progressive realization in, 423–24; prohibition on intentional destruction in, 415–18, 424; prohibition on looting and trafficking in, 418–20, 424
 - customary international humanitarian law, 383, 393n6
 - Cynics, 4
@@ -348,8 +351,8 @@ Page numbers in *italics* indicate illustrations.
 - Deng, Francis, 16
 - dependence, on cultural heritage, 302–3
 - Deraa, 232
-- destruction of cultural heritage (intentional): after changes to community narratives, 51–55; customary law prohibition on, 415–18, 424; as damage to all humankind, 284, 422, 546; in draft Genocide Convention, 3–4, 284, 311, 364–65; failure to prevent destruction conflated with, 493; future policy and action agendas for, 577–81; future research agenda for, 574–77; general principles of law on, 421–24; health effects of, 318–19; human rights approach to, 365–67, 396–407; link between ethnic cleansing and, 180, 314–15, 438; motivations for (*See* motivations for destruction); during peacetime, 412, 419–20, 424; progressive realization principles and, 423–24; reasons to care about, 571–73; recent history of, 552–55, 568–71; right to, 51–53, 397; strategic and tactical purposes of, 311–16; value to destroyers of, 4–7; as war crime, xiii, 8, 284, 333, 368, 371, 432, 439. *See also* *specific conflicts, groups, and locations*
-- detention camps, Uyghurs in, 133–34, 144–45, 292, 569–70
+- destruction of cultural heritage (intentional): after changes to community narratives, 51–55; customary law prohibition on, 415–18, 424; as damage to all humankind, 284, 422, 546; in draft Genocide Convention, 3–4, 284, 311, 364–65; failure to prevent destruction conflated with, 493; future policy and action agendas for, xxiii–xxiv, 577–81; future research agenda for, 574–77; general principles of law on, 421–24; health effects of, 318–19; human rights approach to, 365–67, 396–407; link between ethnic cleansing and, 180, 314–15, 438; motivations for (*See* motivations for destruction); during peacetime, 412, 419–20, 424; progressive realization principles and, 423–24; reasons to care about, 571–73; recent history of, 552–55, 568–71; right to, 51–53, 397; strategic and tactical purposes of, 311–16; value to destroyers of, 4–7; as war crime, xiv, 8, 284, 333, 368, 371, 432, 439. *See also* *specific conflicts, groups, and locations*
+- detention camps, Uyghurs in, 133–34, 144–45, 292, 570
 - Dexippus, 82
 - Dhahabi, Muhammad b. Ahmad al-, 101
 - Didion, Joan, 24, 49
@@ -359,15 +362,15 @@ Page numbers in *italics* indicate illustrations.
 - dignity, 318
 - Diop, Cheikh Anta, 40
 - Dioscorides, 37
-- direct use value, 115, 117–18
+- direct use value, 115, 118
 - disease, in antiquity, 81–82
 - distinction, principle of, 383, 487
-- *diuturnitas,* 413
+- *diuturnitas*, 413
 - Djakovica, 521–22
 - DOEN Foundation, 560
 - dogs, military use of, 504
 - Doha Declaration on Islam and Cultural Heritage (2001), 171–72
-- *dolus specialis,* 414
+- *dolus specialis*, 414
 - Domna, Julia, 209, *209*
 - Dresden, 234, 266
 - Dubrovnik, 287, 345–46, 390, 437
@@ -385,7 +388,7 @@ Page numbers in *italics* indicate illustrations.
 - economic sanctions. *See* sanctions
 - economic value of heritage in historic cities, 26, 110–23; incentive framework for protecting, 113–14; measuring benefits in, 119–22; significance of, 110–11; techniques for estimating, 114–19; total, *117*, 117–19; tourism in, 116–17, 120, 122
 - economies: shadow, 59, 72; of Syria, 186–87; of Timbuktu, 255–58
-- education: by Blue Shield, on heritage protection, x, 371; human rights, 406–7; of military, in heritage protection, 501, 507–12; in prevention of extremism, 456–57; right to, 456
+- education: by Blue Shield, on heritage protection, xi, 371; human rights, 406–7; of military, in heritage protection, 501, 507–12; in prevention of extremism, 456–57; right to, 456
 - Efendi, ‘Abd al-Rahman, 94
 - Efendi, Mustafa b. al-Hajj, 95
 - Egypt, 10, 40, 60, 80–85
@@ -397,7 +400,7 @@ Page numbers in *italics* indicate illustrations.
 - emergency funding: private sources of, 560–61; by UNESCO, 12
 - Emesa. *See* Homs
 - empirical evidence, on lives saved by heritage protection, 310–19
-- enforcement: of international human rights law, 405–6; of international law, gaps in, 7–8. *See also* prosecution
+- enforcement: of international human rights law, 405–6; of international law, gaps in, 7–8; of international law, proposed international consortium in, xxiii. *See also* prosecution
 - England. *See* Britain
 - English identity, 27–28, 37–38
 - enhanced protection, under Hague Convention, 332, 387, 389
@@ -420,8 +423,8 @@ Page numbers in *italics* indicate illustrations.
 - European Court of Human Rights, 405–6
 - European identity, 33–36
 - European Research Council, 91
-- European Union (EU): Common Security and Defence Policy of, 197; cultural heritage policy of, xiii, 518–19, 526; funding for heritage protection from, 562
-- Evans, Gareth, 13, 16
+- European Union (EU): Common Security and Defence Policy of, 197; cultural heritage policy of, xiv, 518–19, 526; funding for heritage protection from, 562
+- Evans, Gareth, 13, 17
 - Ewes, 28–31
 - existence value, 119, 121, 123
 - expert community, 375n2
@@ -445,10 +448,10 @@ Page numbers in *italics* indicate illustrations.
 - Floyd, George, 51, 52
 - food: British, 42, 48n26; Uyghur, 138–39
 - force, use of, general principle of law on, 421–22
-- force multiplier, heritage protection as, 486, 495, 510
+- force multiplier, heritage protection as, xxiii, 486, 495, 510
 - Fortify Rights, 286
 - Foz, Samer, 227–28, 231
-- France: colonial-era destruction by, 63; French Revolution in, 62–63, 73, 364; funding for heritage protection from, 560; Hague Convention ratified by, xii; motivations for destruction in, 62–63, 73; safe havens for heritage in, 373; significance of Notre Dame in, 50; truth commissions in, 580; in World War I, 431; in World War II, 477, 480, 483n10, 556
+- France: colonial-era destruction by, 63; French Revolution in, 62–63, 73, 364; funding for heritage protection from, 560; Hague Convention ratified by, xiii; motivations for destruction in, 62–63, 73; safe havens for heritage in, 373; significance of Notre Dame in, 50; truth commissions in, 580; in World War I, 431; in World War II, 477, 480, 483n10, 556
 - Francioni, Francesco, 360, 411–24
 - Frank, Hans, 446n18
 - Frankl, Viktor, 306–7
@@ -510,16 +513,16 @@ Page numbers in *italics* indicate illustrations.
 - Gunther, Christoph, 177
 - Gurlitt, Hildebrand, 66–67
 - Gustav Line, 471
-- Guterres, António, 520, 528
+- Guterres, António, 519–20, 528
 
 ---
 
 - Hadi ila l-Haqq Yahya b. al-Husayn, al-, 242, 244, 249
-- *hadith,* 96–97
+- *hadith*, 96–97
 - Hafez, 43
 - Hague Convention II (1899), 65, 73, 374, 383, 431
 - Hague Convention IV (1907), 8, 374, 383, 418, 422, 431, 439, 472–73
-- Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict (1954), 384–91; Blue Shield and, 330, 532; compared to other conventions, 7–8; core features of, 384–88; definition of cultural property in, 384–85, 397, 490; destruction by signatories to, 554; development of, 537–38; on domestic laws, 386–87; enhanced protection under, 332, 387, 389; evidence of customary cultural heritage law in, 416, 418; First Protocol of, 372, 384, 418; on grave violations, 367–68; IMT at Nuremberg and, 435; on intentional targeting, 367–68; on lists of cultural property, 384–85, 389, 544; NSAGs under, 332–33, 336, 367, 372, 374, 385, 451; on occupied territory, 374; on peacetime measures, 385; on prevention of destruction, 7, 385; role in heritage protection, xi–xii; on safe havens, 372; Second Protocol of, 260, 332–33, 367–68, 384–88, 411, 451, 553; special protection under, 386, 387, 389; standards vs. rules in, 487; states outside regime of, xi, 411–12, 579; states party to, xii, 411, 418, 553; supervisory mechanisms in, 387–88, 390–91; in Syrian war, 195–96; in Timbuktu, 260; UN on ratification of, 12; on universal value of heritage, 7–8, 284, 311, 422, 546; US ratification of, 486, 490–93, 495, 538
+- Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict (1954), 384–91; Blue Shield of, xxiii, 330, 532; compared to other conventions, 7–8; core features of, 384–88; definition of cultural property in, 384–85, 397, 490; destruction by signatories to, 554; development of, 537–38; on domestic laws, 386–87; enhanced protection under, 332, 387, 389; evidence of customary cultural heritage law in, 416, 418; First Protocol of, 372, 384, 418; on grave violations, 367–68; IMT at Nuremberg and, 435; on intentional targeting, 367–68; on lists of cultural property, 384–85, 389, 544; NSAGs under, 332–33, 336, 367, 372, 374, 385, 451; on occupied territory, 374; on peacetime measures, 385; on prevention of destruction, 7, 385; role in heritage protection, xii–xiii; on safe havens, 372; Second Protocol of, 260, 332–33, 367–68, 384–88, 411, 451, 553; special protection under, 386, 387, 389; standards vs. rules in, 487; states outside regime of, xii, 411–12, 579; states party to, xiii, 411, 418, 553; supervisory mechanisms in, 387–88, 390–91; in Syrian war, 195–96; in Timbuktu, 260; UN on ratification of, 12; on universal value of heritage, 7–8, 284, 311, 422, 546; US ratification of, 486, 490–93, 495, 538
 - Hamadeh, Noor, 230–31
 - Hamid al-Din dynasty, 238
 - Han Chinese, 135, 140, 145
@@ -528,6 +531,7 @@ Page numbers in *italics* indicate illustrations.
 - Haradinaj, Ramush, 559, 566n19
 - Hariri, Rafik, 229
 - harmful traditional practices, 399, 408n17
+- Harper, Stephen, 17
 - Harris, Rachel, 126–27, 133–47
 - Harvey, C. P., 434
 - Hasan b. Muhammad al-Rassas, al-, 242
@@ -541,7 +545,7 @@ Page numbers in *italics* indicate illustrations.
 - hearts and minds, 455, 457, 467, 477, 481, 542
 - hedonic pricing methods, 120–21
 - Hegel, G. W. F., 35, 47n13
-- Heine, Heinrich, 5, 312, 547n1
+- Heine, Heinrich, xxiv, 5, 312, 547n1
 - Hemings, Sally, 42
 - Herat, 509
 - heritage, use of term, 4–5. *See also* cultural heritage
@@ -560,8 +564,8 @@ Page numbers in *italics* indicate illustrations.
 - “Historia de los Autores y Transmisores Andalusies” (HATA), 91
 - historical present, 203, 205, 211, 217
 - Hitler, Adolf, 55, 66, 312
-- Hollande, François, xiv
-- Holocaust, 67–68, 73, 312–13. *See also* Nazi Germany
+- Hollande, François, xv
+- Holocaust, xxii, 67–68, 73, 312–13. *See also* Nazi Germany
 - Holy Roman Empire, 34–37
 - Homs, 129, 202–19; ancient name of, 202, 209; basalt buildings of, 202, 209–17, *210*; Crac des Chevaliers near, 330; creation of, 206–12, *208*; Great Mosque of al-Nuri in, 209–11, *210*; irrigation canals in, 212, *213*; Jami al-Arba’een in, 215–16; Jourat al-Shayyah in, 217; Khalid Ibn al-Walid Mosque in, 220–22, *223*; location of, 206–9, *207*; mausoleum of Emesa in, *211*, 211–12, 215; naming of places in, 217–18; necropolis of Tel abu Sabun in, 211–12, *212*; physical destruction by government of, *211–14*, 211–16; physical destruction of war in, 204–6, 221; population impacts of war in, 203–4; post-conflict reconstruction in, 220–24, *223*; significance and identity in, 203, 216–17; Souk al-Naourah in, 212, *214*, *215*
 - Honduras, 509
@@ -609,7 +613,7 @@ Page numbers in *italics* indicate illustrations.
 - iconoclasm: Christian, 61–62, 72; definition of, 170–71; digitally mediated, 173; ideological/political, 59, 62–63, 72; of ISIS, 71, 170–74, 177; Muslim, 69–71
 - identity(ies), 23, 27–45; collective, 203, 299, 346, 348, 434, 441, 573; and cultural significance, 216–17; labels applied to, 28–31, 38; meta-, 303; and nationality, 27–28; and ownership, 343–44; and survival, 203; and transitional justice, 343–53; in value of cultural heritage, 302–3, 573; and Western culture, 32–45. *See also* cultural identity
 - ideology: of ISIS, 168–70; in motivations for destruction, 59–62, 65–69, 327–29; of NSAGs, 327–28
-- Ignatieff, Michael, 16
+- Ignatieff, Michael, 17
 - illicit trafficking. *See* trafficking
 - Imam Zayd b. Ali Cultural Foundation, 247, *248*, 252n19
 - Incas, 63, 73
@@ -618,19 +622,19 @@ Page numbers in *italics* indicate illustrations.
 - India, 10, 30–31, 314
 - Indigenismo, 270
 - Indigenous populations: in colonial era, 63, 73; Guatemalan accord on, 264, 270; international human rights law on, 403–5; national laws protecting sites of, 269. *See also* *specific groups*
-- *indios,* 264
+- *indios*, 264
 - indirect effects of war, 310, 315, 319
 - indirect foreign intervention, 560–62
-- indirect use value, 115, 117–18
+- indirect use value, 115, 118
 - individual criminal responsibility: as general principle of law, 422; history of, 431–32, 436–37, 444; in NSAGs, 331
 - Indonesia, 294
 - information weaponization, 502, 511
 - inheritance law, European, 49, 50
 - Inhofe, James, 271
-- Institut des Hautes Études et de Recherches Islamiques Ahmed Baba (IHERI-AB), ix
+- Institut des Hautes Études et de Recherches Islamiques Ahmed Baba (IHERI-AB), x
 - Institute for Guatemalan Tourism (INGUAT), 273
 - institutional mechanisms, in international humanitarian law, 388–91
-- intangible value of cultural heritage, xiv, 110, 114–15
+- intangible value of cultural heritage, xv, 110, 114–15
 - intellectual property (IP), 44
 - intentional destruction. *See* destruction
 - Inter-Allied Commission on the Protection and Restitution of Cultural Material (Vaucher Commission), 433–34
@@ -644,11 +648,12 @@ Page numbers in *italics* indicate illustrations.
 - International Civilian Office, 524–25
 - International Commission on Intervention and State Sovereignty (ICISS), 2, 12–16, 457
 - International Committee of the Red Cross (ICRC): Blue Shield agreements with, 542, 543; on customary international humanitarian law, 393n6; on heritage protection, 532, 534; on NSAGs, 324, 325, 333–37; *The Roots of Behaviour in War*, 333–34; *Roots of Restraint in War*, 325, 334, 335–36
+- international consortium, need for, xxiii–xxiv, 581
 - International Council on Monuments and Sites (ICOMOS), 375n2, 458
 - International Court of Justice (ICJ): on *Cambodia v. Thailand*, 349, 367, 413; evidence of customary cultural heritage law in, 413–15; general principles of law in, 420–22; on genocide, 377n31, 414; on heritage as human right, 367
 - International Covenant on Civil and Political Rights (ICCPR, 1966), 345, 400, 402–3, 406
 - International Covenant on Economic, Social and Cultural Rights (ICESCR, 1966), 400–402, 405, 406
-- International Criminal Court (ICC), 439–44; attacks during conduct of hostilities under, 379n58, 439–40, 441; evidence of customary cultural heritage law in, 418; general principles of law in, 422; on intentional heritage destruction, 345, 371, 418, 439; jurisdiction of, 284, 341n52, 371, 439–40, 554; NSAGs and, 333, 341n52; optimism about future of, 444–45; role in heritage protection, xiii; states outside regime of, 579–80; successes of, 439; Trust Funds for Victims, 261, 442; on World Heritage List, 390. *See also* Rome Statute; *specific cases*
+- International Criminal Court (ICC), 439–44; attacks during conduct of hostilities under, 379n58, 439–40, 441; evidence of customary cultural heritage law in, 418; general principles of law in, 422; on intentional heritage destruction, 345, 371, 418, 439; jurisdiction of, 284, 341n52, 371, 439–40, 554; NSAGs and, 333, 341n52; optimism about future of, 444–45; role in heritage protection, xiv; Russian invasion of Ukraine and, xxiii; states outside regime of, 579–80; successes of, xxiii, 439; Trust Funds for Victims, 261, 442; on World Heritage List, 390. *See also* Rome Statute; *specific cases*
 - international criminal law, 360–61, 430–45; NSAGs under, 331, 333; origins and development of, 323, 331, 430–32; universal jurisdiction in, 387, 578; universal values in, 430; in World War II, 432–35. *See also* prosecution; *specific cases and courts*
 - International Criminal Tribunal for the former Yugoslavia (ICTY), 436–39; on crimes against humanity, 436–38; on cultural genocide, 365; on Dubrovnik attacks, 287, 345–46, 437; establishment of, 436; evidence of customary cultural heritage law in, 416; general principles of law in, 422; individual criminal responsibility at, 437; on intentional destruction, 368, 437; jurisdiction of, 436–37; NSAGs and, 333; overview of cases on heritage destruction in, 437–39; on physical genocide, 439; on value of heritage, 437; on victims of heritage crimes, 347–48; on World Heritage List, 390
 - International Crisis Group (ICG), 521–22
@@ -656,7 +661,7 @@ Page numbers in *italics* indicate illustrations.
 - international funding, of heritage protection by local community, 560–63
 - international human rights law, 359–60, 396–407; cultural dimension of treaties in, 400–407; enforcement of, 405–6; interactions of UNESCO and, 396–400, 404–7
 - international humanitarian law (IHL), 359, 381–92; in choice between human life and heritage, 300–301, 304–5; cultural heritage rules in, 284; cultural property vs. cultural heritage in, 381–82; customary, 383, 393n6; definition of, 382; entailments in, 486–87, 492, 495; history of, 310–11, 534–38; institutional mechanisms in, 388–91; key features of rules of, 382; need for stronger implementation of existing, 381, 392; normative mechanisms in, 388–90; NSAGs under, 328–33, 337, 374–75, 451; during peacetime, 385, 393n2; purpose of, 382; supervisory and advisory mechanisms in, 387–88, 390–91; treaties in, 383–88; UN forces’ obligations under, 416–17; US political leaders’ interpretation of, 467, 485–96. *See also* *specific conventions*
-- international law: cultural heritage vs. cultural property in, 347; gaps in enforcement in, 7–8; general principles in, 420–24; introduction to chapters on, 358–62; NSAGs under, 328–33, 337, 374–75, 451; on prevention of genocide, 311, 377n31; on prevention of heritage destruction, 367–70; soft, 7; states outside treaty regimes of, 411–13; states party to, 411–12, 425n5; as sufficient for heritage protection, 8, 285, 579; in Syrian war, 195–97, 331; transitional justice and, 347–50; universal jurisdiction in, 387, 578. *See also* *specific conventions and branches of law*
+- international law: cultural heritage vs. cultural property in, 347; gaps in enforcement in, 7–8; general principles in, 420–24; introduction to chapters on, 358–62; in mission of proposed international consortium, xxiii; NSAGs under, 328–33, 337, 374–75, 451; on prevention of genocide, 311, 377n31; on prevention of heritage destruction, 367–70; soft, 7; states outside treaty regimes of, 411–13; states party to, 411–12, 425n5; as sufficient for heritage protection, 8, 285, 579; in Syrian war, 195–97, 331; transitional justice and, 347–50; universal jurisdiction in, 387, 578. *See also* *specific conventions and branches of law*
 - International Law Association (ILA), 373, 453
 - International Law Commission on the Identification of Customary International Law, 413
 - International List of Cultural Property under Enhanced Protection, 389
@@ -665,14 +670,14 @@ Page numbers in *italics* indicate illustrations.
 - International Red Cross and Red Crescent Movement, 301
 - International Register of Cultural Property under Special Protection, 389
 - international responses, 285–95; to Chinese attacks on Uyghurs, 147, 291–94; funding for heritage protection as, 560–63; inconsistency in, 285, 294–95; to ISIS attacks on Yezidis, 288–91; to ISIS destruction of heritage, 204, 348, 363, 555; to Myanmar attacks on Rohingya, 285–86; in R2P, 13–15, 368–74; recommendations on, 579–81; in Syrian war, 285, 369–70; to Taliban attacks on Hazaras, 286–88; to Taliban destruction of Bamiyan Buddhas, 9, 159–60, 286–88, 415–16
-- International Security Assistance Force (ISAF), 572
+- International Security Assistance Force (ISAF), 572–73
 - internationalist approach to heritage, 284, 347–48
 - Internet, ISIS’s use of, 168–69, 172–74, 180–81. *See also* social media
 - Interpol, 554
 - intrinsic value of cultural heritage, 4, 318–19
 - inventories of cultural property, 384–85, 389–90
 - Iran: Islamic manuscripts in, 86–87; in Syrian war, 190; Trump’s threat against cultural sites of, 1, 467, 485, 487, 493–95, 498n38, 581; Zaydism in, 243–44
-- Iraq: cultural cleansing in, x, 288–91; in Gulf War of 1991, 102, 485, *491*, 491–92; heritage destruction as provocation in, 314; Islamic manuscripts in, 93, *94*, 102, *103*, *104*; parallel attacks on heritage and humans in, 314–15; reconstruction in, 291, 457, 562
+- Iraq: cultural cleansing in, xi, 288–91; in Gulf War of 1991, 102, 485, *491*, 491–92; heritage destruction as provocation in, 314; Islamic manuscripts in, 93, *94*, 102, *103*, *104*; parallel attacks on heritage and humans in, 314–15; reconstruction in, 291, 457, 562
 - Iraq, destruction by ISIS in. *See* ISIS, destruction in Iraq and Syria by
 - Iraq, US occupation of: civil war during, 540, 542, 557; collateral damage by precision munitions in, 505; gaps in planning for, 532, 538–40, 542; heritage destruction in, 540; heritage protection by local community in, 557, 559; heritage protection by military in, 481, *482*, 492–93, 505–6; lists of cultural property in, 544; looting in, 102, 177, 485–87, 492–93, 503–4, 518, 523, 557; shortage of troops in, 538; UN Security Council on destruction in, 417. *See also* *specific locations*
 - Ishbili, Abu Bakr Muhammad Ibn Khayr al-, 97
@@ -688,8 +693,9 @@ Page numbers in *italics* indicate illustrations.
 - Isma‘ilis, 242, 246
 - Israel, 517, 564–65, 568. *See also* Jerusalem
 - Issa, Falah Hasan, 291
-- Istanbul, 8, 86, *88*, 94, 564
-- Italy: cultural renewal in, 307; on heritage protection in peacekeeping, 518, 519; looting during peacetime in, 420; peacekeeping forces from, 522, 523; safe havens for heritage in, 373; in #Unite4Heritage initiative, xiv; in World War II, 471–76, *475*, 478, *479*, 480, 481, 483n10, 556
+- Istanbul, 8, 86, *88*, 94–95, 564
+- Italy: cultural renewal in, 307; on heritage protection in peacekeeping, 518, 519; looting during peacetime in, 420; peacekeeping forces from, 521–22, 523; safe havens for heritage in, 373; in #Unite4Heritage initiative, xv; in World War II, 471–76, *475*, 478, *479*, 480, 481, 483n10, 556
+- Ivankiv, xxii
 - Izsák-Ndiaye, Rita, 290
 
 ---
@@ -699,16 +705,16 @@ Page numbers in *italics* indicate illustrations.
 - Jahn, Janheinz, 40
 - Jains, 28–31
 - Japan, US bombing of, 485–91, *489*
-- Jaramillo, Carlos, 526
+- Jaramillo, Carlos, 525–26
 - Jefferson, Thomas, 42
 - Jenrick, Robert, 53
-- Jerusalem, 81, 517, 536, *536,* 564–65, 568
+- Jerusalem, 81, 517, 536, *536*, 564–65, 568
 - jihadi Salafism, 168–70, 177
 - Jo, Hyeran, 330
 - John of Ephesus, 82
 - Jordan, 517
 - Judaism: Arabic literature in, 90; genocide based on (*See* Nazi Germany); in Muslim world, 36–37, 47n14; Nazi destruction of heritage of, 67, *67*; protection of books and manuscripts of, 556
-- *jus cogens,* 421
+- *jus cogens*, 421
 - justice: post-atrocity, evolution of meaning of, 344; restorative, 344–46; retributive, 344–46; “victor’s,” 220, 233–34. *See also* transitional justice
 - Justinian, 81, 82
 
@@ -729,6 +735,7 @@ Page numbers in *italics* indicate illustrations.
 - Kesselring, Albert, 474
 - Khalifa (Katib Çelebi), 90, 91
 - Khan, Karim, 443
+- Kharkiv, xxii
 - Khmer Rouge, 68, 73
 - Khotan, 146
 - Khoury, Bernard, 230
@@ -739,11 +746,13 @@ Page numbers in *italics* indicate illustrations.
 - Kosovo: NATO peacekeepers in, 517–18, 521–22, 524–26, 558–59; reconstruction in, 562. *See also* Yugoslav wars
 - Kosovo Liberation Army (KLA), 558–59
 - Kosovo War, 69, 558–59
-- *kothis,* 30–31
+- *kothis*, 30–31
 - Kristallnacht, 312–13
+- Kuindzhi, Arkhip, xxii
 - Kuntar, Salam al-, 366
 - Kurdi, Mustafa, 472
 - Kurosawa, Akira, 43
+- Kyiv, xxii
 - Kyoto, 485–91, *489*
 
 ---
@@ -765,7 +774,7 @@ Page numbers in *italics* indicate illustrations.
 - legitimacy seeking NSAGs, 330
 - Leipzig War Crimes Trials, 432
 - Leloup, Mathilde, 522, 526, 527
-- Lemkin, Raphael, 3–4, 18, 179, 284, 311, 312, 364–65, 438, 538
+- Lemkin, Raphael, xxiv, 3–4, 18, 179, 284, 311, 312, 364–65, 438, 538
 - Leuven, 65
 - Liberation Tigers of Tamil Eelam (LTTE), 152–53, 156
 - libraries. *See* books; manuscripts; *specific locations*
@@ -801,15 +810,15 @@ Page numbers in *italics* indicate illustrations.
 - Madrid, 266
 - Maduro, Nicolás, 10
 - Maglione, Luigi, 474
-- Mahdi, Ahmad al-, conviction of, 260–62, 440–44; evidence of customary cultural heritage law in, 418; as first for heritage destruction as war crime, xiii, 71, 290, 371; guilty plea in, xiii, 261, 441; missed opportunities in, 441, 443; reparations order in, 261, 349–50, 442; Rome Statue in, 12, 260; sentencing in, xiii, 261–62, 442; significance in international criminal law, 442–44; UN Security Council resolution on, 11–12, 290; UNESCO in, 254, 260, 372; universal value of heritage in, 430, 441, 442; victims of crime in, 349–50, 441, 442; World Heritage List in, 390, 394n16
+- Mahdi, Ahmad al-, conviction of, 260–62, 440–44; evidence of customary cultural heritage law in, 418; as first for heritage destruction as war crime, xiv, xxiii, 71, 290, 371; guilty plea in, xiv, 261, 441; missed opportunities in, 441, 443; reparations order in, 261, 349–50, 442; Rome Statue in, 12, 260; sentencing in, xiv, 261–62, 442; significance in international criminal law, 442–44; UN Security Council on, 12, 290; UNESCO in, 254, 260, 372; universal value of heritage in, 430, 441, 442; victims of crime in, 349–50, 441, 442; World Heritage List in, 390, 394n16
 - Mahdi Ahmad b. Yahya b. al-Murtada, al-, 242
 - Maimuer, Maisumujiang, 145
 - Majdu‘, Isma‘il b. ‘Abd al-Rasul al-, 92
 - Makhlouf, Rami, 231
 - Malas, Khaled, 232–33
-- Mali: Charter of Manden in, xiv; local community in heritage protection in, 556; motivations for destruction in, 70–71. *See also* Multidimensional Integrated Stabilization Mission in Mali; Timbuktu
+- Mali: Charter of Manden in, xv; local community in heritage protection in, 556; motivations for destruction in, 70–71. *See also* Multidimensional Integrated Stabilization Mission in Mali; Timbuktu
 - Mallouhi, Abd al-Mueen al-, 215
-- Mandingo Empire, xiv
+- Mandingo Empire, xv
 - Mansūr bi-llah ‘Abd Allah b. Hamza, al-, 239–40, *241*, 244
 - manuscripts: Jewish, 556; Maya hieroglyphic, 265–66. *See also* Islamic manuscripts
 - Mao Zedong, 68
@@ -818,6 +827,7 @@ Page numbers in *italics* indicate illustrations.
 - Mar‘ashi al-Najafi, Shihab al-Din al-Husayni al-, 98
 - Marcus Aurelius, 81–82
 - Mari, 557
+- Mariupol, xxii
 - marking, of cultural property, 384–85, 393n9
 - Marrakech Biennale, 232
 - Marsi, Mohammed, 572
@@ -831,7 +841,7 @@ Page numbers in *italics* indicate illustrations.
 - Mayan languages, 265, 267
 - Mazar i-Sharif, 287
 - Mazari, Abdul Ali, 161
-- McChrystal, Stanley, 510, 572
+- McChrystal, Stanley, 510, 572–73
 - McConnell, Mitch, 494
 - McDonald, Kevin, 174
 - McFate, Montgomery, 510
@@ -850,8 +860,8 @@ Page numbers in *italics* indicate illustrations.
 - meta-identity, 303
 - Mexico, 10, 31, 46n4, 351–52
 - Middle East: Arab Spring in, 324, 511; motivations for destruction in, 69–72. *See also* *specific countries*
-- military forces: choosing between human life and heritage in war, 299–308; heritage sites used by, 6; interpretation of international humanitarian law by leaders of, 467, 485–96; introduction to chapters on, 466–70; modern challenges facing, 500–505; vs. peacekeeping forces, goals of, 520; relevance of heritage protection to, 538–42; social media impact on, 501–5; training in heritage protection for, 501, 507–12. *See also* *specific countries*
-- military intervention, in R2P, 13–14, 370–71
+- military forces: choosing between human life and heritage in war, 299–308; heritage sites used by, 6; interpretation of international humanitarian law by leaders of, 467, 485–96; introduction to chapters on, 466–70; modern challenges facing, 500–505; vs. peacekeeping forces, goals of, 520; in proposed international consortium, xxiii; relevance of heritage protection to, 538–42, 572–73; social media impact on, 501–5; training in heritage protection for, 501, 507–12. *See also* *specific countries*
+- military intervention, in R2P, 14, 370–71
 - military necessity: Eisenhower on, 472, 490–91; ICTY on, 437; imperative, 385, 394n11; in international humanitarian law, 382, 385–86; NSAGs’ understanding of, 330; US on exceptions to Hague Convention for, 490–91; in World War II, 472, 478–79
 - military objectives, 383, 387, 394n11
 - Millatu Ibrahim, 569
@@ -870,22 +880,22 @@ Page numbers in *italics* indicate illustrations.
 - Montejo, Victor, 131–32, 264–75
 - Montesquieu, 41
 - monuments: European, in World War II, 476–80; pro-slavery, removal of, 51–53; Soviet, removal of, 54–55; in Sri Lanka, reconstruction of, 153–56; in Timbuktu, destruction of, 253, 257
-- Monuments, Fine Arts, and Archives (Monuments Men, MFAA), 433, 476–80, 501, 505, 537
+- Monuments, Fine Arts, and Archives (Monuments Men, MFAA), xxiii, 433, 476–80, 501, 505, 537
 - moral logic, in military decision-making, 486, 488–89
 - mosques: motivations for destruction of, 69; Rohingya, 286; US attempts to protect, 481, *482*; Uyghur, 135–36, *137*, *141*, 141–45, *143*, 292. *See also* *specific locations*
-- Mostar, xv, 69, 163, 314, 554
+- Mostar, xvi, 69, 163, 314, 554
 - Mosul: destruction by ISIS in, 175–76, 178–79, *179*, 288; fall of, 288, 290; Great Mosque of al-Nuri in, 314, 457; reconstruction in, 291, 457
-- motivations for destruction, 24–25, 59–74; economic, 59, 66–68, 74, 177, 329; human rights perspective on, 396; humanitarian perspective on, 311–18; ideological, 59–62, 65–69, 327–29; by NSAGs, 71–74, 329–30; overview of history of, 59–69, 72–73; present-day, 69–72, 73–74; by terrorists, 448, 449, 502; as war tactic, viii. *See also* iconoclasm; religious motivations
+- motivations for destruction, 24–25, 59–74; economic, 59, 66–68, 74, 177, 329; human rights perspective on, 396; humanitarian perspective on, 311–18; ideological, 59–62, 65–69, 327–29; by NSAGs, 71–74, 329–30; overview of history of, 59–69, 72–73; present-day, 69–72, 73–74; by terrorists, 448, 449, 502; as war tactic, ix. *See also* iconoclasm; religious motivations
 - Movement for Oneness and Jihad in West Africa (MOJWA), 253
 - Mu’ayyad bi-llah Yahya b. Hamza, al-, 246
 - Muhaqqiq al-Hilli, al-, *87*
-- Multidimensional Integrated Stabilization Mission in Mali (MINUSMA): antilooting projects of, 524; civilian staff of, 520–21; establishment of, x, 11, 254, 370–71, 421; heritage protection in mandate of, x, 11, 129, 371, 421, 518–20; intangible heritage in, xiv; lack of troop strength in, 522; people-centered approach in, 526–27; role of local community in, 254
+- Multidimensional Integrated Stabilization Mission in Mali (MINUSMA): antilooting projects of, 523–24; civilian staff of, 520–21; establishment of, xi, 11, 254, 370–71, 421; heritage protection in mandate of, xi, 11, 129, 371, 421, 518–20; intangible heritage in, xv; lack of troop strength in, 522; people-centered approach in, 526–27; role of local community in, 254
 - multilateralism, opposition to, 10, 581
 - Mummius, Lucius, 79
 - Murad III, 37
 - Murano, 43–44
 - museum community, 375n2
-- museums: cultural workers in danger at, 581; dedicated to Maya artifacts, 274; repatriation from, 83, 269, 272; as safe havens for heritage protection, 372–74
+- museums: cultural workers in danger at, xxiii–xxiv, 581; dedicated to Maya artifacts, 274; repatriation from, 83, 269, 272; as safe havens for heritage protection, 372–74
 - Mushrifah, al-, 207
 - Muslim world. *See* Islam
 - Mustafayev, Tural, 359, 381–92
@@ -901,7 +911,7 @@ Page numbers in *italics* indicate illustrations.
 ---
 
 - Nagasaki, 467, 488, 490
-- Nagorno-Karabakh, 528, 550–52, 563
+- Nagorno-Karabakh, 527–28, 550–52, 563
 - Napoleon, 535
 - Narkiss, Uzi, 564
 - narratives, community, 23–24, 49–58
@@ -927,12 +937,12 @@ Page numbers in *italics* indicate illustrations.
 - nongovernmental organizations (NGOs): engagement with NSAGs, 337; in international humanitarian law, 391
 - non-international armed conflict (NIAC): Geneva Conventions on, 383, 385, 394n10; Hague Convention on, 385
 - nonstate armed groups (NSAGs), 281–82, 323–38; benefits of destruction to, 6–7; definition of, 325; destructive vs. non-destructive, 328–30; in future policy and action agendas, 578; Hague Convention on, 332–33, 336, 367, 372, 374, 385; increase in number of, 324; laws of war on, 323, 374; looting as source of funding for, 541, 543; motivations for destruction by, 71–74, 329–30; obligations under international criminal law, 331, 333; obligations under international humanitarian law, 328–33, 337, 374–75, 451; political objectives of, 325–26; protection of heritage by, 329–38, 372; social media use by, 502–3; sources of restraint on, 333–38; special arrangements with, 451–52; terrorism and, 337–38, 451–52; variation in category of, 325–27, 334–35. *See also* *specific groups*
-- nonuse value, 115, 117–19
+- nonuse value, 115, 118–19
 - normative mechanisms, in international humanitarian law, 388–90
 - normative significance, 30
 - norms: of identification, 30; R2P’s development into, 12–18; of restraint, 334–35; as targets of heritage destruction, 316; of war, changes to, 323–24
 - North American Congress on Latin America (NACLA), 271
-- North Atlantic Treaty Organization (NATO): Blue Shield agreements with, 542, 543; bombing of Libya by, 505, 544–45, *545*; peacekeeping forces of, 517–26, 558–59
+- North Atlantic Treaty Organization (NATO): Blue Shield agreements with, 542, 543; bombing of Libya by, 505, 544–45, *545*; peacekeeping forces of, 517–26, 558–59; proposed international consortium modeled on, xxiii
 - Nour al-Din al-Zenki, 209
 - Ntaganda, Bosco, 371, 372, 379n58
 - NTU concept, 40
@@ -950,10 +960,10 @@ Page numbers in *italics* indicate illustrations.
 - Omar, Mohamed, 158–59, 286, 569
 - ontological value of cultural heritage, 301–3
 - Operation Northern Storm (Syria), 190
-- *opinio iuris,* 413, 416, 419
+- *opinio iuris*, 413, 416, 419
 - Oppenheimer, Robert, 488
 - option value, 117–19
-- oral culture: Islamic, 95–98; in Mali, xiv
+- oral culture: Islamic, 95–98; in Mali, xv
 - Orbán, Viktor, 10
 - Ordam Padishah Mazar, 139, 140, 145
 - organicism, 42
@@ -961,7 +971,7 @@ Page numbers in *italics* indicate illustrations.
 - organized crime, 420, 523
 - Orontes River, 206, *207*
 - Otto I, 36
-- Ottoman Empire, 35, 37
+- Ottoman Empire, xxii, 35, 37
 - outsourcing, of war, 324–25
 - ownership: and belonging, 343, 344, 348, 352–53; of cultural heritage, 49, 50, 343–44, 347, 575–76; of culture, 43–44. *See also* property
 - Oxford, 307
@@ -972,8 +982,8 @@ Page numbers in *italics* indicate illustrations.
 - Pakistan, 294
 - Pakzad, Hafiz, 162
 - Palermo, 420
-- Palmyra, destruction by ISIS in, ix–x, 1–2; digital reconstruction after, 84, 204, 348; of Great Colonnade, *205*; international responses to, 204, 348, 363, 555; local community in prevention of, 556–57; motivations for, 71; ownership and, 575–76; at Palmyra Museum, 84, 556–57; physical reconstruction after, 348–49, 351; population impacts of, 204–5; significance to local community, 366, 573; significance to modern Arabs, 84–85; of Temple of Baalshamin, 2, 187, 204, *204*; of Temple of Bel, *72,* 84, 187, 366
-- pandemic, COVID-19, 9, 506
+- Palmyra, destruction by ISIS in, x–xi, 1–2; digital reconstruction after, 84, 204, 348; of Great Colonnade, *205*; international responses to, 204, 348, 363, 555; local community in prevention of, 556–57; motivations for, 71; ownership and, 575–76; at Palmyra Museum, 84, 556–57; physical reconstruction after, 348–49, 351; population impacts of, 204–5; significance to local community, 366, 573; significance to modern Arabs, 84–85; of Temple of Baalshamin, 2, 187, 204, *204*; of Temple of Bel, *72*, 84, 187, 366
+- pandemic, COVID-19, 9–10, 506
 - Paper Brigade, 556
 - parallelism, in heritage destruction, 314–15, 317–18
 - Paris, 50, 62, 266, 556
@@ -984,7 +994,7 @@ Page numbers in *italics* indicate illustrations.
 - peace: customary law obligations during, 412, 419–24; international humanitarian law during, 385, 393n2; lack of law on intentional destruction during, 412, 419–20, 424
 - peace, post-conflict, 469–70, 550–65; as euphemism, 129–30; impulse to preserve in, 563–65; international funding for heritage protection in, 560–63; local community in heritage protection during, 552, 558–63; new threats to heritage in, 551; reconciliation through heritage protection in, 561–63; reconstruction in building of, 458–59; subjugation of losers in, 151, 164–65. *See also* reconstruction
 - Peace and Reconciliation Agreement for Mali (2015), 257
-- peacekeeping forces, 468–69, 517–28; absence of heritage protection in priorities of, 518–20; arguments for heritage protection by, 518, 520–28; criminal violence and, 523–24; current number of, 517; vs. military, goals of, 520; NATO, 517–26, 558–59; people-centered approach by, 520, 526–27; political approaches by, 524–26; political violence and, 521–22; recommendations on, 579–80. *See also* UN peacekeeping
+- peacekeeping forces, 468–69, 517–28; absence of heritage protection in priorities of, 518–20; arguments for heritage protection by, 518, 520–28; criminal violence and, 524; current number of, 517; vs. military, goals of, 520; NATO, 517–26, 558–59; people-centered approach by, 520, 526–27; political approaches by, 524–26; political violence and, 521–22; recommendations on, 579–80. *See also* UN peacekeeping
 - Pegida movement, 43
 - Peloponnesian War, 78–79
 - people-centered approach: to counterterrorism, 456–57; to peacekeeping, 520, 526–27
@@ -1004,8 +1014,8 @@ Page numbers in *italics* indicate illustrations.
 - Pisa, 478
 - Poggi, Giovanni, 556
 - Pol Pot, 68
-- Poland, xv, 55, 68, 434
-- policy agendas, future, 577–81
+- Poland, xvi, 55, 68, 434
+- policy agendas, future, xxiii–xxiv, 577–81
 - political will, 16–17, 269–70, 579
 - Polybius, 79, 535
 - Pompeo, Mike, 494
@@ -1032,25 +1042,26 @@ Page numbers in *italics* indicate illustrations.
 - property: intellectual, 44; problems with idea of culture as, 43–45, 397; right to, 397. *See also* cultural property
 - proportionality, principle of, 383, 485, 487, 491–92
 - prosecution of heritage destruction, 360–61, 430–45; at ICC, 439–44; at ICTY, 436–39; at IMT at Nuremberg, 345, 432, 434–35; origins of, 430–32; universal jurisdiction in, 387, 578; at UNWCC, 432–35. *See also* *specific cases and courts*
-- protection of cultural heritage: brief history of, 534–38; as counterterrorism, 315; extrinsic vs. intrinsic value of, 318–19; as force multiplier, 486, 495, 510; future policy and action agendas for, 577–81; future research agenda for, 574–77; human rights approach to, 359–60, 396–407; humanitarian arguments for, 309–20, 381; impulse for, 563–65; lessons learned from Syrian war on, 195–98; by local community during peacetime, 552, 558–63; by local community during war, 555–58; opportunities during peacetime for, 551–52; recent failures in, 552–55; reconciliation through, 561–63; role of law in, xi–xii, 486–87 (*See also* international law); ways of incorporating into R2P, 369–74. *See also* *specific conflicts, groups, and locations*
+- protection of cultural heritage: brief history of, 534–38; as counterterrorism, 315; extrinsic vs. intrinsic value of, 318–19; as force multiplier, xxiii, 486, 495, 510; future policy and action agendas for, xxiii–xxiv, 577–81; future research agenda for, 574–77; human rights approach to, 359–60, 396–407; humanitarian arguments for, 309–20, 381; impulse for, 563–65; lessons learned from Syrian war on, 195–98; by local community during peacetime, 552, 558–63; by local community during war, 555–58; opportunities during peacetime for, 551–52; recent failures in, 552–55; reconciliation through, 561–63; role of law in, xii–xiii, 486–87 (*See also* international law); ways of incorporating into R2P, 369–74. *See also* *specific conflicts, groups, and locations*
 - Protestant Reformation, 62, 72–73
 - protraction, heritage destruction as, 315–16
 - provocation, heritage destruction as, 313–14, 317
-- public awareness raising, xi, xiv
+- Prymachenko, Maria, xxii
+- public awareness raising, xii, xv
 - public good, heritage as, 302–3
-- Putin, Vladimir, 10, 14, 222
+- Putin, Vladimir, 10, 15, 222
 
 ---
 
 - Qaddour, Jomana, 223
 - Qadi Ja‘far b. Ahmad b. ‘Abd al-Salam al-Buhluli, 242
-- Qaeda, al-, 11, 169, 170, 176, 326, 569
+- Qaeda, al-. *See* al-Qaeda
 - Qaradawi, Yusuf al-, 171
 - Qāsimī family, 240, 242, 245–46
 - Qattinah, 207
 - Qayrawan, 94
 - quasi-option value, 118–19
-- quick impact projects (QIPs), 527, 580
+- quick impact projects (QIPs), 527, 581
 - Quiriguá, 266
 - Quntar, Salam Al, 561
 - Qur’an, oral vs. written transmission of, 95–96, *96*
@@ -1072,11 +1083,11 @@ Page numbers in *italics* indicate illustrations.
 - realism, legal, 420
 - Rebstock, Ulrich, 90–91
 - rebuilding. *See* reconstruction
-- reconciliation: through protection efforts, 561–63; through reconstruction, xiv–xv
-- reconstruction: authenticity of, 162–64, 458; authoritarian, 165, 223; communal narratives in, 55–58; digital, 84, 204, 348; of facsimile buildings, 55–56; military involvement in, 509; in peacebuilding, 458–59; as propaganda, 220–23, 227, 234; recommendations on, 579; reconciliation through, xiv–xv; selective, 221–23, 227, 229; subjugation of losers in, 151, 164–65; in transitional justice, 348–51; UNESCO in, 291, 457–59; “victor’s justice” in, 220, 233–34. *See also* *specific locations*
+- reconciliation: through protection efforts, 561–63; through reconstruction, xv–xvi
+- reconstruction: authenticity of, 162–64, 458; authoritarian, 165, 223; communal narratives in, 55–58; digital, 84, 204, 348; of facsimile buildings, 55–56; military involvement in, 509; in peacebuilding, 458–59; as propaganda, 220–23, 227, 234; recommendations on, 579; reconciliation through, xv–xvi; selective, 221–23, 227, 229; subjugation of losers in, 151, 164–65; in transitional justice, 348–51; UNESCO in, 291, 457–59; “victor’s justice” in, 220, 233–34. *See also* *specific locations*
 - recreational value of heritage, 118
 - recruitment, by ISIS, 169, 173, 180, 455
-- refugees: cultural renewal by, 307–8; heritage sites as camps for, 5–6; Maya, 264, 267; Rohingya, 569; Syrian, 187
+- refugees: cultural renewal by, 307–8; heritage sites as camps for, 5–6; Maya, 264, 267; Rohingya, 569; in Russian invasion of Ukraine, xxii; Syrian, 187
 - refuges. *See* safe havens
 - religious extremism, Uyghurs accused of, 135, 140, 142–45, 147
 - religious freedom: for Maya, 265, 270; for Rohingya, 286; for Uyghurs, 293
@@ -1088,7 +1099,7 @@ Page numbers in *italics* indicate illustrations.
 - replacement cost, 121
 - research agenda, future, 574–77
 - resilience, 275, 318
-- responsibility to protect (R2P), 13–18; adoption of, 1–2, 13, 15, 285; commonalities with heritage protection, 2, 579; conceptual lessons learned from, 13–15; four types of mass atrocity crimes in, 14, 17–18, 279, 285, 367; international response pillar of, 13–15, 368–74; limitations of, in heritage protection, xi, 552; military intervention in, 13–14, 370–71; moral and political basis of, 285; obligations of international community in, 285; political lessons learned from, 16–17; prevention of heritage destruction in, 368–70; progressive realization and, 423–24; reformulation in 2009, 12, 15; resistance to, 3, 15; successes and failures of, 285; summary of three pillars of, 13–15, 368; UN Security Council in, 13, 285, 368, 423–24; ways of incorporating heritage protection into, 369–74
+- responsibility to protect (R2P), 13–18; adoption of, 1–2, 13, 15, 285; commonalities with heritage protection, 2, 579; conceptual lessons learned from, 13–16; four types of mass atrocity crimes in, 14, 17–18, 279, 285, 367; international response pillar of, 13–15, 368–74; limitations of, in heritage protection, xii, 552; military intervention in, 14, 370–71; moral and political basis of, 285; obligations of international community in, 285; political lessons learned from, 16–17; prevention of heritage destruction in, 368–70; progressive realization and, 423–24; reformulation in 2009, 12, 15; resistance to, 3, 15; successes and failures of, 285; summary of three pillars of, 13–15, 368; UN Security Council in, 13, 285, 368, 423–24; ways of incorporating heritage protection into, 369–74
 - restoration: cost of, 121; digital, of Palmyra, 84, 204, 348; in transitional justice, 345–47; Venice Charter on, 162, 458
 - restorative justice, 344–46
 - restraint, in war: by NSAGs, 333–38; in use of religious sites, 471–72, 480–82
@@ -1108,14 +1119,14 @@ Page numbers in *italics* indicate illustrations.
 - Rohingya, 285–86, 315, 569
 - Rome: survival of Pantheon in, 564; in World War II, 478, 481
 - Rome, ancient, 79–84; destruction by forces of, 8, 59, 79–82; destruction of sites in, 60–61, 79–80; disease in, 81–82; Homs in era of, 202, 207–9; Pantheon in, 564; in Western culture, 35–36
-- Rome Statute (1998): on attacks during conduct of hostilities, 379n58, 439–40, 441; on heritage destruction as war crime, xiii, 8, 284, 333, 368, 371, 439; on jurisdiction of ICC, 439–40; limits of application of, 371; Mali’s ratification of, 12, 260; NSAGs under, 331, 333, 341n52; states outside regime of, 579–80. *See also* International Criminal Court
+- Rome Statute (1998): on attacks during conduct of hostilities, 379n58, 439–40, 441; on heritage destruction as war crime, xiv, 8, 284, 333, 368, 371, 439; on jurisdiction of ICC, 439–40; limits of application of, 371; Mali’s ratification of, 12, 260; NSAGs under, 331, 333, 341n52; states outside regime of, 579–80. *See also* International Criminal Court
 - Roosevelt, Franklin, 478, 481, 501, 505
 - Rosenberg, Alfred, 435, 446n18
 - Rosenthal, Franz, 98
 - rules, vs. standards, 487, 495
 - Rumsfeld, Donald, 485, 487, 492
 - Rush, Laurie, 486, 510, 511
-- Russia: end of empire of, 66; Lithuania under, 56; motivations for destruction in, 66, 73; peacekeeping forces from, 527–28, 563; resistance to multilateralism in, 10; in Syrian reconstruction, 14, 222; in Syrian war, 190–91, 221, 576
+- Russia: end of empire of, 66; Lithuania under, 56; motivations for destruction in, 66, 73; peacekeeping forces from, 527–28, 563; resistance to multilateralism in, 10; in Syrian reconstruction, 15, 222; in Syrian war, 190–91, 221, 576; Ukraine invaded by, xxii–xxiv
 - Rwanda, 285, 346
 
 ---
@@ -1128,7 +1139,7 @@ Page numbers in *italics* indicate illustrations.
 - safe havens (refuges), for heritage, 11, 372–74
 - Safeguarding the Heritage of Syria and Iraq Project (SHOSI), 560–61
 - Sagan, Scott D., 467, 485–96
-- Sahnoun, Mohammed, 16
+- Sahnoun, Mohammed, 17
 - Salafism, of ISIS, 168–70, 177
 - Samarra, 314, 540, *540*, 557
 - Samawi, Muhammad b. Tahir b. Habib al-, 101
@@ -1142,14 +1153,14 @@ Page numbers in *italics* indicate illustrations.
 - Sax, Joseph, 364
 - Saxon Academy of Sciences and Humanities, 91
 - Sayed, Alaa al-, 233
-- Schmidtke, Sabine, 25–26, 86–102, 130, 238–51
+- Schmidtke, Sabine, 25–26, 86–102, 130–31, 238–51
 - scholarly community, 375n2
 - schools, in Timbuktu, 259
 - Schumpeter, Joseph, 24, 53
 - Scipio, 59
 - securitization, 10–11
 - selective memory, 578
-- Seleucid Empire, 207–9
+- Seleucid Empire, 207, 209
 - self-determination, 422
 - Sen, Amartya, 48n22
 - Senghor, Léopold Sédar, 40
@@ -1160,7 +1171,7 @@ Page numbers in *italics* indicate illustrations.
 - Shabibi, Muhammad Rida al-, 95
 - shadow economies, 59, 72
 - shadow pricing, 116
-- Shaheen, Farida, x
+- Shaheen, Farida, xi
 - Shahrazuri al-Naqshabandi, Khalid al-, 95
 - Shakespeare, William, 50
 - Shakir, 139
@@ -1184,7 +1195,7 @@ Page numbers in *italics* indicate illustrations.
 - Sinjar, 291
 - Sintash, Bahram, 143, 144, 294
 - Sirees, Nihad, 231
-- Sisi, Abdel Fattah el-, 10
+- Sisi, Abdel Fattah al-, 10
 - Sistani, Ali al-, 557, 559
 - Six-Day War (1967), 564–65, 568
 - slave traders, monuments to, 51–53
@@ -1224,9 +1235,9 @@ Page numbers in *italics* indicate illustrations.
 - Storey, Charles Ambrose, 90
 - Stout, George, 477
 - strategic logic, in military decision-making, 486, 488–90, 495
-- Strategy for the Reinforcement of UNESCO’s Action for the Protection of Culture and the Promotion of Cultural Pluralism in the Event of Armed Conflict (2015), xii–xiii, 453–54, 459
+- Strategy for the Reinforcement of UNESCO’s Action for the Protection of Culture and the Promotion of Cultural Pluralism in the Event of Armed Conflict (2015), xiii–xiv, 453–54, 459
 - Strauss, Johann, 42
-- Sufi, Mustfa al-, 207–8
+- Sufi, Mustfa al-, 207–9
 - Sufism: in Homs, 217; as target of ISIS, 170, 176, 178, *178*; in Timbuktu, 256, 257; Uyghurs and, 137; in Yemen, 242, 246
 - Suleiman the Magnificent, 35, 37
 - Suleimani, Qassim, 1, 493
@@ -1241,10 +1252,10 @@ Page numbers in *italics* indicate illustrations.
 - symbolic terrorism, 316
 - Symonides, Janusz, 406
 - synagogues, Nazi destruction of, *67*, 312. *See also* *specific locations*
-- Syria: Ancient Villages of Northern, 5; in List of World Heritage in Danger, ix, 571; ownership of Palmyra by, 575–76; Russian relations with, 14, 190–91, 221–22, 576; safe havens for heritage from, 373, 374. *See also* *specific locations*
+- Syria: Ancient Villages of Northern, 5; in List of World Heritage in Danger, x, 571; ownership of Palmyra by, 575–76; Russian relations with, 15, 190–91, 221–22, 576; safe havens for heritage from, 373, 374. *See also* *specific locations*
 - Syria, destruction by ISIS in. *See* ISIS, destruction in Iraq and Syria by
 - Syria, post-conflict reconstruction in, 129–30, 220–34; in Aleppo, 220, 224–29, *227*, 231, 233, 572; Beirut compared to, 229–31, 233–34; in Damascus, 227, 230–32; government agenda for, 220–25; at grassroots level, 232–33; in Homs, 220–24, *223*; in Palmyra, 348–49; reconciliation through, 562; sources of funding for, 225–29; UNDP in, 225–26, 228
-- Syrian war, 186–98; Assad on outcome of, 226, 233; current status of, 187, *188*; destruction by ISIS in (*See* ISIS); economic impacts of, 186–87; human casualties of, 187, 191; international funding of heritage protection in, 560–61; international law in, 195–97, 331; international responses in, 285, 369–70; lessons learned from, 195–98; local community in heritage protection in, 556–57, 560–61; overview of heritage destruction in, ix, 187; population impacts of, 187, 203–5; “terrorists” in, 222, 224. *See also* Aleppo; Homs; Palmyra
+- Syrian war, 186–98; Assad on outcome of, 226, 233; current status of, 187, *188*; destruction by ISIS in (*See* ISIS); economic impacts of, 186–87; human casualties of, 187, 191; international funding of heritage protection in, 560–61; international law in, 195–97, 331; international responses in, 285, 369–70; lessons learned from, 195–98; local community in heritage protection in, 556–57, 560–61; overview of heritage destruction in, x, 187; population impacts of, 187, 203–5; “terrorists” in, 222, 224. *See also* Aleppo; Homs; Palmyra
 
 ---
 
@@ -1254,12 +1265,13 @@ Page numbers in *italics* indicate illustrations.
 - Tamils, 127, 151–57, *154*
 - Tarzi, Zamaryalai, 163
 - Taşköprüzade, Ahmad b. Mustafa, 92
+- Tatars, xxii
 - Technical Committee on Cultural Heritage (TCCH), 562
 - Tel Marouf, *173*
 - terrorism, 361–62, 448–60; classification of terrorist groups, 449; definitions of, 449; early history of, 502; as excuse for human rights violations, 293; Global War on, 10, 134, 142; motivations for, 448, 449, 502; NSAGs and, 337–38, 451–52; reconstruction after, 457–59; socially mediated, 173, 455; symbolic, 316; in Syrian war, 222, 224; trafficking as source of income for, 450; UNESCO and, 448–50, 453–59; Uyghurs accused of, 134, 142, 144, 147, 291–92. *See also* counterterrorism
 - Tha‘alabi, Abu Ishaq Ahmad b. Muhammad al-, 101
 - Thailand, 349, 367, 413
-- Thakur, Ramesh, 16, 285
+- Thakur, Ramesh, 17, 285
 - Theophilos, 60
 - Thirty Years’ War, 62
 - Thomas Aquinas, 534–35
@@ -1269,19 +1281,19 @@ Page numbers in *italics* indicate illustrations.
 - Thurlow, Matthew, 493
 - Tibet, 68
 - Tigray, 554
-- Timbuktu, 254–57, *255*; Ahmed Baba Institute in, 257; Djingareyber Mosque in, 256, *256*; economy of, 255–58; founding of, 254–55; international funding of heritage protection in, 560; Islamic manuscripts of, ix, 102, *104,* 253, 256–58, 556; local community in heritage protection in, 556; overview of heritage of, 256–57
-- Timbuktu, destruction in, 131, 253–62; court identification of victims of, 349–50, 441, 442; of El Farouk monument, 253, 257; international reactions to, 253–54; of Islamic manuscripts, ix, 102, *104,* 253, 257–58; lessons learned from, 261–62; of mausoleums, 253–54, 257–62, *258,* *260,* 440–43; of mosques, 253, 254; motivations for, 70–71; reconstruction after, xiv, 254, 258–61, *260,* 458–59, 527; reparations for, 261, 349–50, 375, 442; of schools, 259; UNESCO on, 253–54, 257, 261, 526–27; videos of, 455. *See also* Mahdi, Ahmad al-
+- Timbuktu, 254–57, *255*; Ahmed Baba Institute in, 257; Djingareyber Mosque in, 256, *256*; economy of, 255–58; founding of, 254–55; international funding of heritage protection in, 560; Islamic manuscripts of, x, 102, *104*, 253, 257–58, 556; local community in heritage protection in, 556; overview of heritage of, 256–57
+- Timbuktu, destruction in, 131, 253–62; court identification of victims of, 349–50, 441, 442; of El Farouk monument, 253, 257; international reactions to, 253–54; of Islamic manuscripts, x, 102, *104*, 253, 257–58; lessons learned from, 261–62; of mausoleums, 253–54, 257–62, *258*, *260*, 440–43; of mosques, 253, 254; motivations for, 70–71; reconstruction after, xv, 254, 258–61, *260*, 458–59, 527; reparations for, 261, 349–50, 375, 442; of schools, 259; UNESCO on, 253–54, 257, 260–61, 526–27; videos of, 455. *See also* Mahdi, Ahmad al-
 - Togo, 28–29
 - Tokyo, 488, 490
 - tombs, Maya, 267–68
 - torture, 487
-- total economic value, *117,* 117–19
+- total economic value, *117*, 117–19
 - tourism: in Afghanistan, 162; dark, 153, 304; in economic value calculations, 116–17, 120, 122; of Maya heritage, 267, 271, 273; in post-conflict economic recovery, 541; in Sri Lanka, 153; in Timbuktu, 255–58; of Uyghur heritage, 135, 136, 140
 - Tours, Battle of, 34
-- trafficking, illicit: customary law prohibition on, 418–20, 424; in Maya artifacts, 265–74, *268,* 276n14; peacekeeping forces and, 523–24; in Syrian war, 370; by terrorists, 450; UN Security Council on, 11, 450, 523; in Yemeni manuscripts, 102, *105,* 248–49
+- trafficking, illicit: customary law prohibition on, 418–20, 424; in Maya artifacts, 265–74, *268*, 276n14; peacekeeping forces and, 523–24; in Syrian war, 370; by terrorists, 450; UN Security Council on, 11, 450, 523; in Yemeni manuscripts, 102, *105*, 248–49
 - training. *See* education
 - Training and Doctrine Command (TRADOC), 508
-- Trajan, 8
+- Trajan, 8–9
 - transdisciplinary collaboration, 319–20
 - transgender identity, 31
 - transitional justice, 282–83, 343–53; approaches and mechanisms of, 344; evolution of meaning of, 344; ownership of heritage and, 343–44; recommendations on use of, 580
@@ -1292,32 +1304,32 @@ Page numbers in *italics* indicate illustrations.
 - Trump, Donald, 1, 467, 485, 487, 493–95, 498n38, 581
 - truth commissions, 344, 580
 - Tunisia, 94
-- Turkey: in conflict between Armenia and Azerbaijan, 564; Hagia Sophia in, 8, 564; Islamic manuscripts in, 86; Pergamon Altar in, 84; resistance to multilateralism in, 10; Süleymaniye Library in, 86, *88*; in Syrian war, 189, 191; Topkapı Palace in, 94
+- Turkey: in conflict between Armenia and Azerbaijan, 564; Hagia Sophia in, 7–8, 564; Islamic manuscripts in, 86; Pergamon Altar in, 84; resistance to multilateralism in, 10; Süleymaniye Library in, 86, *88*; in Syrian war, 189, 191; Topkapı Palace in, 94
 - Twelver Shiism, 92, 94, 95, 98–99
-- Tylor, Edward Burnett: *Anahuac,* 46n4; anthropological work of, 31–32; definition of culture by, 32, 35, 41–45; *Primitive Culture,* 31–32; and Western culture, 38, 39, 47n19
+- Tylor, Edward Burnett: *Anahuac*, 46n4; anthropological work of, 31–32; definition of culture by, 32, 35, 41–45; *Primitive Culture*, 31–32; and Western culture, 38, 39, 47n19
 
 ---
 
-- Ukraine, Russian invasion of, xx–xxii
+- Ukraine, Russian invasion of, xxii–xxiv
 - Umayyad Caliphate, 34, 69
 - UN: on definition of terrorism, 449; evidence of customary cultural heritage law in, 416–19; *Framework of Analysis for Atrocity Crimes* by, 368; intergovernmental approach to counterterrorism by, 450; *Saving the Cultural Heritage of Iraq* resolution by, 417
 - UN Charter, 10, 361, 368, 417, 421, 423, 436, 450
 - UN Children’s Fund (UNICEF), 192
 - UN Declaration on the Rights of Indigenous Peoples (UNDRIP, 2007), 403, 405
 - UN Development Programme (UNDP): in Cyprus, 562; in Iraq, 457; on Syria, 187, 225–26, 228
-- UN Educational, Scientific and Cultural Organization (UNESCO): on Bamiyan Buddhas, 162–63, 398; budget of, 580; Constitution of, 422–23; Heritage Emergency Fund of, 12; human rights approach of, 397–400, 404–7; on Iraq, 291; limits of jurisdiction of, 449; lines of action taken by, xi–xiv; NSAGs’ engagement with, 332, 333, 336–37, 372; on R2P, xi; in reconstruction, 291, 457–59; on strategic cultural cleansing, 2, 134; on Syria, 193, 197; terrorism and, 448–50, 453–59; on Timbuktu, 253–54, 257, 261, 526–27; #Unite4Heritage initiative of, x, xiv, 201n41, 457; use of term “cultural cleansing” by, 449. *See also* *specific conventions*
+- UN Educational, Scientific and Cultural Organization (UNESCO): on Bamiyan Buddhas, 162–63, 398; budget of, 580; Constitution of, 422–23; Heritage Emergency Fund of, 12; human rights approach of, 397–400, 404–7; on Iraq, 291; limits of jurisdiction of, 449; lines of action taken by, xii–xv; NSAGs’ engagement with, 332, 333, 336–37, 372; on R2P, xii; in reconstruction, 291, 457–59; on strategic cultural cleansing, 2, 134; on Syria, 193, 197; terrorism and, 448–50, 453–59; on Timbuktu, 253–54, 257, 260–61, 526–27; on Ukraine, xxii; #Unite4Heritage initiative of, xi, xv, 201n41, 457; use of term “cultural cleansing” by, 449. *See also* *specific conventions*
 - UN Global Counter-Terrorism Strategy, 456
 - UN High Commissioner for Human Rights, 175
 - UN High Commissioner for Refugees (UNHCR), 187
 - UN Human Rights Committee (HRC), 402–3, 406
-- UN Human Rights Council, x, 285, 293, 331, 417
+- UN Human Rights Council, xi, 285, 293, 331, 417
 - UN Institute for Training and Research (UNITAR), 193
 - UN Interim Administration Mission in Kosovo (UNMIK), 558
 - UN Investigative Team to Promote Accountability for Crimes Committed by Da’esh/ISIL (UNITAD), 291
-- UN peacekeeping, 468–69, 517–28; absence of heritage protection in priorities of, 518–20; arguments for heritage protection by, 518, 520–28; criminal violence and, 523–24; cultural preservation in mandate of, 11; people-centered approach by, 526–27; political violence and, 521–22; priorities of, 520, 527; size of force, 519. *See also* *specific conflicts and locations*
+- UN peacekeeping, 468–69, 517–28; absence of heritage protection in priorities of, 518–20; arguments for heritage protection by, 518, 520–28; criminal violence and, 524; cultural preservation in mandate of, 11; people-centered approach by, 526–27; political violence and, 521–22; priorities of, 520, 527; size of force, 519. *See also* *specific conflicts and locations*
 - UN Peacekeeping Force in Cyprus (UNFICYP), 525–26
 - UN Security Council: Chinese membership in, 293; evidence of customary cultural heritage law in, 417; ICTY established by, 436; on MINUSMA mandate, 518–19; on NSAGs, 333; R2P in, 13, 285, 368, 423–24; on Syrian war, 197; on terrorist groups, 449; on Timbuktu, 254; trigger for decisions in, 10
-- UN Security Council resolutions: 827, 436; 1485, 417; 1674, 13; 1706, 13; 2100, x, 11, 254, 370–71, 421; 2170, 417; 2199, xiii, 11, 197, 290, 369–70, 450; 2253, 11; 2347, xv, 11–12, 197, 290, 369–70, 373, 417, 419, 421, 450, 518–19, 523, 541; 2379, xv; 2462, 450
+- UN Security Council resolutions: 827, 436; 1485, 417; 1674, 13; 1706, 13; 2100, xi, 11, 254, 370–71, 421; 2170, 417; 2199, xiv, 11, 197, 290, 369–70, 450; 2253, 11; 2347, xvi, 11–12, 197, 290, 369–70, 373, 417, 419, 421, 450, 518–19, 523, 541; 2379, xvi; 2462, 450
 - UN Sustainable Development Goals, 423
 - UN Truce Supervision Organization (UNTSO), 517, 520
 - UN War Crimes Commission (UNWCC), 432–34
@@ -1325,7 +1337,7 @@ Page numbers in *italics* indicate illustrations.
 - UN-Habitat, 193
 - uniformed sector, 531–46; definition of, 531; interdependence with heritage and humanitarian sectors, *533*, 533–34, 542–43; relevance of heritage protection to, 538–42, 545–46
 - Union Catalogue of Manuscripts in Iranian Libraries, 86–87
-- #Unite4Heritage initiative, x, xiv, 201n41, 457
+- #Unite4Heritage initiative, xi, xv, 201n41, 457
 - United Arab Emirates, 291, 457, 560
 - United Kingdom. *See* Britain
 - United Nations. *See* UN
@@ -1335,20 +1347,20 @@ Page numbers in *italics* indicate illustrations.
 - Universal Declaration of Human Rights (1948), 456
 - Universal Declaration on Cultural Diversity (2001), 398
 - universal jurisdiction, 387, 578
-- universal value of heritage: in destruction as propaganda, 316; general principle on, 422–23; Hague Convention on, 7–8, 284, 311, 422, 546; in al-Mahdi case, 430, 441, 442; outstanding, ix, xiv, xv, 7, 17, 261, 389, 458–59; at religious sites, 472, 473; and universal value of human life, 303; World Heritage Convention on, ix, 7, 8
+- universal value of heritage: in destruction as propaganda, 316; general principle on, 422–23; Hague Convention on, 7–8, 284, 311, 422, 546; in al-Mahdi case, 430, 441, 442; outstanding, x, xv, xvi, 7, 17, 261, 389, 458–59; at religious sites, 472, 473; and universal value of human life, 303; World Heritage Convention on, x, 7, 8
 - universal values, 430, 458–60
 - Ur, *491*, 492
 - Urban II, 35
 - US National Committee of the Blue Shield, 511
-- use value of heritage, 115, 117–18
-- *uti possidetis,* 414–15
-- Uyghurs, 126–27, 133–47; cemeteries of, 138–39, 145–46, *146*; Chinese heritage policy on, 135–36; destruction of sites of, 142–46, 292–93; in detention camps, 133–34, 144–45, 292, 569–70; international response to attacks on, 147, 291–94; madrasas of, 136–37; mosques of, 135–36, *137*, *141*, 141–45, *143*, 292; origins of Islam among, 137, 146; physical genocide of, 294; religious extremism and, 135, 140, 142–45, 147; shrines of, 135–41, *138*, 145, 292; strategic cultural cleansing of, 134
+- use value of heritage, 115, 118
+- *uti possidetis*, 414–15
+- Uyghurs, 126–27, 133–47; cemeteries of, 138–39, 145–46, *146*; Chinese heritage policy on, 135–36; destruction of sites of, 142–46, 292–93; in detention camps, 133–34, 144–45, 292, 570; international response to attacks on, 147, 291–94; madrasas of, 136–37; mosques of, 135–36, *137*, *141*, 141–45, *143*, 292; origins of Islam among, 137, 146; physical genocide of, 294; religious extremism and, 135, 140, 142–45, 147; shrines of, 135–41, *138*, 145, 292; strategic cultural cleansing of, 134
 
 ---
 
 - Valerian, 82
 - Valland, Rose, 556
-- value of cultural heritage: aesthetic, 118, 121, 396; biographical, 301–3; community narratives about, 49–58; as criteria in conventions, 7; vs. human life, 300–305; intangible, xiv, 110, 114–15; intrinsic vs. extrinsic, 4, 318–19; introduction to chapters on, 23–26; reasons for, 301–3, 571–73; at religious sites, 472, 473. *See also* economic value; universal value
+- value of cultural heritage: aesthetic, 118, 121, 396; biographical, 301–3; community narratives about, 49–58; as criteria in conventions, 7; vs. human life, 300–305; intangible, xv, 110, 114–15; intrinsic vs. extrinsic, 4, 318–19; introduction to chapters on, 23–26; reasons for, 301–3, 571–73; at religious sites, 472, 473. *See also* economic value; universal value
 - value of cultural heritage destruction, 4–8
 - values: universal, 430, 458–60; of Western culture, 39, 45
 - vandalism: coining of term, 63, 364, 438; in draft Genocide Convention, 3–4, 364–65, 538
@@ -1368,17 +1380,20 @@ Page numbers in *italics* indicate illustrations.
 - Vilnu, 556
 - violent extremism, people-centered approach to preventing, 456–57
 - von Schorlemer, Sabine, 361–62, 448–60
+
+---
+
 - Wagner, Richard, 42
 - Wahhabis, 69
 - Wannsee Conference (1942), 312
-- war: choosing between human life and heritage in, 280, 299–308; direct vs. indirect effects of, 310, 315, 319; future role of heritage protection in, 545–46; heritage destruction as tactic of, viii; humanitarian perspective on heritage protection in, 309–20; key threats to heritage in, 542–45; nature of, post-1945, 324; norms of, changes to, 323–24; outsourcing of, 324–25; restraint in, 333–38; within vs. between states, 324; ways of mitigating cultural loss during, 305–7. *See also* *specific countries and wars*
-- war, casualties of: from direct vs. indirect effects of war, 310, 315; in Syrian war, 187, 191; in World War II, 474, 483n10, 488
+- war: choosing between human life and heritage in, 280, 299–308; direct vs. indirect effects of, 310, 315, 319; future role of heritage protection in, 545–46; heritage destruction as tactic of, ix; humanitarian perspective on heritage protection in, 309–20; key threats to heritage in, 542–45; nature of, post-1945, 324; norms of, changes to, 323–24; outsourcing of, 324–25; restraint in, 333–38; within vs. between states, 324; ways of mitigating cultural loss during, 305–7. *See also* *specific countries and wars*
+- war, casualties of: from direct vs. indirect effects of war, 310, 315; in Russian invasion of Ukraine, xxii; in Syrian war, 187, 191; in World War II, 474, 483n10, 488
 - war, laws of. *See* Geneva Conventions; international humanitarian law
-- war crimes: first list of, 432; as mass atrocity crime in R2P, 14, 17–18, 279, 285, 367; by NSAGs vs. states, 328–29; origins of concept of heritage destruction as, 432; Rome Statute on heritage destruction as, xiii, 8, 284, 333, 368, 371, 439; in Syria, 331; in World War I, 432. *See also* Mahdi, Ahmad al-
+- war crimes: first list of, 432; as mass atrocity crime in R2P, 14, 17–18, 279, 285, 367; by NSAGs vs. states, 328–29; origins of concept of heritage destruction as, 432; Rome Statute on heritage destruction as, xiv, 8, 284, 333, 368, 371, 439; in Syria, 331; in World War I, 432. *See also* Mahdi, Ahmad al-
 - war memorials, 54, 153, 234
 - Warren, Elizabeth, 498n38
-- Warsaw, xv, 55–56
-- Weiss, Thomas G.: comments on, 284–85, 373, 449, 450, 459, 554; conclusion by, 568–82; introductions by, 1–18, 23–26, 126–32, 279–83, 358–62, 466–70
+- Warsaw, xvi, 55–56
+- Weiss, Thomas G.: comments on, 284–85, 373, 449, 450, 459, 554; conclusion by, 568–82; introductions by, 1–18, 23–26, 126–32, 279–83, 358–62, 466–70; preface by, xix–xxiv
 - Welsh, Jennifer M., 281–82, 323–38
 - West, the: meanings and use of term, 33; origins of concept of, 38–39, 47n21
 - West, Rebecca, 39
@@ -1400,9 +1415,9 @@ Page numbers in *italics* indicate illustrations.
 - World Conservation Union, 375–76n2
 - World Customs Organization, 541
 - World Health Organization (WHO), 192, 533
-- World Heritage Committee, xii, 8, 253–54, 390, 448, 458, 459
-- World Heritage Convention (WHC, 1972): compared to other conventions, 7–8; fiftieth anniversary of, 574; human rights approach of, 404; internationalist approach of, 347; limited to states, 341n53; meaning of term “cultural heritage” in, 7, 393n1; obligations of signatories to, 571; on reconstruction, 458; role in heritage protection, xi–xii; states party to, xii, 425n5; in Syrian war, 195–96; on universal value of heritage, ix, 7, 8; use of term “cultural heritage” in, 397–98
-- World Heritage in Danger, List of, ix, xii, 160, 197, 254, 448, 571
+- World Heritage Committee, xiii, 8, 253–54, 390, 448, 458, 459
+- World Heritage Convention (WHC, 1972): compared to other conventions, 7–8; fiftieth anniversary of, 574; human rights approach of, 404; internationalist approach of, 347; limited to states, 341n53; meaning of term “cultural heritage” in, 7, 393n1; obligations of signatories to, 571; on reconstruction, 458; role in heritage protection, xii–xiii; states party to, xiii, 425n5; in Syrian war, 195–96; on universal value of heritage, x, 7, 8; use of term “cultural heritage” in, 397–98
+- World Heritage in Danger, List of, x, xiii, 160, 197, 254, 448, 571
 - World Heritage List: in international humanitarian law, 389–90; as target of terrorism, 448. *See also* *specific sites*
 - World Monuments Fund, 561
 - World Summit (2005), 2, 12–18, 279, 285. *See also* responsibility to protect
@@ -1423,13 +1438,13 @@ Page numbers in *italics* indicate illustrations.
 - Yahya Hamid al-Din, 238–42, 246
 - Yakub Beg, 136
 - Yemen: civil war in, 570; coup attempt of 1948 in, 240; educational reform in, 238; heritage destruction in, 554, 570; under Houthis, 554, 570; map of, *245*; private funding for heritage protection in, 561
-- Yemeni manuscripts, 130, 238–51; collected in Khizāna (Maktabat al-Awqāf), 238–42, *239*, *243*, 246, 251n2; current status of, 102, 246–51, *247–50*; destruction of, 102, 249, *250*; digital copies of, 247–48, *248*, 250; illicit trafficking in, 102, *105*, 248–49; Iranian Zaydis and, 243–44; in libraries outside Yemen, 240, *241*, *246*, 249–50; number of, in libraries of Yemen, 87; under Qāsimīs, 240, 242, 245–46; value of, 246–47; under Yahya Hamid al-Din, 238–42, 246
+- Yemeni manuscripts, 130–31, 238–51; collected in Khizāna (Maktabat al-Awqāf), 238–42, *239*, *243*, 246, 251n2; current status of, 102, 246–51, *247–50*; destruction of, 102, 249, *250*; digital copies of, 247–48, *248*, 250; illicit trafficking in, 102, *105*, 248–49; Iranian Zaydis and, 243–44; in libraries outside Yemen, 240, *241*, *246*, 249–50; number of, in libraries of Yemen, 87; under Qāsimīs, 240, 242, 245–46; value of, 246–47; under Yahya Hamid al-Din, 238–42, 246
 - Yemeni Revolution (2011), 570
 - Yezidis, ISIS attacks on, 170, 175–79; international responses to, 288–91; motivations for, 71, 290; parallel attacks on heritage and humans in, 315; shrines as targets of, 289–90, 291, 315
 - Younan, Ignatius Yousef, 176
 - Ypres, 431
 - Yue Xie, 136
-- Yugoslav wars: cultural cleansing in, 436; ethnic cleansing in, 9, 315, 436, 438; failure of Hague Convention in, 554; genocide in, 285, 414, 436–37; International Court of Justice on, 414; Islamic manuscripts in, 102; motivations for destruction in, 69, *70*, 436; parallel attacks on heritage and humans in, 315; peacekeepers in, 517–18, 521–22, 524–25, 558–59; reconstruction after, xiv–xv, 562. *See also* International Criminal Tribunal for the former Yugoslavia
+- Yugoslav wars: cultural cleansing in, 436; ethnic cleansing in, 9, 315, 436, 438; failure of Hague Convention in, 554; genocide in, 285, 414, 436–37; International Court of Justice on, 414; Islamic manuscripts in, 102; motivations for destruction in, 69, *70*, 436; parallel attacks on heritage and humans in, 315; peacekeepers in, 517–18, 521–22, 524–25, 558–59; reconstruction after, xv–xvi, 562. *See also* International Criminal Tribunal for the former Yugoslavia
 - Yusup, Marguba, 147
 
 ---
