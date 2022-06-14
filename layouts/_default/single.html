@@ -17,7 +17,7 @@
       <div class="content">
         {{ if and (eq .Site.Params.epub true) (eq .File.BaseFileName "preface-acknowledgements") }}
           {{ $content := .RawContent }}
-          {{ $content = replace $content "[foreword](/foreword/)" "foreword" }}
+          {{ $content = replaceRE "\\[(.*?)\\]\\((.*?)\\)" "$1" $content }}
           {{ $content | markdownify }}
         {{ else }}
           {{ .Content }}

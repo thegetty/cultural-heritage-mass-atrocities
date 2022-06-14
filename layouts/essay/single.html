@@ -3,6 +3,10 @@
   THIS OVERRIDE FILES ADDS A NOTICE TO THE BOTTOM OF THE PAGE
   BASED ON THE copyright VALUE IN THE PAGE YAML
 
+  IT ALSO USES A HACK TO STRIP OUT INTERNAL LINKS FROM THE EPUB VERSION.
+  THE LINKS WERE CAUSING ERRORS WHICH WOULD HAVE OTHERWISE REQUIRED CLI FIXES.
+  DID THE SAME THING IN _default/single.html
+
   Essay layout. This layout describes a single-page template that has been
   augmented with the ability to display a frontmatter-defined abstract (in
   markdown format) as well as bibliography references.
@@ -72,7 +76,13 @@
     {{ end }}
     <div class="container">
       <div class="content">
-        {{ .Content }}
+        {{ if and (eq .Site.Params.epub true) (eq .File.BaseFileName "intro") }}
+          {{ $content := .RawContent }}
+          {{ $content = replaceRE "\\[(.*?)\\]\\((.*?)\\)" "$1" $content }}
+          {{ $content | markdownify }}
+        {{ else }}
+          {{ .Content }}
+        {{ end }}
         {{ partial "page-bibliography.html" . }}
       </div>
       {{ partial "footer-buttons.html" . }}
