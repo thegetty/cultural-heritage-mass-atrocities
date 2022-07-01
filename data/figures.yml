@@ -596,6 +596,13 @@ figure_list:
     caption: "Total economic value of an asset (Serageldin et al. 1999)"
     credit: ""
 
+  - id: "fig-6-1-serageldin-svg"
+    src: "figures/fig-6-1-serageldin.svg"
+    alt: ""
+    label: "Figure 6.1"
+    caption: "Total economic value of an asset (Serageldin et al. 1999)"
+    credit: ""
+
   - id: "fig-7-1-harris"
     src: "figures/fig-7-1-harris.jpg"
     alt: ""
