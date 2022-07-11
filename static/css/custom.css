@@ -111,7 +111,8 @@
     max-width: 25vw;
   }
 }
-@media screen and (max-width:1000px) {
+
+@media screen and (((max-width:1370px) and (min-height:800px)) or (max-width:1000px)) {
   .quire-cover__hero.hero.is-fullheight {
     position: relative;
     display: flex;
@@ -123,7 +124,10 @@
     margin: 0;
   }
   .quire-cover__hero-body__text-pane {
-    background-color: rgb(232, 219, 189, .8);
+    background: linear-gradient(0deg, rgb(232, 219, 189, 0), rgb(232, 219, 189, .8), rgb(232, 219, 189, 1), rgb(232, 219, 189, .8), rgb(232, 219, 189, 0));
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    padding: 3rem .75rem;
   }
   .quire-cover__hero .title {
     margin-top: 0;
@@ -131,7 +135,6 @@
   .quire-cover__hero .title,
   .quire-cover__hero .contributor {
     text-align: center;
-    width: 100vw;
     max-width: 100vw;
     margin-left: 0;
     margin-right: 0;
@@ -160,6 +163,23 @@
 @media print {
   .quire-cover__hero-body__text-pane {
     display: none;
+  }
+}
+
+@media screen and (max-width:500px) {
+  .quire-cover__hero.hero.is-fullheight {
+    min-height: auto !important;
+  }
+  .quire-cover__hero-body__image-pane,
+  .quire-cover__hero-body__image-pane img {
+    height: auto !important;
+    position: inherit;
+  }
+  .quire-cover__hero .title {
+    font-size: 2.25rem;
+  }
+  .quire-cover__hero .title .sm {
+    font-size: 1.75rem;
   }
 }
 
