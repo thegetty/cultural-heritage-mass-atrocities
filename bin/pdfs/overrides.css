@@ -71,13 +71,12 @@
     content: none !important;
   }
 }
-/* @page translated-contents:left {
-  margin: 0.875in !important;
-  background-color: plum;
-}
-@page translated-contents:right {
-  margin: 0.875in !important;
-} */
 .quire-page.quire-contents.quire-page--translated-contents {
   page: translated-contents !important;
+}
+
+/* Fixes a strange issue with these individual pages coming out differently
+    than the main PDF */
+.quire-page__header {
+  margin-top: 0 !important;
 }
