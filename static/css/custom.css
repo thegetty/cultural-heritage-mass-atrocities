@@ -112,7 +112,8 @@
   }
 }
 
-@media screen and (((max-width:1370px) and (min-height:800px)) or (max-width:1000px)) {
+@media screen and (max-width:1370px) and (min-height:800px),
+       screen and (max-width:1000px) {
   .quire-cover__hero.hero.is-fullheight {
     position: relative;
     display: flex;
