@@ -6,7 +6,7 @@
     "headline": "{{ partial "page-title.html" . }}",
     "url": "{{ .Permalink }}",
     {{ if .Page.Params.cover -}}
-    "image": "{{ .Site.BaseURL }}{{ .Site.Params.imageDir }}{{ .Site.Params.figureSubDir }}{{ .Page.Params.cover }}",
+    "image": "{{ .Site.Params.imageDir }}/{{ .Page.Params.cover }}",
     {{ end -}}
     {{ with .Page.Params.contributor -}}
     "author": [
@@ -106,8 +106,8 @@
       {{ end -}}
     ],
     {{ end -}}
-    {{ with .Site.Data.publication.promo_image -}}
-    "image": "{{ $.Site.BaseURL }}{{ $.Site.Params.imageDir }}{{ . }}",
+    {{ with .Site.Data.publication.social_image -}}
+    "image": "{{ $.Site.Params.imageDir }}/{{ . }}",
     {{ end -}}
     "description": "{{ replaceRE "\n" " " .Site.Data.publication.description.full }}"
     {{ if eq .Type "essay" -}}

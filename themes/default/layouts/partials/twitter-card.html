@@ -1,10 +1,11 @@
+{{- $socialImage := printf "%s/%s" .Site.Params.imageDir .Site.Data.publication.social_image -}}
 {{ if ne .Type "essay" -}}
   <!-- Books and Integrated Book Parts/Chapters -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="{{ .Site.BaseURL }}">
   <meta name="twitter:title" content="{{ partial "site-title.html" . }}">
   <meta name="twitter:description" content="{{ if .Site.Data.publication.description.one_line }}{{ .Site.Data.publication.description.one_line }}{{ else }}{{ with .Site.Data.publication.description.full }}{{ . | truncate 160 }}{{ end }}{{ end }}">
-  <meta name="twitter:image" content="{{ with .Site.Data.publication.promo_image }}{{ $.Site.BaseURL }}{{ $.Site.Params.imageDir }}{{ . }}{{ end }}">
+  <meta name="twitter:image" content="{{ $socialImage }}">
 {{ else -}}
   <!-- Standalone Essays/Articles w/i Books  -->
   <meta name="twitter:card" content="summary_large_image">
@@ -16,8 +17,9 @@
   <meta name="twitter:description" content="{{ if .Site.Data.publication.description.one_line }}{{ .Site.Data.publication.description.one_line }}{{ else }}{{ with .Site.Data.publication.description.full }}{{ . | truncate 160 }}{{ end }}{{ end }}">
   {{ end -}}
   {{ if .Page.Params.cover -}}
-  <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.imageDir }}{{ .Site.Params.figureSubDir }}{{ .Page.Params.cover }}" />
+  {{- $socialImageEssay := printf "%s/%s" .Site.Params.imageDir .Page.Params.cover -}}
+  <meta property="twitter:image" content="{{ $socialImageEssay | relURL }}" />
   {{ else -}}
-  <meta property="twitter:image" content="{{ with .Site.Data.publication.promo_image }}{{ $.Site.BaseURL }}{{ $.Site.Params.imageDir }}{{ . }}{{ end }}" />
+  <meta property="twitter:image" content="{{ $socialImage }}" />
   {{ end -}}
   {{ end -}}
