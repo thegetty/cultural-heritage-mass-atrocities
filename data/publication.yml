@@ -150,4 +150,5 @@ repository_url:
 # ------------------------------------------------------------------------------
 
 promo_image: cover.jpg
-social_image: cover-social.jpg
+
+social_image: https://www.getty.edu/publications/cultural-heritage-mass-atrocities/img/cover-social.jpg
