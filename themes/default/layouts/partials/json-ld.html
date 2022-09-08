@@ -6,7 +6,7 @@
     "headline": "{{ partial "page-title.html" . }}",
     "url": "{{ .Permalink }}",
     {{ if .Page.Params.cover -}}
-    "image": "{{ .Site.Params.imageDir }}/{{ .Page.Params.cover }}",
+    "image": "{{ .Site.Data.publication.social_image }}",
     {{ end -}}
     {{ with .Page.Params.contributor -}}
     "author": [
@@ -107,7 +107,7 @@
     ],
     {{ end -}}
     {{ with .Site.Data.publication.social_image -}}
-    "image": "{{ $.Site.Params.imageDir }}/{{ . }}",
+    "image": "{{ . }}",
     {{ end -}}
     "description": "{{ replaceRE "\n" " " .Site.Data.publication.description.full }}"
     {{ if eq .Type "essay" -}}
