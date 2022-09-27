@@ -12,4 +12,5 @@ themes/default/static/js/application.js
 themes/default/test-results/
 themes/default/tests/e2e/
 
-static/img/magick
+static/img/magic*
+static/img/iii*

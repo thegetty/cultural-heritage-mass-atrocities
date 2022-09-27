@@ -10,10 +10,10 @@
 // -----------------------------------------------------------------------------
 $print-base-text-column-width: 4.75in;
 
-$print-bottom-margin: 0.75in;
+$print-bottom-margin: 0.625in;
 $print-top-margin: 0.875in;
-$print-outer-margin: 1.125in;
-$print-inner-margin: .625in;
+$print-outer-margin: .875in;
+$print-inner-margin: 1in;
 
 $print-base-text-column-width: $print-width - $print-outer-margin - $print-inner-margin;
 
@@ -52,20 +52,27 @@ $print-trim: $print-bleed * 2;
     margin-left: $print-outer-margin;
     margin-right: $print-inner-margin;
 
-    @bottom-right {
+    @top-left {
       content: string(sectiontitle);
       text-transform: uppercase;
-      letter-spacing: 1pt;
-      font-size: 7.5pt;
+      font-size: 7pt;
+      letter-spacing: .5pt;
+      margin-left: .75in;
     }
 
-    @bottom-left {
+    @top-left-corner {
       content: counter(page);
+      font-size: 12pt;
+      margin-left: $print-outer-margin;
+      margin-right: -.75in;
+      text-align: left;
+      font-family: 'Source Sans Pro', sans-serif;
+      font-weight: 400;
     }
   }
 
   @page:left:first {
-    @bottom-right {
+    @top-left {
       content: none;
     }
   }
@@ -74,30 +81,40 @@ $print-trim: $print-bleed * 2;
     margin-left: $print-inner-margin;
     margin-right: $print-outer-margin;
 
-    @bottom-left {
+    @top-right {
       content: string(pagetitle);
+      text-transform: uppercase;
+      font-size: 7pt;
+      letter-spacing: .5pt;
+      text-align: right;
+      margin-right: .75in;
     }
 
-    @bottom-right {
-      text-align: right;
+    @top-right-corner {
       content: counter(page);
+      font-size: 12pt;
+      margin-right: $print-outer-margin;
+      margin-left: -.75in;
+      text-align: right;
+      font-family: 'Source Sans Pro', sans-serif;
+      font-weight: 400;
     }
   }
 
   @page:right:first {
-    @bottom-left {
+    @top-right {
       content: none;
     }
   }
 
   @page frontmatter:left {
-    @bottom-left {
+    @top-left-corner {
       content: counter(page, lower-roman);
     }
   }
 
   @page frontmatter:right {
-    @bottom-right {
+    @top-right-corner {
       text-align: right;
       content: counter(page, lower-roman);
     }
@@ -105,14 +122,14 @@ $print-trim: $print-bleed * 2;
 
   @page frontmatter-splash:left {
     background-color: $print-splash-color;
-    @bottom-left {
+    @top-left-corner {
       content: counter(page, lower-roman);
     }
   }
 
   @page frontmatter-splash:right {
     background-color: $print-splash-color;
-    @bottom-right {
+    @top-right-corner {
       text-align: right;
       content: counter(page, lower-roman);
     }
@@ -134,26 +151,37 @@ $print-trim: $print-bleed * 2;
   }
 
   @page no-footer, entry-image, splash-image, cover {
-    @bottom-right {
+    @top-right {
       content: none;
     }
-
-    @bottom-left {
+    @top-right-corner {
+      content: none;
+    }
+    @top-left {
+      content: none;
+    }
+    @top-left-corner {
       content: none;
     }
   }
 
   @page page-one:first {
-    @bottom-left {
+    @top-right {
       content: none;
     }
   }
 
   @page :blank {
-    @bottom-left {
+    @top-left {
       content: none;
     }
-    @bottom-right {
+    @top-left-corner {
+      content: none;
+    }
+    @top-right {
+      content: none;
+    }
+    @top-right-corner {
       content: none;
     }
   }
@@ -181,12 +209,12 @@ $print-trim: $print-bleed * 2;
 
   .quire-contents-list {
     .section-item > a {
-      max-width: 90%;
+      width: 87%;
     }
     .section-item > a::after {
       content: leader(dotted) ' 'target-counter(attr(href, url), page);
-      margin-left: 6pt;
-      margin-right: -10%;
+      // margin-left: 6pt;
+      margin-right: -13%;
       // This border is a hack for PrinceXML which doesn't
       // otherwise recognize the box sizing for some reason
       border: 1pt solid transparent;
@@ -196,11 +224,11 @@ $print-trim: $print-bleed * 2;
       font-style: italic;
     }
     .page-item {
-      max-width: 90%;
+      width: 87%;
       a::after {
         content: leader(dotted) ' 'target-counter(attr(href, url), page);
-        margin-left: 6pt;
-        margin-right: -10%;
+        // margin-left: 6pt;
+        margin-right: -13%;
         // This border is a hack for PrinceXML which doesn't
         // otherwise recognize the box sizing for some reason
         border: 1pt solid transparent;
@@ -208,8 +236,8 @@ $print-trim: $print-bleed * 2;
       &.frontmatter-page > a::after {
         content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
         font-style: italic;
-        margin-left: 6pt;
-        margin-right: -10%;
+        // margin-left: 6pt;
+        margin-right: -13%;
         // This border is a hack for PrinceXML which doesn't
         // otherwise recognize the box sizing for some reason
         border: 1pt solid transparent;
@@ -446,9 +474,8 @@ $print-trim: $print-bleed * 2;
   // that are printed in the text of the book, in order to facilitate better
   // line breaking per Chicago Manual of Style
   // https://www.chicagomanualofstyle.org/book/ed17/part3/ch14/psec018.html
-  a[target=_blank] {
-    prince-text-replace: "/" "\200B/"
-                          "~" "\200B~"
+  a[href^="http"] {
+    prince-text-replace: "~" "\200B~"
                           "." "\200B."
                           "," "\200B,"
                           "-" "\200B-"
@@ -459,9 +486,8 @@ $print-trim: $print-bleed * 2;
                           "=" "\200B="
                           "&" "\200B&"
                           "+" "\200B+"
-                          ":" "\200B:"
-                          "\200B/\200B/" "//\200B"
-                          "\200B:\200B:" "\200B::";
+                          ":" ":\200B"
+                          "//" "//\200B";
   }
 
   // Same method as above but to improve breaks around em-dashes

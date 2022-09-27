@@ -1,30 +1,3 @@
-/* TEMP "UNCORRECTED PROOF" BANNER */
-@media screen {
-  #container::before,
-  #container::after {
-    color: white;
-    font-weight: 700;
-    position: fixed;
-    width: 230px;
-    height: 230px;
-    z-index: 4000;
-    transform: rotate(-45deg);
-    text-align: center;
-    padding-top: 1rem;
-  }
-  #container::before {
-    content: "UNCORRECTED";
-    background-color: red;
-    bottom: -115px;
-    right: -115px;
-  }
-  #container::after {
-    content: "PROOF";
-    bottom: -130px;
-    right: -130px;
-  }
-}
-
 :root {
 
   /* Palette:
@@ -39,17 +12,149 @@
   under the cover type when specified in cover.md with the
   .with-shading class */
 
-  --color-mid-dark: #6a4525;
+  --color-mid-dark: #886D30;
 
-  --color-mid-light: #966336;
+  --color-mid-light: #C5A459;
 
-  --accent-color: #bc7c44; /* Getty Terracotta */
+  --accent-color: #e21a22; /* Getty Terracotta */
   /* --accent-color should be the same value as $accent-color in
    themes/quire-starter-theme/source/css/variables.scss */
 
-  --white: #f5f5f5;
+  --white: #F2F1F0;
   --print-white: #ffff;
 
+}
+
+/* COVER */
+.quire-cover__hero.hero.is-fullheight {
+  padding: 0;
+  background-color: #e8dbbd;
+  background-image: none;
+  display: block;
+}
+.quire-cover__hero-body__text-pane,
+.quire-cover__hero-body__image-pane {
+  max-height: calc(95vh - 3rem);
+  overflow: hidden;
+}
+.quire-cover__hero-body__image-pane {
+  float: left;
+  margin-left: 5vw;
+}
+.quire-cover__hero-body__image-pane img {
+  height: calc(95vh - 3rem);
+}
+.quire-cover__hero .title,
+.quire-cover__hero .contributor {
+  color: var(--accent-color);
+  margin: 0 5vw;
+}
+.quire-cover__hero .title {
+  font-family: "Noto Serif", serif;
+  font-size: 4.5vw;
+  margin-top: 10vw;
+  margin-bottom: 2.5vw;
+  max-width: 45vw;
+}
+.quire-cover__hero .title .sm {
+  font-size: 3.5vw;
+}
+.quire-cover__hero .contributor {
+  font-size: 2vw;
+}
+@media screen and (max-width:1560px) {
+  .quire-cover__hero .title {
+    font-size: 4.05vw;
+    max-width: 40vw;
+  }
+  .quire-cover__hero .title .sm {
+    font-size: 3.15vw;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1.8vw;
+  }
+}
+@media screen and (max-width:1370px) {
+  .quire-cover__hero .title,
+  .quire-cover__hero .contributor,
+  .quire-cover__hero-body__image-pane {
+    margin-left: 8vw;
+  }
+  .quire-cover__hero .title {
+    max-width: 25vw;
+  }
+}
+
+@media screen and (max-width:1370px) and (min-height:800px),
+       screen and (max-width:1000px) {
+  .quire-cover__hero.hero.is-fullheight {
+    position: relative;
+    display: flex;
+    justify-content: center;
+  }
+  .quire-cover__hero-body__text-pane,
+  .quire-cover__hero-body__image-pane {
+    position: absolute;
+    margin: 0;
+  }
+  .quire-cover__hero-body__text-pane {
+    background: linear-gradient(0deg, rgb(232, 219, 189, 0), rgb(232, 219, 189, .8), rgb(232, 219, 189, 1), rgb(232, 219, 189, .8), rgb(232, 219, 189, 0));
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    padding: 3rem .75rem;
+  }
+  .quire-cover__hero .title {
+    margin-top: 0;
+  }
+  .quire-cover__hero .title,
+  .quire-cover__hero .contributor {
+    text-align: center;
+    max-width: 100vw;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .quire-cover__hero .title {
+    font-size: 2.925rem;
+  }
+  .quire-cover__hero .title .sm {
+    font-size: 2.275rem;
+  }
+  .quire-cover__hero .contributor {
+    font-size: 1.3rem;
+  }
+}
+.quire-cover__more {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
+.quire-cover__more .hero-more {
+  background-color: var(--accent-color);
+}
+.quire-cover__more .hero-more svg {
+  margin-left: .18rem;
+}
+@media print {
+  .quire-cover__hero-body__text-pane {
+    display: none;
+  }
+}
+
+@media screen and (max-width:500px) {
+  .quire-cover__hero.hero.is-fullheight {
+    min-height: auto !important;
+  }
+  .quire-cover__hero-body__image-pane,
+  .quire-cover__hero-body__image-pane img {
+    height: auto !important;
+    position: inherit;
+  }
+  .quire-cover__hero .title {
+    font-size: 2.25rem;
+  }
+  .quire-cover__hero .title .sm {
+    font-size: 1.75rem;
+  }
 }
 
 /* STANDARD OCCASIONAL PAPERS SERIES DESIGN (EXCEPT FOR COVER)
@@ -69,11 +174,22 @@
 }
 .quire-progress-bar div {
   height: 6px;
-  background-color: var(--accent-color);
+  background-color: var(--color-mid-light);
 }
 .quire-menu__formats h6 {
   color: var(--accent-color);
   border-color: var(--accent-color);
+}
+.quire-navbar-controls__left a:hover,
+.quire-navbar-controls__left button:hover,
+.quire-navbar-controls__left .button:hover,
+.quire-navbar-controls__right a:hover,
+.quire-navbar-controls__right button:hover,
+.quire-navbar-controls__right .button:hover,
+.quire-navbar-controls .quire-navbar-page-controls__item a:hover,
+.quire-navbar-controls .quire-navbar-page-controls__item button:hover,
+.quire-navbar-controls .quire-navbar-page-controls__item .button:hover {
+  background-color: var(--white);
 }
 
 /* Using Source Sans for better font-weight match */
@@ -95,6 +211,11 @@
   font-family: "Archivo Narrow", sans-serif;
   color: var(--color-mid-dark);
   margin-top: 2.5rem;
+}
+@media print {
+  .quire-page__header__contributor {
+    opacity: 1;
+  }
 }
 
 @media screen {
@@ -137,10 +258,13 @@
 
 /* Matching page headings */
 .quire-page:not(.quire-cover) h1, .quire-page__header__title {
-  text-transform: uppercase;
-  letter-spacing: .5px;
   font-size: 2.5rem;
   font-weight: 700;
+  font-family: "Noto Serif", sans-serif;
+}
+.quire-page:not(.quire-cover) h1 .label, .quire-page__header__title .label {
+  text-transform: uppercase;
+  letter-spacing: .5px;
 }
 @media screen {
   .quire-page:not(.quire-cover) h1, .quire-page__header__title {
@@ -159,6 +283,17 @@
 .quire-page .backmatter h2,
 .quire-page__content .content .backmatterh2 {
   margin-bottom: 1rem;
+}
+.quire-page h3,
+.quire-page__content .content h3 {
+  font-family: 'Noto Serif', serif;
+  text-transform: inherit;
+  font-size: 1.1rem;
+  margin-top: 1.5em;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 0;
+  line-height: 1.7;
 }
 
 .quire:not(.no-js) .quire__primary #main,
@@ -185,7 +320,8 @@
 }
 
 @media screen {
-  .quire-contents-list a {
+  .quire-contents-list a,
+  .quire-contents-list .contributor {
     font-family: 'Noto Serif', serif;
     font-size: 1em !important;
   }
@@ -201,6 +337,7 @@
   }
   .quire-page__header .hero-body .label {
     margin: 0;
+    padding-left: 0;
   }
   .quire-page:not(.quire-cover) h1, .quire-page__header__title {
     margin-top: 0;
@@ -213,7 +350,9 @@
     margin-left: .75in;
   }
   .quire-page h2,
-  .quire-page__content .content h2 {
+  .quire-page__content .content h2,
+  .quire-page h3,
+  .quire-page__content .content h3 {
     font-size: 1em;
     margin-bottom: 0;
     line-height: 1.7;
@@ -278,13 +417,12 @@
   }
   #copyright .quire-page__content {
     text-align: left;
-    margin-left: .75in;
     column-count: 2;
     column-gap: .1875in;
-    font-size: .625rem;
+    /* column-fill: auto; */
   }
   #copyright .quire-page__content .container .content .backmatter {
-    /* padding-top: 2.125in; */
+    font-size: .75rem;
   }
   #copyright .quire-page__header.hero {
     display: none;
@@ -301,12 +439,35 @@
     width: 3in;
     height: .5pt;
   }
+  #copyright .quire-page__content .container .content .book-team {
+    break-after: always;
+    break-inside: avoid;
+  }
   #contents .quire-contents-list {
     margin-left: .75in;
   }
-  #contents .quire-page__content .menu-list a {
+  #contents .quire-contents-list .page-item a,
+  #contents .quire-contents-list .section-item a {
     font-weight: 600;
     text-align: left;
+  }
+  #contents .quire-contents-list .page-item a .quire-contributor {
+    font-weight: 400;
+  }
+
+  #contents .quire-contents-list .section-item .page-item a {
+    font-weight: 400;
+    margin-right: -.25rem;
+  }
+  #contents .quire-contents-list .page-item,
+  #contents .quire-contents-list .section-item > a,
+  #contents .quire-contents-list .section-item > .list-header {
+    margin-bottom: .5rem;
+  }
+  .quire-contents-list .section-item a,
+  .quire-contents-list .page-item a {
+    display: block;
+    position: relative;
   }
   .quire-contents-list .section-item a::after,
   .quire-contents-list .page-item a::after {
@@ -314,14 +475,24 @@
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.25em;
     font-weight: 400;
+    line-height: 1;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: calc((13% + .5rem) * -1);
   }
   .quire-contents-list .section-item.frontmatter-page > a::after,
   .quire-contents-list .page-item.frontmatter-page > a::after {
     content: leader(' ') ' ' target-counter(attr(href, url), page, lower-roman);
     font-style: normal;
+    margin-right: calc((13% + .5rem) * -1);
+  }
+  .quire-contents-list .section-item > a::after {
+    content: none;
   }
   #abbreviations .quire-page__content table {
     margin-left: .75in;
+    width: calc(100% - .75in);
   }
   p {
     orphans: 2;
@@ -359,16 +530,25 @@
     max-width: 95%;
   }
 
-  .content .quire-figure.pdf-narrow {
+  .content .quire-figure.pdf-narrow,
+  .content .quire-figure.pdf-narrower {
     max-width: 100%;
   }
-  .content .quire-figure.pdf-narrow .q-figure__wrapper {
+  .content .quire-figure.pdf-narrow .q-figure__wrapper,
+  .content .quire-figure.pdf-narrower .q-figure__wrapper {
     display: flex;
     align-items: flex-end;
   }
   .content .quire-figure.pdf-narrow .q-figure__wrapper figcaption {
     min-width: 1.3125in;
     width: 1.3125in;
+    margin-left: .1875in;
+    margin-top: 0;
+    margin-bottom: -2.5px;
+  }
+  .content .quire-figure.pdf-narrower .q-figure__wrapper figcaption {
+    min-width: 2.1875in;
+    width: 2.1875in;
     margin-left: .1875in;
     margin-top: 0;
     margin-bottom: -2.5px;
@@ -386,37 +566,48 @@
     max-width: 65%;
     margin-left: 0;
   }
-  .content figure.quire-figure.pdf-85-percent-width .q-figure__wrapper img,
-  .content figure.quire-figure.pdf-85-percent-width .q-figure__wrapper figcaption {
-    max-width: 85%;
+  .content figure.quire-figure.pdf-95-percent-width .q-figure__wrapper img,
+  .content figure.quire-figure.pdf-95-percent-width .q-figure__wrapper figcaption {
+    max-width: 90%;
     margin-left: 0;
   }
-
+  .content figure.quire-figure.pdf-padding-top {
+    padding-top: .5rem;
+  }
+  .content figure.quire-figure.pdf-4rem-margin-bottom {
+    margin-bottom: 4rem;
+  }
+  html body .remove-from-epub {
+    display: inherit;
+  }
+  html body .screen-only {
+    display: none;
+  }
   /* https://www.princexml.com/howcome/2021/guides/float/index.html */
   .content figure.quire-figure:not(.pdf-no-snap) {
     -prince-float: snap;
     margin: 1.5rem 0;
     -prince-margin-alt: 0;
   }
+}
 
-  /* LOC Cataloguing in Publication format */
-  .quire-page__content .container .content .cip-data p {
-    margin-bottom: 0;
-  }
-  .quire-page__content .container .content .cip-data ul {
-    margin-left: 0;
-    margin-top: 0;
-    margin-bottom: 1rem;
-  }
-  .quire-page__content .container .content .cip-data ul li {
-    line-height: 1.6;
-    margin: 0;
-    padding-left: 1.5em;
-    text-indent: -1.5em;
-  }
-  .quire-page__content .container .content .cip-data ul li::before {
-    display: none;
-  }
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data p {
+  margin-bottom: 0;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
 }
 
 /* Making button text read better */
@@ -478,7 +669,7 @@ strong {
 /* Styling copyright and about pages */
 .quire-page__content .content .backmatter p {
   text-indent: 0;
-  margin-bottom: 1rem;
+  margin-bottom: .5rem;
 }
 
 /* Make sure print is black only */
@@ -491,6 +682,9 @@ strong {
 /* Restyle blockquote  */
 .quire-page__content .content blockquote {
   font-style: normal;
+}
+.quire-page__content .content blockquote em {
+  font-style: italic;
 }
 @media screen {
   .quire-page__content .content blockquote {
@@ -516,6 +710,17 @@ strong {
 .quire-menu__header {
   padding-right: 1rem;
 }
+.quire-menu__header h4 {
+  font-family: "Noto Serif", serif;
+}
+.quire-menu__header h4.quire-menu__header__title {
+  font-family: "Noto Serif", serif;
+  font-size: 1.5rem;
+  width: 90%;
+}
+.quire-menu__header h4.quire-menu__header__title .sm {
+  font-size: 1.125rem;
+}
 .quire-menu__header__contributors,
 .quire-menu .cite-this,
 .quire-menu .quire-copyright + .menu-list {
@@ -523,6 +728,7 @@ strong {
 }
 .quire-menu__header__contributors {
   font-size: 1.15rem;
+  width: 80%;
 }
 .quire-menu .quire-copyright {
   padding-left: 0;
@@ -602,6 +808,11 @@ strong {
   display: none;
 }
 
+/* ADD SPACE FOR EPIGRAPH & ACKNOWLEDGEMENTS AT TOP OF NOTES SECTION */
+.quire-page__content .content .backmatter #notes + p {
+  margin-top: 1em;
+}
+
 /* ENSURE IMAGES ARE SEEN IN FULL WITHIN USER'S WINDOW WITHOUT SCROLLING */
 @media screen {
   .content figure .quire-figure__image {
@@ -624,6 +835,9 @@ strong {
   }
 }
 @media print {
+  .quire-figure.quire-figure--shared-caption figcaption {
+    page-break-inside: avoid;
+  }
   .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__caption-content,
   .quire-figure.quire-figure--shared-caption figure figcaption .quire-figure__credit {
     display: none;
@@ -685,6 +899,10 @@ strong {
   .content .quire-figure--group.quire-figure--group--grid-2 figure:not(:first-child) {
     margin-left: 1.5rem;
   }
+  /* Hide duplicate label in PDF */
+  .content .quire-figure--group .q-figure__wrapper .quire-figure__label {
+    display: none;
+  }
 }
 
 /* CREATE GRID OF ONE WIDE IMAGE OVER TWO NARROWER ONES */
@@ -717,13 +935,13 @@ strong {
 .quire-figure__table {
   font-size: 1rem;
 }
+.content table th,
 .content table td {
-  /* semi-transparent --accent-color */
-  border-color: rgba(188, 124, 68, .3);
+  border-color: var(--color-mid-light);
 }
 
 .quire-figure__table thead th {
-  background-color: var(--accent-color);
+  background-color: var(--color-mid-light);
   color: var(--white) !important;
   border-width: 0;
 }
@@ -774,6 +992,24 @@ strong {
   color: var(--white);
 }
 
+/* ADJUST ESSAY 9 TABLE ALIGNMENT */
+table#table-9-1 span.num {
+  text-align: right;
+  width: 3rem;
+  display: inline-block;
+}
+table#table-9-2 tr th {
+  width: 25%;
+}
+table#table-9-2 tr th,
+table#table-9-2 tr td {
+  text-align: right;
+}
+table#table-9-2 tr th:first-child,
+table#table-9-2 tr td:first-child {
+  text-align: left;
+}
+
 /* ADD COPYRIGHT NOTICES AT THE BOTTOM OF ESSAYS */
 .quire-page__content .container .content .backmatter.page-copyright-notice {
   margin-top: 3rem;
@@ -790,6 +1026,8 @@ strong {
 }
 
 /* REMOVE JIM AND TOM'S TITLES FROM SECTION INTO PAGES */
+#introduction .quire-contributor__grouped-info,
+#conclusion .quire-contributor__grouped-info,
 #part-1-intro .quire-contributor__grouped-info,
 #part-2-intro .quire-contributor__grouped-info,
 #part-3-intro .quire-contributor__grouped-info,
@@ -829,6 +1067,29 @@ strong {
 .quire-page__content .container .content .tabbed {
   margin-bottom: 4rem;
 }
+.quire-page__content .container .content .tabbed .download-link {
+  text-align: right;
+  display: block;
+  font-weight: bold;
+}
+.quire-page__content .container .content .tabbed [lang="ar"] .download-link {
+  text-align: left;
+}
+.quire-page__content .container .content .tabbed .download-link a {
+  border-bottom-width: 0;
+}
+.quire-page__content .container .content .tabbed .download-link a svg {
+  margin-left: .2rem;
+  height: .75rem;
+  width: .75rem;
+  fill: var(--color-dark);
+}
+.quire-page__content .container .content .tabbed .download-link a:hover {
+  border-bottom-width: 0 !important;
+}
+.quire-page__content .container .content .tabbed .download-link a:hover svg {
+  fill: var(--accent-color);
+}
 .quire-page__content .container .content .tabbed .essay-title {
   font-size: 1.15rem;
   font-weight: 700;
@@ -841,6 +1102,19 @@ strong {
 }
 .quire-page__content .container .content .tabbed .keynote-text {
   font-size: 1.15rem;
+}
+.quire-page__content .container .content .tabbed .description p,
+.quire-page__content .container .content .tabbed .editors p {
+  font-size: 1rem;
+}
+.quire-page__content .container .content .tabbed hr {
+  margin-top: 2rem;
+}
+.quire-page__content .container .content .tabbed .book-info p {
+  margin: 0;
+}
+.quire-page__content .container .content .tabbed .book-info p:first-child {
+  margin-bottom: 1rem;
 }
 .quire-page__content .container .content .tabbed ul,
 .quire-page__content .container .content .tabbed ul li {
@@ -860,15 +1134,26 @@ strong {
 .quire-page__content .content .tabbed [role="tablist"] a:hover {
   text-decoration: none;
   padding: 0.5rem 1em;
-  color: inherit !important;
   border-bottom-width: 0 !important;
 }
+.quire-page__content .content .tabbed [role="tablist"] a {
+  color: inherit;
+}
+.quire-page__content .content .tabbed [role="tablist"] a:hover {
+  color: var(--accent-color);
+}
 [role="tablist"] [aria-selected] {
-  border: 2px solid;
+  border: 2px solid var(--color-dark);
   background: var(--white);
   border-bottom: 0;
   position: relative;
   top: 2px;
+}
+.quire-page__content .content a:focus {
+  background-color: var(--white);
+}
+.quire-page__content .content [role="tablist"] a[aria-selected]:focus {
+  background-color: var(--white);
 }
 [role="tabpanel"] {
   border: 2px solid;
@@ -877,7 +1162,8 @@ strong {
 [role="tabpanel"] * + * {
   margin-top: 0.75rem;
 }
-.quire-page__content .content .tabbed + p {
+.quire-page__content .content .tabbed + p,
+.quire-page__content .content .epigraph + p {
   text-indent: 0;
 }
 @media (max-width: 550px) {
@@ -904,11 +1190,6 @@ strong {
     border-top: 0;
   }
 }
-@media print {
-  .quire-page__content .container .content .tabbed {
-    display: none;
-  }
-}
 
 /* ARABIC LANGUAGE SECTIONS */
 [lang="ar"] {
@@ -923,6 +1204,31 @@ strong {
 
 /* PDFs OF TRANSLATED TOCs */
 @media print {
+  .quire-page--translated-contents .quire-contents-list .page-item,
+  .quire-page--translated-contents .quire-contents-list .section-item {
+    max-width: 100%;
+    width: 100%;
+  }
+  .quire-page--translated-contents .quire-contents-list .section-item.level-0 > ul {
+    margin-top: 1rem;
+  }
+  .quire-contents.quire-page--translated-contents .quire-page__content .quire-contents-list:not(.grid) {
+    max-width: inherit;
+  }
+  .quire-page--translated-contents .quire-page__content .content .about-text p {
+    text-indent: 0;
+    margin-top: 1rem;
+  }
+  .quire-page--translated-contents .quire-page__content .content .about-text .book-info p {
+    margin: 0;
+  }
+  .quire-page--translated-contents .quire-page__content .content .about-text .book-info p:first-child {
+    margin-bottom: 1rem;
+  }
+  .quire-page--translated-contents .quire-contents-list .section-item a,
+  .quire-page--translated-contents .quire-contents-list .page-item a {
+    display: inline;
+  }
   .quire-page--translated-contents .quire-contents-list li li {
     padding-left: 2rem;
   }
@@ -936,12 +1242,10 @@ strong {
     margin-top: .25em;
     font-family: 'Noto Serif', serif;
     font-size: 1em !important;
-    margin-left: 1rem;
   }
   .quire-page--translated-contents .quire-contents-list li .abstract-text {
     font-family: 'Noto Serif', serif;
     font-size: .875em !important;
-    margin-left: 1rem;
   }
   .quire-page--translated-contents .quire-contents-list li li .keynote-text,
   .quire-page--translated-contents .quire-contents-list li li .abstract-text {
@@ -981,6 +1285,12 @@ strong {
   width:  .75rem;
   fill: var(--color-dark);
 }
+.quire-page__header .download-link a:hover {
+  color: var(--accent-color);
+}
+.quire-page__header .download-link a:hover svg {
+  fill: var(--accent-color);
+}
 
 /* STYLE SECTION BREAK PAGES IN PDF */
 @media print {
@@ -999,6 +1309,148 @@ strong {
     page: splash;
   }
   .quire-page--abstract.quire-contents:not(.quire-page--translated-contents) .quire-page__header {
-    padding-top: 2in;
+    padding-top: 2.1875in;
   }
+}
+
+/* ADJUST CONTRIBUTOR NAME WEIGHTS PER MEDIA */
+.quire-contributors-list.bio .quire-contributor strong {
+  font-weight: 400;
+}
+@media print {
+  .quire-contributors-list.bio .quire-contributor strong {
+    font-weight: 700;
+  }
+}
+
+/* ELIMINATE NOTES SPACING IN PDF TO SAVE SPACE */
+.quire-page__content .content .footnotes ol li {
+  margin-bottom: 0;
+}
+
+/* ADD SOME TOP MARGIN */
+.pdf-20px-top-margin {
+  margin-top: 20px;
+}
+
+/* HIDE PDF COVER PAGES */
+.quire-cover-page {
+  display: none;
+}
+
+/* MAKE EPIGRAPHS ITALIC */
+.quire-page__content .content .epigraph blockquote em {
+  font-style: italic;
+}
+.quire-page__content .content .epigraph blockquote .attribution {
+  margin-left: 1rem;
+  display: block;
+  margin-top: .5rem;
+}
+.quire-page__content .content .epigraph blockquote .section-break {
+  display: inline-block;
+  margin-top: .25rem;
+  margin-bottom: .75rem;
+}
+.quire-page__content .content .epigraph blockquote {
+  margin-bottom: 2.5rem;
+}
+@media print {
+  .quire-page__content .content .epigraph blockquote {
+    margin-left: .75in;
+    padding-left: 0;
+  }
+}
+
+/* STYLE PREFACE CONTRIBUTOR NAMES */
+.quire-page__content .content .bottom-signature {
+  font-style: italic;
+  text-align: right;
+  margin-top: .5rem;
+  margin-right: 1rem;
+}
+
+/* STYLE INSERT FOR TEXT ON UKRAINE 🇺🇦 */
+.quire-page__content .content .insert {
+  background-color: white;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+.quire-page__content .content .insert .insert__signature {
+  text-align: right;
+  margin-right: 1.5rem;
+}
+.quire-page__content .content .insert .insert__signature p {
+  font-style: italic;
+  margin-top: 1rem;
+  text-indent: 0;
+  margin-left: 1.5rem;
+}
+.quire-page__content .content .insert hr {
+  margin-top: .75rem;
+  margin-bottom: 1.5rem
+}
+.quire-page__content .content .insert hr:last-child {
+  margin-top: 1.5rem;
+  margin-bottom: .75rem
+}
+@media print {
+  .quire-page__content .content .insert {
+    background-color: #faf7f0;
+  }
+}
+
+/* TIGHTEN SPACING TO REDUCE PAGE COUNT */
+#abbreviations .content table td,
+#abbreviations .content table th {
+  padding-top: .35rem;
+  padding-bottom: .35rem;
+}
+
+@media print {
+  .quire-page.quire-page--abstract.quire-contents {
+    page: no-footer;
+  }
+}
+
+/* ADD PADDING TO SHORTEN PAGES AND MATCH SECOND-PAGES PDF */
+#introduction .quire-page--page-one .quire-page__content .container {
+  padding-bottom: .25rem;
+}
+
+/* TIGHTEN SPACING TO SAVE LINE BREAK IN CAPTION */
+#fig-3-1-parzinger .quire-figure__caption {
+  letter-spacing: -.09pt;
+}
+
+/* STYLES FOR BOOK INDEX, ADDED IN MARKDOWN AS AN UNORDERED LIST */
+.quire-page--book-index .quire-page__content .container .content {
+  font-size: .875em;
+}
+.quire-page--book-index .quire-page__content .container .content {
+  column-count: 2;
+  column-gap: .1875in;
+}
+.quire-page--book-index .quire-page__content .container .content p {
+  line-height: 1.6;
+}
+.quire-page--book-index .quire-page__content .container .content ul {
+  margin-left: 0;
+}
+.quire-page--book-index .quire-page__content .container .content ul li {
+  margin-left: 1rem;
+  text-indent: -1rem;
+  margin-bottom: 0;
+}
+.quire-page--book-index .quire-page__content .container .content ul li:before {
+  content: none;
+}
+.quire-page--book-index .quire-page__content .container .content hr {
+  display: none;
+}
+
+/* FIX DISPLAY OF ESSAY LINKS UNDER CONTIRBUTOR BIOS */
+.quire-page__content .content .quire-contributor__details .quire-contributor__page-link {
+  text-indent: 0;
+  margin-bottom: 0 !important;
 }

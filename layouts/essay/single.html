@@ -3,13 +3,71 @@
   THIS OVERRIDE FILES ADDS A NOTICE TO THE BOTTOM OF THE PAGE
   BASED ON THE copyright VALUE IN THE PAGE YAML
 
+  IT ALSO USES A HACK TO STRIP OUT INTERNAL LINKS FROM THE EPUB VERSION.
+  THE LINKS WERE CAUSING ERRORS WHICH WOULD HAVE OTHERWISE REQUIRED CLI FIXES.
+  DID THE SAME THING IN _default/single.html
+
   Essay layout. This layout describes a single-page template that has been
   augmented with the ability to display a frontmatter-defined abstract (in
   markdown format) as well as bibliography references.
 */}}
 
 {{ define "main" }}
-<article class="{{ partial "page-class.html" . }} quire-essay" id="main" role="main">
+
+{{ $imgDir := "img" }}
+
+{{ $pageNumber := "" }}
+{{ $pageStart := "" }}
+{{ with .Params.pdf_page }}
+  {{ $pageNumber = int . }}
+  {{ if eq (modBool $pageNumber 2) true }}
+  {{ $pageStart = "left" }}
+  {{ else }}
+  {{ $pageStart = "right" }}
+  {{ end }}
+{{ end }}
+
+{{- $endPunctuation := findRE "[!|?]$" .Site.Data.publication.title -}}
+
+{{- if eq .Site.Params.pdf true -}}
+<div class="quire-cover-page">
+
+<p><strong>{{- partial "page-title.html" . | markdownify }}</strong></p>
+
+<p><span class="quire-cover-page_label">Author(s):</span> {{ partial "contributor-list.html" (dict "range" .Params.contributor "contributorType" "all" "listType" "string" "Site" .Site) }}</p>
+
+<p><span class="quire-cover-page_label">URL:</span> <span class="url-string">{{ if .Site.Data.publication.identifier.url }}{{ .Site.Data.publication.identifier.url }}{{ .Page.RelPermalink }}{{ else }}{{ .Page.Permalink }}{{ end }}</span></p>
+
+<p><span class="quire-cover-page_label">Source:</span> Cuno, James, and Thomas G. Weiss, eds. <em>{{ .Site.Data.publication.title }}{{ with .Site.Data.publication.subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}{{ . }}{{ end }}</em>. Los Angeles: Getty Publications, 2022. {{ with .Site.Data.publication.identifier.url }}{{ . }}.{{ end }}</p>
+
+<p><span class="quire-cover-page_label">About the author(s):</span></p>
+
+{{- range .Page.Params.contributor -}}
+{{- if .bio -}}
+<p>{{ .bio | markdownify }}</p>
+{{- else if .id -}}
+{{- range where $.Site.Data.publication.contributor "id" .id -}}
+<p>{{ .bio | markdownify }}</p>
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+<p><span class="quire-cover-page_label">Copyright:</span> {{ .Page.Params.copyright }}</p>
+
+<p><span class="quire-cover-page_label">License:</span> The text of this work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="license">creativecommons.org/licenses/by-nc/4.0/</a>. All images are reproduced with the permission of the rights holders acknowledged in captions and expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.</p>
+
+<p><span class="quire-cover-page_label">PDF generated:</span> {{ now.Format "January 2, 2006"}}</p>
+
+{{ range .Site.Data.publication.publisher }}
+  {{- if .logo -}}
+  <img src="{{ $imgDir | relURL }}/{{ .logo }}" class="quire-cover-page_logo" alt="logo" />
+  {{- end -}}
+{{ end }}
+
+</div>
+{{- end -}}
+
+<article class="{{ partial "page-class.html" . }} quire-essay" id="main" role="main"{{ with .Params.pdf_page }} style="counter-reset: page {{ $pageNumber }}; page-break-before: {{ $pageStart }};"{{ end }}>
   {{ partial "page-header.html" . }}
 
   <section id="content" class="section quire-page__content">
@@ -18,13 +76,14 @@
     {{ end }}
     <div class="container">
       <div class="content">
-        {{ .Content }}
-        {{ partial "page-bibliography.html" . }}
-        {{ if .Params.copyright }}
-        <div class="backmatter page-copyright-notice">
-        {{ markdownify .Params.copyright }}
-        </div>
+        {{ if and (eq .Site.Params.epub true) (eq .File.BaseFileName "intro") }}
+          {{ $content := .RawContent }}
+          {{ $content = replaceRE "\\[(.*?)\\]\\((.*?)\\)" "$1" $content }}
+          {{ $content | markdownify }}
+        {{ else }}
+          {{ .Content }}
         {{ end }}
+        {{ partial "page-bibliography.html" . }}
       </div>
       {{ partial "footer-buttons.html" . }}
     </div>

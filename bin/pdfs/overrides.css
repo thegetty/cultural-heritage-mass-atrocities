@@ -9,27 +9,74 @@
   bleed: 0 !important;
   prince-trim: 0 !important;
   marks: none !important;
-  margin-left: 1in !important;
-  margin-right: 1in !important;
   color: #000 !important;
+}
 
-  @bottom-right {
-    content: "" !important;
+/* Add ornament to blank pages */
+@page:blank {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='.25in' width='1.875in'><text x='0' y='15' fill='black' font-size='12' font-family='sans-serif' font-style='italic'>This page intentionally left blank</text></svg>");
+  background-repeat: no-repeat;
+  background-position: center 1.5in;
+  background-color: #e8dabc;
+}
+
+@page download-page {
+  background-color: #e8dabc;
+  @top-right {
+    content: none !important;
   }
-
-  @bottom-left {
-    content: "" !important;
+  @top-right-corner {
+    content: none !important;
+  }
+  @top-left {
+    content: none !important;
+  }
+  @top-left-corner {
+    content: none !important;
   }
 }
 
-/* Display bios on the individual page downloads since they are otherwise only displayed in the end of the book in the full PDF */
-@media print {
-  .quire-essay h2#biography,
-  .quire-essay ul.quire-contributors-list.bio {
-    display: inherit !important;
+.quire-cover-page {
+  display: inherit !important;
+  page: download-page;
+  padding-top: .625in;
+}
+.quire-cover-page p {
+  margin-bottom: 1rem !important;
+}
+.quire-cover-page p .quire-cover-page_label {
+  font-size: .75em;
+  text-transform: uppercase;
+  letter-spacing: .5pt;
+}
+.quire-cover-page img.quire-cover-page_logo {
+  width: 1in;
+  max-width: 1in;
+  margin-top: .5in;
+}
+
+@page translated-contents {
+  margin-left: 0.875in !important;
+  margin-right: 0.875in !important;
+  @top-right {
+    content: none !important;
   }
-  .quire-essay ul.quire-contributors-list.bio,
-  .quire-essay ul.quire-contributors-list.bio li {
-    margin-left: 0 !important;
+  @top-right-corner {
+    content: none !important;
   }
+  @top-left {
+    content: none !important;
+  }
+  @top-left-corner {
+    content: none !important;
+  }
+}
+.quire-page.quire-contents.quire-page--translated-contents {
+  page: translated-contents !important;
+}
+
+/* Fixes a strange issue with these individual pages coming out differently
+    than the main PDF */
+.quire-page__header {
+  margin-top: 0 !important;
 }
